@@ -637,6 +637,13 @@
 
       window.renderMarketPulse=function(){if(lastMarketData)render(lastMarketData)};
 
+      // Auto-refresh market data every 5 minutes for near-real-time prices
+      setInterval(function(){
+        fetchData('./market-data.json?t='+Date.now())
+          .then(function(data){render(data);})
+          .catch(function(){/* keep last data on failure */});
+      }, 5*60*1000);
+
       function fetchData(url){
         return fetch(url,{cache:'no-store'}).then(function(response){
           if(!response.ok)throw new Error('market data unavailable');
