@@ -1,31 +1,30 @@
 {
- "actualizado_utc": "2026-10-14T16:05:11.818658+00:00",
+ "updated_at": "2026-10-14T16:27:40.826099+00:00",
  "nq": {
-  "precio": 30360.0,
-  "cambio_puntos": -431.5,
-  "cambio_pct": -1.4,
-  "alcista": false
+  "price": 30241.0,
+  "change_points": -550.5,
+  "percent_change": -1.79
  },
- "noticias": [
+ "headlines": [
   {
-   "titulo": "Wall Street cae tras el IPC de septiembre: inflación de +0.6% mensual y 3.7% interanual, por encima de lo esperado; suben las apuestas a un alza de tasas de la Fed",
-   "fuente": "Reuters"
+   "headline": "Wall Street cae tras IPC de septiembre por encima de lo esperado",
+   "source": "Reuters"
   },
   {
-   "titulo": "Resultados bancarios golpean a Wall Street: Bank of America cae 8.5% tras provisionar $1,200M por multas; Morgan Stanley y Wells Fargo también retroceden",
-   "fuente": "Reuters"
+   "headline": "Bank of America cae 8.5% tras provisionar por multas",
+   "source": "Reuters"
   },
   {
-   "titulo": "El Dow liga tres sesiones en rojo por el repunte del crudo y los rendimientos: el Brent sube 4.6% a $94.65 y el bono a 10 años llega a 4.8%",
-   "fuente": "negocios.com"
+   "headline": "El crudo sube por tensiones en el Golfo",
+   "source": "DailyForex"
   },
   {
-   "titulo": "Fabricantes de chips de memoria bajo presión tras el anuncio de CXMT de un chip más potente este año; el Kospi surcoreano perdió 5.5%",
-   "fuente": "comercio.tv"
+   "headline": "ASML supera expectativas y impulsa al sector chips",
+   "source": "FXEmpire"
   },
   {
-   "titulo": "Futuros operan con cautela: S&P +0.15% premarket, Nasdaq -0.15% y Europa al alza mientras los inversores asimilan el dato de inflación",
-   "fuente": "Rosario Finanzas"
+   "headline": "Tech asiática se recupera con KOSPI +1.8%",
+   "source": "DailyForex"
   }
  ],
  "ultima_hora": null
