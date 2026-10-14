@@ -1,40 +1,50 @@
 {
- "updated_at": "2026-10-14T17:07:09.309102+00:00",
+ "updated_at": "2026-10-14T17:37:37.985042+00:00",
  "nq": {
-  "price": 30268.25,
-  "change_points": -523.25,
-  "percent_change": -1.7
+  "price": 30183.25,
+  "change_points": -608.25,
+  "percent_change": -1.98
+ },
+ "gold": {
+  "price": 4107.7,
+  "change_points": -69.6,
+  "percent_change": -1.67
+ },
+ "oil": {
+  "price": 95.52,
+  "change_points": 1.38,
+  "percent_change": 1.47
  },
  "headlines": [
   {
-   "headline": "La inflación de septiembre llegó caliente: el IPC subió 3.7% anual (vs 3.6% esperado); el Nasdaq cayó 1.6% y las apuestas de un alza de tasas en octubre suben a 42%",
-   "headline_en": "September inflation ran hot: CPI rose 3.7% y/y (vs 3.6% expected); Nasdaq fell 1.6% as October rate-hike odds jump to 42%",
-   "source": "Wall Street Journal"
+   "headline": "La inflación de septiembre llega caliente: el IPC sube 3.7% anual (vs 3.6% esperado); acciones y bonos caen y la probabilidad de un alza de la Fed en octubre salta a 44%",
+   "headline_en": "Hot September CPI: prices rise 3.7% y/y (vs 3.6% expected); stocks and bonds fall as October Fed hike odds jump to 44%",
+   "source": "Barchart"
   },
   {
-   "headline": "Los valores de IA y chips se desploman: CoreWeave cae 15%, Nebius 9% y Dell 10% en medio de la rotación fuera de la tecnología",
-   "headline_en": "AI and chip stocks plunge: CoreWeave drops 15%, Nebius 9%, Dell 10% amid rotation out of tech",
-   "source": "Investor's Business Daily"
-  },
-  {
-   "headline": "Resultados bancarios mixtos: Bank of America cae tras una multa de $1.2B; BlackRock sube con activos récord",
-   "headline_en": "Mixed bank earnings: Bank of America falls after $1.2B fine; BlackRock rises on record assets",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "ASML eleva su pronóstico de ventas para 2026 a 44-45 mil millones de euros y dice que no podrá satisfacer toda la demanda de IA",
-   "headline_en": "ASML raises 2026 sales outlook to €44-45B, says it can't fully meet AI-driven demand",
-   "source": "StockInvest.us"
-  },
-  {
-   "headline": "El petróleo WTI sube más de 1% hasta cerca de $95.40 por la escalada entre Arabia Saudita y los hutíes",
-   "headline_en": "WTI crude rises over 1% to near $95.40 as Saudi-Houthi fighting escalates",
-   "source": "Investor's Business Daily"
-  },
-  {
-   "headline": "GameStop toca máximo de 15 meses; las acciones de memoria (Micron, Samsung, SK Hynix) siguen cayendo ante la competencia china",
-   "headline_en": "GameStop hits 15-month high; memory stocks (Micron, Samsung, SK Hynix) keep sliding on Chinese competition",
+   "headline": "El Nasdaq 100 cae a mínimo de dos semanas tras el CPI; el rendimiento del bono a 10 años toca 5.30%",
+   "headline_en": "Nasdaq 100 falls to a two-week low after the hot CPI; 10-year Treasury yield hits 5.30%",
    "source": "Barron's"
+  },
+  {
+   "headline": "La vicepresidenta de la Fed, Michelle Bowman, favorece mantener las tasas sin cambios en la reunión de octubre",
+   "headline_en": "Fed Vice Chair Michelle Bowman signals favoring steady rates at the October FOMC meeting",
+   "source": "Barchart"
+  },
+  {
+   "headline": "JPMorgan decepciona con sus ganancias y Bank of America cae más de 2% tras multa federal de 1.2 mil millones de dólares",
+   "headline_en": "JPMorgan posts a rare earnings miss; Bank of America falls over 2% after $1.2B in federal penalties",
+   "source": "Summa Money"
+  },
+  {
+   "headline": "Las exportaciones de China se disparan 36.3% en septiembre, muy por encima de lo esperado y el mayor avance en 7 meses",
+   "headline_en": "China exports surge 36.3% in September, far above expectations and the fastest pace in 7 months",
+   "source": "Barchart"
+  },
+  {
+   "headline": "El petróleo extiende su alza: ataques hutíes contra Arabia Saudita llevan el WTI hacia los 110 dólares",
+   "headline_en": "Oil extends gains as Houthi attacks on Saudi Arabia push WTI toward $110",
+   "source": "InvestingLive"
   }
  ],
  "ultima_hora": {
