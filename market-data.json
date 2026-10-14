@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-14T19:04:09.711564+00:00",
+ "updated_at": "2026-10-14T19:04:45.190188+00:00",
  "nq": {
-  "price": 30139.0,
-  "change_points": -652.5,
-  "percent_change": -2.12
+  "price": 30154.0,
+  "change_points": -637.5,
+  "percent_change": -2.07
  },
  "gold": {
-  "price": 4116.7,
-  "change_points": -60.6,
-  "percent_change": -1.45
+  "price": 4117.1,
+  "change_points": -60.2,
+  "percent_change": -1.44
  },
  "oil": {
-  "price": 95.12,
-  "change_points": 0.98,
-  "percent_change": 1.04
+  "price": 95.14,
+  "change_points": 1.0,
+  "percent_change": 1.06
  },
  "headlines": [
   {
-   "headline": "Inflación caliente: el CPI de septiembre sube 3.7% y eleva las apuestas de un alza de tasas",
-   "headline_en": "Hot inflation: September CPI rises 3.7%, spiking rate-hike bets",
+   "headline": "El IPC de septiembre sorprende al alza y hunde a Wall Street: el Nasdaq cae 2%",
+   "headline_en": "Hot September CPI report sinks stocks as rate-hike bets soar, Nasdaq drops 2%",
    "source": "Reuters"
   },
   {
-   "headline": "El Nasdaq cae 2% ante la inflación y la presión sobre las acciones de IA",
-   "headline_en": "Nasdaq tumbles 2% as hot CPI and AI-stock pressure hit tech",
-   "source": "IBD"
+   "headline": "Liquidación de acciones de IA: CoreWeave cae 15% y los semiconductores se hunden 4%",
+   "headline_en": "AI stocks plunged: CoreWeave tumbles 15% as chip stocks sell off",
+   "source": "Investor's Business Daily"
   },
   {
-   "headline": "Acciones de semiconductores se desploman tras los resultados mixtos de ASML; CoreWeave cae 15%",
-   "headline_en": "Chip stocks slump after mixed ASML results; CoreWeave plunges 15%",
-   "source": "WSJ"
+   "headline": "Bank of America se desploma 7% tras una multa regulatoria de $1,200 millones",
+   "headline_en": "Bank of America sinks 7% after $1.2B regulatory penalty dents earnings",
+   "source": "Summa Money"
   },
   {
-   "headline": "Bank of America cae tras decepcionar en ganancias, aun excluyendo una multa de 1,200 millones",
-   "headline_en": "Bank of America tumbles after profit disappoints, even excluding 1.2B fine",
-   "source": "WSJ"
+   "headline": "El Brent supera los $105 tras ataque hutí a instalaciones de Saudi Aramco",
+   "headline_en": "Brent tops $105 after Houthi attack on Saudi Aramco facilities",
+   "source": "TradingNews"
   },
   {
-   "headline": "ExxonMobil rompe al alza con el crudo WTI en 95.60 dólares por la escalada Arabia Saudita-hutíes",
-   "headline_en": "ExxonMobil breaks out as WTI crude hits 95.60 on Saudi-Houthi escalation",
-   "source": "IBD"
+   "headline": "Trump anuncia exploración masiva de petróleo y minerales en Groenlandia; se disparan las mineras",
+   "headline_en": "Trump announces massive oil, gas and mineral exploration in Greenland; mining stocks soar",
+   "source": "Stocktwits"
   }
  ],
  "ultima_hora": {
-  "headline": "Trump anuncia una exploracion masiva de petróleo y gas en Groenlandia",
-  "headline_en": "Trump says massive oil and gas exploration to begin in Greenland",
-  "source": "USA Today"
+  "headline": "Trump anuncia exploración masiva de petróleo, gas y minerales en Groenlandia; las mineras se disparan hasta 25%",
+  "headline_en": "Trump announces massive oil, gas and mineral exploration in Greenland; mining stocks surge up to 25%",
+  "source": "Stocktwits"
  }
 }
