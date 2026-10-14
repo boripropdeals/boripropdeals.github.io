@@ -596,29 +596,50 @@
 
         const direction=points>0?'up':points<0?'down':'flat';
         const sign=points>0?'+':'';
-        const ticker=document.createElement('div');
-        ticker.className='nq-ticker';
-        const kicker=document.createElement('div');
-        kicker.className='nq-kicker';
-        kicker.append(
-          Object.assign(document.createElement('span'),{textContent:'Nasdaq Futures'}),
-          Object.assign(document.createElement('span'),{className:'nq-symbol',textContent:'NQ'})
-        );
-        const priceEl=Object.assign(document.createElement('strong'),{
-          className:'nq-price '+direction,
-          textContent:numberFormat.format(price)
-        });
-        const change=Object.assign(document.createElement('div'),{className:'nq-change '+direction});
-        change.append(
-          Object.assign(document.createElement('span'),{textContent:sign+numberFormat.format(points)+' pts'}),
-          Object.assign(document.createElement('span'),{textContent:'('+sign+numberFormat.format(percent)+'%)'})
-        );
-        ticker.append(
-          kicker,
-          priceEl,
-          change,
-          Object.assign(document.createElement('p'),{className:'nq-note',textContent:'Movimiento de la sesión · fuente: '+(nq.source||data.source||'archivo de mercado')})
-        );
+
+        // Helper to build a single ticker (NQ, Gold, Oil)
+        function buildTicker(label, symbol, q){
+          var p=asNumber(q.price!==undefined?q.price:q.last);
+          var pts=asNumber(q.change_points!==undefined?q.change_points:q.change);
+          var pct=asNumber(q.percent_change!==undefined?q.percent_change:q.change_percent);
+          if(p===null||pts===null||pct===null)return null;
+          var dir=pts>0?'up':pts<0?'down':'flat';
+          var sgn=pts>0?'+':'';
+          var t=document.createElement('div');
+          t.className='nq-ticker';
+          var k=document.createElement('div');
+          k.className='nq-kicker';
+          k.append(
+            Object.assign(document.createElement('span'),{textContent:label}),
+            Object.assign(document.createElement('span'),{className:'nq-symbol',textContent:symbol})
+          );
+          var pr=Object.assign(document.createElement('strong'),{
+            className:'nq-price '+dir,
+            textContent:numberFormat.format(p)
+          });
+          var ch=Object.assign(document.createElement('div'),{className:'nq-change '+dir});
+          ch.append(
+            Object.assign(document.createElement('span'),{textContent:sgn+numberFormat.format(pts)+' pts'}),
+            Object.assign(document.createElement('span'),{textContent:'('+sgn+numberFormat.format(pct)+'%)'})
+          );
+          t.append(k,pr,ch);
+          return t;
+        }
+
+        // Three tickers side by side
+        var tickersWrap=document.createElement('div');
+        tickersWrap.className='tickers-row';
+        tickersWrap.style.cssText='display:flex;gap:8px;';
+        var nqT=buildTicker('Nasdaq Futures','NQ',nq);
+        var goldQ=data.gold||{};
+        var oilQ=data.oil||{};
+        var goldT=buildTicker(lang==='en'?'Gold Futures':'Futuros del Oro','GC',goldQ);
+        var oilT=buildTicker(lang==='en'?'Oil Futures':'Futuros del Petróleo','CL',oilQ);
+        if(nqT){nqT.style.flex='1';tickersWrap.appendChild(nqT);}
+        if(goldT){goldT.style.flex='1';tickersWrap.appendChild(goldT);}
+        if(oilT){oilT.style.flex='1';tickersWrap.appendChild(oilT);}
+
+        const ticker=tickersWrap;
 
         const news=document.createElement('div');
         news.className='daily-news';
