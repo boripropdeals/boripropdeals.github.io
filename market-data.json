@@ -1,31 +1,38 @@
 {
- "updated_at": "2026-10-14T16:27:40.826099+00:00",
+ "updated_at": "2026-10-14T16:34:44.355820+00:00",
  "nq": {
-  "price": 30241.0,
-  "change_points": -550.5,
-  "percent_change": -1.79
+  "price": 30218.0,
+  "change_points": -573.5,
+  "percent_change": -1.86
  },
  "headlines": [
   {
-   "headline": "Wall Street cae tras IPC de septiembre por encima de lo esperado",
+   "headline": "Wall Street cae tras el IPC de septiembre: la inflación acelera a 3,7% y crece la apuesta a una subida de tasas",
    "source": "Reuters"
   },
   {
-   "headline": "Bank of America cae 8.5% tras provisionar por multas",
+   "headline": "Bank of America se desploma 8,5% tras recibir una multa regulatoria de 1.200 millones de dólares",
    "source": "Reuters"
   },
   {
-   "headline": "El crudo sube por tensiones en el Golfo",
-   "source": "DailyForex"
+   "headline": "ASML supera las estimaciones del tercer trimestre y mejora su guía: impulso para el sector tecnológico",
+   "source": "Bankinter"
   },
   {
-   "headline": "ASML supera expectativas y impulsa al sector chips",
-   "source": "FXEmpire"
+   "headline": "El petróleo Brent sube a 106,5 dólares por ataques a dos buques en el estrecho de Ormuz",
+   "source": "Ámbito Finanzas (vía Rosario Finanzas)"
   },
   {
-   "headline": "Tech asiática se recupera con KOSPI +1.8%",
-   "source": "DailyForex"
+   "headline": "Presión en semiconductores: la china CXMT anuncia un chip de memoria más potente antes de fin de año",
+   "source": "Comercio.tv"
+  },
+  {
+   "headline": "Los bonos del Tesoro a 10 años bajan a 5,2% en medio de la cautela por la inflación de EE.UU.",
+   "source": "Ámbito Finanzas (vía Rosario Finanzas)"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Trump compró acciones de Meta por hasta US$25 millones y también invirtió en Microsoft, McDonald's y bonos de SpaceX, según Bloomberg",
+  "source": "Bloomberg (vía Rosario Finanzas)"
+ }
 }
