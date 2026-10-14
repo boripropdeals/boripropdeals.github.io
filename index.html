@@ -637,12 +637,48 @@
 
       window.renderMarketPulse=function(){if(lastMarketData)render(lastMarketData)};
 
-      // Auto-refresh market data every 5 minutes for near-real-time prices
-      setInterval(function(){
-        fetchData('./market-data.json?t='+Date.now())
-          .then(function(data){render(data);})
-          .catch(function(){/* keep last data on failure */});
-      }, 5*60*1000);
+      // Auto-refresh market data every minute for near-real-time prices
+      // Primary: live quotes from Stooq (CORS-friendly, no API key needed)
+      // Fallback: market-data.json if Stooq fails
+      var liveSymbols={nq:'nq.f',gold:'gc.f',oil:'cl.f'};
+      function updateLivePrices(){
+        fetch('https://stooq.com/q/l/?s=nq.f,gc.f,cl.f&f=sd2t2ohlcv&h&e=csv',{cache:'no-store'})
+          .then(function(r){if(!r.ok)throw new Error('stooq failed');return r.text();})
+          .then(function(csv){
+            var lines=csv.trim().split('\n');
+            var prices={};
+            for(var i=1;i<lines.length;i++){
+              var parts=lines[i].split(',');
+              if(parts.length>=7){
+                var sym=parts[0].toLowerCase().replace('.f','');
+                var close=parseFloat(parts[6]);
+                if(!isNaN(close)){
+                  var key=sym==='nq'?'nq':sym==='gc'?'gold':sym==='cl'?'oil':null;
+                  if(key)prices[key]=close;
+                }
+              }
+            }
+            if(lastMarketData&&Object.keys(prices).length>0){
+              ['nq','gold','oil'].forEach(function(k){
+                if(prices[k]!==undefined&&lastMarketData[k]){
+                  var prev=lastMarketData[k].price-(lastMarketData[k].change_points||0);
+                  var chg=prices[k]-prev;
+                  lastMarketData[k].price=Math.round(prices[k]*100)/100;
+                  lastMarketData[k].change_points=Math.round(chg*100)/100;
+                  lastMarketData[k].percent_change=prev?Math.round(chg/prev*10000)/100:0;
+                }
+              });
+              render(lastMarketData);
+            }
+          })
+          .catch(function(){
+            // Fallback to market-data.json on Stooq failure
+            fetchData('./market-data.json?t='+Date.now())
+              .then(function(data){render(data);})
+              .catch(function(){/* keep last data */});
+          });
+      }
+      setInterval(updateLivePrices, 60*1000);
 
       function fetchData(url){
         return fetch(url,{cache:'no-store'}).then(function(response){
