@@ -336,10 +336,21 @@
     .pulse-breaking{display:none;align-items:flex-start;gap:12px;padding:13px 17px;background:#9f291f;color:#fff;border-bottom:1px solid rgba(255,255,255,.2)}
     .pulse-breaking.show{display:flex}.pulse-breaking-tag{flex:0 0 auto;padding:4px 7px;border-radius:5px;background:#fff;color:#7c1c15;font:800 8px/1 "IBM Plex Mono",monospace;letter-spacing:.08em;text-transform:uppercase}.pulse-breaking-copy{min-width:0}.pulse-breaking-copy b{display:block;font-size:13px;line-height:1.3}.pulse-breaking-copy span{display:block;margin-top:3px;color:rgba(255,255,255,.78);font-size:9px}.pulse-breaking-copy a{color:#fff;text-underline-offset:3px}
     .pulse-head{display:flex;justify-content:space-between;align-items:center;gap:16px;padding:15px 17px;border-bottom:1px solid rgba(255,255,255,.11)}.pulse-head h2{margin:0;font-size:18px;letter-spacing:-.025em}.pulse-status{display:flex;align-items:center;gap:7px;color:var(--hero-muted);font:600 8px "IBM Plex Mono",monospace;text-align:right}.pulse-status:before{content:"";width:6px;height:6px;border-radius:50%;background:var(--warm);box-shadow:0 0 10px color-mix(in srgb,var(--warm) 70%,transparent)}.market-pulse.ready .pulse-status:before{background:var(--signal);box-shadow:0 0 10px rgba(89,242,173,.65)}
-    .pulse-grid{display:grid;grid-template-columns:minmax(225px,.62fr) minmax(0,1.38fr);gap:0}.nq-ticker{padding:18px;border-right:1px solid rgba(255,255,255,.11);background:rgba(0,0,0,.13)}.nq-kicker{display:flex;justify-content:space-between;gap:10px;align-items:center;color:var(--hero-muted);font:700 8px "IBM Plex Mono",monospace;letter-spacing:.07em;text-transform:uppercase}.nq-symbol{color:var(--signal);font-size:10px}.nq-price{display:block;margin-top:12px;font:700 clamp(28px,3.3vw,43px)/1 "IBM Plex Mono",monospace;letter-spacing:-.055em}.nq-price.up{color:var(--signal)}.nq-price.down{color:#ff8378}.nq-price.flat{color:var(--hero-muted)}.nq-change{display:flex;gap:9px;align-items:center;margin-top:10px;font:700 12px "IBM Plex Mono",monospace}.nq-change.up{color:var(--signal)}.nq-change.down{color:#ff8378}.nq-change.flat{color:var(--hero-muted)}.nq-note{margin:13px 0 0;color:var(--hero-muted);font-size:9px;line-height:1.45}
+    .pulse-grid{display:grid;grid-template-columns:minmax(225px,.62fr) minmax(0,1.38fr);gap:0}.nq-ticker{padding:18px;border-right:1px solid rgba(255,255,255,.11);background:rgba(0,0,0,.13)}
+    /* Three tickers side-by-side: compact, centered, professional */
+    .tickers-row{display:flex;gap:6px;padding:14px;background:rgba(0,0,0,.13);border-right:1px solid rgba(255,255,255,.11)}
+    .tickers-row .nq-ticker{flex:1;min-width:0;padding:12px 8px;border-right:0;border-radius:8px;background:rgba(255,255,255,.03);text-align:center;display:flex;flex-direction:column;align-items:center;justify-content:center}
+    .tickers-row .nq-kicker{justify-content:center;gap:6px;font-size:7px}
+    .tickers-row .nq-price{font-size:clamp(16px,2.2vw,24px);margin-top:8px;text-align:center}
+    .tickers-row .nq-change{justify-content:center;gap:6px;margin-top:6px;font-size:10px;flex-wrap:wrap}.nq-kicker{display:flex;justify-content:space-between;gap:10px;align-items:center;color:var(--hero-muted);font:700 8px "IBM Plex Mono",monospace;letter-spacing:.07em;text-transform:uppercase}.nq-symbol{color:var(--signal);font-size:10px}.nq-price{display:block;margin-top:12px;font:700 clamp(28px,3.3vw,43px)/1 "IBM Plex Mono",monospace;letter-spacing:-.055em}.nq-price.up{color:var(--signal)}.nq-price.down{color:#ff8378}.nq-price.flat{color:var(--hero-muted)}.nq-change{display:flex;gap:9px;align-items:center;margin-top:10px;font:700 12px "IBM Plex Mono",monospace}.nq-change.up{color:var(--signal)}.nq-change.down{color:#ff8378}.nq-change.flat{color:var(--hero-muted)}.nq-note{margin:13px 0 0;color:var(--hero-muted);font-size:9px;line-height:1.45}
     .daily-news{padding:17px 18px}.daily-news h3{margin:0 0 10px;font-size:13px;letter-spacing:-.01em}.market-headlines{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px 16px}.market-headlines li{position:relative;padding:9px 0 9px 13px;border-top:1px solid rgba(255,255,255,.09);min-width:0}.market-headlines li:before{content:"";position:absolute;left:0;top:14px;width:5px;height:5px;border-radius:50%;background:var(--signal)}.market-headlines a{display:block;color:var(--hero-ink);font-size:10px;font-weight:600;line-height:1.4;text-decoration:none}.market-headlines a:hover{text-decoration:underline;text-underline-offset:3px}.market-headlines small{display:block;margin-top:4px;color:var(--hero-muted);font:500 7px "IBM Plex Mono",monospace}.pulse-fallback{grid-column:1/-1;margin:0;padding:24px 18px;color:var(--hero-muted);font-size:12px;text-align:center}
     @media(max-width:980px){.market-pulse{margin-left:8px;margin-right:8px}.pulse-grid{grid-template-columns:minmax(205px,.55fr) minmax(0,1.45fr)}}
-    @media(max-width:640px){.market-pulse{margin:0 0 12px;border-radius:11px}.pulse-head{padding:10px 11px}.pulse-head h2{font-size:14px}.pulse-status{font-size:6.5px}.pulse-grid{grid-template-columns:1fr}.nq-ticker{padding:12px;border-right:0;border-bottom:1px solid rgba(255,255,255,.11)}.nq-price{font-size:30px;margin-top:8px}.nq-change{margin-top:7px;font-size:10px}.nq-note{margin-top:8px;font-size:7.5px}.daily-news{padding:11px}.daily-news h3{font-size:11px;margin-bottom:5px}.market-headlines{grid-template-columns:1fr;gap:0}.market-headlines li{padding:7px 0 7px 11px}.market-headlines li:before{top:11px}.market-headlines a{font-size:9px}.market-headlines small{font-size:6.5px}.pulse-breaking{padding:10px 11px;gap:8px}.pulse-breaking-copy b{font-size:10px}.pulse-breaking-copy span{font-size:7px}.pulse-fallback{padding:18px 11px;font-size:10px}}
+    @media(max-width:640px){.market-pulse{margin:0 0 12px;border-radius:11px}.pulse-head{padding:10px 11px}.pulse-head h2{font-size:14px}.pulse-status{font-size:6.5px}.pulse-grid{grid-template-columns:1fr}.nq-ticker{padding:12px;border-right:0;border-bottom:1px solid rgba(255,255,255,.11)}
+    .tickers-row{padding:8px;gap:4px;border-right:0;border-bottom:1px solid rgba(255,255,255,.11)}
+    .tickers-row .nq-ticker{padding:8px 4px}
+    .tickers-row .nq-price{font-size:15px}
+    .tickers-row .nq-change{font-size:8px;gap:4px}
+    .tickers-row .nq-kicker{font-size:6px}.nq-price{font-size:30px;margin-top:8px}.nq-change{margin-top:7px;font-size:10px}.nq-note{margin-top:8px;font-size:7.5px}.daily-news{padding:11px}.daily-news h3{font-size:11px;margin-bottom:5px}.market-headlines{grid-template-columns:1fr;gap:0}.market-headlines li{padding:7px 0 7px 11px}.market-headlines li:before{top:11px}.market-headlines a{font-size:9px}.market-headlines small{font-size:6.5px}.pulse-breaking{padding:10px 11px;gap:8px}.pulse-breaking-copy b{font-size:10px}.pulse-breaking-copy span{font-size:7px}.pulse-fallback{padding:18px 11px;font-size:10px}}
   </style>
 </head>
 <body>
@@ -629,15 +640,14 @@
         // Three tickers side by side
         var tickersWrap=document.createElement('div');
         tickersWrap.className='tickers-row';
-        tickersWrap.style.cssText='display:flex;gap:8px;';
         var nqT=buildTicker('Nasdaq Futures','NQ',nq);
         var goldQ=data.gold||{};
         var oilQ=data.oil||{};
         var goldT=buildTicker(lang==='en'?'Gold Futures':'Futuros del Oro','GC',goldQ);
         var oilT=buildTicker(lang==='en'?'Oil Futures':'Futuros del Petróleo','CL',oilQ);
-        if(nqT){nqT.style.flex='1';tickersWrap.appendChild(nqT);}
-        if(goldT){goldT.style.flex='1';tickersWrap.appendChild(goldT);}
-        if(oilT){oilT.style.flex='1';tickersWrap.appendChild(oilT);}
+        if(nqT){tickersWrap.appendChild(nqT);}
+        if(goldT){tickersWrap.appendChild(goldT);}
+        if(oilT){tickersWrap.appendChild(oilT);}
 
         const ticker=tickersWrap;
 
