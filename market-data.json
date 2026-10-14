@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-10-14T20:33:30.692313+00:00",
+ "updated_at": "2026-10-14T20:37:11.685998+00:00",
  "nq": {
-  "price": 30151.5,
-  "change_points": -640.0,
-  "percent_change": -2.08
+  "price": 30142.0,
+  "change_points": -649.5,
+  "percent_change": -2.11
  },
  "gold": {
   "price": 4122.5,
@@ -11,45 +11,41 @@
   "percent_change": -1.31
  },
  "oil": {
-  "price": 95.07,
-  "change_points": 0.93,
-  "percent_change": 0.99
+  "price": 95.04,
+  "change_points": 0.9,
+  "percent_change": 0.96
  },
  "headlines": [
   {
-   "headline": "La inflación de septiembre sorprende al alza (3.7% interanual) y desploma Wall Street: el Nasdaq cae 2%",
-   "headline_en": "Hot September CPI (3.7% YoY) rattles Wall Street as the Nasdaq tumbles 2%",
-   "source": "Reuters"
-  },
-  {
-   "headline": "Las apuestas a una subida de tasas de la Fed en octubre se disparan al 43% tras el dato del IPC",
-   "headline_en": "Fed rate-hike bets soar to 43% for October after the hot inflation report",
+   "headline": "La inflación de septiembre llega caliente: el CPI sube 3.7% interanual y Wall Street cae; las apuestas de alza de tasas para octubre se disparan a más del 40%",
+   "headline_en": "Hot September inflation: CPI rises 3.7% year-over-year, Wall Street slides as odds of an October rate hike soar past 40%",
    "source": "Barron's"
   },
   {
-   "headline": "Bank of America se hunde 7% tras una multa de 1,200 millones; BlackRock sube tras superar expectativas",
-   "headline_en": "Bank of America plunges 7% on a $1.2B penalty; BlackRock climbs on an earnings beat",
-   "source": "Wall Street Journal"
+   "headline": "El S&P 500 sufre su peor día desde julio y el Nasdaq cae casi 2% arrastrado por la venta masiva de acciones tecnológicas",
+   "headline_en": "S&P 500 logs worst day since July, Nasdaq tumbles nearly 2% as tech selloff accelerates",
+   "source": "Barron's"
   },
   {
-   "headline": "Desplome en chips e IA: CoreWeave se desploma 16% y Nebius cae 11%",
-   "headline_en": "Chip and AI selloff deepens as CoreWeave sinks 16% and Nebius drops 11%",
-   "source": "Investor's Business Daily"
+   "headline": "CoreWeave se desploma 15% tras la preocupación por costos de deuda; las empresas de IA más apalancadas lideran las caídas",
+   "headline_en": "CoreWeave plunges 15% on debt-cost jitters; the most leveraged AI names lead the decline",
+   "source": "Motley Fool"
   },
   {
-   "headline": "El petróleo sube hacia los $95 mientras los hutíes bombardean instalaciones energéticas de Arabia Saudita",
-   "headline_en": "Oil rises toward $95 as Houthis bomb Saudi energy facilities",
-   "source": "Investor's Business Daily"
+   "headline": "Bank of America cae tras una multa regulatoria de $1.2 mil millones que golpea sus ganancias; Morgan Stanley también reporta",
+   "headline_en": "Bank of America drops after $1.2 billion regulatory fine dents profits; Morgan Stanley reports too",
+   "source": "Summa Money"
   },
   {
-   "headline": "El bono a 10 años baja a 5.19% tras tocar 5.33% en medio de la venta de tecnológicas",
-   "headline_en": "10-year Treasury yield retreats to 5.19% after spiking to 5.33% post-CPI",
-   "source": "Wall Street Journal"
+   "headline": "GlobalFoundries salta tras ser seleccionada como operadora de una iniciativa de semiconductores EE.UU.-Japón con hasta $21 mil millones en fondos",
+   "headline_en": "GlobalFoundries jumps after being picked as operator for a U.S.-Japan semiconductor initiative with up to $21 billion in funding",
+   "source": "Motley Fool"
+  },
+  {
+   "headline": "ASML reporta ventas récord del tercer trimestre y eleva su pronóstico por la demanda de IA; los ojos ahora están en las ganancias de TSMC el jueves",
+   "headline_en": "ASML posts record third-quarter sales and raises outlook on AI demand; eyes now on TSMC earnings Thursday",
+   "source": "Summa Money"
   }
  ],
- "ultima_hora": {
-  "headline": "Trump anuncia una exploración 'masiva' de petróleo, gas y minerales en Groenlandia",
-  "headline_en": "Trump says 'massive' oil, gas and mineral exploration to start in Greenland",
-  "source": "USA Today"
- }
+ "ultima_hora": null
 }
