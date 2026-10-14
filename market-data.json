@@ -1,46 +1,55 @@
 {
- "updated_at": "2026-10-14T20:04:28.384883+00:00",
+ "updated_at": "2026-10-14T20:08:10.670013+00:00",
  "nq": {
-  "price": 30201.0,
-  "change_points": -590.5,
-  "percent_change": -1.92
+  "price": 30159.0,
+  "change_points": -632.5,
+  "percent_change": -2.05
  },
  "gold": {
-  "price": 4123.0,
-  "change_points": -54.3,
-  "percent_change": -1.3
+  "price": 4122.7,
+  "change_points": -54.6,
+  "percent_change": -1.31
  },
  "oil": {
-  "price": 95.2,
-  "change_points": 1.06,
-  "percent_change": 1.13
+  "price": 95.15,
+  "change_points": 1.01,
+  "percent_change": 1.07
  },
  "headlines": [
   {
-   "headline": "Inflación de septiembre supera las expectativas: el IPC sube 3.7% anual y disparan las apuestas de una subida de tasas de la Fed",
-   "headline_en": "Hot September CPI beats forecasts: headline rises 3.7% year over year as Fed rate-hike bets soar",
+   "headline": "La inflación de septiembre sorprende al alza (3.7% interanual) y desploma Wall Street: el Nasdaq cae 2%",
+   "headline_en": "Hot September CPI (3.7% YoY) rattles Wall Street as the Nasdaq tumbles 2%",
    "source": "Reuters"
   },
   {
-   "headline": "Temporada de resultados bancarios: JPMorgan y Goldman decepcionan en trading de renta fija; reportan Bank of America, Morgan Stanley y BlackRock",
-   "headline_en": "Bank earnings season rolls on: JPMorgan and Goldman disappoint in fixed-income trading; Bank of America, Morgan Stanley and BlackRock report",
-   "source": "Investopedia"
+   "headline": "Las apuestas a una subida de tasas de la Fed en octubre se disparan al 43% tras el dato del IPC",
+   "headline_en": "Fed rate-hike bets soar to 43% for October after the hot inflation report",
+   "source": "Barron's"
   },
   {
-   "headline": "Venta masiva de chips: ASML, Applied Materials y Micron presionan los futuros del Nasdaq; crecen las dudas sobre el financiamiento de la IA",
-   "headline_en": "Chip selloff: ASML, Applied Materials and Micron drag Nasdaq futures lower; AI financing doubts grow",
-   "source": "FX Leaders"
+   "headline": "Bank of America se hunde 7% tras una multa de 1,200 millones; BlackRock sube tras superar expectativas",
+   "headline_en": "Bank of America plunges 7% on a $1.2B penalty; BlackRock climbs on an earnings beat",
+   "source": "Wall Street Journal"
   },
   {
-   "headline": "El petróleo WTI se acerca a los $110 por los ataques hutíes contra Saudi Aramco; el rendimiento del bono a 10 años salta a 5.3%",
-   "headline_en": "WTI crude nears $110 on Houthi attacks against Saudi Aramco; 10-year Treasury yield jumps to 5.3%",
-   "source": "investinglive.com"
+   "headline": "Desplome en chips e IA: CoreWeave se desploma 16% y Nebius cae 11%",
+   "headline_en": "Chip and AI selloff deepens as CoreWeave sinks 16% and Nebius drops 11%",
+   "source": "Investor's Business Daily"
   },
   {
-   "headline": "UBS pronostica un crecimiento del 28% en las ganancias del S&P 500 del tercer trimestre, impulsado por la IA y los cíclicos",
-   "headline_en": "UBS forecasts 28% Q3 S&P 500 earnings growth driven by AI and cyclicals",
-   "source": "investinglive.com"
+   "headline": "El petróleo sube hacia los $95 mientras los hutíes bombardean instalaciones energéticas de Arabia Saudita",
+   "headline_en": "Oil rises toward $95 as Houthis bomb Saudi energy facilities",
+   "source": "Investor's Business Daily"
+  },
+  {
+   "headline": "El bono a 10 años baja a 5.19% tras tocar 5.33% en medio de la venta de tecnológicas",
+   "headline_en": "10-year Treasury yield retreats to 5.19% after spiking to 5.33% post-CPI",
+   "source": "Wall Street Journal"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Trump anuncia una exploración 'masiva' de petróleo, gas y minerales en Groenlandia",
+  "headline_en": "Trump says 'massive' oil, gas and mineral exploration to start in Greenland",
+  "source": "USA Today"
+ }
 }
