@@ -1,15 +1,31 @@
 {
- "actualizado_utc": "2026-10-14T15:59:38.640931+00:00",
+ "actualizado_utc": "2026-10-14T16:05:11.818658+00:00",
  "nq": {
-  "precio": 30333.0,
-  "cambio_puntos": -458.5,
-  "cambio_pct": -1.49,
+  "precio": 30360.0,
+  "cambio_puntos": -431.5,
+  "cambio_pct": -1.4,
   "alcista": false
  },
  "noticias": [
   {
-   "titulo": "Mercado atento a datos de inflación",
+   "titulo": "Wall Street cae tras el IPC de septiembre: inflación de +0.6% mensual y 3.7% interanual, por encima de lo esperado; suben las apuestas a un alza de tasas de la Fed",
    "fuente": "Reuters"
+  },
+  {
+   "titulo": "Resultados bancarios golpean a Wall Street: Bank of America cae 8.5% tras provisionar $1,200M por multas; Morgan Stanley y Wells Fargo también retroceden",
+   "fuente": "Reuters"
+  },
+  {
+   "titulo": "El Dow liga tres sesiones en rojo por el repunte del crudo y los rendimientos: el Brent sube 4.6% a $94.65 y el bono a 10 años llega a 4.8%",
+   "fuente": "negocios.com"
+  },
+  {
+   "titulo": "Fabricantes de chips de memoria bajo presión tras el anuncio de CXMT de un chip más potente este año; el Kospi surcoreano perdió 5.5%",
+   "fuente": "comercio.tv"
+  },
+  {
+   "titulo": "Futuros operan con cautela: S&P +0.15% premarket, Nasdaq -0.15% y Europa al alza mientras los inversores asimilan el dato de inflación",
+   "fuente": "Rosario Finanzas"
   }
  ],
  "ultima_hora": null
