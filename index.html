@@ -663,10 +663,42 @@
         const news=document.createElement('div');
         news.className='daily-news';
         news.appendChild(Object.assign(document.createElement('h3'),{textContent:lang==='en'?"Today's News":'Noticias del día'}));
-        const list=document.createElement('ul');
-        list.className='market-headlines';
-        headlines.forEach(function(item){list.appendChild(buildHeadline(item))});
-        news.appendChild(list);
+        // News carousel: one headline at a time with dots
+        const ncWrap=document.createElement('div');
+        ncWrap.style.cssText='position:relative;overflow:hidden;min-height:64px;';
+        const ncSlides=headlines.map(function(item){
+          const s=document.createElement('div');
+          s.style.cssText='position:absolute;top:0;left:0;right:0;opacity:0;transition:opacity .5s ease;pointer-events:none;';
+          const li=buildHeadline(item);
+          li.style.listStyle='none';
+          s.appendChild(li);
+          ncWrap.appendChild(s);
+          return s;
+        });
+        const ncDots=document.createElement('div');
+        ncDots.style.cssText='display:flex;gap:6px;justify-content:center;margin-top:8px;';
+        let ncIdx=0;
+        function ncShow(i){
+          ncIdx=(i+ncSlides.length)%ncSlides.length;
+          ncSlides.forEach(function(s,k){
+            s.style.opacity=k===ncIdx?'1':'0';
+            s.style.pointerEvents=k===ncIdx?'auto':'none';
+          });
+          Array.from(ncDots.children).forEach(function(d,k){
+            d.style.background=k===ncIdx?'var(--signal)':'rgba(255,255,255,.2)';
+          });
+        }
+        ncSlides.forEach(function(_,k){
+          const d=document.createElement('span');
+          d.style.cssText='width:6px;height:6px;border-radius:50%;background:rgba(255,255,255,.2);cursor:pointer;';
+          d.onclick=function(){ncShow(k);};
+          ncDots.appendChild(d);
+        });
+        ncShow(0);
+        if(window._ncTimer)clearInterval(window._ncTimer);
+        window._ncTimer=setInterval(function(){ncShow(ncIdx+1);},5000);
+        news.appendChild(ncWrap);
+        news.appendChild(ncDots);
 
         grid.replaceChildren(ticker,goldTicker,oilTicker,news);
         status.textContent='Actualizado · '+formattedUpdated;
