@@ -1,50 +1,46 @@
 {
- "updated_at": "2026-10-14T19:35:15.781446+00:00",
+ "updated_at": "2026-10-14T19:35:51.347650+00:00",
  "nq": {
-  "price": 30184.75,
-  "change_points": -606.75,
-  "percent_change": -1.97
+  "price": 30182.0,
+  "change_points": -609.5,
+  "percent_change": -1.98
  },
  "gold": {
-  "price": 4127.1,
-  "change_points": -50.2,
-  "percent_change": -1.2
+  "price": 4125.3,
+  "change_points": -52.0,
+  "percent_change": -1.24
  },
  "oil": {
-  "price": 95.11,
-  "change_points": 0.97,
-  "percent_change": 1.03
+  "price": 95.09,
+  "change_points": 0.95,
+  "percent_change": 1.01
  },
  "headlines": [
   {
-   "headline": "El IPC de septiembre sorprende al alza y hunde a Wall Street: el Nasdaq cae 2%",
-   "headline_en": "Hot September CPI report sinks stocks as rate-hike bets soar, Nasdaq drops 2%",
+   "headline": "Inflación de septiembre supera las expectativas: el IPC sube 3.7% anual y disparan las apuestas de una subida de tasas de la Fed",
+   "headline_en": "Hot September CPI beats forecasts: headline rises 3.7% year over year as Fed rate-hike bets soar",
    "source": "Reuters"
   },
   {
-   "headline": "Liquidación de acciones de IA: CoreWeave cae 15% y los semiconductores se hunden 4%",
-   "headline_en": "AI stocks plunged: CoreWeave tumbles 15% as chip stocks sell off",
-   "source": "Investor's Business Daily"
+   "headline": "Temporada de resultados bancarios: JPMorgan y Goldman decepcionan en trading de renta fija; reportan Bank of America, Morgan Stanley y BlackRock",
+   "headline_en": "Bank earnings season rolls on: JPMorgan and Goldman disappoint in fixed-income trading; Bank of America, Morgan Stanley and BlackRock report",
+   "source": "Investopedia"
   },
   {
-   "headline": "Bank of America se desploma 7% tras una multa regulatoria de $1,200 millones",
-   "headline_en": "Bank of America sinks 7% after $1.2B regulatory penalty dents earnings",
-   "source": "Summa Money"
+   "headline": "Venta masiva de chips: ASML, Applied Materials y Micron presionan los futuros del Nasdaq; crecen las dudas sobre el financiamiento de la IA",
+   "headline_en": "Chip selloff: ASML, Applied Materials and Micron drag Nasdaq futures lower; AI financing doubts grow",
+   "source": "FX Leaders"
   },
   {
-   "headline": "El Brent supera los $105 tras ataque hutí a instalaciones de Saudi Aramco",
-   "headline_en": "Brent tops $105 after Houthi attack on Saudi Aramco facilities",
-   "source": "TradingNews"
+   "headline": "El petróleo WTI se acerca a los $110 por los ataques hutíes contra Saudi Aramco; el rendimiento del bono a 10 años salta a 5.3%",
+   "headline_en": "WTI crude nears $110 on Houthi attacks against Saudi Aramco; 10-year Treasury yield jumps to 5.3%",
+   "source": "investinglive.com"
   },
   {
-   "headline": "Trump anuncia exploración masiva de petróleo y minerales en Groenlandia; se disparan las mineras",
-   "headline_en": "Trump announces massive oil, gas and mineral exploration in Greenland; mining stocks soar",
-   "source": "Stocktwits"
+   "headline": "UBS pronostica un crecimiento del 28% en las ganancias del S&P 500 del tercer trimestre, impulsado por la IA y los cíclicos",
+   "headline_en": "UBS forecasts 28% Q3 S&P 500 earnings growth driven by AI and cyclicals",
+   "source": "investinglive.com"
   }
  ],
- "ultima_hora": {
-  "headline": "Trump anuncia exploración masiva de petróleo, gas y minerales en Groenlandia; las mineras se disparan hasta 25%",
-  "headline_en": "Trump announces massive oil, gas and mineral exploration in Greenland; mining stocks surge up to 25%",
-  "source": "Stocktwits"
- }
+ "ultima_hora": null
 }
