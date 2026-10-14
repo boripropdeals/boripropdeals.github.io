@@ -1,16 +1,39 @@
 {
- "actualizado_utc": "2026-10-14T15:01:44.111808+00:00",
+ "actualizado_utc": "2026-10-14T15:32:54.650175+00:00",
  "nq": {
-  "precio": 30456.75,
-  "cambio_puntos": -334.75,
-  "cambio_pct": -1.09,
+  "precio": 30407.75,
+  "cambio_puntos": -383.75,
+  "cambio_pct": -1.25,
   "alcista": false
  },
  "noticias": [
   {
-   "titulo": "Prueba",
-   "fuente": "Test"
+   "titulo": "Wall Street cae tras dato de inflación de septiembre que aviva apuestas a una subida de tasas de la Fed",
+   "fuente": "Reuters"
+  },
+  {
+   "titulo": "Bank of America cae 8,5% tras resultados del tercer trimestre por multa regulatoria de 1.200 millones de dólares",
+   "fuente": "Reuters"
+  },
+  {
+   "titulo": "IPC de EE.UU. se acelera en septiembre por la gasolina; tasa interanual al 3,6%, subyacente estable en 2,4%",
+   "fuente": "FXEmpire"
+  },
+  {
+   "titulo": "ASML supera expectativas y mejora su previsión para el próximo trimestre",
+   "fuente": "FXEmpire"
+  },
+  {
+   "titulo": "Petróleo WTI cerca de 95 dólares y Brent sobre 108 por tensiones en el Golfo Pérsico",
+   "fuente": "DailyForex"
+  },
+  {
+   "titulo": "Tecnológicas asiáticas se recuperan: KOSPI sube 1,8% y Nikkei 0,2% antes del IPC",
+   "fuente": "DailyForex"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "titulo": "Trump defiende el acuerdo de diésel ruso como medida para estabilizar el mercado mundial",
+  "fuente": "The Hindu BusinessLine"
+ }
 }
