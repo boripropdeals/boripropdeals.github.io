@@ -1,51 +1,55 @@
 {
- "updated_at": "2026-10-14T21:03:34.490920+00:00",
+ "updated_at": "2026-10-14T21:06:48.599381+00:00",
  "nq": {
   "price": 30136.5,
   "change_points": -655.0,
   "percent_change": -2.13
  },
  "gold": {
-  "price": 4122.6,
-  "change_points": -54.7,
-  "percent_change": -1.31
+  "price": 4125.1,
+  "change_points": -52.2,
+  "percent_change": -1.25
  },
  "oil": {
-  "price": 95.16,
-  "change_points": 1.02,
-  "percent_change": 1.08
+  "price": 95.09,
+  "change_points": 0.95,
+  "percent_change": 1.01
  },
  "headlines": [
   {
-   "headline": "La inflación de septiembre llega caliente: el CPI sube 3.7% interanual y Wall Street cae; las apuestas de alza de tasas para octubre se disparan a más del 40%",
-   "headline_en": "Hot September inflation: CPI rises 3.7% year-over-year, Wall Street slides as odds of an October rate hike soar past 40%",
-   "source": "Barron's"
+   "headline": "La inflación de EE. UU. se disparó al 3.7% en septiembre por el alza de la gasolina; los mercados caen ante el temor de nuevas subidas de tasas de la Fed",
+   "headline_en": "US inflation jumps to 3.7% in September on surging gasoline prices; markets fall on fears of more Fed rate hikes",
+   "source": "Reuters"
   },
   {
-   "headline": "El S&P 500 sufre su peor día desde julio y el Nasdaq cae casi 2% arrastrado por la venta masiva de acciones tecnológicas",
-   "headline_en": "S&P 500 logs worst day since July, Nasdaq tumbles nearly 2% as tech selloff accelerates",
-   "source": "Barron's"
+   "headline": "La Fed detecta presiones de precios intensificándose; el mercado ya valora un 37% de probabilidad de alza de tasas en la reunión del 27-28 de octubre",
+   "headline_en": "Fed survey shows price pressures intensifying; markets price a ~37% chance of a rate hike at the Oct 27-28 meeting",
+   "source": "Reuters"
   },
   {
-   "headline": "CoreWeave se desploma 15% tras la preocupación por costos de deuda; las empresas de IA más apalancadas lideran las caídas",
-   "headline_en": "CoreWeave plunges 15% on debt-cost jitters; the most leveraged AI names lead the decline",
-   "source": "Motley Fool"
+   "headline": "CoreWeave se desploma 15% por temores sobre su deuda y Bank of America cae 6% tras una multa regulatoria de $1,200 millones",
+   "headline_en": "CoreWeave plunges 15% on debt fears while Bank of America falls 6% after a $1.2B regulatory fine",
+   "source": "The Motley Fool"
   },
   {
-   "headline": "Bank of America cae tras una multa regulatoria de $1.2 mil millones que golpea sus ganancias; Morgan Stanley también reporta",
-   "headline_en": "Bank of America drops after $1.2 billion regulatory fine dents profits; Morgan Stanley reports too",
-   "source": "Summa Money"
+   "headline": "Europa cierra en verde: FTSE 100 +0.70%, CAC 40 +0.58% y DAX +0.15%",
+   "headline_en": "Europe closes higher: FTSE 100 +0.70%, CAC 40 +0.58%, DAX +0.15%",
+   "source": "Armstrong Economics"
   },
   {
-   "headline": "GlobalFoundries salta tras ser seleccionada como operadora de una iniciativa de semiconductores EE.UU.-Japón con hasta $21 mil millones en fondos",
-   "headline_en": "GlobalFoundries jumps after being picked as operator for a U.S.-Japan semiconductor initiative with up to $21 billion in funding",
-   "source": "Motley Fool"
+   "headline": "El Brent sube a $106 por la escalada del conflicto saudí-hutí y el petróleo sigue sosteniendo la inflación",
+   "headline_en": "Brent crude rises to $106 on Saudi-Houthi conflict escalation, keeping inflation pressures alive",
+   "source": "XTB"
   },
   {
-   "headline": "ASML reporta ventas récord del tercer trimestre y eleva su pronóstico por la demanda de IA; los ojos ahora están en las ganancias de TSMC el jueves",
-   "headline_en": "ASML posts record third-quarter sales and raises outlook on AI demand; eyes now on TSMC earnings Thursday",
-   "source": "Summa Money"
+   "headline": "GlobalFoundries se dispara tras ser elegida como operadora de la iniciativa de semiconductores EE. UU.-Japón con hasta $21,000 millones",
+   "headline_en": "GlobalFoundries jumps after being selected as technology provider and operator for the up to $21B US-Japan semiconductor initiative",
+   "source": "The Motley Fool"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Trump acusa a los hutíes de inflar los precios del petróleo 'bajo dirección de Irán' antes de las elecciones de noviembre: '¡Volveré después de las elecciones, y nunca lo olvidaré!'",
+  "headline_en": "Trump accuses Houthi forces of deliberately inflating oil prices 'at Iran's direction' ahead of the November US Congressional elections: 'I'll be there after the Elections, and I will never forget!'",
+  "source": "XTB"
+ }
 }
