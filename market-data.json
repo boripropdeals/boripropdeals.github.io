@@ -1,46 +1,50 @@
 {
- "updated_at": "2026-10-14T18:35:22.781535+00:00",
+ "updated_at": "2026-10-14T18:39:51.106863+00:00",
  "nq": {
-  "price": 30167.25,
-  "change_points": -624.25,
-  "percent_change": -2.03
+  "price": 30175.0,
+  "change_points": -616.5,
+  "percent_change": -2.0
  },
  "gold": {
-  "price": 4113.5,
-  "change_points": -63.8,
-  "percent_change": -1.53
+  "price": 4116.6,
+  "change_points": -60.7,
+  "percent_change": -1.45
  },
  "oil": {
-  "price": 95.17,
-  "change_points": 1.03,
-  "percent_change": 1.09
+  "price": 95.11,
+  "change_points": 0.97,
+  "percent_change": 1.03
  },
  "headlines": [
   {
-   "headline": "El CPI de septiembre sale más caliente de lo esperado: 3.7% interanual vs 3.6% pronosticado",
-   "headline_en": "September CPI comes in hotter than expected: 3.7% y/y vs 3.6% forecast",
-   "source": "Wall Street Journal"
+   "headline": "Inflación caliente: el CPI de septiembre sube 3.7% y eleva las apuestas de un alza de tasas",
+   "headline_en": "Hot inflation: September CPI rises 3.7%, spiking rate-hike bets",
+   "source": "Reuters"
   },
   {
-   "headline": "Se disparan las apuestas a una subida de tasas de la Fed en octubre tras el CPI",
-   "headline_en": "Odds of an October Fed rate hike jump after hot CPI",
-   "source": "Barron’s"
+   "headline": "El Nasdaq cae 2% ante la inflación y la presión sobre las acciones de IA",
+   "headline_en": "Nasdaq tumbles 2% as hot CPI and AI-stock pressure hit tech",
+   "source": "IBD"
   },
   {
-   "headline": "Venta masiva en tech e IA: el Nasdaq cae 1.6% y los chips de IA se desploman",
-   "headline_en": "AI and tech selloff: Nasdaq falls 1.6% as AI chip stocks tumble",
-   "source": "Investor’s Business Daily"
+   "headline": "Acciones de semiconductores se desploman tras los resultados mixtos de ASML; CoreWeave cae 15%",
+   "headline_en": "Chip stocks slump after mixed ASML results; CoreWeave plunges 15%",
+   "source": "WSJ"
   },
   {
-   "headline": "Resultados mixtos de la banca: Bank of America cae por multa de $1.2B; BlackRock supera y pasa los $15 billones en activos",
-   "headline_en": "Mixed bank earnings: Bank of America sinks on $1.2B fine; BlackRock beats and passes $15 trillion in assets",
-   "source": "Wall Street Journal"
+   "headline": "Bank of America cae tras decepcionar en ganancias, aun excluyendo una multa de 1,200 millones",
+   "headline_en": "Bank of America tumbles after profit disappoints, even excluding 1.2B fine",
+   "source": "WSJ"
   },
   {
-   "headline": "ASML eleva su proyección de ventas 2026 ante demanda de IA; bono a 10 años en 5.24% y petróleo WTI sobre $95",
-   "headline_en": "ASML raises 2026 sales outlook on AI demand; 10-year yield at 5.24%, WTI crude above $95",
-   "source": "Investopedia"
+   "headline": "ExxonMobil rompe al alza con el crudo WTI en 95.60 dólares por la escalada Arabia Saudita-hutíes",
+   "headline_en": "ExxonMobil breaks out as WTI crude hits 95.60 on Saudi-Houthi escalation",
+   "source": "IBD"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Trump anuncia una exploracion masiva de petróleo y gas en Groenlandia",
+  "headline_en": "Trump says massive oil and gas exploration to begin in Greenland",
+  "source": "USA Today"
+ }
 }
