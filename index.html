@@ -559,10 +559,13 @@
       }
 
       function renderBreaking(item){
-        if(!item){breaking.classList.remove('show');return}
-        const alert=typeof item==='string'?{headline:item}:item;
-        const headline=String(lang==='en'?(alert.headline_en||alert.headline||alert.title||''):(alert.headline||alert.title||'')).trim();
-        if(!headline){breaking.classList.remove('show');return}
+        // Always show the banner (user request: keep breaking news always active)
+        const alert=(item&&typeof item==='object')?item:{};
+        let headline=String(lang==='en'?(alert.headline_en||alert.headline||alert.title||''):(alert.headline||alert.title||'')).trim();
+        // Default message when no breaking news
+        if(!headline){
+          headline=lang==='en'?'No breaking news at the moment — stay tuned':'Sin noticias de última hora por el momento';
+        }
         document.getElementById('breakingHeadline').textContent=headline;
         const meta=document.getElementById('breakingMeta');
         meta.replaceChildren();
