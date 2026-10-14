@@ -1,0 +1,16 @@
+{
+ "actualizado_utc": "2026-10-14T15:01:44.111808+00:00",
+ "nq": {
+  "precio": 30456.75,
+  "cambio_puntos": -334.75,
+  "cambio_pct": -1.09,
+  "alcista": false
+ },
+ "noticias": [
+  {
+   "titulo": "Prueba",
+   "fuente": "Test"
+  }
+ ],
+ "ultima_hora": null
+}
