@@ -1,40 +1,45 @@
 {
- "updated_at": "2026-10-14T17:00:22.301877+00:00",
+ "updated_at": "2026-10-14T17:07:09.309102+00:00",
  "nq": {
-  "price": 30267.75,
-  "change_points": -523.75,
+  "price": 30268.25,
+  "change_points": -523.25,
   "percent_change": -1.7
  },
  "headlines": [
   {
-   "headline": "Wall Street cae tras el IPC de septiembre por encima de lo esperado",
-   "headline_en": "Wall Street falls after hotter-than-expected September CPI",
-   "source": "Reuters"
+   "headline": "La inflación de septiembre llegó caliente: el IPC subió 3.7% anual (vs 3.6% esperado); el Nasdaq cayó 1.6% y las apuestas de un alza de tasas en octubre suben a 42%",
+   "headline_en": "September inflation ran hot: CPI rose 3.7% y/y (vs 3.6% expected); Nasdaq fell 1.6% as October rate-hike odds jump to 42%",
+   "source": "Wall Street Journal"
   },
   {
-   "headline": "Bank of America se desploma 8,5% tras provisión por multa regulatoria",
-   "headline_en": "Bank of America plunges 8.5% after regulatory fine provision",
-   "source": "Reuters"
+   "headline": "Los valores de IA y chips se desploman: CoreWeave cae 15%, Nebius 9% y Dell 10% en medio de la rotación fuera de la tecnología",
+   "headline_en": "AI and chip stocks plunge: CoreWeave drops 15%, Nebius 9%, Dell 10% amid rotation out of tech",
+   "source": "Investor's Business Daily"
   },
   {
-   "headline": "ASML supera estimaciones e impulsa al sector de chips",
-   "headline_en": "ASML beats estimates, lifts chip sector",
-   "source": "FXEmpire"
+   "headline": "Resultados bancarios mixtos: Bank of America cae tras una multa de $1.2B; BlackRock sube con activos récord",
+   "headline_en": "Mixed bank earnings: Bank of America falls after $1.2B fine; BlackRock rises on record assets",
+   "source": "Investopedia"
   },
   {
-   "headline": "El crudo sube por tensiones en el Golfo",
-   "headline_en": "Crude rises on Gulf tensions",
-   "source": "DailyForex"
+   "headline": "ASML eleva su pronóstico de ventas para 2026 a 44-45 mil millones de euros y dice que no podrá satisfacer toda la demanda de IA",
+   "headline_en": "ASML raises 2026 sales outlook to €44-45B, says it can't fully meet AI-driven demand",
+   "source": "StockInvest.us"
   },
   {
-   "headline": "Tech asiática se recupera con KOSPI +1,8%",
-   "headline_en": "Asian tech rebounds with KOSPI +1.8%",
-   "source": "DailyForex"
+   "headline": "El petróleo WTI sube más de 1% hasta cerca de $95.40 por la escalada entre Arabia Saudita y los hutíes",
+   "headline_en": "WTI crude rises over 1% to near $95.40 as Saudi-Houthi fighting escalates",
+   "source": "Investor's Business Daily"
+  },
+  {
+   "headline": "GameStop toca máximo de 15 meses; las acciones de memoria (Micron, Samsung, SK Hynix) siguen cayendo ante la competencia china",
+   "headline_en": "GameStop hits 15-month high; memory stocks (Micron, Samsung, SK Hynix) keep sliding on Chinese competition",
+   "source": "Barron's"
   }
  ],
  "ultima_hora": {
-  "headline": "Trump compró acciones de Meta por hasta US$25 millones, según Bloomberg",
-  "headline_en": "Trump bought up to US$25 million in Meta stock, Bloomberg reports",
-  "source": "Bloomberg"
+  "headline": "Estudio de la Fed de Nueva York: los aranceles de Trump sumaron 2.9 puntos a la inflación de bienes de consumo, incluyendo productos hechos en EE.UU.",
+  "headline_en": "NY Fed study: Trump's tariffs added 2.9 points to consumer goods inflation, including US-made goods",
+  "source": "Fox News"
  }
 }
