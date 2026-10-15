@@ -1,45 +1,50 @@
 {
- "updated_at": "2026-10-15T15:02:33.703455+00:00",
+ "updated_at": "2026-10-15T15:03:13.821241+00:00",
  "nq": {
-  "price": 29915.0,
-  "change_points": -267.75,
-  "percent_change": -0.89
+  "price": 29901.0,
+  "change_points": -281.75,
+  "percent_change": -0.93
  },
  "gold": {
-  "price": 4181.9,
-  "change_points": 74.0,
-  "percent_change": 1.8
+  "price": 4182.4,
+  "change_points": 74.5,
+  "percent_change": 1.81
  },
  "oil": {
-  "price": 95.22,
-  "change_points": 0.13,
-  "percent_change": 0.14
+  "price": 95.21,
+  "change_points": 0.12,
+  "percent_change": 0.13
  },
  "headlines": [
   {
-   "headline": "Nasdaq se desploma tras el dato de inflación mayorista más alto en 4 años",
-   "headline_en": "Nasdaq sinks as wholesale inflation posts its biggest jump in four years",
+   "headline": "La inflación mayorista se calienta: los precios de productores suben 6.3% interanual, el mayor salto en más de cuatro años",
+   "headline_en": "Wholesale inflation runs hot: producer prices jump 6.3% year-over-year, biggest increase in over four years",
+   "source": "Investopedia / CNN"
+  },
+  {
+   "headline": "El Nasdaq se desploma mientras se agudiza el selloff de IA: CoreWeave cae 8% y Nvidia pierde 10% desde su récord",
+   "headline_en": "Nasdaq tumbles as AI selloff deepens: CoreWeave sinks 8% and Nvidia drops 10% from record",
+   "source": "CNN"
+  },
+  {
+   "headline": "El CPI de septiembre sale caliente (3.7% interanual) y las apuestas a un alza de tasas de la Fed en octubre suben al 37%",
+   "headline_en": "Hot September CPI (3.7% year-over-year) lifts bets on a Fed rate hike in October to 37%",
+   "source": "Capital Street FX"
+  },
+  {
+   "headline": "Rocket Lab se desploma 12% tras retrasar el primer lanzamiento del cohete Neutron hasta 2027",
+   "headline_en": "Rocket Lab plunges 12% after delaying first Neutron rocket launch until 2027",
+   "source": "Investor's Business Daily"
+  },
+  {
+   "headline": "Anthropic frena su crecimiento (ingresos de $17B en el tercer trimestre) y el Kospi se hunde 8% con activación de circuit breakers",
+   "headline_en": "Anthropic's growth slows (Q3 revenue of $17B) as Kospi plunges 8%, triggering circuit breakers",
+   "source": "MarketWatch / CNN"
+  },
+  {
+   "headline": "Las ventas minoristas duplican las expectativas (+0.8%) y los reclamos por desempleo caen a 199,000",
+   "headline_en": "Retail sales double expectations (+0.8%) as jobless claims fall to 199,000",
    "source": "Investopedia"
-  },
-  {
-   "headline": "Temores por el gasto en IA hunden a CoreWeave, Nvidia y AMD; TSMC cae pese a ganancias récord",
-   "headline_en": "AI spending fears hammer CoreWeave, Nvidia and AMD; TSMC drops despite record profit",
-   "source": "Barron’s"
-  },
-  {
-   "headline": "El Dow sube mientras el Nasdaq cae: ventas minoristas duplican estimaciones y el bono a 10 años ronda el 5.06%",
-   "headline_en": "Dow rises while Nasdaq tumbles; retail sales double estimates as 10-year yield holds near 5.06%",
-   "source": "Investors.com"
-  },
-  {
-   "headline": "Bank of America cae 4.8% por multa regulatoria de $1,200 millones; Morgan Stanley supera expectativas",
-   "headline_en": "Bank of America drops 4.8% on $1.2B regulatory charge; Morgan Stanley beats",
-   "source": "StockInvest.us"
-  },
-  {
-   "headline": "China reanuda compras masivas de soya estadounidense tras la cumbre Trump-Xi",
-   "headline_en": "China resumes large US soybean buying after Trump-Xi summit",
-   "source": "Reuters"
   }
  ],
  "ultima_hora": null
