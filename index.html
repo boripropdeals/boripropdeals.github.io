@@ -370,6 +370,13 @@
       <div class="pulse-grid" id="pulseGrid">
         <p class="pulse-fallback">Actualizando datos del mercado…</p>
       </div>
+      <!-- TradingView live ticker: real-time NQ, Gold, Oil -->
+      <div class="tradingview-widget-container" style="margin-top:12px">
+        <div class="tradingview-widget-container__widget"></div>
+        <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+        {"symbols":[{"proName":"CME_MINI:NQ1!","title":"Nasdaq 100"},{"proName":"COMEX:GC1!","title":"Oro"},{"proName":"NYMEX:CL1!","title":"Petróleo"}],"showSymbolLogo":true,"colorTheme":"dark","isTransparent":true,"displayMode":"adaptive","locale":"es"}
+        </script>
+      </div>
     </section>
     <section class="news-strip" aria-labelledby="tickerTitle">
       <div class="news-head"><h2 id="tickerTitle" data-t="tickerTitle">Pulso de promociones y lanzamientos</h2><span data-t="tickerDate">VERIFICADO · 13 OCT 2026</span></div>
