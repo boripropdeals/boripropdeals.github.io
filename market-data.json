@@ -1,55 +1,46 @@
 {
- "updated_at": "2026-10-15T10:58:32.828345+00:00",
+ "updated_at": "2026-10-15T11:02:19.021558+00:00",
  "nq": {
-  "price": 29808.75,
-  "change_points": -374.0,
-  "percent_change": -1.24
+  "price": 29793.75,
+  "change_points": -389.0,
+  "percent_change": -1.29
  },
  "gold": {
-  "price": 4175.3,
-  "change_points": 67.4,
-  "percent_change": 1.64
+  "price": 4176.3,
+  "change_points": 68.4,
+  "percent_change": 1.67
  },
  "oil": {
-  "price": 93.96,
-  "change_points": -1.13,
-  "percent_change": -1.19
+  "price": 93.9,
+  "change_points": -1.19,
+  "percent_change": -1.25
  },
  "headlines": [
   {
-   "headline": "Inflación caliente sacude Wall Street: el CPI de septiembre sube a 3.7% y el Nasdaq cae 1.9% en su peor día desde julio",
-   "headline_en": "Hot CPI shakes Wall Street: September inflation rises to 3.7%, Nasdaq falls 1.9% in worst day since July",
-   "source": "WSJ"
-  },
-  {
-   "headline": "Vendido masivo de chips e IA: el SOX cae por sexto día consecutivo; CoreWeave se desploma 15.5%",
-   "headline_en": "Chip and AI selloff deepens: SOX index falls for a sixth straight day; CoreWeave plunges 15.5%",
+   "headline": "Los futuros del Nasdaq caen más de 1% mientras se agrava la caída de las acciones de IA por temores sobre la deuda",
+   "headline_en": "Nasdaq futures dive 1% as AI rout deepens on debt concerns",
    "source": "Reuters"
   },
   {
-   "headline": "Bank of America se hunde tras una multa de $1,200 millones y utilidades débiles; las apuestas de alza de la Fed saltan",
-   "headline_en": "Bank of America sinks on $1.2 billion fine and weak profits; Fed rate-hike bets jump",
-   "source": "WSJ"
+   "headline": "TSMC da una guía cautelosa para 2027 pese a su sexto récord trimestral de utilidades",
+   "headline_en": "TSMC strikes cautious note for 2027 after sixth straight record quarterly profit",
+   "source": "Reuters"
   },
   {
-   "headline": "El bono a 10 años tocó 5.32% tras el CPI y cerró en 5.19%; el dólar alcanza máximo de 18 meses",
-   "headline_en": "10-year Treasury yield touched 5.32% after CPI, closed at 5.19%; dollar hits 18-month high",
-   "source": "WSJ"
+   "headline": "El dato de inflación más alto de lo esperado revive las apuestas de más alzas de tasas de la Fed",
+   "headline_en": "Hotter-than-expected inflation data fuels expectations of more Fed rate hikes",
+   "source": "Reuters"
   },
   {
-   "headline": "Hutíes atacan una instalación de Saudi Aramco; el Brent supera los $106 por barril",
-   "headline_en": "Houthis strike a Saudi Aramco facility; Brent crude tops $106 a barrel",
-   "source": "WSJ"
+   "headline": "La venta masiva en CoreWeave, Oracle y los fabricantes de chips borra $80,000 millones de valor de mercado",
+   "headline_en": "CoreWeave, Oracle and chipmakers selloff wipes out $80 billion in market value",
+   "source": "Reuters"
   },
   {
-   "headline": "El Beige Book de la Fed huele a estanflación; el PPI de mañana será clave para la decisión de tasas",
-   "headline_en": "Fed's Beige Book has a stagflationary flavor; tomorrow's PPI is key for the rate decision",
-   "source": "Barron's"
+   "headline": "Japón financiará hasta $21,000 millones para dos fábricas de chips de GlobalFoundries en Nueva York",
+   "headline_en": "Japan to fund up to $21 billion in two New York chip factories with GlobalFoundries",
+   "source": "Asia Daily"
   }
  ],
- "ultima_hora": {
-  "headline": "Trump anuncia en Truth Social una exploración 'masiva' de petróleo, gas y minerales en Groenlandia",
-  "headline_en": "Trump announces 'massive' oil, gas and mineral exploration in Greenland on Truth Social",
-  "source": "Stocktwits"
- }
+ "ultima_hora": null
 }
