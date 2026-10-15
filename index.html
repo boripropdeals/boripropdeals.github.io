@@ -497,8 +497,11 @@
       const news=research.news.filter(n=>n.date==='2026-10-13'||/Topstep Labs|TL Early Access|LucidMaxx|TradeDay 2.0/i.test(n.title)).slice(0,8);
       const items=[...research.promos.map(x=>({type:'promo',firm:x.firm,title:cleanCodeMentions(x.title,[x.code]),meta:x.valid_until||'Sin fecha publicada'})),...news.map(x=>({type:'news',firm:x.firm,title:x.title,meta:x.date}))];
       const track=document.getElementById('tickerTrack');
-      // Fade carousel: one at a time
-      track.style.cssText='display:block;position:relative;min-height:120px;overflow:hidden;animation:none;width:100%';
+      // Fade carousel: one at a time, centered
+      const viewport=track.parentNode;
+      viewport.style.maskImage='none';
+      viewport.style.webkitMaskImage='none';
+      track.style.cssText='display:block;position:relative;min-height:130px;overflow:hidden;animation:none;width:100%;max-width:560px;margin:0 auto;';
       track.innerHTML='';
       const slides=items.map(function(x){
         const s=document.createElement('div');
