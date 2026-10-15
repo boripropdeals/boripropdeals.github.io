@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-15T13:32:42.304192+00:00",
+ "updated_at": "2026-10-15T13:32:48.876414+00:00",
  "nq": {
-  "price": 29785.75,
-  "change_points": -397.0,
+  "price": 29784.5,
+  "change_points": -398.25,
   "percent_change": -1.32
  },
  "gold": {
-  "price": 4178.4,
-  "change_points": 70.5,
-  "percent_change": 1.72
+  "price": 4177.7,
+  "change_points": 69.8,
+  "percent_change": 1.7
  },
  "oil": {
-  "price": 94.55,
-  "change_points": -0.54,
-  "percent_change": -0.57
+  "price": 94.61,
+  "change_points": -0.48,
+  "percent_change": -0.5
  },
  "headlines": [
   {
-   "headline": "Inflación de septiembre sale más caliente de lo esperado: 3.7% anual y suben las apuestas de un alza de la Fed",
-   "headline_en": "Hot September CPI at 3.7% year-over-year lifts Fed rate-hike bets",
-   "source": "Reuters"
-  },
-  {
-   "headline": "Nasdaq sufre su peor día desde julio: acciones de IA y chips se desploman",
-   "headline_en": "Nasdaq suffers worst day since July as AI and chip stocks plunge",
-   "source": "Reuters"
-  },
-  {
-   "headline": "CoreWeave −15.5%, Dell −11.3%, Oracle −8.8%: el índice de semiconductores cae por sexta sesión seguida",
-   "headline_en": "CoreWeave −15.5%, Dell −11.3%, Oracle −8.8% as chip index falls for sixth straight session",
-   "source": "Reuters"
-  },
-  {
-   "headline": "Bank of America cae 4.8% tras una multa regulatoria de $1,200 millones",
-   "headline_en": "Bank of America drops 4.8% after $1.2B regulatory fine",
+   "headline": "La inflación mayorista de septiembre se disparó muy por encima de lo esperado (PPI +1.3% mensual)",
+   "headline_en": "September wholesale inflation came in much hotter than expected (PPI +1.3% monthly, 6.3% yearly)",
    "source": "Investopedia"
   },
   {
-   "headline": "TSMC logra ganancias récord por sexto trimestre consecutivo",
-   "headline_en": "TSMC posts sixth straight record profit",
-   "source": "StockInvest.us"
+   "headline": "Los futuros del Nasdaq se desploman mientras continúa la venta masiva de acciones de IA",
+   "headline_en": "Nasdaq futures plunge as AI-tied stock selloff continues",
+   "source": "Investopedia"
   },
   {
-   "headline": "Hoy a las 8:30am ET: ventas minoristas, PPI y solicitudes de desempleo",
-   "headline_en": "Today at 8:30 a.m. ET: retail sales, PPI and jobless claims due",
-   "source": "StockInvest.us"
+   "headline": "Caída global de semiconductores: Samsung -9.5%, SK Hynix -11%, Nikkei -4.9%",
+   "headline_en": "Global chip rout: Samsung -9.5%, SK Hynix -11%, Nikkei drops 4.9%",
+   "source": "WSJ"
+  },
+  {
+   "headline": "El CPI caliente de septiembre (3.7% anual) revive las apuestas a una subida de tasas de la Fed el 28 de octubre",
+   "headline_en": "Hot September CPI (3.7% yearly) revives Fed rate-hike bets for the October 28 meeting",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "Temores de desaceleración en Anthropic golpean al sector de IA; CoreWeave sigue en caída",
+   "headline_en": "Anthropic growth slowdown fears weigh on the AI trade; CoreWeave keeps falling",
+   "source": "MarketWatch"
+  },
+  {
+   "headline": "Ventas minoristas duplicaron estimados (+0.8%) y las solicitudes de desempleo bajaron a 199K",
+   "headline_en": "Retail sales doubled estimates (+0.8%); jobless claims at 199K",
+   "source": "Investopedia"
   }
  ],
  "ultima_hora": null
