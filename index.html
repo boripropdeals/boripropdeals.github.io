@@ -603,7 +603,7 @@
     var FIRM_PLATFORMS={
       'Topstep':['TopstepX'],
       'Tradeify':['Tradovate','WealthCharts','Tradesea','NinjaTrader','TradingView','Quantower','Sierra Chart'],
-      'My Funded Futures':['NinjaTrader','Tradovate','TradingView','Quantower','ATAS','Volumetrica','DeepCharts'],
+      'My Funded Futures':['NinjaTrader','Tradovate','TradingView','Quantower','ATAS','Volumetrica','DeepCharts','Hyperprop'],
       'Traders Launch':['TradingView','Volumetrica','Quantower'],
       'Phidias Prop':['Rithmic','Tradovate','DeepCharts','NinjaTrader','TradingView','Sierra Chart','Quantower','ATAS','Bookmap','MotiveWave'],
       'Apex Trader Funding':['Rithmic','Tradovate','WealthCharts','NinjaTrader','TradingView','Quantower','ATAS','R|Trader Pro','MotiveWave','Bookmap'],
@@ -911,6 +911,7 @@ const c=info.querySelector('[data-radar-firm]');if(c)c.addEventListener('click',
         (function(){
           var mediaEl=document.getElementById('breakingMedia');
           if(!mediaEl)return;
+          if(mediaEl._slideTimer){clearInterval(mediaEl._slideTimer);mediaEl._slideTimer=null;}
           mediaEl.replaceChildren();mediaEl.classList.remove('show');
           if(!isRealBreaking)return;
           function svgIcon(paths){
