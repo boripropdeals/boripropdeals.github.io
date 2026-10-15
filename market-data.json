@@ -1,55 +1,50 @@
 {
- "updated_at": "2026-10-15T12:30:32.144934+00:00",
+ "updated_at": "2026-10-15T12:32:23.137080+00:00",
  "nq": {
-  "price": 29809.5,
-  "change_points": -373.25,
-  "percent_change": -1.24
+  "price": 29812.25,
+  "change_points": -370.5,
+  "percent_change": -1.23
  },
  "gold": {
-  "price": 4173.5,
-  "change_points": 65.6,
-  "percent_change": 1.6
+  "price": 4176.5,
+  "change_points": 68.6,
+  "percent_change": 1.67
  },
  "oil": {
-  "price": 94.09,
-  "change_points": -1.0,
-  "percent_change": -1.05
+  "price": 94.13,
+  "change_points": -0.96,
+  "percent_change": -1.01
  },
  "headlines": [
   {
-   "headline": "Los futuros del Nasdaq se desploman más del 1% por la liquidación global de valores de IA tras un IPC más alto de lo esperado",
-   "headline_en": "Nasdaq futures dive over 1% as global AI selloff gathers pace after hotter-than-expected CPI",
+   "headline": "Futuros del Nasdaq caen más de 1% mientras la liquidación en acciones de IA se profundiza por temores de deuda",
+   "headline_en": "Nasdaq futures dive 1% as AI rout deepens on debt concerns",
    "source": "Reuters"
   },
   {
-   "headline": "El IPC de septiembre sube al 3,7% interanual y reaviva las apuestas a una subida de tipos de la Fed este mes",
-   "headline_en": "Hot September CPI (3.7% y/y) lifts expectations of a Fed rate hike later this month",
+   "headline": "TSMC logra su sexta ganancia trimestral récord consecutiva, pero advierte cautela para 2027",
+   "headline_en": "TSMC posts sixth straight record quarterly profit, strikes cautious note for 2027",
+   "source": "Reuters"
+  },
+  {
+   "headline": "Wall Street espera el PPI, las ventas minoristas y las solicitudes de desempleo: nueva prueba para la Fed",
+   "headline_en": "PPI, retail sales and jobless claims highlight today's economic calendar",
    "source": "Investopedia"
   },
   {
-   "headline": "Los mercados esperan hoy el PPI de septiembre, las ventas minoristas y el discurso del presidente de la Fed, Kevin Warsh, en el FMI",
-   "headline_en": "Markets await September PPI, retail sales and Fed Chair Kevin Warsh's remarks at the IMF meeting today",
-   "source": "Barchart"
-  },
-  {
-   "headline": "TSMC reporta su sexto trimestre récord consecutivo y eleva su guía para 2026, pero se muestra cauteloso para 2027",
-   "headline_en": "TSMC posts sixth straight record quarter and raises 2026 guidance, but sounds a cautious note on 2027",
+   "headline": "CoreWeave y Oracle se hunden: crece el temor por la deuda usada para financiar la IA",
+   "headline_en": "CoreWeave and Oracle bonds under pressure as AI debt fears mount",
    "source": "Reuters"
   },
   {
-   "headline": "Anthropic revela ingresos de 16.800 millones de dólares en el tercer trimestre; la FTC cita a OpenAI y Anthropic por daños a consumidores",
-   "headline_en": "Anthropic discloses $16.8B Q3 revenue; FTC subpoenas OpenAI and Anthropic over consumer harms",
-   "source": "MarketWatch"
-  },
-  {
-   "headline": "Los bonos del Tesoro repuntan como refugio y el oro sube mientras el petróleo cede ante la huida del riesgo",
-   "headline_en": "Treasuries rally on safe-haven demand and gold rises as the AI selloff deepens",
-   "source": "WSJ"
+   "headline": "El Brent cae cerca de $104 mientras EE.UU. evalúa aliviar sanciones a la flota fantasma; el oro sube a $4,165",
+   "headline_en": "Brent eases near $104 as US weighs easing shadow-fleet sanctions; gold climbs to $4,165",
+   "source": "Reuters"
   }
  ],
  "ultima_hora": {
-  "headline": "Trump concluye una llamada de hora y media con Xi Jinping enfocada en comercio; los mercados rebotan con los titulares",
-  "headline_en": "Trump and Xi Jinping conclude a 1.5-hour call focused 'almost entirely on trade'; markets rally on the headlines",
-  "source": "MarketPulse"
+  "headline": "El Kremlin confirma que el diésel ruso ya está llegando a los mercados globales tras el acuerdo con Trump",
+  "headline_en": "Kremlin says Russian diesel has started reaching global markets following deal with Trump",
+  "source": "Reuters"
  }
 }
