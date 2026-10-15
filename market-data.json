@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-15T18:04:34.988787+00:00",
+ "updated_at": "2026-10-15T18:05:23.891950+00:00",
  "nq": {
-  "price": 30059.25,
-  "change_points": -123.5,
+  "price": 30060.0,
+  "change_points": -122.75,
   "percent_change": -0.41
  },
  "gold": {
-  "price": 4174.8,
-  "change_points": 66.9,
-  "percent_change": 1.63
+  "price": 4174.6,
+  "change_points": 66.7,
+  "percent_change": 1.62
  },
  "oil": {
-  "price": 96.41,
-  "change_points": 1.32,
-  "percent_change": 1.39
+  "price": 96.42,
+  "change_points": 1.33,
+  "percent_change": 1.4
  },
  "headlines": [
   {
-   "headline": "Wall Street abre mixto: el Nasdaq cae mientras se profundiza la liquidación de acciones de IA y el Dow sube",
-   "headline_en": "Wall Street Opens Mixed: Nasdaq Falls as AI Stock Selloff Deepens While Dow Rises",
+   "headline": "El IPC de EE.UU. se dispara a 3.7% en septiembre: el S&P 500 cae 1.11% y el Nasdaq 100 pierde 2.02%, su mayor caída desde julio",
+   "headline_en": "US CPI Runs Hot at 3.7% in September: S&P 500 Falls 1.11%, Nasdaq 100 Drops 2.02% in Biggest Selloff Since July",
+   "source": "Capital Street FX"
+  },
+  {
+   "headline": "Wall Street abre mixto el jueves: el Nasdaq cae 1.24% y el Dow sube 0.52% mientras se profundiza la liquidación de IA y semiconductores",
+   "headline_en": "Wall Street Opens Mixed Thursday: Nasdaq Drops 1.24%, Dow Rises 0.52% as AI and Semiconductor Selloff Deepens",
    "source": "onetrader.in"
   },
   {
-   "headline": "El Kospi surcoreano se desploma hasta 8% y activa interruptores de circuito en medio de la liquidación tecnológica global",
-   "headline_en": "South Korea's Kospi Tanks as Much as 8%, Triggering Circuit Breakers Amid Global Tech Selloff",
-   "source": "Reuters"
+   "headline": "Wall Street ahora descuenta 37% de probabilidad de que la Fed suba tasas en octubre tras el IPC caliente; el bono a 10 años roza 5.09%",
+   "headline_en": "Markets Now Price 37% Odds of October Fed Hike After Hot CPI; 10-Year Yield Near 5.09%",
+   "source": "Capital Street FX"
   },
   {
-   "headline": "La inflación de EE.UU. salta a 3.7% en septiembre y presiona a Trump a semanas de las elecciones de medio término",
-   "headline_en": "US Inflation Jumps to 3.7% in September, Pressuring Trump Weeks Before Midterms",
-   "source": "CNN-News18"
+   "headline": "El Nikkei se hunde 4.8% y el Kospi pierde 7.6% en la liquidación tecnológica global que golpea a Asia",
+   "headline_en": "Nikkei Plunges 4.8%, Kospi Loses 7.6% in Global Tech Selloff Sweeping Asia",
+   "source": "Capital Street FX"
   },
   {
-   "headline": "India brilla ante el caos global: el Sensex salta más de 1,500 puntos y el Nifty sube 1.66%",
-   "headline_en": "India Shines Amid Global Turmoil: Sensex Jumps Over 1,500 Points, Nifty Rises 1.66%",
-   "source": "The Hindu BusinessLine"
+   "headline": "El petróleo Brent roza los $104 por ataques al transporte en el Estrecho de Ormuz; el oro supera los $4,140 como refugio",
+   "headline_en": "Brent Nears $104 on Strait of Hormuz Shipping Attacks; Gold Tops $4,140 as Safe-Haven Bid Returns",
+   "source": "Capital Street FX"
   },
   {
-   "headline": "Los hutíes atacan la sede de Aramco y Trump dice que el conflicto con Irán terminará pronto",
-   "headline_en": "Houthis Strike Aramco Headquarters as Trump Says Iran Conflict Will End Soon",
-   "source": "Reuters"
-  },
-  {
-   "headline": "Wipro supera estimaciones: sus ingresos del Q2 suben 9.1% impulsados por Europa y la IA",
-   "headline_en": "Wipro Beats Estimates: Q2 Revenue Rises 9.1% on European Spending Revival and AI",
-   "source": "The Hindu BusinessLine"
+   "headline": "Grandes bancos de EE.UU. reportan ganancias mixtas del tercer trimestre en medio de la presión de inflación y costos de endeudamiento",
+   "headline_en": "Major US Banks Report Mixed Q3 Earnings Amid Inflation Pressure and Higher Borrowing Costs",
+   "source": "EIN Presswire"
   }
  ],
  "ultima_hora": {
