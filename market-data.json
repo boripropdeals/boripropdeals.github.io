@@ -1,50 +1,45 @@
 {
- "updated_at": "2026-10-15T14:32:33.602694+00:00",
+ "updated_at": "2026-10-15T14:32:59.501726+00:00",
  "nq": {
-  "price": 29807.0,
-  "change_points": -375.75,
-  "percent_change": -1.24
+  "price": 29816.0,
+  "change_points": -366.75,
+  "percent_change": -1.22
  },
  "gold": {
-  "price": 4174.6,
-  "change_points": 66.7,
+  "price": 4174.3,
+  "change_points": 66.4,
   "percent_change": 1.62
  },
  "oil": {
-  "price": 95.04,
-  "change_points": -0.05,
-  "percent_change": -0.05
+  "price": 95.0,
+  "change_points": -0.09,
+  "percent_change": -0.09
  },
  "headlines": [
   {
-   "headline": "Futuros del Nasdaq caen más de 1% mientras se profundiza la caída de las acciones de IA",
-   "headline_en": "Nasdaq futures dive 1% as AI rout deepens on debt concerns",
-   "source": "Reuters"
-  },
-  {
-   "headline": "Inflación de septiembre supera expectativas y reaviva el temor de un alza de tasas de la Fed",
-   "headline_en": "Hotter-than-expected September CPI revives fears of a Fed rate hike",
-   "source": "Investopedia/Reuters"
-  },
-  {
-   "headline": "TSMC reporta ganancias trimestrales récord pero advierte cautela para 2027",
-   "headline_en": "TSMC posts record quarterly profit, strikes cautious 2027 outlook",
-   "source": "Reuters"
-  },
-  {
-   "headline": "CoreWeave y Oracle extienden su caída en el premarket tras borrar $80B de valor el miércoles",
-   "headline_en": "CoreWeave and Oracle extend premarket slide after $80B market-value wipeout Wednesday",
-   "source": "Reuters"
-  },
-  {
-   "headline": "Hoy se publica el PPI de septiembre y las ventas minoristas; el alza del diésel presiona costos",
-   "headline_en": "September PPI and retail sales due today; diesel price surge pressures producer costs",
+   "headline": "Nasdaq se desploma tras el dato de inflación mayorista más alto en 4 años",
+   "headline_en": "Nasdaq sinks as wholesale inflation posts its biggest jump in four years",
    "source": "Investopedia"
   },
   {
-   "headline": "El rendimiento del Tesoro a 10 años cae a 5.09%, su mínimo en tres semanas",
-   "headline_en": "10-year Treasury yield falls to 5.09%, three-week low",
-   "source": "Investopedia"
+   "headline": "Temores por el gasto en IA hunden a CoreWeave, Nvidia y AMD; TSMC cae pese a ganancias récord",
+   "headline_en": "AI spending fears hammer CoreWeave, Nvidia and AMD; TSMC drops despite record profit",
+   "source": "Barron’s"
+  },
+  {
+   "headline": "El Dow sube mientras el Nasdaq cae: ventas minoristas duplican estimaciones y el bono a 10 años ronda el 5.06%",
+   "headline_en": "Dow rises while Nasdaq tumbles; retail sales double estimates as 10-year yield holds near 5.06%",
+   "source": "Investors.com"
+  },
+  {
+   "headline": "Bank of America cae 4.8% por multa regulatoria de $1,200 millones; Morgan Stanley supera expectativas",
+   "headline_en": "Bank of America drops 4.8% on $1.2B regulatory charge; Morgan Stanley beats",
+   "source": "StockInvest.us"
+  },
+  {
+   "headline": "China reanuda compras masivas de soya estadounidense tras la cumbre Trump-Xi",
+   "headline_en": "China resumes large US soybean buying after Trump-Xi summit",
+   "source": "Reuters"
   }
  ],
  "ultima_hora": null
