@@ -1,50 +1,45 @@
 {
- "updated_at": "2026-10-15T20:00:36.987159+00:00",
+ "updated_at": "2026-10-15T20:02:26.765782+00:00",
  "nq": {
-  "price": 30146.25,
-  "change_points": -36.5,
-  "percent_change": -0.12
+  "price": 30131.25,
+  "change_points": -51.5,
+  "percent_change": -0.17
  },
  "gold": {
-  "price": 4195.1,
-  "change_points": 87.2,
-  "percent_change": 2.12
+  "price": 4195.3,
+  "change_points": 87.4,
+  "percent_change": 2.13
  },
  "oil": {
-  "price": 96.28,
-  "change_points": 1.19,
-  "percent_change": 1.25
+  "price": 96.25,
+  "change_points": 1.16,
+  "percent_change": 1.22
  },
  "headlines": [
   {
-   "headline": "La inflación de septiembre llega a 3.7% y el Nasdaq se hunde 1.88% por temor a más alzas de tasas de la Fed",
-   "headline_en": "September CPI hits 3.7% and Nasdaq plunges 1.88% on fears of more Fed rate hikes",
+   "headline": "Futuros del Nasdaq caen ~1.2% mientras la venta de acciones tech e IA se profundiza",
+   "headline_en": "Nasdaq futures dive ~1.2% as tech and AI selloff deepens on debt concerns",
    "source": "Reuters"
   },
   {
-   "headline": "Los precios al productor se disparan: el PPI sube 1.3% mensual y 6.3% anual, su mayor alza desde 2022",
-   "headline_en": "Producer prices surge: PPI rises 1.3% monthly and 6.3% annually, the largest gains since 2022",
-   "source": "CNBC"
+   "headline": "El PPI de septiembre sale más caliente de lo esperado: +1.3% mensual; la tasa anual sube a 6.3%, la más alta desde diciembre de 2022",
+   "headline_en": "September PPI comes in hotter than expected: up 1.3% m/m; annual rate jumps to 6.3%, highest since December 2022",
+   "source": "Schaeffer’s Investment Research"
   },
   {
-   "headline": "El Dow sube 550 puntos con la rotación fuera del sector tecnológico; ventas minoristas duplican las expectativas",
-   "headline_en": "Dow jumps 550 points on rotation out of tech; retail sales double expectations",
+   "headline": "El rendimiento del bono a 10 años cae a su mínimo en tres semanas (~5.09%) tras el pico post-CPI",
+   "headline_en": "10-year Treasury yield falls to a three-week low (~5.09%) after the post-CPI spike",
    "source": "Investopedia"
   },
   {
-   "headline": "Las acciones de chips prolongan la caída: AMD −5%, Micron −4% y CoreWeave −7% por dudas sobre el financiamiento de la IA",
-   "headline_en": "Chip stocks extend losses: AMD −5%, Micron −4% and CoreWeave −7% on AI financing doubts",
-   "source": "CNBC"
-  },
-  {
-   "headline": "La Fed se divide: Bowman no ve urgencia de actuar, Williams insinúa una alza más este año; el bono a 10 años cae a 5.19%",
-   "headline_en": "Fed splits: Bowman sees no urgency, Williams hints at another hike this year; 10-year yield falls to 5.19%",
+   "headline": "TSMC reporta ganancias récord en el Q3 (+69%) pero da una perspectiva cautelosa para 2027; sus acciones caen",
+   "headline_en": "TSMC posts record Q3 profit (+69%) but gives a cautious 2027 outlook; shares fall",
    "source": "Reuters"
   },
   {
-   "headline": "Asia se desploma: el KOSPI coreano cae más de 7% y el Nikkei 1.3% tras el dato caliente de inflación de EE.UU.",
-   "headline_en": "Asia slumps: South Koreas KOSPI drops over 7% and Nikkei 1.3% after hot U.S. inflation data",
-   "source": "Reuters"
+   "headline": "El oro sube 1.4% a $4,165 la onza mientras el WTI ronda los $95.40 por barril",
+   "headline_en": "Gold rises 1.4% to $4,165 an ounce as WTI crude hovers near $95.40 a barrel",
+   "source": "Investopedia"
   }
  ],
  "ultima_hora": null
