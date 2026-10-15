@@ -868,7 +868,7 @@
       name:'Asistente Bori', placeholder:'Pregunta por ofertas, precios o códigos…',
       welcome:'¡Hola! 👋 Soy el asistente de <b>BoriProp Deals</b>. Pregúntame por las ofertas actuales, precios de planes o códigos de descuento de las 12 prop firms.',
       chips:['Ofertas actuales','Código BORI','Tradeify','Apex','Comparar'],
-      boriLine:'💡 Recuerda: usa el código <b>BORI</b> para los mejores descuentos.',
+      boriLine:'💡 Recuerda: usa el código <b>BORI</b> para los mejores descuentos.<br>Por el momento el código BORI funciona con My Funded Futures, Phidias Prop y Traders Launch. Pronto estaremos añadiendo más prop firms y tendremos muchas sorpresas. 🎉',
       noPromo:'No veo una promo con código publicada para <b>{f}</b> ahora mismo. Revisa la comparativa en la página para ver sus precios.',
       offTopic:'Solo puedo ayudarte con ofertas, precios y códigos de descuento de prop firms de futuros. ¿Te interesa alguna firma en particular?',
       allOffers:'Estas son las ofertas vigentes ahora mismo:',
@@ -887,7 +887,7 @@
       name:'Bori Assistant', placeholder:'Ask about deals, prices or codes…',
       welcome:'Hi! 👋 I\'m the <b>BoriProp Deals</b> assistant. Ask me about current deals, plan prices or discount codes for the 12 prop firms.',
       chips:['Current deals','BORI code','Tradeify','Apex','Compare'],
-      boriLine:'💡 Remember: use code <b>BORI</b> for the best discounts.',
+      boriLine:'💡 Remember: use code <b>BORI</b> for the best discounts.<br>Right now the BORI code works with My Funded Futures, Phidias Prop and Traders Launch. We\'ll be adding more prop firms soon and have many surprises coming. 🎉',
       noPromo:'I don\'t see a published coded promo for <b>{f}</b> right now. Check the comparison on the page for its prices.',
       offTopic:'I can only help with futures prop firm deals, prices and discount codes. Are you interested in a particular firm?',
       allOffers:'Here are the deals live right now:',
@@ -1017,13 +1017,14 @@
       var top=topCheapest(scope,3);
       if(!top.length) return T[L].noCheapest;
       var ctitle=(scope&&scope.length===1)?T[L].cheapestOf.replace('{f}',scope[0]):T[L].cheapest;
-      return ctitle+'<br>'+top.map(function(r,i){return fmtCheapRow(r,i,L)}).join('<br>')+'<br><br><i>'+T[L].disclaimer+'</i>';
+      var cheapNote=top.some(function(r){return BORI_FIRMS.indexOf(r.firm)!==-1;})?'<br><br>'+(L==='es'?'Por el momento el código BORI funciona con My Funded Futures, Phidias Prop y Traders Launch. Pronto estaremos añadiendo más prop firms y tendremos muchas sorpresas. 🎉':'Right now the BORI code works with My Funded Futures, Phidias Prop and Traders Launch. We\'ll be adding more prop firms soon and have many surprises coming. 🎉'):'';
+      return ctitle+'<br>'+top.map(function(r,i){return fmtCheapRow(r,i,L)}).join('<br>')+cheapNote+'<br><br><i>'+T[L].disclaimer+'</i>';
     }
 
     if(wantsBori&&!firms.length){
       return L==='es'
-        ? '<b>BORI</b> es el código oficial de BoriProp Deals. Úsalo en <b>Phidias Prop</b> (hasta 80% OFF), <b>Traders Launch</b> (25% OFF lanzamiento) y <b>My Funded Futures</b> (40% OFF en cualquier plan) para los mejores descuentos. 💡'
-        : '<b>BORI</b> is the official BoriProp Deals code. Use it at <b>Phidias Prop</b> (up to 80% OFF), <b>Traders Launch</b> (25% OFF launch) and <b>My Funded Futures</b> (40% OFF any plan) for the best discounts. 💡';
+        ? '<b>BORI</b> es el código oficial de BoriProp Deals. Úsalo en <b>Phidias Prop</b> (hasta 80% OFF), <b>Traders Launch</b> (25% OFF lanzamiento) y <b>My Funded Futures</b> (40% OFF en cualquier plan) para los mejores descuentos. 💡<br>Por el momento el código BORI funciona con My Funded Futures, Phidias Prop y Traders Launch. Pronto estaremos añadiendo más prop firms y tendremos muchas sorpresas. 🎉'
+        : '<b>BORI</b> is the official BoriProp Deals code. Use it at <b>Phidias Prop</b> (up to 80% OFF), <b>Traders Launch</b> (25% OFF launch) and <b>My Funded Futures</b> (40% OFF any plan) for the best discounts. 💡<br>Right now the BORI code works with My Funded Futures, Phidias Prop and Traders Launch. We\'ll be adding more prop firms soon and have many surprises coming. 🎉';
     }
     if(firms.length>=2||(wantsCompare&&firms.length>=1)){
       var list=firms.length?firms:['Apex Trader Funding','Tradeify','Take Profit Trader'];
@@ -1033,7 +1034,8 @@
         var bori=BORI_FIRMS.indexOf(f)!==-1?' ⭐<b>BORI</b>':'';
         return '• <b>'+f+'</b>: '+tag+bori;
       });
-      return T[L].compare+'<br>'+rows.join('<br>')+'<br><br><i>'+T[L].disclaimer+'</i>';
+      var cmpNote=list.some(function(f){return BORI_FIRMS.indexOf(f)!==-1;})?'<br><br>'+(L==='es'?'Por el momento el código BORI funciona con My Funded Futures, Phidias Prop y Traders Launch. Pronto estaremos añadiendo más prop firms y tendremos muchas sorpresas. 🎉':'Right now the BORI code works with My Funded Futures, Phidias Prop and Traders Launch. We\'ll be adding more prop firms soon and have many surprises coming. 🎉'):'';
+      return T[L].compare+'<br>'+rows.join('<br>')+cmpNote+'<br><br><i>'+T[L].disclaimer+'</i>';
     }
     if(firms.length===1) return firmAnswer(firms[0],L)+'<br><br><i>'+T[L].disclaimer+'</i>';
     if(wantsAll){
