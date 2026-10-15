@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-10-15T18:32:35.346598+00:00",
+ "updated_at": "2026-10-15T18:32:52.313510+00:00",
  "nq": {
-  "price": 29960.5,
-  "change_points": -222.25,
+  "price": 29959.75,
+  "change_points": -223.0,
   "percent_change": -0.74
  },
  "gold": {
-  "price": 4177.0,
-  "change_points": 69.1,
-  "percent_change": 1.68
+  "price": 4177.8,
+  "change_points": 69.9,
+  "percent_change": 1.7
  },
  "oil": {
   "price": 96.53,
@@ -17,45 +17,35 @@
  },
  "headlines": [
   {
-   "headline": "El IPC de EE.UU. se dispara a 3.7% en septiembre: el S&P 500 cae 1.11% y el Nasdaq 100 pierde 2.02%, su mayor caída desde julio",
-   "headline_en": "US CPI Runs Hot at 3.7% in September: S&P 500 Falls 1.11%, Nasdaq 100 Drops 2.02% in Biggest Selloff Since July",
-   "source": "Capital Street FX"
+   "headline": "Futuros del Nasdaq se desploman 1% mientras la caída de las acciones de IA se profundiza",
+   "headline_en": "Nasdaq futures dive 1% as AI rout deepens on debt concerns",
+   "source": "Reuters"
   },
   {
-   "headline": "Wall Street abre mixto el jueves: el Nasdaq cae 1.24% y el Dow sube 0.52% mientras se profundiza la liquidación de IA y semiconductores",
-   "headline_en": "Wall Street Opens Mixed Thursday: Nasdaq Drops 1.24%, Dow Rises 0.52% as AI and Semiconductor Selloff Deepens",
-   "source": "onetrader.in"
+   "headline": "La inflación de EE.UU. sube a 3.7% en septiembre, avivando las apuestas de un alza de tasas de la Fed",
+   "headline_en": "Hotter-than-expected inflation reading boosts expectations the Fed will raise interest rates again",
+   "source": "Investopedia"
   },
   {
-   "headline": "Wall Street ahora descuenta 37% de probabilidad de que la Fed suba tasas en octubre tras el IPC caliente; el bono a 10 años roza 5.09%",
-   "headline_en": "Markets Now Price 37% Odds of October Fed Hike After Hot CPI; 10-Year Yield Near 5.09%",
-   "source": "Capital Street FX"
+   "headline": "TSMC reporta ganancias récord por sexto trimestre consecutivo, pero advierte cautela para 2027",
+   "headline_en": "TSMC strikes cautious note for 2027 after reporting its sixth consecutive record quarterly profit",
+   "source": "Reuters"
   },
   {
-   "headline": "El Nikkei se hunde 4.8% y el Kospi pierde 7.6% en la liquidación tecnológica global que golpea a Asia",
-   "headline_en": "Nikkei Plunges 4.8%, Kospi Loses 7.6% in Global Tech Selloff Sweeping Asia",
-   "source": "Capital Street FX"
+   "headline": "El Kospi se desploma 7% y el Nikkei cae 5% en la venta global de acciones de IA",
+   "headline_en": "KOSPI tanks 7% and Nikkei falls 5% as global AI selloff gathers pace",
+   "source": "Morningstar"
   },
   {
-   "headline": "El petróleo Brent roza los $104 por ataques al transporte en el Estrecho de Ormuz; el oro supera los $4,140 como refugio",
-   "headline_en": "Brent Nears $104 on Strait of Hormuz Shipping Attacks; Gold Tops $4,140 as Safe-Haven Bid Returns",
-   "source": "Capital Street FX"
+   "headline": "El PPI de EE.UU. sube 6.3% en septiembre, el mayor aumento desde diciembre de 2022",
+   "headline_en": "US PPI jumps 6.3% in September, the largest 12-month increase since December 2022",
+   "source": "TradingView"
   },
   {
-   "headline": "Grandes bancos de EE.UU. reportan ganancias mixtas del tercer trimestre en medio de la presión de inflación y costos de endeudamiento",
-   "headline_en": "Major US Banks Report Mixed Q3 Earnings Amid Inflation Pressure and Higher Borrowing Costs",
-   "source": "EIN Presswire"
+   "headline": "CoreWeave en el ojo de la tormenta: acciones caen 15% y sus bonos tocan rendimientos récord",
+   "headline_en": "CoreWeave at the eye of the AI storm: shares plunge 15% as bond yields hit record highs",
+   "source": "Reuters"
   }
  ],
- "ultima_hora": {
-  "headline": "EE.UU. prepara planes de ataque contra Irán con la madre de todas las bombas por orden de Trump, reporta CNN",
-  "headline_en": "US draws up Iran strike plans including the mother of all bombs on Trump's orders, CNN reports",
-  "source": "CNN",
-  "image": "",
-  "images": [
-   "https://boripropdeals.github.io/breaking-visuals/trump-iran-moab.webp",
-   "https://boripropdeals.github.io/breaking-visuals/trump-iran-moab-2.webp",
-   "https://boripropdeals.github.io/breaking-visuals/trump-iran-moab-breaking-3.webp"
-  ]
- }
+ "ultima_hora": null
 }
