@@ -492,6 +492,36 @@
     };
     function discountInfo(firm){return FIRM_DISCOUNTS[firm]||null}
     function discountedPrice(value,firm){var d=discountInfo(firm);if(!d||!d.pct||value==null)return null;return Math.round(value*(1-d.pct)*100)/100}
+    /* Activation fee por firma (datos de price_note, verificado 2026-10-13/14) */
+    var FIRM_ACTIVATION={
+      'My Funded Futures':{kind:'none'},
+      'Phidias Prop':{kind:'none'},
+      'Traders Launch':{kind:'none'},
+      'Tradeify':{kind:'none'},
+      'Lucid Trading':{kind:'none'},
+      'Alpha Futures':{kind:'none'},
+      'TradeDay':{kind:'none'},
+      'Topstep':{kind:'varies',note_es:'$149 de activación XFA en la ruta Standard; $0 en la ruta Sin Activación y en Labs',note_en:'$149 XFA activation on Standard Path; $0 on No-Activation-Fee Path and Labs'},
+      'Apex Trader Funding':{kind:'per-size',plans:{'Intraday':{'25K':69,'50K':79,'100K':99,'150K':129},'EOD':{'25K':89,'50K':99,'100K':119,'150K':149}}},
+      'Take Profit Trader':{kind:'fixed',fee:130,waivedBy:'NOFEE40'},
+      'Bulenox':{kind:'per-size',fees:{'25K':143,'50K':148,'100K':248,'150K':498}},
+      'Elite Trader Funding':{kind:'varies',note_es:'$87/mes o $177 pago único en Static y 1-Step; Direct To Funded es pago único',note_en:'$87/mo or $177 one-time on Static and 1-Step; Direct To Funded is one-time'}
+    };
+    /* Tipo de pago principal por firma */
+    var FIRM_PAYMENT={
+      'My Funded Futures':'one-time',
+      'Phidias Prop':'one-time',
+      'Traders Launch':'one-time',
+      'Tradeify':'one-time',
+      'Lucid Trading':'one-time',
+      'Apex Trader Funding':'one-time',
+      'Topstep':'monthly',
+      'Take Profit Trader':'monthly',
+      'TradeDay':'monthly',
+      'Bulenox':'monthly',
+      'Alpha Futures':'monthly',
+      'Elite Trader Funding':'monthly'
+    };
     function moneyDisc(value,firm){var f=discountedPrice(value,firm);return f==null?money(value):money(f)}
     function pricesOf(p){return (p.account_sizes||[]).map(s=>[s,p.price_usd&&Object.prototype.hasOwnProperty.call(p.price_usd,s)?p.price_usd[s]:null])}
     function minPrice(p){const x=pricesOf(p).filter(v=>v[1]!=null).sort((a,b)=>a[1]-b[1]);return x.length?{size:x[0][0],value:x[0][1]}:null}
@@ -880,6 +910,12 @@
       cheapest:'Las opciones más económicas ahora mismo:',
       cheapestOf:'Lo más económico de <b>{f}</b>:',
       noCheapest:'No encontré precios para comparar.',
+      actFeeTitle:'Fee de activación por firma:',
+      actFeeNone:'Sin fee de activación:',
+      actFeeSome:'Cobran fee de activación:',
+      oneTimeTitle:'Pago único (un solo pago, sin mensualidad):',
+      monthlyTitle:'Con mensualidad (se renueva cada mes):',
+      payNote:'Ojo: algunas firmas tienen planes mixtos (ej. Topstep Labs y Bulenox Fast-Track son pago único aunque su producto principal sea mensual).',
       empty:'No entendí bien. Prueba con el nombre de una firma (ej. "Apex", "Tradeify") o "ofertas actuales".',
       disclaimer:'Precios y promos cambian seguido — confirma siempre en el checkout. 🤝'
     },
@@ -899,6 +935,12 @@
       cheapest:'The cheapest options right now:',
       cheapestOf:'Cheapest from <b>{f}</b>:',
       noCheapest:'I couldn\'t find prices to compare.',
+      actFeeTitle:'Activation fee by firm:',
+      actFeeNone:'No activation fee:',
+      actFeeSome:'Charge an activation fee:',
+      oneTimeTitle:'One-time payment (single payment, no monthly):',
+      monthlyTitle:'Monthly (renews every month):',
+      payNote:'Note: some firms have mixed plans (e.g. Topstep Labs and Bulenox Fast-Track are one-time even though their main product is monthly).',
       empty:'I didn\'t quite get that. Try a firm name (e.g. "Apex", "Tradeify") or "current deals".',
       disclaimer:'Prices and promos change often — always confirm at checkout. 🤝'
     }
@@ -965,11 +1007,41 @@
     }catch(e){ return []; }
   }
 
+  /* Fee de activación para (firma, plan, tamaño). Devuelve número, 0, o null si no se conoce. */
+  function activationFeeFor(firm,plan,size){
+    try{
+      var a=(typeof FIRM_ACTIVATION!=='undefined')?FIRM_ACTIVATION[firm]:null;
+      if(!a) return null;
+      if(a.kind==='none') return 0;
+      if(a.kind==='fixed') return a.fee;
+      if(a.kind==='per-size'){
+        if(a.fees&&a.fees[size]!=null) return a.fees[size];
+        if(a.plans){
+          for(var k in a.plans){
+            if(plan&&plan.indexOf(k)!==-1&&a.plans[k][size]!=null) return a.plans[k][size];
+          }
+        }
+        return null;
+      }
+      return null;
+    }catch(e){ return null; }
+  }
+
   function fmtCheapRow(r,i,L){
     var priceHtml=(r.pct&&r.code)
       ?'<s>$'+r.price+'</s> <b>$'+r.final+'</b> '+T[L].withCode.replace('{c}',r.code).replace('{p}',Math.round(r.pct*100))
       :'<b>$'+r.final+'</b>';
-    var line=(i+1)+'. <b>'+r.firm+'</b> — '+r.plan+' '+r.size+' — '+priceHtml;
+    var fee=activationFeeFor(r.firm,r.plan,r.size);
+    var feeHtml='';
+    if(fee===0){
+      feeHtml=' · '+(L==='es'?'sin fee de activación':'no activation fee');
+    }else if(fee>0){
+      var total=Math.round((r.final+fee)*100)/100;
+      feeHtml=' + $'+fee+' '+(L==='es'?'activación':'activation')+' = <b>$'+total+' '+(L==='es'?'total':'total')+'</b>';
+    }else{
+      feeHtml=' · <i>'+(L==='es'?'verifica el fee de activación en checkout':'check the activation fee at checkout')+'</i>';
+    }
+    var line=(i+1)+'. <b>'+r.firm+'</b> — '+r.plan+' '+r.size+' — '+priceHtml+feeHtml;
     if(BORI_FIRMS.indexOf(r.firm)!==-1) line+=' 💡<b>BORI</b>';
     return line;
   }
@@ -992,15 +1064,62 @@
       var dInfo=(typeof discountInfo==='function')?discountInfo(firm):null;
       var dPrice=(typeof discountedPrice==='function')?discountedPrice(cp.price,firm):null;
       var priceHtml;
+      var basePrice=(dInfo&&dInfo.pct&&dPrice!=null)?dPrice:cp.price;
       if(dInfo&&dInfo.pct&&dPrice!=null){
         priceHtml='<s>$'+cp.price+'</s> <b>$'+dPrice+'</b> '+T[L].withCode.replace('{c}',dInfo.code).replace('{p}',Math.round(dInfo.pct*100));
       } else {
         priceHtml='<b>$'+cp.price+'</b>';
       }
+      var fee=activationFeeFor(firm,cp.plan,cp.size);
+      if(fee===0){
+        priceHtml+=' · '+(L==='es'?'sin fee de activación':'no activation fee');
+      }else if(fee>0){
+        var total=Math.round((basePrice+fee)*100)/100;
+        priceHtml+=' + $'+fee+' '+(L==='es'?'activación':'activation')+' = <b>$'+total+' '+(L==='es'?'total':'total')+'</b>';
+      }else{
+        priceHtml+=' · <i>'+(L==='es'?'verifica el fee de activación en checkout':'check the activation fee at checkout')+'</i>';
+      }
       out.push('📦 '+T[L].plans+': '+cp.plan+' '+cp.size+' — '+priceHtml);
     }
     if(BORI_FIRMS.indexOf(firm)!==-1) out.push(T[L].boriLine);
     return out.join('<br>');
+  }
+
+  /* Respuesta: quiénes cobran fee de activación */
+  function activationFeeAnswer(L){
+    var none=[],some=[],varies=[];
+    try{
+      var firms=Object.keys(FIRM_ACTIVATION);
+      firms.forEach(function(f){
+        var a=FIRM_ACTIVATION[f];
+        if(a.kind==='none') none.push(f);
+        else if(a.kind==='varies') varies.push('• <b>'+f+'</b> — '+(L==='es'?a.note_es:a.note_en));
+        else{
+          var detail='';
+          if(a.kind==='fixed') detail=' $'+a.fee+(a.waivedBy?(L==='es'?' (gratis con '+a.waivedBy+')':' (free with '+a.waivedBy+')'):'');
+          some.push('• <b>'+f+'</b>'+detail);
+        }
+      });
+    }catch(e){}
+    var out='<b>'+T[L].actFeeTitle+'</b><br><br>';
+    out+=T[L].actFeeNone+'<br>'+none.map(function(f){return '• <b>'+f+'</b>';}).join('<br>');
+    out+='<br><br>'+T[L].actFeeSome+'<br>'+some.join('<br>');
+    if(varies.length) out+='<br>'+varies.join('<br>');
+    return out;
+  }
+
+  /* Respuesta: pago único vs mensualidad */
+  function paymentTypeAnswer(L){
+    var one=[],mon=[];
+    try{
+      Object.keys(FIRM_PAYMENT).forEach(function(f){
+        (FIRM_PAYMENT[f]==='one-time'?one:mon).push('• <b>'+f+'</b>');
+      });
+    }catch(e){}
+    var out='<b>'+T[L].oneTimeTitle+'</b><br>'+one.join('<br>');
+    out+='<br><br><b>'+T[L].monthlyTitle+'</b><br>'+mon.join('<br>');
+    out+='<br><br><i>'+T[L].payNote+'</i>';
+    return out;
   }
 
   function answer(text){
@@ -1009,8 +1128,18 @@
     var firms=findFirms(text);
     var wantsAll=/ofertas|promos|promociones|deals|offers|todas|all|cu[aá]les|which/.test(t);
     var wantsCheapest=/m[aá]s\s+(econ[oó]mic\w*|barat\w*)|\bbarat\w*\b|\bcheap\w*\b|cheapest|lowest\s+price|most\s+affordable|affordable|budget\b|presupuesto|precio\s+m[aá]s\s+bajo/.test(t);
+    var wantsActFee=/activation|fee de activaci[oó]n|cargo de activaci[oó]n/.test(t);
+    var wantsPayType=/un solo pago|one.?time|pago [uú]nico|single payment|mensualidad|monthly|mensual|suscripci[oó]n|subscription|recurrente|recurring/.test(t);
     var wantsCompare=/compar|vs\b|mejor|best|compare|diferencia|difference|barato|cheap/.test(t);
     var wantsBori=/\bbori\b/.test(t);
+
+    if(wantsActFee&&!wantsCheapest){
+      return activationFeeAnswer(L)+'<br><br><i>'+T[L].disclaimer+'</i>';
+    }
+
+    if(wantsPayType&&!wantsCheapest){
+      return paymentTypeAnswer(L)+'<br><br><i>'+T[L].disclaimer+'</i>';
+    }
 
     if(wantsCheapest){
       var scope=firms.length?firms:null;
