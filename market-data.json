@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-15T11:32:31.760585+00:00",
+ "updated_at": "2026-10-15T11:32:35.306457+00:00",
  "nq": {
-  "price": 29812.0,
-  "change_points": -370.75,
+  "price": 29813.0,
+  "change_points": -369.75,
   "percent_change": -1.23
  },
  "gold": {
@@ -17,29 +17,29 @@
  },
  "headlines": [
   {
-   "headline": "Los futuros del Nasdaq caen más de 1% mientras se agrava la caída de las acciones de IA por temores sobre la deuda",
+   "headline": "Los futuros del Nasdaq caen 1% mientras se profundiza la caída de las acciones de IA por temores de deuda",
    "headline_en": "Nasdaq futures dive 1% as AI rout deepens on debt concerns",
    "source": "Reuters"
   },
   {
-   "headline": "TSMC da una guía cautelosa para 2027 pese a su sexto récord trimestral de utilidades",
+   "headline": "Inflación de septiembre supera pronósticos: IPC anual sube a 3.7% y revive apuestas de alza de la Fed el 27-28 de octubre",
+   "headline_en": "September CPI rises 3.7% annually, above forecast, reviving bets on an October 27-28 Fed hike",
+   "source": "TradingView News"
+  },
+  {
+   "headline": "TSMC da guía cautelosa para 2027 pese a su sexto récord trimestral consecutivo de utilidades",
    "headline_en": "TSMC strikes cautious note for 2027 after sixth straight record quarterly profit",
    "source": "Reuters"
   },
   {
-   "headline": "El dato de inflación más alto de lo esperado revive las apuestas de más alzas de tasas de la Fed",
-   "headline_en": "Hotter-than-expected inflation data fuels expectations of more Fed rate hikes",
-   "source": "Reuters"
-  },
-  {
-   "headline": "La venta masiva en CoreWeave, Oracle y los fabricantes de chips borra $80,000 millones de valor de mercado",
+   "headline": "La liquidación de CoreWeave, Oracle y fabricantes de chips borró $80,000 millones de valor de mercado",
    "headline_en": "CoreWeave, Oracle and chipmakers selloff wipes out $80 billion in market value",
    "source": "Reuters"
   },
   {
-   "headline": "Japón financiará hasta $21,000 millones para dos fábricas de chips de GlobalFoundries en Nueva York",
-   "headline_en": "Japan to fund up to $21 billion in two New York chip factories with GlobalFoundries",
-   "source": "Asia Daily"
+   "headline": "Bank of America cae 8.5% tras desplome de ganancias y provisión de $1.2 mil millones para multas regulatorias",
+   "headline_en": "Bank of America falls 8.5% after Q3 profit decline and $1.2 billion provision for regulatory fines",
+   "source": "Political.org"
   }
  ],
  "ultima_hora": null
