@@ -413,11 +413,26 @@
     .market-pulse{margin:0 24px 18px;border:1px solid color-mix(in srgb,var(--accent) 36%,var(--line));border-radius:16px;background:linear-gradient(135deg,color-mix(in srgb,var(--hero) 96%,transparent),color-mix(in srgb,var(--hero-2) 94%,transparent));color:var(--hero-ink);box-shadow:var(--soft-shadow);overflow:hidden}
     .pulse-breaking{display:none;align-items:flex-start;gap:12px;padding:13px 17px;background:#9f291f;color:#fff;border-bottom:1px solid rgba(255,255,255,.2)}
     .pulse-breaking.show{display:flex}.pulse-breaking-tag{flex:0 0 auto;padding:4px 7px;border-radius:5px;background:#fff;color:#7c1c15;font:800 8px/1 "IBM Plex Mono",monospace;letter-spacing:.08em;text-transform:uppercase}.pulse-breaking-copy{min-width:0}.pulse-breaking-copy b{display:block;font-size:13px;line-height:1.3}.pulse-breaking-copy span{display:block;margin-top:3px;color:rgba(255,255,255,.78);font-size:9px}.pulse-breaking-copy a{color:#fff;text-underline-offset:3px}
+    /* CNN-style breaking news: thumbnail visual, mute button, animated tag + sweep shine */
+    .pulse-breaking{position:relative;overflow:hidden}
+    .pulse-breaking-visual{flex:0 0 auto;width:44px;height:44px;border-radius:10px;display:flex;align-items:center;justify-content:center;background:rgba(0,0,0,.35);border:1px solid rgba(255,255,255,.28);color:#ffd166}
+    .pulse-breaking.active .pulse-breaking-visual{animation:breakingVisualRing 1.6s ease-in-out infinite}
+    @keyframes breakingVisualRing{0%,100%{box-shadow:0 0 0 0 rgba(255,209,102,0)}50%{box-shadow:0 0 14px 2px rgba(255,209,102,.55)}}
+    .pulse-breaking.active .pulse-breaking-tag{animation:breakingTagFlash 1.4s ease-in-out infinite,breakingTagNudge 3.4s ease-in-out infinite}
+    @keyframes breakingTagFlash{0%,100%{background:#fff;color:#7c1c15;box-shadow:0 0 0 0 rgba(255,255,255,0)}50%{background:#7c1c15;color:#fff;box-shadow:0 0 14px 3px rgba(255,255,255,.8)}}
+    @keyframes breakingTagNudge{0%,100%{transform:translateX(-3px)}50%{transform:translateX(3px)}}
+    .pulse-breaking.active:before{content:"";position:absolute;top:0;bottom:0;left:-30%;width:28%;background:linear-gradient(100deg,transparent,rgba(255,255,255,.22),transparent);animation:breakingSweep 4.5s linear infinite;pointer-events:none}
+    @keyframes breakingSweep{from{left:-30%}to{left:115%}}
+    .pulse-breaking.active .pulse-breaking-copy b{animation:breakingHeadlineIn .55s ease}
+    @keyframes breakingHeadlineIn{from{opacity:0;transform:translateY(7px)}to{opacity:1;transform:none}}
+    .pulse-breaking-mute{flex:0 0 auto;margin-left:auto;align-self:center;background:rgba(0,0,0,.3);border:1px solid rgba(255,255,255,.3);border-radius:8px;color:#fff;font-size:14px;line-height:1;padding:6px 8px;cursor:pointer;transition:transform .15s,background .15s}
+    .pulse-breaking-mute:hover{background:rgba(0,0,0,.5);transform:scale(1.08)}
+    @media(prefers-reduced-motion:reduce){.pulse-breaking.active .pulse-breaking-tag,.pulse-breaking.active:before,.pulse-breaking.active .pulse-breaking-visual,.pulse-breaking.active .pulse-breaking-copy b{animation:none}}
     .pulse-head{display:flex;justify-content:space-between;align-items:center;gap:16px;padding:15px 17px;border-bottom:1px solid rgba(255,255,255,.11)}.pulse-head h2{margin:0;font-size:18px;letter-spacing:-.025em}.pulse-status{display:flex;align-items:center;gap:7px;color:var(--hero-muted);font:600 8px "IBM Plex Mono",monospace;text-align:right}.pulse-status:before{content:"";width:6px;height:6px;border-radius:50%;background:var(--warm);box-shadow:0 0 10px color-mix(in srgb,var(--warm) 70%,transparent)}.market-pulse.ready .pulse-status:before{background:var(--signal);box-shadow:0 0 10px rgba(89,242,173,.65)}
     .pulse-grid{display:grid;grid-template-columns:repeat(3,minmax(150px,.58fr)) minmax(320px,1.26fr);gap:0}.nq-ticker{padding:18px;border-right:1px solid rgba(255,255,255,.11);background:rgba(0,0,0,.13)}.nq-kicker{display:flex;justify-content:space-between;gap:10px;align-items:center;color:var(--hero-muted);font:700 8px "IBM Plex Mono",monospace;letter-spacing:.07em;text-transform:uppercase}.nq-symbol{color:var(--signal);font-size:10px}.nq-price{display:block;margin-top:12px;font:700 clamp(28px,3.3vw,43px)/1 "IBM Plex Mono",monospace;letter-spacing:-.055em}.nq-price.up{color:var(--signal)}.nq-price.down{color:#ff8378}.nq-price.flat{color:var(--hero-muted)}.nq-change{display:flex;gap:9px;align-items:center;margin-top:10px;font:700 12px "IBM Plex Mono",monospace}.market-ticker:not(.nq-original) .nq-price{font-size:clamp(25px,2.45vw,37px)}.market-ticker:not(.nq-original) .nq-change{flex-wrap:wrap;gap:5px 9px;font-size:11px}.nq-change.up{color:var(--signal)}.nq-change.down{color:#ff8378}.nq-change.flat{color:var(--hero-muted)}.nq-note{margin:13px 0 0;color:var(--hero-muted);font-size:9px;line-height:1.45}
     .daily-news{padding:17px 18px}.daily-news h3{margin:0 0 10px;font-size:13px;letter-spacing:-.01em}.market-headlines{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px 16px}.market-headlines li{position:relative;padding:9px 0 9px 13px;border-top:1px solid rgba(255,255,255,.09);min-width:0}.market-headlines li:before{content:"";position:absolute;left:0;top:14px;width:5px;height:5px;border-radius:50%;background:var(--signal)}.market-headlines a{display:block;color:var(--hero-ink);font-size:10px;font-weight:600;line-height:1.4;text-decoration:none}.market-headlines a:hover{text-decoration:underline;text-underline-offset:3px}.market-headlines small{display:block;margin-top:4px;color:var(--hero-muted);font:500 7px "IBM Plex Mono",monospace}.pulse-fallback{grid-column:1/-1;margin:0;padding:24px 18px;color:var(--hero-muted);font-size:12px;text-align:center}
     @media(max-width:1100px){.market-pulse{margin-left:8px;margin-right:8px}.pulse-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.daily-news{grid-column:1/-1;border-top:1px solid rgba(255,255,255,.11)}.pulse-grid>.nq-ticker:nth-child(3){border-right:0}}
-    @media(max-width:640px){.market-pulse{margin:0 0 12px;border-radius:11px}.pulse-head{padding:10px 11px}.pulse-head h2{font-size:14px}.pulse-status{font-size:6.5px}.pulse-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.nq-ticker{min-width:0;padding:10px 7px;border-right:1px solid rgba(255,255,255,.11);border-bottom:0}.pulse-grid>.nq-ticker:nth-child(3){border-right:0}.nq-kicker{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:3px;font-size:6.5px;line-height:1.25}.nq-symbol{font-size:8px}.nq-price,.market-ticker:not(.nq-original) .nq-price{font-size:clamp(15px,5.2vw,22px);margin-top:7px;letter-spacing:-.06em;white-space:nowrap}.nq-change,.market-ticker:not(.nq-original) .nq-change{display:grid;gap:2px;margin-top:6px;font-size:7px;line-height:1.2}.nq-note{margin-top:7px;font-size:6px;line-height:1.3}.daily-news{grid-column:1/-1;padding:11px;border-top:1px solid rgba(255,255,255,.11)}.daily-news h3{font-size:11px;margin-bottom:5px}.market-headlines{grid-template-columns:1fr;gap:0}.market-headlines li{padding:7px 0 7px 11px}.market-headlines li:before{top:11px}.market-headlines a{font-size:9px}.market-headlines small{font-size:6.5px}.pulse-breaking{padding:10px 11px;gap:8px}.pulse-breaking-copy b{font-size:10px}.pulse-breaking-copy span{font-size:7px}.pulse-fallback{padding:18px 11px;font-size:10px}}
+    @media(max-width:640px){.market-pulse{margin:0 0 12px;border-radius:11px}.pulse-head{padding:10px 11px}.pulse-head h2{font-size:14px}.pulse-status{font-size:6.5px}.pulse-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.nq-ticker{min-width:0;padding:10px 7px;border-right:1px solid rgba(255,255,255,.11);border-bottom:0}.pulse-grid>.nq-ticker:nth-child(3){border-right:0}.nq-kicker{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:3px;font-size:6.5px;line-height:1.25}.nq-symbol{font-size:8px}.nq-price,.market-ticker:not(.nq-original) .nq-price{font-size:clamp(15px,5.2vw,22px);margin-top:7px;letter-spacing:-.06em;white-space:nowrap}.nq-change,.market-ticker:not(.nq-original) .nq-change{display:grid;gap:2px;margin-top:6px;font-size:7px;line-height:1.2}.nq-note{margin-top:7px;font-size:6px;line-height:1.3}.daily-news{grid-column:1/-1;padding:11px;border-top:1px solid rgba(255,255,255,.11)}.daily-news h3{font-size:11px;margin-bottom:5px}.market-headlines{grid-template-columns:1fr;gap:0}.market-headlines li{padding:7px 0 7px 11px}.market-headlines li:before{top:11px}.market-headlines a{font-size:9px}.market-headlines small{font-size:6.5px}.pulse-breaking{padding:10px 11px;gap:8px}.pulse-breaking-visual{width:34px;height:34px;border-radius:8px}.pulse-breaking-visual svg{width:19px;height:19px}.pulse-breaking-mute{font-size:12px;padding:5px 7px}.pulse-breaking-copy b{font-size:10px}.pulse-breaking-copy span{font-size:7px}.pulse-fallback{padding:18px 11px;font-size:10px}}
   </style>
 </head>
 <body>
@@ -455,7 +470,9 @@
     <section class="market-pulse" id="marketPulse" aria-labelledby="marketPulseTitle" aria-live="polite">
       <div class="pulse-breaking" id="pulseBreaking" role="alert">
         <span class="pulse-breaking-tag">Última hora</span>
+        <span class="pulse-breaking-visual" aria-hidden="true"><svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10.29 3.86 1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg></span>
         <div class="pulse-breaking-copy"><b id="breakingHeadline"></b><span id="breakingMeta"></span></div>
+        <button class="pulse-breaking-mute" id="breakingMute" type="button" aria-label="Silenciar sonido de última hora" title="Silenciar sonido de última hora">🔊</button>
       </div>
       <div class="pulse-head"><h2 id="marketPulseTitle">Market Pulse</h2><span class="pulse-status" id="pulseStatus">Actualizando datos del mercado…</span></div>
       <div class="pulse-grid" id="pulseGrid">
@@ -773,6 +790,51 @@ const c=info.querySelector('[data-radar-firm]');if(c)c.addEventListener('click',
       const numberFormat=new Intl.NumberFormat('en-US',{minimumFractionDigits:2,maximumFractionDigits:2});
       const updatedFormat=new Intl.DateTimeFormat('es-US',{day:'numeric',month:'short',hour:'numeric',minute:'2-digit',timeZone:'America/Chicago',timeZoneName:'short'});
 
+      // --- Breaking news emergency alert sound (Web Audio API, generated tone) ---
+      var breakingAudioCtx=null,breakingAudioUnlocked=false,breakingMuted=false;
+      try{breakingMuted=localStorage.getItem('bpd-breaking-muted')==='1';}catch(e){}
+      function unlockBreakingAudio(){
+        if(breakingAudioUnlocked)return;
+        try{
+          var AC=window.AudioContext||window.webkitAudioContext;
+          if(!AC)return;
+          breakingAudioCtx=new AC();
+          if(breakingAudioCtx.state==='suspended')breakingAudioCtx.resume();
+          breakingAudioUnlocked=true;
+        }catch(err){}
+      }
+      // Browsers require a user gesture before audio can play: unlock on first interaction
+      ['pointerdown','keydown','touchstart'].forEach(function(ev){window.addEventListener(ev,unlockBreakingAudio,{once:true,passive:true});});
+      function playBreakingSound(){
+        if(breakingMuted||!breakingAudioUnlocked||!breakingAudioCtx)return;
+        try{
+          var ctx=breakingAudioCtx,t=ctx.currentTime+0.03;
+          // Two-tone emergency siren: 4 alternations (~2.3s), played ONCE
+          var dur=0.27,gap=0.03,peak=0.16;
+          for(var i=0;i<4;i++){
+            (function(i){
+              var f=i%2===0?740:932.33;
+              var start=t+i*(dur+gap);
+              var o=ctx.createOscillator(),g=ctx.createGain();
+              o.type='triangle';o.frequency.value=f;
+              g.gain.setValueAtTime(0.0001,start);
+              g.gain.exponentialRampToValueAtTime(peak,start+0.03);
+              g.gain.setValueAtTime(peak,start+dur-0.05);
+              g.gain.exponentialRampToValueAtTime(0.0001,start+dur);
+              o.connect(g);g.connect(ctx.destination);
+              o.start(start);o.stop(start+dur+0.05);
+            })(i);
+          }
+        }catch(err){}
+      }
+      var breakingMuteBtn=document.getElementById('breakingMute');
+      function breakingMuteLabel(){return breakingMuted?(lang==='en'?'Unmute breaking news alert sound':'Reactivar sonido de última hora'):(lang==='en'?'Mute breaking news alert sound':'Silenciar sonido de última hora');}
+      function syncBreakingMute(){if(!breakingMuteBtn)return;breakingMuteBtn.textContent=breakingMuted?'🔇':'🔊';breakingMuteBtn.setAttribute('aria-label',breakingMuteLabel());breakingMuteBtn.setAttribute('title',breakingMuteLabel());}
+      if(breakingMuteBtn){
+        breakingMuteBtn.addEventListener('click',function(ev){ev.stopPropagation();breakingMuted=!breakingMuted;try{localStorage.setItem('bpd-breaking-muted',breakingMuted?'1':'0');}catch(err){}syncBreakingMute();});
+        syncBreakingMute();
+      }
+
       function leaveFallback(){
         pulse.classList.remove('ready');
         status.textContent=fallback;
@@ -838,6 +900,23 @@ const c=info.querySelector('[data-radar-firm]');if(c)c.addEventListener('click',
           meta.appendChild(anchor);
         }
         breaking.classList.add('show');
+        // CNN-style active state: only when there is REAL breaking news (not the idle placeholder)
+        var isRealBreaking=!!(alert.headline||alert.title);
+        breaking.classList.toggle('active',isRealBreaking);
+        syncBreakingMute();
+        // Emergency sound: once per new breaking headline, never for the idle placeholder
+        if(isRealBreaking){
+          var bkey='b:'+String(alert.headline||alert.title).slice(0,120)+'|'+String(alert.published_at||alert.source||'');
+          var seen=null;
+          try{seen=localStorage.getItem('bpd-breaking-key');}catch(e2){}
+          if(bkey&&bkey!==seen){
+            var shouldAlert=!breakingMuted;
+            if(shouldAlert){try{localStorage.setItem('bpd-breaking-key',bkey);}catch(e3){}}
+            if(shouldAlert)playBreakingSound();
+            // If audio is locked (no user gesture yet) or muted+unmarked, the key stays
+            // unmarked so the alert fires on the next refresh after interaction.
+          }
+        }
       }
 
       let lastMarketData=null;
