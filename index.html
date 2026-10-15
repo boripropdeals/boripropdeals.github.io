@@ -297,8 +297,21 @@
     .firm-heading{min-width:0}.firm-heading h3{margin:0;font-size:21px;letter-spacing:-.025em}.firm-heading p{margin:4px 0 0;color:var(--muted);font-size:11px}
     .firm-chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:9px}.firm-chip{padding:5px 7px;border-radius:5px;background:var(--surface-2);color:var(--muted);font:700 8px/1.25 "IBM Plex Mono",monospace}.firm-chip.promo{background:color-mix(in srgb,var(--hot) 10%,var(--surface));color:var(--hot)}.firm-chip.rating{color:var(--accent)}
     .plat-row{display:flex;flex-wrap:wrap;gap:5px;margin-top:8px;align-items:center}.plat-label{font:700 8px/1.25 "IBM Plex Mono",monospace;color:var(--muted);text-transform:uppercase;letter-spacing:.4px;margin-right:2px}.plat-badge{padding:4px 8px;border-radius:20px;border:1px solid rgba(89,242,173,.35);color:#c9f5e2;font:600 10px/1.2 system-ui,sans-serif;background:rgba(89,242,173,.06);white-space:nowrap}.plat-badge:hover{border-color:var(--signal);color:#fff}.plat-logo{display:inline-flex;align-items:center;justify-content:center;flex-shrink:0;background:#fff;border-radius:12px;padding:4px;width:44px;height:44px;border:1px solid rgba(255,255,255,.18);box-shadow:0 1px 4px rgba(0,0,0,.25);cursor:default;transition:transform .2s}.plat-logo:hover{transform:scale(1.12);border-color:var(--signal)}.plat-logo img{max-width:34px;max-height:34px;width:auto;height:auto;object-fit:contain;display:block}.plat-new{display:inline-flex;align-items:center;font:800 8px/1 system-ui,-apple-system,sans-serif;letter-spacing:.7px;color:#06110b;background:linear-gradient(135deg,#59f2ad 10%,#a3f7c9 45%,#a855f7 90%);border-radius:10px;padding:4px 7px;margin-left:3px;vertical-align:middle;animation:newGlow 1.8s ease-in-out infinite}@keyframes newGlow{0%,100%{box-shadow:0 0 3px rgba(89,242,173,.55)}50%{box-shadow:0 0 10px rgba(89,242,173,.95),0 0 18px rgba(168,85,247,.7)}}@media(prefers-reduced-motion:reduce){.plat-new{animation:none}}
-    .firm-plans{padding:16px;border-top:1px solid var(--line);background:color-mix(in srgb,var(--surface-2) 52%,var(--surface));display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;align-items:start}
+    .firm-plans{padding:16px;border-top:1px solid var(--line);background:color-mix(in srgb,var(--surface-2) 52%,var(--surface));display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;align-items:stretch}
     .firm-plans .card{box-shadow:none}.firm-plans .card:hover{box-shadow:0 14px 32px rgba(15,53,40,.1)}
+    /* ——— Professional firm cards: uniform, organized, centered (2026-10-15) ——— */
+    .firm-heading{text-align:center}
+    .firm-chips{justify-content:center}
+    .firm-heading>.coupon-stack{justify-content:center}
+    .firm-heading>.plat-row{justify-content:center}
+    .card-head{flex-direction:column;align-items:center;text-align:center;gap:10px;padding:22px 19px 16px}
+    .card-head .title{flex:none;min-width:0}
+    .coupon-stack.card-coupons{justify-content:center}
+    .price-row{flex-direction:column;align-items:center;text-align:center;gap:8px}
+    .price{text-align:center}
+    .metric b{min-height:22px;display:flex;align-items:center;justify-content:center}
+    .actions{grid-template-columns:1fr 1fr;margin-top:auto}
+    @media(max-width:640px){.card-head{padding:14px 12px 10px;gap:8px}.metric b{min-height:18px}}
 
     /* BoriScope: premium ranking podium — modern, clear, trader-first. */
     .visual-terminal{border-color:rgba(89,242,173,.28);background:linear-gradient(165deg,rgba(16,74,53,.5),rgba(2,15,11,.97) 62%);box-shadow:0 18px 44px rgba(0,0,0,.35),0 0 26px rgba(89,242,173,.07)}
