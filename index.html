@@ -877,6 +877,9 @@
       compare:'Comparativa rápida:',
       plans:'Planes desde',
       withCode:'con {c} ({p}% OFF)',
+      cheapest:'Las opciones más económicas ahora mismo:',
+      cheapestOf:'Lo más económico de <b>{f}</b>:',
+      noCheapest:'No encontré precios para comparar.',
       empty:'No entendí bien. Prueba con el nombre de una firma (ej. "Apex", "Tradeify") o "ofertas actuales".',
       disclaimer:'Precios y promos cambian seguido — confirma siempre en el checkout. 🤝'
     },
@@ -893,6 +896,9 @@
       compare:'Quick comparison:',
       plans:'Plans from',
       withCode:'with {c} ({p}% OFF)',
+      cheapest:'The cheapest options right now:',
+      cheapestOf:'Cheapest from <b>{f}</b>:',
+      noCheapest:'I couldn\'t find prices to compare.',
       empty:'I didn\'t quite get that. Try a firm name (e.g. "Apex", "Tradeify") or "current deals".',
       disclaimer:'Prices and promos change often — always confirm at checkout. 🤝'
     }
@@ -937,6 +943,37 @@
     }catch(e){ return null; }
   }
 
+  /* Top N opciones más económicas (por precio FINAL con descuento aplicado). firms=null → todas. */
+  function topCheapest(firms,limit){
+    limit=limit||3;
+    try{
+      var disc=typeof discountInfo==='function', dpr=typeof discountedPrice==='function';
+      var rows=[];
+      research.plans.forEach(function(p){
+        if(firms&&firms.length&&firms.indexOf(p.firm)===-1) return;
+        if(!p.price_usd) return;
+        var d=disc?discountInfo(p.firm):null;
+        Object.keys(p.price_usd).forEach(function(s){
+          var v=p.price_usd[s];
+          if(v==null) return;
+          var f=(dpr&&d&&d.pct)?discountedPrice(v,p.firm):null;
+          rows.push({firm:p.firm,plan:p.plan_name,size:s,price:v,final:f!=null?f:v,code:d?d.code:null,pct:d&&d.pct?d.pct:null});
+        });
+      });
+      rows.sort(function(a,b){return a.final-b.final;});
+      return rows.slice(0,limit);
+    }catch(e){ return []; }
+  }
+
+  function fmtCheapRow(r,i,L){
+    var priceHtml=(r.pct&&r.code)
+      ?'<s>$'+r.price+'</s> <b>$'+r.final+'</b> '+T[L].withCode.replace('{c}',r.code).replace('{p}',Math.round(r.pct*100))
+      :'<b>$'+r.final+'</b>';
+    var line=(i+1)+'. <b>'+r.firm+'</b> — '+r.plan+' '+r.size+' — '+priceHtml;
+    if(BORI_FIRMS.indexOf(r.firm)!==-1) line+=' 💡<b>BORI</b>';
+    return line;
+  }
+
   function fmtPromo(p,L){
     var code=p.code?(' · <b>'+p.code+'</b>'):'';
     var until=p.valid_until&&p.valid_until!=='None'?(T[L].until+': '+p.valid_until):T[L].noDate;
@@ -971,8 +1008,17 @@
     var t=text.toLowerCase();
     var firms=findFirms(text);
     var wantsAll=/ofertas|promos|promociones|deals|offers|todas|all|cu[aá]les|which/.test(t);
+    var wantsCheapest=/m[aá]s\s+(econ[oó]mic\w*|barat\w*)|\bbarat\w*\b|\bcheap\w*\b|cheapest|lowest\s+price|most\s+affordable|affordable|budget\b|presupuesto|precio\s+m[aá]s\s+bajo/.test(t);
     var wantsCompare=/compar|vs\b|mejor|best|compare|diferencia|difference|barato|cheap/.test(t);
     var wantsBori=/\bbori\b/.test(t);
+
+    if(wantsCheapest){
+      var scope=firms.length?firms:null;
+      var top=topCheapest(scope,3);
+      if(!top.length) return T[L].noCheapest;
+      var ctitle=(scope&&scope.length===1)?T[L].cheapestOf.replace('{f}',scope[0]):T[L].cheapest;
+      return ctitle+'<br>'+top.map(function(r,i){return fmtCheapRow(r,i,L)}).join('<br>')+'<br><br><i>'+T[L].disclaimer+'</i>';
+    }
 
     if(wantsBori&&!firms.length){
       return L==='es'
