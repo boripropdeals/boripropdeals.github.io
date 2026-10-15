@@ -1,19 +1,19 @@
 {
- "updated_at": "2026-10-15T17:34:37.913495+00:00",
+ "updated_at": "2026-10-15T17:35:39.855198+00:00",
  "nq": {
-  "price": 29998.0,
-  "change_points": -184.75,
-  "percent_change": -0.61
+  "price": 30010.75,
+  "change_points": -172.0,
+  "percent_change": -0.57
  },
  "gold": {
-  "price": 4171.0,
-  "change_points": 63.1,
-  "percent_change": 1.54
+  "price": 4171.5,
+  "change_points": 63.6,
+  "percent_change": 1.55
  },
  "oil": {
-  "price": 96.55,
-  "change_points": 1.46,
-  "percent_change": 1.54
+  "price": 96.58,
+  "change_points": 1.49,
+  "percent_change": 1.57
  },
  "headlines": [
   {
@@ -47,5 +47,15 @@
    "source": "The Hindu BusinessLine"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "EE.UU. prepara planes de ataque contra Irán con la madre de todas las bombas por orden de Trump, reporta CNN",
+  "headline_en": "US draws up Iran strike plans including the mother of all bombs on Trump's orders, CNN reports",
+  "source": "CNN",
+  "image": "",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/trump-iran-moab.webp",
+   "https://boripropdeals.github.io/breaking-visuals/trump-iran-moab-2.webp",
+   "https://boripropdeals.github.io/breaking-visuals/trump-iran-moab-breaking-3.webp"
+  ]
+ }
 }
