@@ -443,8 +443,87 @@
     @media(max-width:1100px){.market-pulse{margin-left:8px;margin-right:8px}.pulse-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.daily-news{grid-column:1/-1;border-top:1px solid rgba(255,255,255,.11)}.pulse-grid>.nq-ticker:nth-child(3){border-right:0}}
     @media(max-width:640px){.market-pulse{margin:0 0 12px;border-radius:11px}.pulse-head{padding:10px 11px}.pulse-head h2{font-size:14px}.pulse-status{font-size:6.5px}.pulse-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.nq-ticker{min-width:0;padding:10px 7px;border-right:1px solid rgba(255,255,255,.11);border-bottom:0}.pulse-grid>.nq-ticker:nth-child(3){border-right:0}.nq-kicker{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:3px;font-size:6.5px;line-height:1.25}.nq-symbol{font-size:8px}.nq-price,.market-ticker:not(.nq-original) .nq-price{font-size:clamp(15px,5.2vw,22px);margin-top:7px;letter-spacing:-.06em;white-space:nowrap}.nq-change,.market-ticker:not(.nq-original) .nq-change{display:grid;gap:2px;margin-top:6px;font-size:7px;line-height:1.2}.nq-note{margin-top:7px;font-size:6px;line-height:1.3}.daily-news{grid-column:1/-1;padding:11px;border-top:1px solid rgba(255,255,255,.11)}.daily-news h3{font-size:11px;margin-bottom:5px}.market-headlines{grid-template-columns:1fr;gap:0}.market-headlines li{padding:7px 0 7px 11px}.market-headlines li:before{top:11px}.market-headlines a{font-size:9px}.market-headlines small{font-size:6.5px}.pulse-breaking{padding:10px 11px;gap:8px}.pulse-breaking-visual{width:34px;height:34px;border-radius:8px}.pulse-breaking-visual svg{width:19px;height:19px}.pulse-breaking-media{width:120px;height:68px;border-radius:8px}.pulse-breaking-media svg{width:19px;height:19px}.pulse-breaking-mute{font-size:12px;padding:5px 7px}.pulse-breaking-copy b{font-size:10px}.pulse-breaking-copy span{font-size:7px}.pulse-fallback{padding:18px 11px;font-size:10px}}
   </style>
+  <style>
+    /* ===== HALLOWEEN 2026 — fondo temporal de octubre (se retira solo tras el 31-oct) ===== */
+    .hw-sky{position:fixed;inset:0;z-index:0;pointer-events:none;overflow:hidden}
+    .hw-sky::before{content:"";position:absolute;inset:0;
+      background:
+        radial-gradient(ellipse 42rem 24rem at 6% 102%, rgba(255,110,20,.10), transparent 70%),
+        radial-gradient(ellipse 36rem 22rem at 10% -4%, rgba(168,85,247,.09), transparent 70%),
+        radial-gradient(ellipse 30rem 18rem at 96% 4%, rgba(255,150,50,.06), transparent 70%)}
+    main,.merch-banner{position:relative;z-index:1}
+    .hw-stars{position:absolute;inset:0;
+      background:
+        radial-gradient(circle 1.5px at 12% 18%, rgba(255,255,255,.5), transparent 60%),
+        radial-gradient(circle 1px at 32% 8%, rgba(255,255,255,.4), transparent 60%),
+        radial-gradient(circle 1.5px at 55% 14%, rgba(255,255,255,.45), transparent 60%),
+        radial-gradient(circle 1px at 74% 22%, rgba(255,255,255,.35), transparent 60%),
+        radial-gradient(circle 1px at 88% 34%, rgba(255,255,255,.4), transparent 60%),
+        radial-gradient(circle 1.5px at 22% 32%, rgba(255,255,255,.35), transparent 60%)}
+    .hw-moon{position:absolute;top:110px;right:4.5%;width:118px;height:118px;border-radius:50%;
+      background:radial-gradient(circle at 38% 34%, #ffe9bd, #f7b955 68%, #e89a35);
+      box-shadow:0 0 55px 16px rgba(255,170,60,.22), 0 0 120px 40px rgba(255,140,40,.08)}
+    .hw-moon::before{content:"";position:absolute;inset:0;border-radius:50%;
+      background:
+        radial-gradient(circle 13px at 34% 40%, rgba(176,110,40,.35), transparent 72%),
+        radial-gradient(circle 9px at 63% 58%, rgba(176,110,40,.30), transparent 72%),
+        radial-gradient(circle 7px at 46% 74%, rgba(176,110,40,.28), transparent 72%)}
+    .hw-web{position:absolute;top:0;left:0;width:210px;height:210px}
+    .hw-pumpkin{position:absolute;bottom:26px;width:58px;filter:drop-shadow(0 0 14px rgba(255,140,30,.5))}
+    .hw-pumpkin.left{left:22px}
+    .hw-pumpkin.right{right:22px;transform:scaleX(-1)}
+    .hw-fx{position:fixed;inset:0;z-index:15;pointer-events:none;overflow:hidden}
+    .hw-bat{position:absolute;color:#05050a;opacity:.55;animation:hw-fly linear infinite}
+    .hw-bat svg{display:block;animation:hw-flap .55s ease-in-out infinite}
+    .hw-bat.b1{top:64px;animation-duration:17s;animation-delay:-4s}
+    .hw-bat.b1 svg{width:34px}
+    .hw-bat.b2{top:132px;animation-duration:23s;animation-delay:-11s}
+    .hw-bat.b2 svg{width:24px}
+    .hw-bat.b3{top:98px;animation-duration:20s;animation-delay:-15s;animation-direction:reverse}
+    .hw-bat.b3 svg{width:28px}
+    @keyframes hw-fly{from{left:-12vw;transform:translateY(0)}25%{transform:translateY(-26px)}50%{transform:translateY(10px)}75%{transform:translateY(-14px)}to{left:112vw;transform:translateY(0)}}
+    @keyframes hw-flap{0%,100%{transform:scaleY(1)}50%{transform:scaleY(.78)}}
+    .hw-fog{position:absolute;bottom:-90px;left:-15vw;width:130vw;height:300px;filter:blur(38px);opacity:.5;
+      background:
+        radial-gradient(ellipse 45% 60% at 30% 60%, rgba(150,120,200,.10), transparent 70%),
+        radial-gradient(ellipse 45% 60% at 70% 55%, rgba(255,130,40,.07), transparent 70%);
+      animation:hw-fog 46s ease-in-out infinite alternate}
+    .hw-fog.f2{animation-duration:64s;animation-delay:-20s;opacity:.4}
+    @keyframes hw-fog{from{transform:translateX(-9vw)}to{transform:translateX(9vw)}}
+    .hw-ember{position:absolute;bottom:-8px;width:4px;height:4px;border-radius:50%;background:#ff9a3c;opacity:0;
+      box-shadow:0 0 8px 2px rgba(255,150,60,.5);animation:hw-rise linear infinite}
+    @keyframes hw-rise{0%{transform:translateY(0);opacity:0}12%{opacity:.55}80%{opacity:.35}100%{transform:translateY(-46vh);opacity:0}}
+    @media(max-width:640px){.hw-moon{width:76px;height:76px;top:150px;right:6%}.hw-pumpkin{width:42px;bottom:16px}.hw-web{width:140px;height:140px}}
+    @media (prefers-reduced-motion:reduce){.hw-fx{display:none}}
+  </style>
 </head>
 <body>
+  <!-- HALLOWEEN 2026: fondo temporal de octubre -->
+  <div class="hw-sky" aria-hidden="true">
+    <div class="hw-stars"></div>
+    <div class="hw-moon"></div>
+    <svg class="hw-web" viewBox="0 0 200 200" aria-hidden="true"><g stroke="rgba(255,255,255,.12)" stroke-width="1.5" fill="none"><path d="M0 0H200M0 0V200M0 0L200 200M0 0L200 120M0 0L120 200"/><path d="M45 0Q45 45 0 45M90 0Q90 90 0 90M135 0Q135 135 0 135M180 0Q180 180 0 180"/></g></svg>
+    <svg class="hw-pumpkin left" viewBox="0 0 100 100" aria-hidden="true"><ellipse cx="50" cy="60" rx="36" ry="32" fill="#b34d0e"/><ellipse cx="50" cy="60" rx="23" ry="32" fill="#dd7a1c"/><ellipse cx="50" cy="60" rx="10" ry="32" fill="#b34d0e"/><path d="M47 24q2-13 13-15-2 9-5 15z" fill="#4a7c2f"/><path d="M31 50l9-9 9 9-9 5z" fill="#ffd166"/><path d="M51 50l9-9 9 9-9 5z" fill="#ffd166"/><path d="M30 68q20 13 40 0l-6 13H36z" fill="#ffd166"/></svg>
+    <svg class="hw-pumpkin right" viewBox="0 0 100 100" aria-hidden="true"><ellipse cx="50" cy="60" rx="36" ry="32" fill="#b34d0e"/><ellipse cx="50" cy="60" rx="23" ry="32" fill="#dd7a1c"/><ellipse cx="50" cy="60" rx="10" ry="32" fill="#b34d0e"/><path d="M47 24q2-13 13-15-2 9-5 15z" fill="#4a7c2f"/><path d="M31 50l9-9 9 9-9 5z" fill="#ffd166"/><path d="M51 50l9-9 9 9-9 5z" fill="#ffd166"/><path d="M30 68q20 13 40 0l-6 13H36z" fill="#ffd166"/></svg>
+  </div>
+  <div class="hw-fx" aria-hidden="true">
+    <div class="hw-bat b1"><svg viewBox="0 0 60 24"><path fill="currentColor" d="M3 15Q11 3 23 10Q26 5 30 9Q34 5 37 10Q49 3 57 15Q47 13 41 19Q35 15 30 20Q25 15 19 19Q13 13 3 15Z"/></svg></div>
+    <div class="hw-bat b2"><svg viewBox="0 0 60 24"><path fill="currentColor" d="M3 15Q11 3 23 10Q26 5 30 9Q34 5 37 10Q49 3 57 15Q47 13 41 19Q35 15 30 20Q25 15 19 19Q13 13 3 15Z"/></svg></div>
+    <div class="hw-bat b3"><svg viewBox="0 0 60 24"><path fill="currentColor" d="M3 15Q11 3 23 10Q26 5 30 9Q34 5 37 10Q49 3 57 15Q47 13 41 19Q35 15 30 20Q25 15 19 19Q13 13 3 15Z"/></svg></div>
+    <div class="hw-fog"></div>
+    <div class="hw-fog f2"></div>
+    <span class="hw-ember" style="left:6%;animation-duration:11s;animation-delay:-2s"></span>
+    <span class="hw-ember" style="left:15%;animation-duration:13s;animation-delay:-7s"></span>
+    <span class="hw-ember" style="left:24%;animation-duration:10s;animation-delay:-4s"></span>
+    <span class="hw-ember" style="left:33%;animation-duration:14s;animation-delay:-9s"></span>
+    <span class="hw-ember" style="left:44%;animation-duration:12s;animation-delay:-1s"></span>
+    <span class="hw-ember" style="left:55%;animation-duration:10.5s;animation-delay:-6s"></span>
+    <span class="hw-ember" style="left:64%;animation-duration:13.5s;animation-delay:-3s"></span>
+    <span class="hw-ember" style="left:73%;animation-duration:11.5s;animation-delay:-8s"></span>
+    <span class="hw-ember" style="left:84%;animation-duration:12.5s;animation-delay:-5s"></span>
+    <span class="hw-ember" style="left:92%;animation-duration:10s;animation-delay:-10s"></span>
+  </div>
+  <script>(function(){try{var n=new Date();if(n.getFullYear()>2026||(n.getFullYear()===2026&&n.getMonth()>9)){var l=document.querySelectorAll('.hw-sky,.hw-fx');for(var i=0;i<l.length;i++)l[i].remove();}}catch(e){}})();</script>
 
   <section class="merch-banner" aria-label="Merch Shop">
     <div class="merch-inner">
