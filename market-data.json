@@ -51,6 +51,11 @@
   "headline": "EE.UU. prepara planes de ataque contra Irán con la madre de todas las bombas por orden de Trump, reporta CNN",
   "headline_en": "US draws up Iran strike plans including the mother of all bombs on Trump's orders, CNN reports",
   "source": "CNN",
-  "image": "https://boripropdeals.github.io/breaking-visuals/trump-iran-moab.webp"
+  "image": "https://boripropdeals.github.io/breaking-visuals/trump-iran-moab.webp",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/trump-iran-moab.webp",
+   "https://boripropdeals.github.io/breaking-visuals/trump-iran-moab-2.webp",
+   "https://boripropdeals.github.io/breaking-visuals/trump-iran-moab-breaking-3.webp"
+  ]
  }
 }
