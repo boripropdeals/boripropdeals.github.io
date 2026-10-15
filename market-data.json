@@ -1,50 +1,51 @@
 {
- "updated_at": "2026-10-15T13:02:32.348356+00:00",
+ "updated_at": "2026-10-15T13:03:02.632051+00:00",
  "nq": {
-  "price": 29823.0,
-  "change_points": -359.75,
+  "price": 29825.0,
+  "change_points": -357.75,
   "percent_change": -1.19
  },
  "gold": {
-  "price": 4168.7,
-  "change_points": 60.8,
-  "percent_change": 1.48
+  "price": 4167.7,
+  "change_points": 59.8,
+  "percent_change": 1.46
  },
  "oil": {
-  "price": 93.81,
-  "change_points": -1.28,
-  "percent_change": -1.35
+  "price": 93.78,
+  "change_points": -1.31,
+  "percent_change": -1.38
  },
  "headlines": [
   {
-   "headline": "Futuros del Nasdaq caen más de 1% mientras la liquidación en acciones de IA se profundiza por temores de deuda",
-   "headline_en": "Nasdaq futures dive 1% as AI rout deepens on debt concerns",
+   "headline": "Inflación de septiembre sale más caliente de lo esperado: 3.7% anual y suben las apuestas de un alza de la Fed",
+   "headline_en": "Hot September CPI at 3.7% year-over-year lifts Fed rate-hike bets",
    "source": "Reuters"
   },
   {
-   "headline": "TSMC logra su sexta ganancia trimestral récord consecutiva, pero advierte cautela para 2027",
-   "headline_en": "TSMC posts sixth straight record quarterly profit, strikes cautious note for 2027",
+   "headline": "Nasdaq sufre su peor día desde julio: acciones de IA y chips se desploman",
+   "headline_en": "Nasdaq suffers worst day since July as AI and chip stocks plunge",
    "source": "Reuters"
   },
   {
-   "headline": "Wall Street espera el PPI, las ventas minoristas y las solicitudes de desempleo: nueva prueba para la Fed",
-   "headline_en": "PPI, retail sales and jobless claims highlight today's economic calendar",
+   "headline": "CoreWeave −15.5%, Dell −11.3%, Oracle −8.8%: el índice de semiconductores cae por sexta sesión seguida",
+   "headline_en": "CoreWeave −15.5%, Dell −11.3%, Oracle −8.8% as chip index falls for sixth straight session",
+   "source": "Reuters"
+  },
+  {
+   "headline": "Bank of America cae 4.8% tras una multa regulatoria de $1,200 millones",
+   "headline_en": "Bank of America drops 4.8% after $1.2B regulatory fine",
    "source": "Investopedia"
   },
   {
-   "headline": "CoreWeave y Oracle se hunden: crece el temor por la deuda usada para financiar la IA",
-   "headline_en": "CoreWeave and Oracle bonds under pressure as AI debt fears mount",
-   "source": "Reuters"
+   "headline": "TSMC logra ganancias récord por sexto trimestre consecutivo",
+   "headline_en": "TSMC posts sixth straight record profit",
+   "source": "StockInvest.us"
   },
   {
-   "headline": "El Brent cae cerca de $104 mientras EE.UU. evalúa aliviar sanciones a la flota fantasma; el oro sube a $4,165",
-   "headline_en": "Brent eases near $104 as US weighs easing shadow-fleet sanctions; gold climbs to $4,165",
-   "source": "Reuters"
+   "headline": "Hoy a las 8:30am ET: ventas minoristas, PPI y solicitudes de desempleo",
+   "headline_en": "Today at 8:30 a.m. ET: retail sales, PPI and jobless claims due",
+   "source": "StockInvest.us"
   }
  ],
- "ultima_hora": {
-  "headline": "El Kremlin confirma que el diésel ruso ya está llegando a los mercados globales tras el acuerdo con Trump",
-  "headline_en": "Kremlin says Russian diesel has started reaching global markets following deal with Trump",
-  "source": "Reuters"
- }
+ "ultima_hora": null
 }
