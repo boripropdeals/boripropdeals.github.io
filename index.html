@@ -728,10 +728,10 @@
         .catch(readEmbeddedData)
         .then(render)
         .catch(leaveFallback);
-      // Auto-refresh prices every 60s so the user sees them change live
+      // Auto-refresh prices every 30s so the user sees them change live
       setInterval(function(){
         fetchData('./market-data.json?t='+Date.now()).then(render).catch(function(){});
-      },60000);
+      },30000);
     })();
   </script>
 </body>
