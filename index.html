@@ -482,7 +482,7 @@
       'My Funded Futures':{pct:0.40,code:'BORI'},
       'Tradeify':{pct:0.30,code:'DASH'},
       'Alpha Futures':{pct:0.50,code:'Alpha 50'},
-      'Take Profit Trader':{pct:null,code:'NOFEE40'},
+      'Take Profit Trader':{pct:0.40,code:'NOFEE40'},
       'Apex Trader Funding':{pct:0.90,code:'SAVENOW'},
       'TradeDay':{pct:0.55,code:null,auto:true},
       'Lucid Trading':{pct:null,code:'VAULT'},
@@ -1013,6 +1013,11 @@
       var a=(typeof FIRM_ACTIVATION!=='undefined')?FIRM_ACTIVATION[firm]:null;
       if(!a) return null;
       if(a.kind==='none') return 0;
+      // Si el código de descuento activo elimina el fee, el fee es $0
+      if(a.waivedBy){
+        var d=(typeof FIRM_DISCOUNTS!=='undefined')?FIRM_DISCOUNTS[firm]:null;
+        if(d&&d.code===a.waivedBy) return 0;
+      }
       if(a.kind==='fixed') return a.fee;
       if(a.kind==='per-size'){
         if(a.fees&&a.fees[size]!=null) return a.fees[size];
