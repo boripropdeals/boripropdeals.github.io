@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-10-15T12:00:32.225037+00:00",
+ "updated_at": "2026-10-15T12:02:33.347075+00:00",
  "nq": {
-  "price": 29856.25,
-  "change_points": -326.5,
-  "percent_change": -1.08
+  "price": 29851.0,
+  "change_points": -331.75,
+  "percent_change": -1.1
  },
  "gold": {
   "price": 4171.6,
@@ -11,36 +11,45 @@
   "percent_change": 1.55
  },
  "oil": {
-  "price": 94.1,
-  "change_points": -0.99,
-  "percent_change": -1.04
+  "price": 94.09,
+  "change_points": -1.0,
+  "percent_change": -1.05
  },
  "headlines": [
   {
-   "headline": "Los futuros del Nasdaq caen 1% mientras se profundiza la caída de las acciones de IA por temores de deuda",
-   "headline_en": "Nasdaq futures dive 1% as AI rout deepens on debt concerns",
+   "headline": "Los futuros del Nasdaq se desploman más del 1% por la liquidación global de valores de IA tras un IPC más alto de lo esperado",
+   "headline_en": "Nasdaq futures dive over 1% as global AI selloff gathers pace after hotter-than-expected CPI",
    "source": "Reuters"
   },
   {
-   "headline": "Inflación de septiembre supera pronósticos: IPC anual sube a 3.7% y revive apuestas de alza de la Fed el 27-28 de octubre",
-   "headline_en": "September CPI rises 3.7% annually, above forecast, reviving bets on an October 27-28 Fed hike",
-   "source": "TradingView News"
+   "headline": "El IPC de septiembre sube al 3,7% interanual y reaviva las apuestas a una subida de tipos de la Fed este mes",
+   "headline_en": "Hot September CPI (3.7% y/y) lifts expectations of a Fed rate hike later this month",
+   "source": "Investopedia"
   },
   {
-   "headline": "TSMC da guía cautelosa para 2027 pese a su sexto récord trimestral consecutivo de utilidades",
-   "headline_en": "TSMC strikes cautious note for 2027 after sixth straight record quarterly profit",
+   "headline": "Los mercados esperan hoy el PPI de septiembre, las ventas minoristas y el discurso del presidente de la Fed, Kevin Warsh, en el FMI",
+   "headline_en": "Markets await September PPI, retail sales and Fed Chair Kevin Warsh's remarks at the IMF meeting today",
+   "source": "Barchart"
+  },
+  {
+   "headline": "TSMC reporta su sexto trimestre récord consecutivo y eleva su guía para 2026, pero se muestra cauteloso para 2027",
+   "headline_en": "TSMC posts sixth straight record quarter and raises 2026 guidance, but sounds a cautious note on 2027",
    "source": "Reuters"
   },
   {
-   "headline": "La liquidación de CoreWeave, Oracle y fabricantes de chips borró $80,000 millones de valor de mercado",
-   "headline_en": "CoreWeave, Oracle and chipmakers selloff wipes out $80 billion in market value",
-   "source": "Reuters"
+   "headline": "Anthropic revela ingresos de 16.800 millones de dólares en el tercer trimestre; la FTC cita a OpenAI y Anthropic por daños a consumidores",
+   "headline_en": "Anthropic discloses $16.8B Q3 revenue; FTC subpoenas OpenAI and Anthropic over consumer harms",
+   "source": "MarketWatch"
   },
   {
-   "headline": "Bank of America cae 8.5% tras desplome de ganancias y provisión de $1.2 mil millones para multas regulatorias",
-   "headline_en": "Bank of America falls 8.5% after Q3 profit decline and $1.2 billion provision for regulatory fines",
-   "source": "Political.org"
+   "headline": "Los bonos del Tesoro repuntan como refugio y el oro sube mientras el petróleo cede ante la huida del riesgo",
+   "headline_en": "Treasuries rally on safe-haven demand and gold rises as the AI selloff deepens",
+   "source": "WSJ"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Trump concluye una llamada de hora y media con Xi Jinping enfocada en comercio; los mercados rebotan con los titulares",
+  "headline_en": "Trump and Xi Jinping conclude a 1.5-hour call focused 'almost entirely on trade'; markets rally on the headlines",
+  "source": "MarketPulse"
+ }
 }
