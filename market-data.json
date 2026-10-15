@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-10-15T21:06:33.869738+00:00",
+ "updated_at": "2026-10-15T21:06:37.920923+00:00",
  "nq": {
-  "price": 30128.75,
-  "change_points": -54.0,
-  "percent_change": -0.18
+  "price": 30091.25,
+  "change_points": -91.5,
+  "percent_change": -0.3
  },
  "gold": {
   "price": 4190.2,
@@ -11,9 +11,9 @@
   "percent_change": 2.0
  },
  "oil": {
-  "price": 96.16,
-  "change_points": 1.07,
-  "percent_change": 1.13
+  "price": 96.17,
+  "change_points": 1.08,
+  "percent_change": 1.14
  },
  "headlines": [
   {
@@ -42,15 +42,5 @@
    "source": "Reuters"
   }
  ],
- "ultima_hora": {
-  "headline": "Trump presiona a Europa y la AIE libera de emergencia más de 20 millones de barriles de diésel",
-  "headline_en": "Trump Pressures Europe as IEA Agrees to Emergency Release of Over 20 Million Barrels of Diesel",
-  "source": "Reuters",
-  "image": "",
-  "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-15-iea-diesel-tanks-dusk.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-15-iea-diesel-refinery-aerial.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-15-iea-diesel-tanker-port.webp"
-  ]
- }
+ "ultima_hora": null
 }
