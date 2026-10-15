@@ -776,5 +776,250 @@
       },30000);
     })();
   </script>
+<!-- Bori Chat Agent: asistente bilingüe de ofertas -->
+<style>
+#boriChatBtn{position:fixed;bottom:20px;right:20px;width:60px;height:60px;border-radius:50%;background:#59f2ad;border:none;cursor:pointer;z-index:9999;box-shadow:0 4px 20px rgba(89,242,173,.45);font-size:28px;display:flex;align-items:center;justify-content:center;transition:transform .2s}
+#boriChatBtn:hover{transform:scale(1.08)}
+#boriChatWin{position:fixed;bottom:92px;right:20px;width:368px;max-width:calc(100vw - 32px);height:520px;max-height:calc(100vh - 120px);background:#0b211a;border:1px solid rgba(89,242,173,.5);border-radius:16px;z-index:9999;display:none;flex-direction:column;overflow:hidden;box-shadow:0 12px 48px rgba(0,0,0,.55);font-family:inherit}
+#boriChatWin.open{display:flex}
+.bori-chat-head{background:#020b09;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid rgba(89,242,173,.25)}
+.bori-chat-title{color:#f3fff9;font-weight:700;font-size:15px;display:flex;align-items:center;gap:8px}
+.bori-chat-title .dot{width:9px;height:9px;border-radius:50%;background:#59f2ad;box-shadow:0 0 8px #59f2ad}
+.bori-chat-tools{display:flex;align-items:center;gap:8px}
+.bori-lang-toggle{display:flex;background:#0b211a;border:1px solid rgba(89,242,173,.35);border-radius:20px;overflow:hidden}
+.bori-lang-toggle button{background:transparent;border:none;color:#9db9af;font-size:11px;font-weight:700;padding:4px 10px;cursor:pointer}
+.bori-lang-toggle button.active{background:#59f2ad;color:#020b09}
+.bori-chat-close{background:transparent;border:none;color:#9db9af;font-size:18px;cursor:pointer;line-height:1}
+#boriChatMsgs{flex:1;overflow-y:auto;padding:14px;display:flex;flex-direction:column;gap:10px}
+.bori-msg{max-width:85%;padding:10px 13px;border-radius:14px;font-size:13.5px;line-height:1.45;word-wrap:break-word}
+.bori-msg.bot{background:#123128;color:#f3fff9;align-self:flex-start;border-bottom-left-radius:4px;border:1px solid rgba(89,242,173,.15)}
+.bori-msg.bot b{color:#59f2ad}
+.bori-msg.user{background:#59f2ad;color:#020b09;align-self:flex-end;border-bottom-right-radius:4px;font-weight:500}
+.bori-msg.typing{color:#9db9af;font-style:italic}
+#boriChatChips{display:flex;gap:6px;padding:8px 12px;flex-wrap:wrap;border-top:1px solid rgba(89,242,173,.15)}
+.bori-chip{background:transparent;border:1px solid rgba(89,242,173,.45);color:#59f2ad;font-size:11.5px;padding:5px 11px;border-radius:16px;cursor:pointer}
+.bori-chip:hover{background:rgba(89,242,173,.12)}
+.bori-chat-input{display:flex;padding:10px 12px;gap:8px;border-top:1px solid rgba(89,242,173,.25);background:#020b09}
+#boriChatText{flex:1;background:#0b211a;border:1px solid rgba(89,242,173,.3);border-radius:20px;color:#f3fff9;padding:9px 14px;font-size:13.5px;outline:none}
+#boriChatText::placeholder{color:#5d7a6f}
+#boriChatSend{background:#59f2ad;border:none;border-radius:50%;width:38px;height:38px;cursor:pointer;font-size:16px;flex-shrink:0}
+</style>
+<button id="boriChatBtn" aria-label="Abrir chat">💬</button>
+<div id="boriChatWin" role="dialog" aria-label="Asistente Bori">
+  <div class="bori-chat-head">
+    <div class="bori-chat-title"><span class="dot"></span><span id="boriChatName">Asistente Bori</span></div>
+    <div class="bori-chat-tools">
+      <div class="bori-lang-toggle"><button id="boriLangEs" class="active">ES</button><button id="boriLangEn">EN</button></div>
+      <button class="bori-chat-close" id="boriChatClose" aria-label="Cerrar">✕</button>
+    </div>
+  </div>
+  <div id="boriChatMsgs"></div>
+  <div id="boriChatChips"></div>
+  <div class="bori-chat-input">
+    <input id="boriChatText" type="text" autocomplete="off" />
+    <button id="boriChatSend" aria-label="Enviar">➤</button>
+  </div>
+</div>
+<script>
+(function(){
+  var BORI_FIRMS=['Phidias Prop','Traders Launch','My Funded Futures'];
+  var ALIASES={
+    'phidias':'Phidias Prop',
+    'my funded futures':'My Funded Futures','mff':'My Funded Futures','myfunded':'My Funded Futures','my funded':'My Funded Futures',
+    'traders launch':'Traders Launch','traderslaunch':'Traders Launch',
+    'tradeify':'Tradeify',
+    'apex':'Apex Trader Funding','apex trader':'Apex Trader Funding',
+    'take profit':'Take Profit Trader','tpt':'Take Profit Trader','take profit trader':'Take Profit Trader',
+    'alpha':'Alpha Futures','alpha futures':'Alpha Futures',
+    'topstep':'Topstep',
+    'tradeday':'TradeDay','trade day':'TradeDay',
+    'bulenox':'Bulenox',
+    'lucid':'Lucid Trading','lucid trading':'Lucid Trading',
+    'elite':'Elite Trader Funding','elite trader':'Elite Trader Funding'
+  };
+  var chatLang=(typeof lang!=='undefined'&&lang==='en')?'en':'es';
+  var greeted=false;
+
+  var T={
+    es:{
+      name:'Asistente Bori', placeholder:'Pregunta por ofertas, precios o códigos…',
+      welcome:'¡Hola! 👋 Soy el asistente de <b>BoriProp Deals</b>. Pregúntame por las ofertas actuales, precios de planes o códigos de descuento de las 12 prop firms.',
+      chips:['Ofertas actuales','Código BORI','Tradeify','Apex','Comparar'],
+      boriLine:'💡 Recuerda: usa el código <b>BORI</b> para los mejores descuentos.',
+      noPromo:'No veo una promo con código publicada para <b>{f}</b> ahora mismo. Revisa la comparativa en la página para ver sus precios.',
+      offTopic:'Solo puedo ayudarte con ofertas, precios y códigos de descuento de prop firms de futuros. ¿Te interesa alguna firma en particular?',
+      allOffers:'Estas son las ofertas vigentes ahora mismo:',
+      until:'Vigente',
+      noDate:'sin fecha publicada',
+      compare:'Comparativa rápida:',
+      plans:'Planes desde',
+      empty:'No entendí bien. Prueba con el nombre de una firma (ej. "Apex", "Tradeify") o "ofertas actuales".',
+      disclaimer:'Precios y promos cambian seguido — confirma siempre en el checkout. 🤝'
+    },
+    en:{
+      name:'Bori Assistant', placeholder:'Ask about deals, prices or codes…',
+      welcome:'Hi! 👋 I\'m the <b>BoriProp Deals</b> assistant. Ask me about current deals, plan prices or discount codes for the 12 prop firms.',
+      chips:['Current deals','BORI code','Tradeify','Apex','Compare'],
+      boriLine:'💡 Remember: use code <b>BORI</b> for the best discounts.',
+      noPromo:'I don\'t see a published coded promo for <b>{f}</b> right now. Check the comparison on the page for its prices.',
+      offTopic:'I can only help with futures prop firm deals, prices and discount codes. Are you interested in a particular firm?',
+      allOffers:'Here are the deals live right now:',
+      until:'Valid',
+      noDate:'no end date published',
+      compare:'Quick comparison:',
+      plans:'Plans from',
+      empty:'I didn\'t quite get that. Try a firm name (e.g. "Apex", "Tradeify") or "current deals".',
+      disclaimer:'Prices and promos change often — always confirm at checkout. 🤝'
+    }
+  };
+
+  function detectLang(text){
+    var t=' '+text.toLowerCase()+' ';
+    var esHits=(t.match(/\b(que|cu[aá]l(es)?|cu[aá]nto|precio(s)?|oferta(s)?|descuento(s)?|c[oó]digo(s)?|hola|gracias|mejor(es)?|barato(s)?|firma(s)?|plan(es)?|hay|tiene(n)?|quiero|para|una|con|las|los|del|por|actuales|vigentes)\b/g)||[]).length;
+    var enHits=(t.match(/\b(what|which|how much|price|deal|discount|code|hi|hello|thanks|best|cheap|firms|plans|any|does|have|want|for|with|the|promo|offer)\b/g)||[]).length;
+    if(/[¿¡ñáéíóú]/.test(text)) esHits+=2;
+    if(esHits===0&&enHits===0) return chatLang;
+    return esHits>=enHits?'es':'en';
+  }
+
+  function findFirms(text){
+    var t=text.toLowerCase(), found=[];
+    var keys=Object.keys(ALIASES).sort(function(a,b){return b.length-a.length;});
+    keys.forEach(function(k){
+      if(t.indexOf(k)!==-1){
+        var f=ALIASES[k];
+        if(found.indexOf(f)===-1) found.push(f);
+      }
+    });
+    return found;
+  }
+
+  function promosFor(firm){
+    try{ return research.promos.filter(function(p){return p.firm===firm;}); }
+    catch(e){ return []; }
+  }
+
+  function cheapestPlan(firm){
+    try{
+      var plans=research.plans.filter(function(p){return p.firm===firm&&p.price_usd;});
+      var best=null,bestVal=Infinity,bestSize='';
+      plans.forEach(function(p){
+        Object.keys(p.price_usd).forEach(function(s){
+          if(p.price_usd[s]<bestVal){bestVal=p.price_usd[s];best=p;bestSize=s;}
+        });
+      });
+      return best?{plan:best.plan_name,size:bestSize,price:bestVal}:null;
+    }catch(e){ return null; }
+  }
+
+  function fmtPromo(p,L){
+    var code=p.code?(' · <b>'+p.code+'</b>'):'';
+    var until=p.valid_until&&p.valid_until!=='None'?(T[L].until+': '+p.valid_until):T[L].noDate;
+    return '• <b>'+p.firm+'</b> — '+p.discount+code+' <i>('+until+')</i>';
+  }
+
+  function firmAnswer(firm,L){
+    var out=[], promos=promosFor(firm);
+    if(promos.length){
+      promos.forEach(function(p){ out.push(fmtPromo(p,L)); });
+    } else {
+      out.push(T[L].noPromo.replace('{f}',firm));
+    }
+    var cp=cheapestPlan(firm);
+    if(cp) out.push('📦 '+T[L].plans+': '+cp.plan+' '+cp.size+' — <b>$'+cp.price+'</b>');
+    if(BORI_FIRMS.indexOf(firm)!==-1) out.push(T[L].boriLine);
+    return out.join('<br>');
+  }
+
+  function answer(text){
+    var L=detectLang(text); chatLang=L; syncLangUI();
+    var t=text.toLowerCase();
+    var firms=findFirms(text);
+    var wantsAll=/ofertas|promos|promociones|deals|offers|todas|all|cu[aá]les|which/.test(t);
+    var wantsCompare=/compar|vs\b|mejor|best|compare|diferencia|difference|barato|cheap/.test(t);
+    var wantsBori=/\bbori\b/.test(t);
+
+    if(wantsBori&&!firms.length){
+      return L==='es'
+        ? '<b>BORI</b> es el código oficial de BoriProp Deals. Úsalo en <b>Phidias Prop</b> (hasta 80% OFF), <b>Traders Launch</b> (25% OFF lanzamiento) y <b>My Funded Futures</b> (40% OFF en cualquier plan) para los mejores descuentos. 💡'
+        : '<b>BORI</b> is the official BoriProp Deals code. Use it at <b>Phidias Prop</b> (up to 80% OFF), <b>Traders Launch</b> (25% OFF launch) and <b>My Funded Futures</b> (40% OFF any plan) for the best discounts. 💡';
+    }
+    if(firms.length>=2||(wantsCompare&&firms.length>=1)){
+      var list=firms.length?firms:['Apex Trader Funding','Tradeify','Take Profit Trader'];
+      var rows=list.slice(0,3).map(function(f){
+        var ps=promosFor(f), p0=ps[0];
+        var tag=p0?(p0.discount+(p0.code?' (<b>'+p0.code+'</b>)':'')):(L==='es'?'sin promo con código':'no coded promo');
+        var bori=BORI_FIRMS.indexOf(f)!==-1?' ⭐<b>BORI</b>':'';
+        return '• <b>'+f+'</b>: '+tag+bori;
+      });
+      return T[L].compare+'<br>'+rows.join('<br>')+'<br><br><i>'+T[L].disclaimer+'</i>';
+    }
+    if(firms.length===1) return firmAnswer(firms[0],L)+'<br><br><i>'+T[L].disclaimer+'</i>';
+    if(wantsAll){
+      var all=[];
+      try{
+        research.promos.forEach(function(p){ all.push(fmtPromo(p,L)); });
+      }catch(e){}
+      return T[L].allOffers+'<br>'+all.join('<br>')+'<br><br>'+T[L].boriLine+'<br><i>'+T[L].disclaimer+'</i>';
+    }
+    var onTopic=/promo|oferta|descuento|discount|deal|c[oó]digo|code|coupon|cup[oó]n|precio|price|plan|costo|cost|cu[aá]nto|payout|split|firma|firm|fondeo|funded|evaluaci[oó]n|evaluation|account|cuenta/.test(t);
+    if(!onTopic) return T[L].offTopic;
+    return T[L].empty;
+  }
+
+  // ---- UI ----
+  var btn=document.getElementById('boriChatBtn'),
+      win=document.getElementById('boriChatWin'),
+      msgs=document.getElementById('boriChatMsgs'),
+      chipsBox=document.getElementById('boriChatChips'),
+      input=document.getElementById('boriChatText'),
+      sendBtn=document.getElementById('boriChatSend'),
+      langEs=document.getElementById('boriLangEs'),
+      langEn=document.getElementById('boriLangEn');
+
+  function syncLangUI(){
+    var L=T[chatLang];
+    document.getElementById('boriChatName').textContent=L.name;
+    input.placeholder=L.placeholder;
+    langEs.classList.toggle('active',chatLang==='es');
+    langEn.classList.toggle('active',chatLang==='en');
+    chipsBox.innerHTML='';
+    L.chips.forEach(function(c){
+      var b=document.createElement('button');
+      b.className='bori-chip'; b.textContent=c;
+      b.onclick=function(){ sendUser(c); };
+      chipsBox.appendChild(b);
+    });
+  }
+  function addMsg(html,who){
+    var d=document.createElement('div');
+    d.className='bori-msg '+who; d.innerHTML=html;
+    msgs.appendChild(d); msgs.scrollTop=msgs.scrollHeight;
+  }
+  function greet(){
+    if(greeted) return; greeted=true;
+    addMsg(T[chatLang].welcome,'bot');
+  }
+  function sendUser(text){
+    text=(text||'').trim(); if(!text) return;
+    addMsg(text.replace(/</g,'&lt;'),'user');
+    input.value='';
+    var tp=document.createElement('div');
+    tp.className='bori-msg bot typing'; tp.textContent='…';
+    msgs.appendChild(tp); msgs.scrollTop=msgs.scrollHeight;
+    setTimeout(function(){
+      tp.remove();
+      addMsg(answer(text),'bot');
+    },450);
+  }
+  btn.onclick=function(){ win.classList.toggle('open'); greet(); if(win.classList.contains('open')) input.focus(); };
+  document.getElementById('boriChatClose').onclick=function(){ win.classList.remove('open'); };
+  sendBtn.onclick=function(){ sendUser(input.value); };
+  input.addEventListener('keydown',function(e){ if(e.key==='Enter') sendUser(input.value); });
+  langEs.onclick=function(){ chatLang='es'; syncLangUI(); };
+  langEn.onclick=function(){ chatLang='en'; syncLangUI(); };
+  syncLangUI();
+})();
+</script>
 </body>
 </html>
