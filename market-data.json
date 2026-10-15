@@ -1,51 +1,56 @@
 {
- "updated_at": "2026-10-15T21:04:37.525628+00:00",
+ "updated_at": "2026-10-15T21:05:03.832766+00:00",
  "nq": {
-  "price": 30131.0,
-  "change_points": -51.75,
-  "percent_change": -0.17
+  "price": 30134.25,
+  "change_points": -48.5,
+  "percent_change": -0.16
  },
  "gold": {
-  "price": 4190.5,
-  "change_points": 82.6,
+  "price": 4190.3,
+  "change_points": 82.4,
   "percent_change": 2.01
  },
  "oil": {
-  "price": 96.21,
-  "change_points": 1.12,
-  "percent_change": 1.18
+  "price": 96.2,
+  "change_points": 1.11,
+  "percent_change": 1.17
  },
  "headlines": [
   {
-   "headline": "Wall Street abre mixto: el Nasdaq cae más de 1% mientras el desplome de las tecnológicas se extiende por segundo día",
-   "headline_en": "Wall Street opens mixed: Nasdaq falls over 1% as tech sell-off extends for a second session",
-   "source": "summamoney.com (vía CNBC)"
+   "headline": "Nasdaq cae más de 1% por segunda sesión: se extiende el sell-off en chips y el miedo a la deuda de IA",
+   "headline_en": "Nasdaq Falls Over 1% for Second Straight Session as Chip Sell-Off and AI Debt Fears Extend",
+   "source": "Reuters"
   },
   {
-   "headline": "El PPI de septiembre se dispara: la inflación mayorista sube 6.3% anual, el mayor aumento desde 2022",
-   "headline_en": "September PPI surges: wholesale inflation jumps 6.3% year-over-year, the largest increase since 2022",
-   "source": "summamoney.com (vía CNBC)"
+   "headline": "La inflación mayorista se dispara: el PPI sube 1.3% mensual y 6.3% anual, el mayor aumento desde 2022",
+   "headline_en": "Wholesale Inflation Surges: PPI Rises 1.3% MoM and 6.3% YoY, Biggest Increase Since 2022",
+   "source": "CNBC"
   },
   {
-   "headline": "Las acciones de chips y de IA se hunden: AMD cae 5%, Micron 4% y CoreWeave 7%; el Kospi de Corea del Sur se desploma 7.6%",
-   "headline_en": "Chip and AI stocks plunge: AMD drops 5%, Micron 4%, CoreWeave 7%; South Korea's Kospi tanks 7.6%",
-   "source": "The Motley Fool / Reuters"
+   "headline": "Nasdaq resuelve la disrupción de red en Carteret que causó brechas de datos en todas las bolsas de EE.UU.",
+   "headline_en": "Nasdaq Resolves Network Disruption at Carteret Facility Causing Data Gaps Across US Equities",
+   "source": "Reuters"
   },
   {
-   "headline": "El rendimiento del bono a 10 años superó el 5.3% tras el IPC y luego retrocedió; el presidente de la Fed de Nueva York señala una subida más este año",
-   "headline_en": "10-year Treasury yield topped 5.3% post-CPI then retreated; NY Fed President Williams signals one more hike this year",
-   "source": "Reuters / hdfcsky.com"
+   "headline": "IPC caliente de 3.7% aviva el temor a otra subida de la Fed; el bono a 10 años ronda 5.2%",
+   "headline_en": "Hot 3.7% CPI Fuels Fears of Another Fed Hike; 10-Year Yield Hovers Near 5.2%",
+   "source": "Investopedia"
   },
   {
-   "headline": "El Beige Book de la Fed: los altos precios del petróleo permean todos los distritos y las empresas trasladan los costos del diésel",
-   "headline_en": "Fed Beige Book: elevated oil prices permeate all districts as firms pass on higher diesel costs",
-   "source": "hdfcsky.com"
-  },
-  {
-   "headline": "El oro sube a $4,154 por demanda de refugio seguro mientras el Dow resiste con ganancias",
-   "headline_en": "Gold climbs to $4,154 on safe-haven demand while the Dow holds gains",
-   "source": "The Motley Fool"
+   "headline": "CoreWeave se desploma 7% y el Kospi de Corea del Sur cae más de 7% en el desplome global de chips",
+   "headline_en": "CoreWeave Slides 7% as South Korea's Kospi Plunges Over 7% in Global Chip Rout",
+   "source": "Reuters"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Trump presiona a Europa y la AIE libera de emergencia más de 20 millones de barriles de diésel",
+  "headline_en": "Trump Pressures Europe as IEA Agrees to Emergency Release of Over 20 Million Barrels of Diesel",
+  "source": "Reuters",
+  "image": "",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-15-iea-diesel-tanks-dusk.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-15-iea-diesel-refinery-aerial.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-15-iea-diesel-tanker-port.webp"
+  ]
+ }
 }
