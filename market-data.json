@@ -1,51 +1,50 @@
 {
- "updated_at": "2026-10-15T16:32:32.994140+00:00",
+ "updated_at": "2026-10-15T16:32:39.885997+00:00",
  "nq": {
-  "price": 29952.0,
-  "change_points": -230.75,
+  "price": 29952.25,
+  "change_points": -230.5,
   "percent_change": -0.76
  },
  "gold": {
-  "price": 4168.2,
-  "change_points": 60.3,
-  "percent_change": 1.47
+  "price": 4167.0,
+  "change_points": 59.1,
+  "percent_change": 1.44
  },
  "oil": {
-  "price": 96.67,
-  "change_points": 1.58,
-  "percent_change": 1.66
+  "price": 96.66,
+  "change_points": 1.57,
+  "percent_change": 1.65
  },
  "headlines": [
   {
-   "headline": "Inflación de EE.UU. supera los pronósticos en septiembre: el CPI anual sube a 3.7% y el núcleo a 2.6%, reavivando las apuestas de una subida de la Fed en octubre",
-   "headline_en": "US inflation tops forecasts in September: annual CPI rises to 3.7% and core to 2.6%, reviving bets on an October Fed hike",
+   "headline": "Inflación mayorista se dispara en septiembre: el PPI sube 1.3% mensual y 6.3% anual, muy por encima de lo esperado",
+   "headline_en": "Hot wholesale inflation: PPI jumps 1.3% MoM and 6.3% YoY, well above expectations",
    "source": "Investopedia"
   },
   {
-   "headline": "Los futuros del Nasdaq caen mientras continúa la venta de tecnológicas; la fiebre de la IA enfrenta otro día difícil y el oro sube a $4,165 la onza",
-   "headline_en": "Nasdaq futures drop as the tech sell-off continues; the AI trade faces another rough day while gold climbs to $4,165 an ounce",
+   "headline": "Dow sube 400 puntos mientras el Nasdaq cae: la liquidación de acciones de IA se profundiza",
+   "headline_en": "Dow jumps 400 points while Nasdaq tumbles as AI stock selloff deepens",
+   "source": "CNN"
+  },
+  {
+   "headline": "Semiconductores en caída libre: el ETF de chips se encamina a su octava pérdida consecutiva",
+   "headline_en": "Chip stocks in freefall: semiconductor ETF on pace for eighth straight decline",
+   "source": "Barron's"
+  },
+  {
+   "headline": "Ventas minoristas de septiembre superan expectativas con +0.8%; solicitudes de desempleo en 199K",
+   "headline_en": "September retail sales double estimates at +0.8%; jobless claims at 199K",
    "source": "Investopedia"
   },
   {
-   "headline": "La IEA advierte que la escasez de diésel se extenderá hasta 2027: las pérdidas de exportación de Medio Oriente y Rusia suman 1.3 millones de barriles diarios",
-   "headline_en": "IEA warns diesel shortages will run well into 2027: Middle East and Russian export losses total 1.3 million bpd",
-   "source": "IEA / marketindex.com.au"
-  },
-  {
-   "headline": "Los hutíes atacan el edificio administrativo de Saudi Aramco en Dhahran y un buque portacontenedores se hunde al sur de Ormuz tras chocar con una mina naval",
-   "headline_en": "Houthis strike Saudi Aramco's Dhahran administrative building and a container ship sinks south of Hormuz after hitting a naval mine",
-   "source": "marketindex.com.au"
-  },
-  {
-   "headline": "Netflix recorta 1,000 empleos (6%), su mayor ronda de despidos desde 2022, tras perder la puja por Warner Bros. Discovery",
-   "headline_en": "Netflix to cut 1,000 jobs (6%), its biggest layoff round since 2022, after losing the Warner Bros. Discovery bid",
-   "source": "The Hindu BusinessLine / TradingView"
-  },
-  {
-   "headline": "En la agenda de hoy: PPI, ventas minoristas y solicitudes de desempleo, con TSMC bajando pese a un sólido reporte de ganancias",
-   "headline_en": "Today's calendar: PPI, retail sales and jobless claims, with TSMC shares lower despite a solid earnings report",
+   "headline": "Traders apuestan a alza de tasas: 27% de probabilidad para octubre y 90% para diciembre, según CME FedWatch",
+   "headline_en": "Traders price rate hikes: 27% chance in October, 90% by December, per CME FedWatch",
    "source": "Investopedia"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Rusia reanuda exportaciones de diésel tras acuerdo con Trump para bajar los precios del combustible",
+  "headline_en": "Russia restarts diesel exports after deal with Trump to lower fuel prices",
+  "source": "Reuters"
+ }
 }
