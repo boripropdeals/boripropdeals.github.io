@@ -1,49 +1,49 @@
 {
- "updated_at": "2026-10-16T19:30:44.902931+00:00",
+ "updated_at": "2026-10-16T19:32:59.186395+00:00",
  "nq": {
-  "price": 29397.25,
-  "change_points": -746.5,
-  "percent_change": -2.48
+  "price": 29378.0,
+  "change_points": -765.75,
+  "percent_change": -2.54
  },
  "gold": {
-  "price": 4185.8,
-  "change_points": 15.7,
+  "price": 4186.0,
+  "change_points": 15.9,
   "percent_change": 0.38
  },
  "oil": {
-  "price": 99.0,
-  "change_points": 1.03,
-  "percent_change": 1.05
+  "price": 98.99,
+  "change_points": 1.02,
+  "percent_change": 1.04
  },
  "headlines": [
   {
-   "headline": "Nasdaq se desploma 2.4% y S&P 500 cae 1.3% el viernes; la racha de cuatro semanas ganadoras del Nasdaq se rompe por presión en acciones de IA",
-   "headline_en": "Nasdaq, S&P 500 Plummet, Poised for Sharp Weekly Losses as AI Stocks Remain Under Pressure; Dow Slips But Set for Weekly Gain",
+   "headline": "El Nasdaq se desploma más del 2%: rumbo a su peor semana desde junio por las dudas sobre la deuda de la IA",
+   "headline_en": "Nasdaq sinks over 2%, set for worst week since June on AI debt fears",
+   "source": "CNN"
+  },
+  {
+   "headline": "Las acciones de chips caen por noveno día consecutivo; CoreWeave se desploma un 14%",
+   "headline_en": "Chip stocks fall for ninth straight day; CoreWeave tumbles 14%",
+   "source": "WSJ"
+  },
+  {
+   "headline": "El presidente de la Fed, Kevin Warsh, evita señalar un alza de tasas; el bono a 10 años rinde 5.10%",
+   "headline_en": "Fed Chair Kevin Warsh avoids signaling rate hike; 10-year yield at 5.10%",
    "source": "Investopedia"
   },
   {
-   "headline": "El presidente de la Fed, Kevin Warsh, evita señalar el rumbo de las tasas en el FMI tras inflación más caliente de lo esperado; el bono a 10 años toca 5.10%",
-   "headline_en": "Fed Chair Kevin Warsh Avoids Signaling Whether Rates Hold Steady or Rise at October Meeting After Hotter-Than-Expected CPI and PPI; 10-Year Yield at 5.10%",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "CoreWeave se hunde 8% y el ETF de semiconductores encadena su novena caída consecutiva por dudas sobre el financiamiento del gasto en IA",
-   "headline_en": "CoreWeave Tumbles 8% as SOXX Heads for Ninth Straight Loss Amid Questions Over AI Buildout Financing",
+   "headline": "Rotación hacia la vieja economía: el Dow conserva ganancias semanales mientras el Nasdaq sangra",
+   "headline_en": "Rotation to old economy: Dow holds weekly gain while Nasdaq bleeds",
    "source": "Barron's"
   },
   {
-   "headline": "El petróleo Brent sube 3.7% hasta $109.86, su nivel más alto desde mayo",
-   "headline_en": "Brent Crude Surges 3.7% to Finish at $109.86 a Barrel, Its Highest Level Since May",
-   "source": "The Wall Street Journal"
+   "headline": "El crudo Brent sube un 3% hasta $109 por barril y las petroleras lideran el mercado",
+   "headline_en": "Brent crude jumps 3% to $109 a barrel as oil stocks lead the market",
+   "source": "WSJ"
   },
   {
-   "headline": "Rotación, no colapso: el 70% de los componentes del S&P 500 subieron en dos semanas mientras el índice perdió 1%; el Dow se encamina a ganancia semanal",
-   "headline_en": "Rotation, Not a Selloff: 70% of S&P 500 Members Rose Over Two Weeks While the Index Lost 1%; Dow Set for Weekly Gain",
-   "source": "TradingNews"
-  },
-  {
-   "headline": "Reportes sobre ingresos flojos de Anthropic pesan en el sentimiento de IA antes de su posible IPO este año",
-   "headline_en": "Reports of Lackluster Revenue Growth at Anthropic Weigh on AI Sentiment Ahead of Potential IPO",
+   "headline": "El IPC y el IPP más calientes de lo previsto aumentan la presión sobre la Fed para contener la inflación",
+   "headline_en": "Hotter-than-expected CPI and PPI readings increase pressure on Fed to rein in inflation",
    "source": "Investopedia"
   }
  ],
