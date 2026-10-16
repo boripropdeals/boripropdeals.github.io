@@ -1,50 +1,45 @@
 {
- "updated_at": "2026-10-16T11:32:32.729806+00:00",
+ "updated_at": "2026-10-16T11:33:49.320871+00:00",
  "nq": {
-  "price": 30118.75,
-  "change_points": -25.0,
-  "percent_change": -0.08
+  "price": 30109.75,
+  "change_points": -34.0,
+  "percent_change": -0.11
  },
  "gold": {
-  "price": 4200.5,
-  "change_points": 30.4,
-  "percent_change": 0.73
+  "price": 4201.3,
+  "change_points": 31.2,
+  "percent_change": 0.75
  },
  "oil": {
-  "price": 96.0,
-  "change_points": -1.97,
-  "percent_change": -2.01
+  "price": 96.05,
+  "change_points": -1.92,
+  "percent_change": -1.96
  },
  "headlines": [
   {
-   "headline": "Wall Street se recupera: el Dow sube 556 puntos (+1.08%) y el S&P rompe una racha de 3 días de pérdidas",
-   "headline_en": "Wall Street rebounds: Dow jumps 556 points (+1.08%), S&P 500 snaps 3-day losing streak",
-   "source": "TechFlow Post"
-  },
-  {
-   "headline": "El Nasdaq se recupera de una caída intradía del 1.8% y cierra en positivo; Asia rebota tras la caída de chips",
-   "headline_en": "Nasdaq recovers from 1.8% intraday drop to close higher; Asia rebounds after chip rout",
+   "headline": "Futuros de Wall Street mixtos el viernes: la tecnología vuelve a tambalearse por las deudas de IA; Tesla sube 4.4% por el Roadster de SpaceX",
+   "headline_en": "Wall St futures mixed Friday: tech wobbles again on AI debt worries; Tesla gains 4.4% on SpaceX Roadster",
    "source": "Reuters"
   },
   {
-   "headline": "CoreWeave arrastra a las acciones de IA por preocupación sobre su deuda; el índice de semiconductores suma su séptima caída diaria consecutiva",
-   "headline_en": "CoreWeave debt worries weigh on AI stocks; semiconductor index notches seventh straight daily decline",
+   "headline": "Asia rebota tras la caída tech provocada por CoreWeave; Nikkei +1.8%, KOSPI +2.8%",
+   "headline_en": "Asia rebounds after CoreWeave-triggered tech rout; Nikkei +1.8%, KOSPI +2.8%",
    "source": "Reuters"
   },
   {
-   "headline": "El presidente de la Fed, Warsh, evita un tono hawkish en Bangkok; el rendimiento del bono a 10 años se mantiene en ~5.08%",
-   "headline_en": "Fed Chair Warsh avoids hawkish tone in Bangkok; 10-year Treasury yield holds near 5.08%",
-   "source": "WSJ"
+   "headline": "El Nasdaq recupera parte de la caída intradía del 1.8% y cierra al alza; S&P y Nasdaq encaminan pérdidas semanales",
+   "headline_en": "Nasdaq recovers from 1.8% intraday drop to close higher; S&P 500 and Nasdaq set for weekly losses",
+   "source": "Reuters"
   },
   {
-   "headline": "MSCI rebaja a Indonesia de la categoría de mercado emergente; su bolsa se desploma 11%",
+   "headline": "MSCI elimina a Indonesia del estatus de mercado emergente; su bolsa se desploma 11%",
    "headline_en": "MSCI cuts Indonesia from emerging-market status; Jakarta benchmark slumps 11%",
    "source": "Reuters"
   },
   {
-   "headline": "El oro vuelve a superar los $4,200 por onza mientras el crudo Brent se mantiene sobre los $105",
-   "headline_en": "Gold back above $4,200 an ounce as Brent crude holds over $105",
-   "source": "WSJ"
+   "headline": "El oro se mantiene por encima de $4,200 y el crudo Brent ronda los $105; analistas vigilan el impacto en energía",
+   "headline_en": "Gold holds above $4,200 and Brent crude hovers ~$105 as analysts watch energy impact",
+   "source": "Reuters"
   }
  ],
  "ultima_hora": null
