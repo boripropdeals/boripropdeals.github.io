@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T21:36:35.721948+00:00",
+ "updated_at": "2026-10-16T21:38:14.228488+00:00",
  "nq": {
   "price": 29391.25,
   "change_points": -752.5,
@@ -17,29 +17,34 @@
  },
  "headlines": [
   {
-   "headline": "Nasdaq y S&P 500 cierran a la baja y terminan la semana en rojo por la caída de acciones de IA; el Dow logra ganancia semanal",
-   "headline_en": "Nasdaq, S&P 500 End Lower, Post Weekly Losses as AI Stocks Fall; Dow Logs Weekly Gain",
+   "headline": "El presidente de la Fed, Warsh, no da señales sobre una subida de tasas en octubre",
+   "headline_en": "Fed Chair Warsh gives no signal on October rate hike decision",
+   "source": "Morningstar"
+  },
+  {
+   "headline": "Futuros mixtos al cierre de una semana volátil; el Nasdaq rompe su racha ganadora de cuatro semanas",
+   "headline_en": "Stock futures mixed to close a volatile week; Nasdaq snaps four-week winning streak",
    "source": "Investopedia"
   },
   {
-   "headline": "El Nasdaq pierde 370 puntos mientras CoreWeave se desploma 7.6% por la preocupación sobre la deuda de la infraestructura de IA",
-   "headline_en": "Nasdaq Composite Loses 370 Points as CoreWeave Drops 7.6% on AI Financing Debt Concerns",
+   "headline": "Tesla presenta el rediseño del Roadster y la acción sube 3% antes de la apertura",
+   "headline_en": "Tesla unveils Roadster redesign; stock jumps 3% premarket",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "Asia rebota: el Nikkei sube 1.8% y el Kospi 2% tras el desplome del jueves",
+   "headline_en": "Asia rebounds: Nikkei up 1.8%, Kospi up 2% after Thursday's selloff",
    "source": "Reuters"
   },
   {
-   "headline": "El presidente de la Fed evita dar señales sobre tasas en el FMI; el mercado ve 89% de probabilidad de alza en diciembre",
-   "headline_en": "Fed Chair Avoids Signaling Rate Path at IMF Meeting; Traders See 89% Odds of December Hike",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "El petróleo WTI se dispara a $97.65 por barril ante tensiones en el Estrecho de Ormuz y el Mar Rojo",
-   "headline_en": "WTI Crude Jumps to $97.65 a Barrel Amid Strait of Hormuz and Red Sea Tensions",
+   "headline": "CoreWeave cae 8% por preocupaciones de deuda; los chips siguen bajo presión",
+   "headline_en": "CoreWeave drops 8% on debt concerns; chip stocks remain under pressure",
    "source": "TradingNews"
   },
   {
-   "headline": "Rotación defensiva en Wall Street: sectores defensivos sostienen al Dow mientras los semiconductores de IA siguen débiles",
-   "headline_en": "Defensive Rotation on Wall Street: Defensives Lift the Dow as AI Semiconductor Stocks Stay Weak",
-   "source": "OneTrader"
+   "headline": "El oro marca récord en $4,200 mientras el rendimiento del bono a 10 años ronda el 5.09%",
+   "headline_en": "Gold hits record $4,200 as 10-year Treasury yield hovers near 5.09%",
+   "source": "Investopedia"
   }
  ],
  "ultima_hora": null
