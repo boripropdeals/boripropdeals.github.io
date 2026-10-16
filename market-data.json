@@ -1,51 +1,61 @@
 {
- "updated_at": "2026-10-16T14:34:44.394039+00:00",
+ "updated_at": "2026-10-16T14:35:17.897596+00:00",
  "nq": {
-  "price": 29847.25,
-  "change_points": -296.5,
-  "percent_change": -0.98
+  "price": 29851.75,
+  "change_points": -292.0,
+  "percent_change": -0.97
  },
  "gold": {
-  "price": 4215.9,
-  "change_points": 45.8,
-  "percent_change": 1.1
+  "price": 4216.5,
+  "change_points": 46.4,
+  "percent_change": 1.11
  },
  "oil": {
-  "price": 95.44,
-  "change_points": -2.53,
-  "percent_change": -2.58
+  "price": 95.39,
+  "change_points": -2.58,
+  "percent_change": -2.63
  },
  "headlines": [
   {
-   "headline": "Dow cierra con alza de 556 puntos y Wall Street termina en verde tras caer los rendimientos del Tesoro",
-   "headline_en": "Dow closes up 556 points as Wall Street ends green on falling Treasury yields",
-   "source": "Summa Money"
-  },
-  {
-   "headline": "Futuros mixtos el viernes; el Nasdaq se encamina a romper su racha de 4 semanas ganadoras",
-   "headline_en": "Futures mixed on Friday; Nasdaq on track to snap its 4-week winning streak",
+   "headline": "El presidente de la Fed, Kevin Warsh, evita dar pistas sobre un alza de tasas",
+   "headline_en": "Fed Chair Kevin Warsh avoids rate guidance after speaking in Thailand",
    "source": "Investopedia"
   },
   {
-   "headline": "Nerviosismo en el trade de IA: rotación de semiconductores hacia sectores defensivos como salud",
-   "headline_en": "AI trade jitters: rotation out of chips into defensive sectors like health care",
-   "source": "Reuters"
-  },
-  {
-   "headline": "Tesla sube 3% en pre-mercado tras revelar el rediseño de su nuevo Roadster",
-   "headline_en": "Tesla pops 3% in pre-market after unveiling its new Roadster redesign",
+   "headline": "Futuros estables al cierre de una semana volátil; el Nasdaq rompería su racha de 4 semanas al alza",
+   "headline_en": "Futures steady to close a volatile week; Nasdaq set to snap four-week winning streak",
    "source": "Investopedia"
   },
   {
-   "headline": "El presidente de la Fed, Warsh, guarda silencio sobre tasas; el bono a 10 años ronda el 5.1%",
-   "headline_en": "Fed Chair Warsh stays silent on rates; 10-year Treasury yield hovers near 5.1%",
-   "source": "InvestingLive"
+   "headline": "Tesla presenta su nuevo Roadster y sus acciones suben en el premarket",
+   "headline_en": "Tesla shares climb after unveiling redesigned Roadster",
+   "source": "Investopedia"
   },
   {
-   "headline": "Exportaciones de China se disparan 36% en septiembre y el superávit comercial se amplía",
-   "headline_en": "China exports surge 36% in September as trade surplus widens",
-   "source": "Reuters"
+   "headline": "Rotación fuera de tech: chips volátiles, CoreWeave bajo presión y salud en máximos históricos",
+   "headline_en": "Rotation out of tech: volatile chips, CoreWeave under pressure, healthcare at record highs",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "El oro sube a $4,200 la onza y el crudo WTI cotiza en $98.25",
+   "headline_en": "Gold rises to $4,200 an ounce, WTI crude at $98.25",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "Taiwán evalúa endurecer las restricciones a la exportación de semiconductores avanzados a China",
+   "headline_en": "Taiwan reportedly examining tighter restrictions on advanced semiconductor exports to China",
+   "source": "ADVFN"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Trump dice que EE.UU. podría tener que atacar Pickaxe Mountain, la instalación nuclear subterránea de Irán",
+  "headline_en": "Trump says US may have to strike the Pickaxe Mountain underground nuclear site in Iran",
+  "source": "Reuters",
+  "image": "",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/trump-pickaxe-mountain-fortaleza-2026-10-16.webp",
+   "https://boripropdeals.github.io/breaking-visuals/trump-pickaxe-mountain-petroleo-2026-10-16.webp",
+   "https://boripropdeals.github.io/breaking-visuals/trump-pickaxe-mountain-tension-2026-10-16.webp"
+  ]
+ }
 }
