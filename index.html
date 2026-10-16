@@ -638,7 +638,7 @@ a.t-stars:hover{text-decoration:underline}
       <div class="merch-toro-wrap">
         <video id="merch-toro-video" class="merch-img merch-toro" autoplay loop muted playsinline aria-label="Toro animado BoriProp Deals">
           <source id="merch-toro-source" src="https://boripropdeals.github.io/toro-nasdaq-verde.mp4" type="video/mp4">
-        </video><div id="market-indicator" class="market-indicator up">Market Indicator</div>
+        </video><div id="market-indicator" class="market-indicator up" data-es="Indicador del Mercado" data-en="Market Indicator">Market Indicator</div>
         
       </div>
       <div class="merch-copy">
@@ -1229,7 +1229,7 @@ const c=info.querySelector('[data-radar-firm]');if(c)c.addEventListener('click',
           }
           var beLabel=document.getElementById('bull-eyes-label');
           var miLabel=document.getElementById('market-indicator');
-          if(miLabel){miLabel.classList.toggle('down',direction==='down');miLabel.classList.toggle('up',direction!=='down');}
+          if(miLabel){miLabel.classList.toggle('down',direction==='down');miLabel.classList.toggle('up',direction!=='down');miLabel.textContent=miLabel.dataset[lang]||miLabel.dataset.en;}
         }catch(e){}
         const sign=points>0?'+':'';
         const ticker=document.createElement('div');
