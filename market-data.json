@@ -1,45 +1,50 @@
 {
- "updated_at": "2026-10-16T17:08:57.652959+00:00",
+ "updated_at": "2026-10-16T17:12:51.190453+00:00",
  "nq": {
-  "price": 29608.75,
-  "change_points": -535.0,
-  "percent_change": -1.77
+  "price": 29568.5,
+  "change_points": -575.25,
+  "percent_change": -1.91
  },
  "gold": {
-  "price": 4181.3,
-  "change_points": 11.2,
-  "percent_change": 0.27
+  "price": 4178.1,
+  "change_points": 8.0,
+  "percent_change": 0.19
  },
  "oil": {
-  "price": 98.65,
-  "change_points": 0.68,
-  "percent_change": 0.69
+  "price": 98.66,
+  "change_points": 0.69,
+  "percent_change": 0.7
  },
  "headlines": [
   {
-   "headline": "Dow sube 556 puntos mientras se calman los temores de tasas y el dinero rota fuera de la tecnología",
-   "headline_en": "Dow jumps 556 points as rate fears ease and investors rotate out of tech",
+   "headline": "Dow sube 556 puntos con rotación fuera de las tecnológicas hacia sectores defensivos",
+   "headline_en": "Dow gains 556 points as investors rotate out of tech into defensive stocks",
    "source": "hdfcsky.com"
   },
   {
-   "headline": "Traders apuestan a que la Fed mantendrá las tasas en octubre tras el silencio de Warsh",
-   "headline_en": "Traders bet on October rate hold after Fed Chair Kevin Warsh stays tight-lipped",
-   "source": "NY Post"
+   "headline": "La Fed no da señales: Warsh guarda silencio sobre tasas y el mercado recorta las apuestas a un alza en octubre",
+   "headline_en": "Fed Chair Warsh declines to signal the Fed's next move; investors trim bets on an October rate hike",
+   "source": "WSJ"
   },
   {
-   "headline": "El Nasdaq, a punto de romper su racha de cuatro semanas ganadoras; las acciones de IA siguen bajo presión",
-   "headline_en": "Nasdaq poised to snap four-week winning streak as AI stocks stay under pressure",
+   "headline": "CoreWeave rumbo a su peor semana desde 2025 y Dell cae 17% por dudas sobre la demanda de IA",
+   "headline_en": "CoreWeave on track for its worst week since Nov. 2025; Dell drops 17% on AI demand doubts",
+   "source": "WSJ"
+  },
+  {
+   "headline": "Tesla sube tras presentar su nuevo Roadster con producción prevista para 2028",
+   "headline_en": "Tesla climbs after unveiling its new Roadster, targeting 2028 production",
    "source": "Investopedia"
   },
   {
-   "headline": "Tesla sube tras revelar su nuevo Roadster",
-   "headline_en": "Tesla shares climb after unveiling its new Roadster",
-   "source": "Investopedia"
+   "headline": "India cierra en verde: el Sensex sube 413 puntos con Tech Mahindra disparada +8.45% tras sus resultados",
+   "headline_en": "India's Sensex gains 413 points led by Tech Mahindra's 8.45% surge on strong quarterly earnings",
+   "source": "thehindubusinessline.com"
   },
   {
-   "headline": "El Kospi se desploma más de 7% en una venta masiva global de semiconductores",
-   "headline_en": "Kospi sinks more than 7% in global semiconductor selloff",
-   "source": "hdfcsky.com"
+   "headline": "El oro supera los $4,200 y el crudo se mantiene cerca de $98 con los riesgos en el estrecho de Ormuz",
+   "headline_en": "Gold tops $4,200 and crude holds near $98 as Strait of Hormuz risks offset the IEA stock release",
+   "source": "Investopedia"
   }
  ],
  "ultima_hora": null
