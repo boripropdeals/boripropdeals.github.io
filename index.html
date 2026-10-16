@@ -451,6 +451,8 @@ a.t-stars:hover{text-decoration:underline}
 .t-toggle::before{content:"";position:absolute;left:7px;top:8px;width:10px;height:10px;border-right:2px solid var(--muted);border-bottom:2px solid var(--muted);transform:rotate(45deg);transition:transform .2s}
 .firm-ticket[open] .t-toggle::before{transform:rotate(225deg)}
 .firm-ticket>.t-right{flex:1;min-width:0;padding:26px 28px 24px;background:var(--surface)}
+.firm-ticket:not([open])>.t-right{display:none}
+.firm-ticket:not([open])>.t-left{width:100%;flex:1 1 auto;border-right:none}
 .t-promo{display:flex;gap:12px;align-items:flex-start;background:color-mix(in srgb,var(--hot) 8%,var(--surface));border-left:3px solid var(--hot);border-radius:0 10px 10px 0;padding:12px 14px;margin-bottom:18px}
 .t-promo .pulse-badge{flex-shrink:0}
 .t-promo-body{font-size:13.5px;line-height:1.55;color:var(--ink)}
