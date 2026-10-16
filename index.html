@@ -298,7 +298,11 @@
   </style>
   <style>
     /* Firm-first directory: each company is a browsable desk with its own plans. */
-    .firm-directory{display:grid;gap:18px}
+    .firm-directory{display:grid;gap:18px;grid-template-columns:repeat(3,minmax(0,1fr))}
+.firm-directory .firm-ticket{flex-direction:column}
+.firm-directory .firm-ticket>.t-left{width:100%;flex:none;border-right:none;border-bottom:1px dashed var(--line)}
+.firm-directory .firm-ticket>.t-right{padding:20px 16px}
+.firm-directory .firm-ticket:not([open])>.t-right{display:none}
     .firm-section{border:1px solid var(--line);border-radius:16px;background:var(--surface);box-shadow:0 12px 34px rgba(17,50,40,.06);overflow:hidden}
     .firm-section[open]{border-color:color-mix(in srgb,var(--accent) 45%,var(--line));box-shadow:0 18px 44px rgba(17,50,40,.10)}
     .firm-summary{position:relative;display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:16px;align-items:center;padding:16px 18px;list-style:none;cursor:pointer;background:linear-gradient(90deg,color-mix(in srgb,var(--accent) 7%,var(--surface)),var(--surface) 48%)}
@@ -417,7 +421,7 @@
       .signup-modal{display:none;padding:9px;overflow-y:auto;overflow-x:hidden}.signup-modal.open{display:block}.signup-panel{width:min(360px,calc(100vw - 18px));max-width:100%;max-height:calc(100vh - 18px);margin:0 auto;border-radius:13px}.signup-top{padding:20px 18px 16px}.signup-top h2{font-size:24px;padding-right:30px}.signup-top p{font-size:11px}.signup-form{padding:15px 18px 18px;gap:10px}.signup-submit{height:43px}
     }
     @media(max-width:640px){
-      .firm-directory{gap:8px}.firm-section{border-radius:10px}.firm-summary{grid-template-columns:auto minmax(0,1fr) auto;gap:8px;padding:9px 10px}.firm-summary .mark{width:82px;height:46px;flex-basis:82px;padding:5px 7px}.firm-heading h3{font-size:14px}.firm-heading p{font-size:8px;margin-top:2px}.firm-chips{gap:4px;margin-top:5px}.firm-chip{padding:3px 4px;font-size:6.5px}.plat-row{gap:3px;margin-top:5px}.plat-badge{padding:3px 6px;font-size:8px}.plat-logo{width:38px;height:38px;padding:3px;border-radius:10px}.plat-logo img{max-width:30px;max-height:30px}.plat-new{font-size:7px;padding:3px 5px}.plat-label{font-size:6.5px}.firm-summary:after{width:25px;height:25px;font-size:15px}.firm-plans{grid-template-columns:1fr;padding:8px;gap:8px}
+      .firm-directory{gap:8px;grid-template-columns:1fr}.firm-section{border-radius:10px}.firm-summary{grid-template-columns:auto minmax(0,1fr) auto;gap:8px;padding:9px 10px}.firm-summary .mark{width:82px;height:46px;flex-basis:82px;padding:5px 7px}.firm-heading h3{font-size:14px}.firm-heading p{font-size:8px;margin-top:2px}.firm-chips{gap:4px;margin-top:5px}.firm-chip{padding:3px 4px;font-size:6.5px}.plat-row{gap:3px;margin-top:5px}.plat-badge{padding:3px 6px;font-size:8px}.plat-logo{width:38px;height:38px;padding:3px;border-radius:10px}.plat-logo img{max-width:30px;max-height:30px}.plat-new{font-size:7px;padding:3px 5px}.plat-label{font-size:6.5px}.firm-summary:after{width:25px;height:25px;font-size:15px}.firm-plans{grid-template-columns:1fr;padding:8px;gap:8px}
       .radar-card{grid-template-columns:28px minmax(0,1fr) auto}
       .coupon-stack.card-coupons{margin:0 12px 7px}.coupon-badge{padding:6px 10px 6px 12px;column-gap:10px}.coupon-label{font-size:6px}.coupon-code{font-size:12px}.coupon-action{padding-left:9px;font-size:7px}.coupon-stack.compact .coupon-badge{padding:4px 8px 4px 10px}.coupon-stack.compact .coupon-code{font-size:9px}
       .signup-modal{padding:9px}.signup-panel{width:calc(100% - 18px);max-height:calc(100vh - 18px);border-radius:13px}.signup-top{padding:20px 18px 16px}.signup-top h2{font-size:24px;padding-right:30px}.signup-top p{font-size:11px}.signup-form{padding:15px 18px 18px;gap:10px}.signup-submit{height:43px}
