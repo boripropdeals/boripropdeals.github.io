@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-16T18:53:45.051261+00:00",
+ "updated_at": "2026-10-16T18:57:03.437807+00:00",
  "nq": {
-  "price": 29373.25,
-  "change_points": -770.5,
-  "percent_change": -2.56
+  "price": 29389.25,
+  "change_points": -754.5,
+  "percent_change": -2.5
  },
  "gold": {
-  "price": 4178.9,
-  "change_points": 8.8,
-  "percent_change": 0.21
+  "price": 4179.5,
+  "change_points": 9.4,
+  "percent_change": 0.23
  },
  "oil": {
-  "price": 99.29,
-  "change_points": 1.32,
-  "percent_change": 1.35
+  "price": 99.3,
+  "change_points": 1.33,
+  "percent_change": 1.36
  },
  "headlines": [
   {
-   "headline": "Dow sube 556 puntos con rotación fuera de las tecnológicas hacia sectores defensivos",
-   "headline_en": "Dow gains 556 points as investors rotate out of tech into defensive stocks",
-   "source": "hdfcsky.com"
-  },
-  {
-   "headline": "La Fed no da señales: Warsh guarda silencio sobre tasas y el mercado recorta las apuestas a un alza en octubre",
-   "headline_en": "Fed Chair Warsh declines to signal the Fed's next move; investors trim bets on an October rate hike",
-   "source": "WSJ"
-  },
-  {
-   "headline": "CoreWeave rumbo a su peor semana desde 2025 y Dell cae 17% por dudas sobre la demanda de IA",
-   "headline_en": "CoreWeave on track for its worst week since Nov. 2025; Dell drops 17% on AI demand doubts",
-   "source": "WSJ"
-  },
-  {
-   "headline": "Tesla sube tras presentar su nuevo Roadster con producción prevista para 2028",
-   "headline_en": "Tesla climbs after unveiling its new Roadster, targeting 2028 production",
+   "headline": "Nasdaq y S&P 500 se desploman el viernes y van a romper sus rachas ganadoras mientras las acciones de IA caen; el Dow aguanta la ganancia semanal",
+   "headline_en": "Nasdaq, S&P 500 Plunge Friday, Poised to End Weekly Winning Streaks as AI Stocks Fall; Dow Holds Weekly Gain",
    "source": "Investopedia"
   },
   {
-   "headline": "India cierra en verde: el Sensex sube 413 puntos con Tech Mahindra disparada +8.45% tras sus resultados",
-   "headline_en": "India's Sensex gains 413 points led by Tech Mahindra's 8.45% surge on strong quarterly earnings",
-   "source": "thehindubusinessline.com"
+   "headline": "El PPI se dispara 1.3% mensual, su mayor alza desde 2022; la inflación anual sube a 6.3% y crece la presión sobre la Fed",
+   "headline_en": "PPI Jumps 1.3% Month-Over-Month, Its Biggest Gain Since 2022; Annual Inflation Hits 6.3%, Raising Fed Pressure",
+   "source": "MarketIndex"
   },
   {
-   "headline": "El oro supera los $4,200 y el crudo se mantiene cerca de $98 con los riesgos en el estrecho de Ormuz",
-   "headline_en": "Gold tops $4,200 and crude holds near $98 as Strait of Hormuz risks offset the IEA stock release",
-   "source": "Investopedia"
+   "headline": "El VIX se dispara casi 25% hasta 20.57, su máximo desde mediados del verano, por la caída de IA y el repunte del petróleo",
+   "headline_en": "Wall Street Fear Gauge VIX Spikes Nearly 25% to 20.57, Highest Since Midsummer, on AI Selloff and Oil Surge",
+   "source": "Barron's"
+  },
+  {
+   "headline": "TSMC supera las expectativas en el tercer trimestre y guía ingresos del cuarto trimestre 9% por encima del consenso; explora invertir en Texas",
+   "headline_en": "TSMC Beats Q3 Estimates, Guides Q4 Revenue 9% Above Consensus; Explores Texas Investment",
+   "source": "MarketIndex"
+  },
+  {
+   "headline": "El Brent salta 3.3% hasta $109.29 mientras los legisladores bloquean el plan de Trump de importar diésel ruso",
+   "headline_en": "Brent Oil Jumps 3.3% to $109.29 as Lawmakers Move to Block Trump's Russian Diesel Import Plan",
+   "source": "Barron's"
+  },
+  {
+   "headline": "Rotación defensiva: el Dow ganó 556 puntos el jueves y casi 4 de cada 5 acciones del S&P 500 suben mientras el Nasdaq cae",
+   "headline_en": "Defensive Rotation: Dow Gained 556 Points Thursday With 4-to-1 Breadth as Nasdaq Fell",
+   "source": "TradingNEWS"
   }
  ],
  "ultima_hora": null
