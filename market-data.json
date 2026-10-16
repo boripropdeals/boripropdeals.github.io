@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-10-16T14:02:40.378323+00:00",
+ "updated_at": "2026-10-16T14:02:55.038667+00:00",
  "nq": {
-  "price": 29813.25,
-  "change_points": -330.5,
-  "percent_change": -1.1
+  "price": 29828.5,
+  "change_points": -315.25,
+  "percent_change": -1.05
  },
  "gold": {
-  "price": 4210.3,
-  "change_points": 40.2,
-  "percent_change": 0.96
+  "price": 4209.2,
+  "change_points": 39.1,
+  "percent_change": 0.94
  },
  "oil": {
   "price": 96.26,
@@ -17,33 +17,33 @@
  },
  "headlines": [
   {
-   "headline": "Futuros mixtos para cerrar una semana volátil: el Nasdaq romperá su racha de 4 semanas en positivo",
-   "headline_en": "Futures mixed to close a volatile week; Nasdaq to snap four-week winning streak",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "El presidente de la Fed, Kevin Warsh, no da pistas sobre subidas de tasas: los traders ven 15% de probabilidad de alza en octubre y 89% en diciembre",
-   "headline_en": "Fed Chair Warsh gives no rate-hike signal; traders see 15% odds of October hike, 89% for December",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "Tesla sube 3% en premarket tras presentar su nuevo Roadster rediseñado",
-   "headline_en": "Tesla pops 3% premarket after unveiling jaw-dropping Roadster redesign",
+   "headline": "Dow cierra con alza de 556 puntos y Wall Street termina en verde tras caer los rendimientos del Tesoro",
+   "headline_en": "Dow closes up 556 points as Wall Street ends green on falling Treasury yields",
    "source": "Summa Money"
   },
   {
-   "headline": "CoreWeave se recupera tras el susto por su deuda que provocó ventas masivas en IA; el CEO de Nvidia salió a respaldarla",
-   "headline_en": "CoreWeave rebounds after debt scare sparked AI selloff; Nvidia CEO voiced support",
+   "headline": "Futuros mixtos el viernes; el Nasdaq se encamina a romper su racha de 4 semanas ganadoras",
+   "headline_en": "Futures mixed on Friday; Nasdaq on track to snap its 4-week winning streak",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "Nerviosismo en el trade de IA: rotación de semiconductores hacia sectores defensivos como salud",
+   "headline_en": "AI trade jitters: rotation out of chips into defensive sectors like health care",
    "source": "Reuters"
   },
   {
-   "headline": "El precio del acero en EE.UU. toca máximo de 4 años ($1,255/tonelada) mientras los aranceles de Trump aprietan el suministro",
-   "headline_en": "US steel prices climb to four-year high as Trump's tariffs squeeze supply",
-   "source": "Bloomberg Law"
+   "headline": "Tesla sube 3% en pre-mercado tras revelar el rediseño de su nuevo Roadster",
+   "headline_en": "Tesla pops 3% in pre-market after unveiling its new Roadster redesign",
+   "source": "Investopedia"
   },
   {
-   "headline": "Asia rebota tras la caída de chips (Nikkei +1.8%, Kospi +2.8%) mientras Indonesia se desploma 11% por perder su estatus de mercado emergente según MSCI",
-   "headline_en": "Asia rebounds after chip rout while Indonesia slumps 11% on MSCI emerging-market downgrade",
+   "headline": "El presidente de la Fed, Warsh, guarda silencio sobre tasas; el bono a 10 años ronda el 5.1%",
+   "headline_en": "Fed Chair Warsh stays silent on rates; 10-year Treasury yield hovers near 5.1%",
+   "source": "InvestingLive"
+  },
+  {
+   "headline": "Exportaciones de China se disparan 36% en septiembre y el superávit comercial se amplía",
+   "headline_en": "China exports surge 36% in September as trade surplus widens",
    "source": "Reuters"
   }
  ],
