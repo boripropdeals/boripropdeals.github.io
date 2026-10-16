@@ -1,51 +1,61 @@
 {
- "updated_at": "2026-10-16T12:32:33.487467+00:00",
+ "updated_at": "2026-10-16T12:33:28.949173+00:00",
  "nq": {
-  "price": 30116.0,
-  "change_points": -27.75,
-  "percent_change": -0.09
+  "price": 30119.0,
+  "change_points": -24.75,
+  "percent_change": -0.08
  },
  "gold": {
-  "price": 4200.0,
-  "change_points": 29.9,
-  "percent_change": 0.72
+  "price": 4199.0,
+  "change_points": 28.9,
+  "percent_change": 0.69
  },
  "oil": {
-  "price": 95.96,
-  "change_points": -2.01,
-  "percent_change": -2.05
+  "price": 95.98,
+  "change_points": -1.99,
+  "percent_change": -2.03
  },
  "headlines": [
   {
-   "headline": "Futuros mixtos el viernes tras una semana volátil; el mercado mira los resultados de la próxima semana",
-   "headline_en": "Stock futures mixed Friday after volatile week; market focus shifts to next week's earnings",
-   "source": "Wall Street Journal"
+   "headline": "Futuros planos: Nasdaq y S&P se encaminan a pérdidas semanales con las acciones de IA bajo presión",
+   "headline_en": "Stock futures little changed; Nasdaq, S&P poised for weekly losses with AI stocks under pressure",
+   "source": "Investopedia"
   },
   {
-   "headline": "Warsh (Fed) evita dar señales en Bangkok; los mercados lo leen como buena noticia y el 10Y se estabiliza en 5.08%",
-   "headline_en": "Fed Chair Warsh avoids clear signals in Bangkok; markets read lack of hawkishness as good news, 10-year yield steady at 5.08%",
-   "source": "Wall Street Journal"
+   "headline": "El presidente de la Fed Warsh evita señalar el rumbo de las tasas en la reunión del FMI en Bangkok",
+   "headline_en": "Fed Chair Warsh declines to signal rate path at IMF meeting in Bangkok",
+   "source": "WSJ"
   },
   {
-   "headline": "Semana volátil en chips: CoreWeave cae por preocupaciones de deuda y rebota tras el respaldo de Jensen Huang",
-   "headline_en": "Volatile week for chips: CoreWeave pressured by debt concerns, rebounds after Jensen Huang's backing",
-   "source": "Wall Street Journal"
-  },
-  {
-   "headline": "Asia rebota con fuerza: el Kospi sube 2.05% tras desplomarse 7.6% en la sesión anterior",
-   "headline_en": "Asia rebounds sharply: Kospi gains 2.05% after plunging 7.6% in the prior session",
-   "source": "Wall Street Journal"
-  },
-  {
-   "headline": "Brent se mantiene sobre los $105; la AIE evalúa acelerar la liberación de unos 100 millones de barriles",
-   "headline_en": "Brent holds above $105; IEA weighs accelerating release of around 100 million barrels",
+   "headline": "Tesla sube ~4.4% en premarket tras revelar el Roadster volador desarrollado con SpaceX",
+   "headline_en": "Tesla jumps ~4.4% premarket after unveiling flying Roadster developed with SpaceX",
    "source": "Reuters"
   },
   {
-   "headline": "Inflación de productores en EE.UU. sube 1.3%, ventas minoristas +0.8% y solicitudes de desempleo en 199K",
-   "headline_en": "US producer inflation rises 1.3%, retail sales gain 0.8%, jobless claims at 199K",
-   "source": "The Hindu BusinessLine"
+   "headline": "CoreWeave cae ~4%; el índice de semiconductores se encamina a su 8va caída consecutiva",
+   "headline_en": "CoreWeave slips ~4%; semiconductor index heads for 8th straight down day",
+   "source": "Reuters"
+  },
+  {
+   "headline": "El rendimiento del Tesoro a 10 años supera 5.11% tras los datos de inflación",
+   "headline_en": "10-year Treasury yield tops 5.11% after hot inflation data",
+   "source": "WSJ"
+  },
+  {
+   "headline": "TSMC dispara su ganancia casi 70% por la demanda de IA; Dell se hunde 17% en dos días",
+   "headline_en": "TSMC profit jumps nearly 70% on AI demand; Dell slides 17% in two days",
+   "source": "InvestingLive"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "La Casa Blanca revisa plan que permitiría péptidos compuestos; Hims sube ~6%",
+  "headline_en": "White House reviews plan allowing compounding of certain peptides; Hims jumps ~6%",
+  "source": "Stocktwits (vía Associated Press)",
+  "image": "",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/trump-peptidos-casa-blanca-podio-2026-10-16.webp",
+   "https://boripropdeals.github.io/breaking-visuals/trump-laboratorio-peptidos-fda-2026-10-16.webp",
+   "https://boripropdeals.github.io/breaking-visuals/trump-hims-acciones-suben-2026-10-16.webp"
+  ]
+ }
 }
