@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-16T16:02:35.864060+00:00",
+ "updated_at": "2026-10-16T16:04:17.470203+00:00",
  "nq": {
-  "price": 29713.25,
-  "change_points": -430.5,
-  "percent_change": -1.43
+  "price": 29700.75,
+  "change_points": -443.0,
+  "percent_change": -1.47
  },
  "gold": {
-  "price": 4191.1,
-  "change_points": 21.0,
-  "percent_change": 0.5
+  "price": 4192.3,
+  "change_points": 22.2,
+  "percent_change": 0.53
  },
  "oil": {
-  "price": 96.5,
-  "change_points": -1.47,
-  "percent_change": -1.5
+  "price": 96.4,
+  "change_points": -1.57,
+  "percent_change": -1.6
  },
  "headlines": [
   {
-   "headline": "El Nasdaq está a punto de romper su racha de cuatro semanas de ganancias",
-   "headline_en": "Nasdaq poised to snap its four-week winning streak",
+   "headline": "El Nasdaq, camino a romper su racha de cuatro semanas ganadas mientras las acciones de IA siguen bajo presión",
+   "headline_en": "Nasdaq Poised to End Four-Week Winning Streak as AI Stocks Remain Under Pressure",
    "source": "Investopedia"
   },
   {
-   "headline": "Las acciones de IA bajo presión: la caída de CoreWeave aviva temores de deuda en la fiebre de la IA",
-   "headline_en": "AI stocks under pressure as CoreWeave selloff fuels debt fears in AI boom",
-   "source": "The Wall Street Journal"
-  },
-  {
-   "headline": "Warsh evita señalar un movimiento de tasas; el mercado recorta las apuestas de una subida en octubre",
-   "headline_en": "Fed Chair Warsh avoids signaling a rate move; markets cut October hike odds",
-   "source": "The Wall Street Journal"
-  },
-  {
-   "headline": "El rendimiento del Tesoro a 10 años ronda el 5.10% tras datos de inflación más calientes de lo esperado",
-   "headline_en": "10-year Treasury yield hovers near 5.10% after hotter-than-expected inflation data",
+   "headline": "El presidente de la Fed, Kevin Warsh, evita anticipar el rumbo de tasas en el FMI; el mercado ya ve solo 13% de probabilidad de alza en octubre",
+   "headline_en": "Fed Chair Kevin Warsh Avoids Signaling Rate Path at IMF Meeting; Traders See 13% Odds of October Hike",
    "source": "Investopedia"
   },
   {
-   "headline": "Tesla sube 3% tras revelar un rediseño del Roadster; reporta resultados la próxima semana",
-   "headline_en": "Tesla jumps 3% after Roadster redesign reveal; earnings due next week",
+   "headline": "Rotación fuera de tecnología hacia sectores defensivos: el Dow subió 556 puntos el jueves",
+   "headline_en": "Rotation Out of Tech Into Defensive Sectors Lifts Dow 556 Points Thursday",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "CoreWeave vuelve a caer por dudas sobre su deuda pese al optimismo del CEO de Nvidia",
+   "headline_en": "CoreWeave Under Renewed Pressure on Debt Fears Despite Nvidia CEO Optimism",
+   "source": "WSJ"
+  },
+  {
+   "headline": "Tesla sube 3% en premarket tras presentar su Roadster volador",
+   "headline_en": "Tesla Pops 3% Premarket After Unveiling Flying Roadster Redesign",
    "source": "Summa Money"
   },
   {
-   "headline": "El Dow subió 1.1% el jueves con rotación hacia sectores defensivos como salud",
-   "headline_en": "Dow gained 1.1% Thursday as investors rotated into defensive sectors like healthcare",
-   "source": "Investopedia"
+   "headline": "El bono a 10 años ronda el 5.09% y el Brent se mantiene cerca de $106",
+   "headline_en": "10-Year Treasury Yield Near 5.09% as Brent Crude Holds Around $106",
+   "source": "WSJ"
   }
  ],
  "ultima_hora": null
