@@ -1,50 +1,45 @@
 {
- "updated_at": "2026-10-16T16:34:56.339436+00:00",
+ "updated_at": "2026-10-16T16:36:54.997497+00:00",
  "nq": {
-  "price": 29680.25,
-  "change_points": -463.5,
-  "percent_change": -1.54
+  "price": 29677.5,
+  "change_points": -466.25,
+  "percent_change": -1.55
  },
  "gold": {
-  "price": 4187.9,
-  "change_points": 17.8,
-  "percent_change": 0.43
+  "price": 4187.1,
+  "change_points": 17.0,
+  "percent_change": 0.41
  },
  "oil": {
-  "price": 97.46,
-  "change_points": -0.51,
-  "percent_change": -0.52
+  "price": 97.66,
+  "change_points": -0.31,
+  "percent_change": -0.32
  },
  "headlines": [
   {
-   "headline": "El Nasdaq, camino a romper su racha de cuatro semanas ganadas mientras las acciones de IA siguen bajo presión",
-   "headline_en": "Nasdaq Poised to End Four-Week Winning Streak as AI Stocks Remain Under Pressure",
+   "headline": "Dow sube 556 puntos mientras se calman los temores de tasas y el dinero rota fuera de la tecnología",
+   "headline_en": "Dow jumps 556 points as rate fears ease and investors rotate out of tech",
+   "source": "hdfcsky.com"
+  },
+  {
+   "headline": "Traders apuestan a que la Fed mantendrá las tasas en octubre tras el silencio de Warsh",
+   "headline_en": "Traders bet on October rate hold after Fed Chair Kevin Warsh stays tight-lipped",
+   "source": "NY Post"
+  },
+  {
+   "headline": "El Nasdaq, a punto de romper su racha de cuatro semanas ganadoras; las acciones de IA siguen bajo presión",
+   "headline_en": "Nasdaq poised to snap four-week winning streak as AI stocks stay under pressure",
    "source": "Investopedia"
   },
   {
-   "headline": "El presidente de la Fed, Kevin Warsh, evita anticipar el rumbo de tasas en el FMI; el mercado ya ve solo 13% de probabilidad de alza en octubre",
-   "headline_en": "Fed Chair Kevin Warsh Avoids Signaling Rate Path at IMF Meeting; Traders See 13% Odds of October Hike",
+   "headline": "Tesla sube tras revelar su nuevo Roadster",
+   "headline_en": "Tesla shares climb after unveiling its new Roadster",
    "source": "Investopedia"
   },
   {
-   "headline": "Rotación fuera de tecnología hacia sectores defensivos: el Dow subió 556 puntos el jueves",
-   "headline_en": "Rotation Out of Tech Into Defensive Sectors Lifts Dow 556 Points Thursday",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "CoreWeave vuelve a caer por dudas sobre su deuda pese al optimismo del CEO de Nvidia",
-   "headline_en": "CoreWeave Under Renewed Pressure on Debt Fears Despite Nvidia CEO Optimism",
-   "source": "WSJ"
-  },
-  {
-   "headline": "Tesla sube 3% en premarket tras presentar su Roadster volador",
-   "headline_en": "Tesla Pops 3% Premarket After Unveiling Flying Roadster Redesign",
-   "source": "Summa Money"
-  },
-  {
-   "headline": "El bono a 10 años ronda el 5.09% y el Brent se mantiene cerca de $106",
-   "headline_en": "10-Year Treasury Yield Near 5.09% as Brent Crude Holds Around $106",
-   "source": "WSJ"
+   "headline": "El Kospi se desploma más de 7% en una venta masiva global de semiconductores",
+   "headline_en": "Kospi sinks more than 7% in global semiconductor selloff",
+   "source": "hdfcsky.com"
   }
  ],
  "ultima_hora": null
