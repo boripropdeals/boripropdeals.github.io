@@ -98,7 +98,7 @@
     @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
   
 .brand-name-img{height:62px;width:auto;animation:brandHueCycle 8s ease-in-out infinite}
-@keyframes brandHueCycle{0%,100%{filter:hue-rotate(0deg)}50%{filter:hue-rotate(40deg)}}
+@keyframes brandHueCycle{0%,100%{filter:hue-rotate(0deg) saturate(1.2)}25%{filter:hue-rotate(30deg) saturate(1.4)}50%{filter:hue-rotate(-30deg) saturate(1.4)}75%{filter:hue-rotate(30deg) saturate(1.4)}}
 </style>
   <style>
     /* 2026 visual refinement: an editorial trading desk, not a generic card directory */
@@ -124,7 +124,7 @@
     .hero>aside.visual-terminal{grid-column:2;grid-row:1}
     .hero>.top-tools{position:absolute;z-index:5}
     .brand-lockup{display:inline-flex;align-items:center;gap:18px;margin:0 0 28px;color:var(--hero-ink)}
-    .hero-logo{height:76px;width:auto;max-width:min(380px,62vw);display:block;object-fit:contain;border-radius:14px;box-shadow:0 0 42px rgba(89,242,173,.13)}
+    .hero-logo{height:92px;width:auto;max-width:min(380px,62vw);display:block;object-fit:contain;border-radius:14px;box-shadow:0 0 42px rgba(89,242,173,.13)}
     .brand-name{font-size:clamp(24px,2.7vw,38px);font-weight:800;line-height:.96;letter-spacing:-.045em;max-width:230px;
       background:linear-gradient(90deg,#a855f7,#59f2ad,#22d3ee,#a855f7,#59f2ad);
       background-size:300% 100%;-webkit-background-clip:text;background-clip:text;
