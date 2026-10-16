@@ -1,61 +1,51 @@
 {
- "updated_at": "2026-10-16T20:32:37.292486+00:00",
+ "updated_at": "2026-10-16T20:32:54.016982+00:00",
  "nq": {
-  "price": 29358.5,
-  "change_points": -785.25,
-  "percent_change": -2.61
+  "price": 29361.75,
+  "change_points": -782.0,
+  "percent_change": -2.59
  },
  "gold": {
-  "price": 4187.1,
-  "change_points": 17.0,
+  "price": 4187.3,
+  "change_points": 17.2,
   "percent_change": 0.41
  },
  "oil": {
-  "price": 98.92,
-  "change_points": 0.95,
-  "percent_change": 0.97
+  "price": 98.9,
+  "change_points": 0.93,
+  "percent_change": 0.95
  },
  "headlines": [
   {
-   "headline": "El Nasdaq se hunde más de 2% el viernes por temores sobre la deuda ligada a la IA",
-   "headline_en": "Nasdaq sinks more than 2% as investors raise questions about AI debt",
-   "source": "CNN"
-  },
-  {
-   "headline": "El VIX se dispara casi 25% a su nivel más alto desde el verano mientras caen las acciones y sube el petróleo",
-   "headline_en": "Wall Street's fear gauge flashes red as stocks tumble, oil surges, and tech reels",
+   "headline": "El Nasdaq sufre su peor caída semanal en meses por temor a la deuda de IA",
+   "headline_en": "Nasdaq suffers worst weekly drop in months as AI debt fears shake markets",
    "source": "Barron's"
   },
   {
-   "headline": "Warsh evita dar señales sobre las tasas; el mercado ve 89% de probabilidad de un alza en diciembre",
-   "headline_en": "Fed Chair Warsh avoids signaling rate path as hot CPI and PPI data pressure the Fed",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "El Brent salta 3.3% a $109.29 mientras el Congreso bloquea el plan de Trump de importar diésel ruso",
-   "headline_en": "Brent crude jumps 3.3% to $109.29 as lawmakers move to block Trump's Russian diesel import plan",
-   "source": "Barron's"
-  },
-  {
-   "headline": "CoreWeave se desploma 14% y ahonda los temores por la deuda de las 'neoclouds'",
-   "headline_en": "CoreWeave drops 14% on Friday as neocloud debt fears deepen",
+   "headline": "CoreWeave se desploma 12% y enciende alarmas sobre el financiamiento de infraestructura IA",
+   "headline_en": "CoreWeave sinks 12% as AI infrastructure debt worries mount",
    "source": "CNN"
   },
   {
-   "headline": "El Nasdaq va camino de romper su racha de cuatro semanas de ganancias",
-   "headline_en": "Nasdaq poised to end run of weekly gains",
-   "source": "Investopedia"
+   "headline": "El Dow gana 556 puntos con rotación hacia sectores defensivos",
+   "headline_en": "Dow gains 556 points on defensive rotation as tech slumps",
+   "source": "HDFC Sky"
+  },
+  {
+   "headline": "El crudo WTI sube 4.2% en la semana; el oro se mantiene sobre $4,180",
+   "headline_en": "WTI crude jumps 4.2% for the week; gold holds above $4,180",
+   "source": "PRNewswire"
+  },
+  {
+   "headline": "El rendimiento del bono a 10 años baja 13 puntos base en la semana al 5.11%",
+   "headline_en": "10-year Treasury yield drops 13 bps on the week to 5.11%",
+   "source": "Barron's"
+  },
+  {
+   "headline": "Meta y Tesla abren la próxima semana la temporada de resultados de las Magnificent Seven",
+   "headline_en": "Meta and Tesla kick off Magnificent Seven earnings next week",
+   "source": "Barron's"
   }
  ],
- "ultima_hora": {
-  "headline": "Trump tilda de 'una vergüenza' los ataques de Ucrania a refinerías rusas y culpa a Kiev del precio alto de la energía",
-  "headline_en": "Trump calls Ukraine's resumption of strikes on Russian refineries a 'disgrace' keeping global energy prices elevated",
-  "source": "Reuters",
-  "image": "",
-  "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-16-trump-refinerias-tanquero-mar.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-16-trump-refinerias-pumpjacks-amanecer.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-16-trump-refinerias-tormenta.webp"
-  ]
- }
+ "ultima_hora": null
 }
