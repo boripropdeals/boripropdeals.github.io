@@ -1,50 +1,45 @@
 {
- "updated_at": "2026-10-16T21:02:33.621084+00:00",
+ "updated_at": "2026-10-16T21:03:17.188110+00:00",
  "nq": {
-  "price": 29379.25,
-  "change_points": -764.5,
-  "percent_change": -2.54
+  "price": 29381.0,
+  "change_points": -762.75,
+  "percent_change": -2.53
  },
  "gold": {
-  "price": 4187.5,
-  "change_points": 17.4,
-  "percent_change": 0.42
+  "price": 4185.8,
+  "change_points": 15.7,
+  "percent_change": 0.38
  },
  "oil": {
-  "price": 98.96,
-  "change_points": 0.99,
-  "percent_change": 1.01
+  "price": 98.94,
+  "change_points": 0.97,
+  "percent_change": 0.99
  },
  "headlines": [
   {
-   "headline": "El Nasdaq sufre su peor caída semanal en meses por temor a la deuda de IA",
-   "headline_en": "Nasdaq suffers worst weekly drop in months as AI debt fears shake markets",
-   "source": "Barron's"
+   "headline": "Nasdaq y S&P 500 cierran a la baja y terminan la semana en rojo por la caída de acciones de IA; el Dow logra ganancia semanal",
+   "headline_en": "Nasdaq, S&P 500 End Lower, Post Weekly Losses as AI Stocks Fall; Dow Logs Weekly Gain",
+   "source": "Investopedia"
   },
   {
-   "headline": "CoreWeave se desploma 12% y enciende alarmas sobre el financiamiento de infraestructura IA",
-   "headline_en": "CoreWeave sinks 12% as AI infrastructure debt worries mount",
-   "source": "CNN"
+   "headline": "El Nasdaq pierde 370 puntos mientras CoreWeave se desploma 7.6% por la preocupación sobre la deuda de la infraestructura de IA",
+   "headline_en": "Nasdaq Composite Loses 370 Points as CoreWeave Drops 7.6% on AI Financing Debt Concerns",
+   "source": "Reuters"
   },
   {
-   "headline": "El Dow gana 556 puntos con rotación hacia sectores defensivos",
-   "headline_en": "Dow gains 556 points on defensive rotation as tech slumps",
-   "source": "HDFC Sky"
+   "headline": "El presidente de la Fed evita dar señales sobre tasas en el FMI; el mercado ve 89% de probabilidad de alza en diciembre",
+   "headline_en": "Fed Chair Avoids Signaling Rate Path at IMF Meeting; Traders See 89% Odds of December Hike",
+   "source": "Investopedia"
   },
   {
-   "headline": "El crudo WTI sube 4.2% en la semana; el oro se mantiene sobre $4,180",
-   "headline_en": "WTI crude jumps 4.2% for the week; gold holds above $4,180",
-   "source": "PRNewswire"
+   "headline": "El petróleo WTI se dispara a $97.65 por barril ante tensiones en el Estrecho de Ormuz y el Mar Rojo",
+   "headline_en": "WTI Crude Jumps to $97.65 a Barrel Amid Strait of Hormuz and Red Sea Tensions",
+   "source": "TradingNews"
   },
   {
-   "headline": "El rendimiento del bono a 10 años baja 13 puntos base en la semana al 5.11%",
-   "headline_en": "10-year Treasury yield drops 13 bps on the week to 5.11%",
-   "source": "Barron's"
-  },
-  {
-   "headline": "Meta y Tesla abren la próxima semana la temporada de resultados de las Magnificent Seven",
-   "headline_en": "Meta and Tesla kick off Magnificent Seven earnings next week",
-   "source": "Barron's"
+   "headline": "Rotación defensiva en Wall Street: sectores defensivos sostienen al Dow mientras los semiconductores de IA siguen débiles",
+   "headline_en": "Defensive Rotation on Wall Street: Defensives Lift the Dow as AI Semiconductor Stocks Stay Weak",
+   "source": "OneTrader"
   }
  ],
  "ultima_hora": null
