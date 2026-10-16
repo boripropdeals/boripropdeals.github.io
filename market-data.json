@@ -1,45 +1,50 @@
 {
- "updated_at": "2026-10-16T12:02:34.269917+00:00",
+ "updated_at": "2026-10-16T12:03:23.665062+00:00",
  "nq": {
-  "price": 30057.0,
-  "change_points": -86.75,
+  "price": 30055.5,
+  "change_points": -88.25,
   "percent_change": -0.29
  },
  "gold": {
-  "price": 4197.5,
-  "change_points": 27.4,
-  "percent_change": 0.66
+  "price": 4196.6,
+  "change_points": 26.5,
+  "percent_change": 0.64
  },
  "oil": {
-  "price": 96.46,
-  "change_points": -1.51,
-  "percent_change": -1.54
+  "price": 96.51,
+  "change_points": -1.46,
+  "percent_change": -1.49
  },
  "headlines": [
   {
-   "headline": "Futuros de Wall Street mixtos el viernes: la tecnología vuelve a tambalearse por las deudas de IA; Tesla sube 4.4% por el Roadster de SpaceX",
-   "headline_en": "Wall St futures mixed Friday: tech wobbles again on AI debt worries; Tesla gains 4.4% on SpaceX Roadster",
+   "headline": "Futuros mixtos el viernes tras una semana volátil; el mercado mira los resultados de la próxima semana",
+   "headline_en": "Stock futures mixed Friday after volatile week; market focus shifts to next week's earnings",
+   "source": "Wall Street Journal"
+  },
+  {
+   "headline": "Warsh (Fed) evita dar señales en Bangkok; los mercados lo leen como buena noticia y el 10Y se estabiliza en 5.08%",
+   "headline_en": "Fed Chair Warsh avoids clear signals in Bangkok; markets read lack of hawkishness as good news, 10-year yield steady at 5.08%",
+   "source": "Wall Street Journal"
+  },
+  {
+   "headline": "Semana volátil en chips: CoreWeave cae por preocupaciones de deuda y rebota tras el respaldo de Jensen Huang",
+   "headline_en": "Volatile week for chips: CoreWeave pressured by debt concerns, rebounds after Jensen Huang's backing",
+   "source": "Wall Street Journal"
+  },
+  {
+   "headline": "Asia rebota con fuerza: el Kospi sube 2.05% tras desplomarse 7.6% en la sesión anterior",
+   "headline_en": "Asia rebounds sharply: Kospi gains 2.05% after plunging 7.6% in the prior session",
+   "source": "Wall Street Journal"
+  },
+  {
+   "headline": "Brent se mantiene sobre los $105; la AIE evalúa acelerar la liberación de unos 100 millones de barriles",
+   "headline_en": "Brent holds above $105; IEA weighs accelerating release of around 100 million barrels",
    "source": "Reuters"
   },
   {
-   "headline": "Asia rebota tras la caída tech provocada por CoreWeave; Nikkei +1.8%, KOSPI +2.8%",
-   "headline_en": "Asia rebounds after CoreWeave-triggered tech rout; Nikkei +1.8%, KOSPI +2.8%",
-   "source": "Reuters"
-  },
-  {
-   "headline": "El Nasdaq recupera parte de la caída intradía del 1.8% y cierra al alza; S&P y Nasdaq encaminan pérdidas semanales",
-   "headline_en": "Nasdaq recovers from 1.8% intraday drop to close higher; S&P 500 and Nasdaq set for weekly losses",
-   "source": "Reuters"
-  },
-  {
-   "headline": "MSCI elimina a Indonesia del estatus de mercado emergente; su bolsa se desploma 11%",
-   "headline_en": "MSCI cuts Indonesia from emerging-market status; Jakarta benchmark slumps 11%",
-   "source": "Reuters"
-  },
-  {
-   "headline": "El oro se mantiene por encima de $4,200 y el crudo Brent ronda los $105; analistas vigilan el impacto en energía",
-   "headline_en": "Gold holds above $4,200 and Brent crude hovers ~$105 as analysts watch energy impact",
-   "source": "Reuters"
+   "headline": "Inflación de productores en EE.UU. sube 1.3%, ventas minoristas +0.8% y solicitudes de desempleo en 199K",
+   "headline_en": "US producer inflation rises 1.3%, retail sales gain 0.8%, jobless claims at 199K",
+   "source": "The Hindu BusinessLine"
   }
  ],
  "ultima_hora": null
