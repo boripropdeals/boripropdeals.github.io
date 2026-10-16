@@ -769,7 +769,7 @@
     };
     function moneyDisc(value,firm){var f=discountedPrice(value,firm);return f==null?money(value):money(f)}
     function pricesOf(p){return (p.account_sizes||[]).map(s=>[s,p.price_usd&&Object.prototype.hasOwnProperty.call(p.price_usd,s)?p.price_usd[s]:null])}
-    function minPrice(p){const x=pricesOf(p).filter(v=>v[1]!=null).sort((a,b)=>a[1]-b[1]);return x.length?{size:x[0][0],value:x[0][1]}:null}
+    function minPrice(p){const d=FIRM_DISCOUNTS[p.firm];const x=pricesOf(p).filter(v=>v[1]!=null).map(v=>{let val=v[1];if(d&&d.pct)val=Math.round(val*(1-d.pct/100)*100)/100;return [v[0],val]}).sort((a,b)=>a[1]-b[1]);return x.length?{size:x[0][0],value:x[0][1]}:null}
     function finalMinPrice(p){const mp=minPrice(p);if(!mp)return null;const d=discountedPrice(mp.value,p.firm);return d!=null?d:mp.value}
     function payoutGroup(p){const x=(p.payout_frequency||'').toLowerCase();if(x.includes('on demand'))return 'onDemand';if(x.includes('daily')||x.includes('24h')||x.includes('day one'))return 'daily';if(x.includes('per cycle')||x.includes('cycle-based'))return 'other';if(x.includes('14 days')||x.includes('two weeks'))return 'biweekly';if(x.includes('month'))return 'monthly';if(x.includes('5 ')||x.includes('five'))return 'fiveDays';if(x.includes('week'))return 'weekly';return 'other'}
     function drawdownGroup(p){const x=(p.drawdown_type||'').toLowerCase();if(x.includes('static'))return 'static';const noIntra=x.includes('no intraday');if(!noIntra&&(x.includes('intraday')||x.includes('live trailing')||((x.includes('real-time')||x.includes('real time'))&&x.includes('trailing')&&!x.includes('breach'))))return 'intraday';if(x.includes('eod')||x.includes('end-of-day')||x.includes('end of day')||x.includes('trailing'))return 'eod';return 'other'}
