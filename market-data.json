@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-16T11:02:33.450732+00:00",
+ "updated_at": "2026-10-16T11:03:33.384918+00:00",
  "nq": {
-  "price": 30111.25,
-  "change_points": -32.5,
-  "percent_change": -0.11
+  "price": 30108.25,
+  "change_points": -35.5,
+  "percent_change": -0.12
  },
  "gold": {
-  "price": 4198.7,
-  "change_points": 28.6,
-  "percent_change": 0.69
+  "price": 4198.6,
+  "change_points": 28.5,
+  "percent_change": 0.68
  },
  "oil": {
-  "price": 96.0,
-  "change_points": -1.97,
-  "percent_change": -2.01
+  "price": 96.02,
+  "change_points": -1.95,
+  "percent_change": -1.99
  },
  "headlines": [
   {
-   "headline": "El desplome tecnológico global pierde fuerza: Wall Street rebota mientras Asia se desploma",
-   "headline_en": "Global tech rout loses steam: Wall Street rebounds as Asia slumps",
+   "headline": "Wall Street se recupera: el Dow sube 556 puntos (+1.08%) y el S&P rompe una racha de 3 días de pérdidas",
+   "headline_en": "Wall Street rebounds: Dow jumps 556 points (+1.08%), S&P 500 snaps 3-day losing streak",
+   "source": "TechFlow Post"
+  },
+  {
+   "headline": "El Nasdaq se recupera de una caída intradía del 1.8% y cierra en positivo; Asia rebota tras la caída de chips",
+   "headline_en": "Nasdaq recovers from 1.8% intraday drop to close higher; Asia rebounds after chip rout",
    "source": "Reuters"
   },
   {
-   "headline": "La inflación mayorista de EE.UU. registra su mayor alza en 4 años y medio (+6.3%)",
-   "headline_en": "US wholesale inflation posts largest gain in 4-1/2 years (+6.3%)",
-   "source": "Reuters/BLS"
-  },
-  {
-   "headline": "La venta de acciones de IA se profundiza: Nvidia, AMD y CoreWeave bajo presión",
-   "headline_en": "AI sell-off deepens: Nvidia, AMD and CoreWeave under pressure",
-   "source": "Motley Fool"
-  },
-  {
-   "headline": "El rendimiento del bono a 10 años cae a su mínimo en 3 semanas (~5.08%)",
-   "headline_en": "10-year Treasury yield falls to 3-week low (~5.08%)",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "El oro supera los $4,160 por onza ante la demanda de refugio seguro",
-   "headline_en": "Gold tops $4,160 an ounce on safe-haven demand",
+   "headline": "CoreWeave arrastra a las acciones de IA por preocupación sobre su deuda; el índice de semiconductores suma su séptima caída diaria consecutiva",
+   "headline_en": "CoreWeave debt worries weigh on AI stocks; semiconductor index notches seventh straight daily decline",
    "source": "Reuters"
   },
   {
-   "headline": "El CPI de septiembre salió caliente (3.7%) y elevó las apuestas de otra alza de la Fed",
-   "headline_en": "September CPI ran hot (3.7%), lifting Fed rate-hike bets",
-   "source": "Investopedia"
+   "headline": "El presidente de la Fed, Warsh, evita un tono hawkish en Bangkok; el rendimiento del bono a 10 años se mantiene en ~5.08%",
+   "headline_en": "Fed Chair Warsh avoids hawkish tone in Bangkok; 10-year Treasury yield holds near 5.08%",
+   "source": "WSJ"
+  },
+  {
+   "headline": "MSCI rebaja a Indonesia de la categoría de mercado emergente; su bolsa se desploma 11%",
+   "headline_en": "MSCI cuts Indonesia from emerging-market status; Jakarta benchmark slumps 11%",
+   "source": "Reuters"
+  },
+  {
+   "headline": "El oro vuelve a superar los $4,200 por onza mientras el crudo Brent se mantiene sobre los $105",
+   "headline_en": "Gold back above $4,200 an ounce as Brent crude holds over $105",
+   "source": "WSJ"
   }
  ],
  "ultima_hora": null
