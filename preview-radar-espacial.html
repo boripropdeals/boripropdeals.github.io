@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Radar Espacial — Preview | BoriProp Deals</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  :root {
+    --neon: #59f2ad;
+    --neon-dim: rgba(89,242,173,.35);
+    --bg: #04070d;
+    --panel: rgba(8,15,24,.82);
+  }
+  body {
+    background: var(--bg);
+    color: #e8f5ee;
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+  /* starfield */
+  .stars, .stars2 {
+    position: fixed; inset: 0; pointer-events: none; z-index: 0;
+  }
+  .stars {
+    background-image:
+      radial-gradient(1px 1px at 12% 22%, #fff 100%, transparent 100%),
+      radial-gradient(1px 1px at 68% 8%, #fff 100%, transparent 100%),
+      radial-gradient(1.5px 1.5px at 34% 64%, #cfe 100%, transparent 100%),
+      radial-gradient(1px 1px at 82% 42%, #fff 100%, transparent 100%),
+      radial-gradient(1px 1px at 45% 12%, #fff 100%, transparent 100%),
+      radial-gradient(2px 2px at 90% 78%, #cfe 100%, transparent 100%),
+      radial-gradient(1px 1px at 22% 88%, #fff 100%, transparent 100%),
+      radial-gradient(1px 1px at 56% 36%, #fff 100%, transparent 100%),
+      radial-gradient(1.5px 1.5px at 75% 62%, #fff 100%, transparent 100%),
+      radial-gradient(1px 1px at 8% 55%, #cfe 100%, transparent 100%);
+  }
+  .nebula {
+    position: fixed; inset: 0; pointer-events: none; z-index: 0;
+    background:
+      radial-gradient(ellipse 60% 40% at 80% 10%, rgba(89,242,173,.06), transparent 70%),
+      radial-gradient(ellipse 50% 35% at 10% 85%, rgba(34,211,238,.05), transparent 70%),
+      radial-gradient(ellipse 40% 30% at 50% 50%, rgba(168,85,247,.04), transparent 70%);
+  }
+  .wrap { position: relative; z-index: 1; max-width: 1180px; margin: 0 auto; padding: 28px 20px 60px; }
+
+  /* lang toggle */
+  .lang-toggle { display:flex; gap:8px; justify-content:flex-end; margin-bottom: 14px; }
+  .lang-toggle button {
+    background: transparent; border: 1px solid var(--neon-dim); color: var(--neon);
+    font-weight: 700; font-size: 12px; letter-spacing: .12em; padding: 7px 14px;
+    border-radius: 8px; cursor: pointer; transition: .2s;
+  }
+  .lang-toggle button.active, .lang-toggle button:hover { background: var(--neon); color: #04120a; }
+
+  /* HUD hero */
+  .hud-frame {
+    position: relative; border-radius: 18px; overflow: hidden;
+    border: 1px solid rgba(89,242,173,.25);
+    box-shadow: 0 0 60px rgba(89,242,173,.12), inset 0 0 80px rgba(0,0,0,.5);
+  }
+  .hud-frame img { display: block; width: 100%; height: auto; }
+  .hud-corner { position: absolute; width: 34px; height: 34px; border: 3px solid var(--neon); filter: drop-shadow(0 0 6px var(--neon)); }
+  .hud-corner.tl { top: 12px; left: 12px; border-right: 0; border-bottom: 0; border-radius: 8px 0 0 0; }
+  .hud-corner.tr { top: 12px; right: 12px; border-left: 0; border-bottom: 0; border-radius: 0 8px 0 0; }
+  .hud-corner.bl { bottom: 12px; left: 12px; border-right: 0; border-top: 0; border-radius: 0 0 0 8px; }
+  .hud-corner.br { bottom: 12px; right: 12px; border-left: 0; border-top: 0; border-radius: 0 0 8px 0; }
+  .hud-tag {
+    position: absolute; top: 18px; left: 50%; transform: translateX(-50%);
+    font-family: monospace; font-size: 12px; letter-spacing: .25em; color: var(--neon);
+    background: rgba(4,10,8,.65); padding: 6px 16px; border-radius: 6px;
+    border: 1px solid rgba(89,242,173,.3); white-space: nowrap;
+  }
+  .hud-title {
+    position: absolute; bottom: 26px; left: 0; right: 0; text-align: center;
+  }
+  .hud-title h1 {
+    font-size: clamp(26px, 4.5vw, 46px); font-weight: 800; letter-spacing: .06em;
+    color: #fff; text-shadow: 0 0 24px rgba(89,242,173,.8);
+  }
+  .hud-title h1 .accent { color: var(--neon); }
+  .hud-title p { margin-top: 8px; color: #9fd8bd; font-size: 14px; letter-spacing: .18em; }
+
+  /* radar panels */
+  .radars { display: grid; grid-template-columns: 1fr 1fr; gap: 22px; margin-top: 26px; }
+  @media (max-width: 820px) { .radars { grid-template-columns: 1fr; } }
+  .radar {
+    background: var(--panel); border: 1px solid rgba(89,242,173,.28); border-radius: 16px;
+    overflow: hidden; backdrop-filter: blur(6px);
+    box-shadow: 0 0 40px rgba(89,242,173,.07);
+  }
+  .radar-head {
+    display: flex; align-items: center; gap: 12px; padding: 16px 18px;
+    border-bottom: 1px solid rgba(89,242,173,.18);
+    background: linear-gradient(180deg, rgba(89,242,173,.08), transparent);
+  }
+  .radar-sweep {
+    width: 44px; height: 44px; border-radius: 50%; flex-shrink: 0;
+    border: 1px solid var(--neon-dim); position: relative; overflow: hidden;
+    background:
+      radial-gradient(circle, transparent 62%, rgba(89,242,173,.25) 63%, transparent 66%),
+      radial-gradient(circle, transparent 38%, rgba(89,242,173,.18) 39%, transparent 42%);
+  }
+  .radar-sweep::after {
+    content:''; position: absolute; inset: 0; border-radius: 50%;
+    background: conic-gradient(from 0deg, rgba(89,242,173,.85), transparent 22%);
+    animation: sweep 2.6s linear infinite;
+  }
+  @keyframes sweep { to { transform: rotate(360deg); } }
+  .radar-head h2 { font-size: 17px; letter-spacing: .08em; color: var(--neon); }
+  .radar-head small { display: block; color: #8fb8a3; font-size: 11px; letter-spacing: .14em; margin-top: 3px; font-weight: 400; }
+  .rank-row {
+    display: flex; align-items: center; gap: 14px; padding: 13px 18px;
+    border-bottom: 1px solid rgba(89,242,173,.08); transition: background .2s;
+  }
+  .rank-row:last-child { border-bottom: 0; }
+  .rank-row:hover { background: rgba(89,242,173,.05); }
+  .rank-num {
+    width: 34px; height: 34px; flex-shrink: 0; border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-weight: 800; font-size: 15px; color: #04120a; background: var(--neon);
+    box-shadow: 0 0 14px rgba(89,242,173,.55);
+  }
+  .rank-row:nth-child(n+3) .rank-num { background: transparent; color: var(--neon); border: 1px solid var(--neon-dim); box-shadow: none; }
+  .rank-info { flex: 1; min-width: 0; }
+  .rank-info b { display: block; font-size: 15px; }
+  .rank-info span { font-size: 12px; color: #8fb8a3; }
+  .rank-val { text-align: right; flex-shrink: 0; }
+  .rank-val b { color: var(--neon); font-size: 17px; display: block; }
+  .rank-val span { font-size: 11px; color: #8fb8a3; }
+  .radar-foot { padding: 12px 18px; font-size: 11px; color: #6d9484; letter-spacing: .06em; border-top: 1px solid rgba(89,242,173,.12); }
+
+  .note { margin-top: 22px; text-align: center; color: #6d9484; font-size: 12px; letter-spacing: .1em; }
+  [data-en] { display: none; }
+  html[lang="en"] [data-en] { display: inline; }
+  html[lang="en"] [data-es] { display: none; }
+  html[lang="en"] [data-es-block] { display: none; }
+  html[lang="en"] [data-en-block] { display: block; }
+  [data-en-block] { display: none; }
+</style>
+</head>
+<body>
+<div class="stars"></div>
+<div class="nebula"></div>
+<div class="wrap">
+
+  <div class="lang-toggle">
+    <button id="btnEs" class="active" onclick="setLang('es')">ES</button>
+    <button id="btnEn" onclick="setLang('en')">EN</button>
+  </div>
+
+  <div class="hud-frame">
+    <img src="radar-espacial-boriprop.jpg" alt="Radar espacial BoriProp Deals">
+    <div class="hud-corner tl"></div><div class="hud-corner tr"></div>
+    <div class="hud-corner bl"></div><div class="hud-corner br"></div>
+    <div class="hud-tag">● TRACKING RADAR // CLEAR</div>
+    <div class="hud-title">
+      <h1>RADAR <span class="accent">ESPACIAL</span></h1>
+      <p><span data-es>TOP PROP FIRMS DETECTADAS</span><span data-en>TOP PROP FIRMS DETECTED</span></p>
+    </div>
+  </div>
+
+  <div class="radars">
+    <!-- PAGOS -->
+    <div class="radar">
+      <div class="radar-head">
+        <div class="radar-sweep"></div>
+        <h2>🛰️ <span data-es>TOP PROP EN PAGOS</span><span data-en>TOP PROP PAYOUTS</span>
+          <small data-es-block>COBRO MÁS RÁPIDO · RADAR EN VIVO</small>
+          <small data-en-block>FASTEST PAYOUTS · LIVE RADAR</small>
+        </h2>
+      </div>
+      <div class="rank-row">
+        <div class="rank-num">1</div>
+        <div class="rank-info"><b>Phidias Prop</b><span data-es>Pagos diarios · 0 días a fondeo</span><span data-en>Daily payouts · 0 days to funded</span></div>
+        <div class="rank-val"><b>$69.25</b><span>25K · BORI</span></div>
+      </div>
+      <div class="rank-row">
+        <div class="rank-num">2</div>
+        <div class="rank-info"><b>My Funded Futures</b><span data-es>Pagos diarios · 2 días a fondeo</span><span data-en>Daily payouts · 2 days to funded</span></div>
+        <div class="rank-val"><b>$63</b><span>25K · BORI</span></div>
+      </div>
+      <div class="rank-row">
+        <div class="rank-num">3</div>
+        <div class="rank-info"><b>Take Profit Trader</b><span data-es>Diario desde día 1 en PRO</span><span data-en>Daily from day 1 in PRO</span></div>
+        <div class="rank-val"><b>$90</b><span>25K · NOFEE40</span></div>
+      </div>
+      <div class="rank-row">
+        <div class="rank-num">4</div>
+        <div class="rank-info"><b>Traders Launch</b><span data-es>Pagos diarios · 3 días a fondeo</span><span data-en>Daily payouts · 3 days to funded</span></div>
+        <div class="rank-val"><b>$90</b><span>25K · BORI</span></div>
+      </div>
+      <div class="rank-row">
+        <div class="rank-num">5</div>
+        <div class="rank-info"><b>TradeDay</b><span data-es>Pagos diarios · 5 días a fondeo</span><span data-en>Daily payouts · 5 days to funded</span></div>
+        <div class="rank-val"><b>$45</b><span>25K · TDNEW</span></div>
+      </div>
+      <div class="radar-foot"><span data-es>▸ Precios verificados hoy · confirma en checkout</span><span data-en>▸ Prices verified today · confirm at checkout</span></div>
+    </div>
+
+    <!-- MEJOR PRECIO -->
+    <div class="radar">
+      <div class="radar-head">
+        <div class="radar-sweep"></div>
+        <h2>💰 <span data-es>TOP PROP EN MEJOR PRECIO</span><span data-en>TOP PROP BEST PRICE</span>
+          <small data-es-block>25K MÁS BARATA · RADAR EN VIVO</small>
+          <small data-en-block>CHEAPEST 25K · LIVE RADAR</small>
+        </h2>
+      </div>
+      <div class="rank-row">
+        <div class="rank-num">1</div>
+        <div class="rank-info"><b>Apex Trader Funding</b><span>SAVENOW · 90% OFF</span></div>
+        <div class="rank-val"><b>$16.70</b><span>25K</span></div>
+      </div>
+      <div class="rank-row">
+        <div class="rank-num">2</div>
+        <div class="rank-info"><b>TradeDay</b><span>TDNEW · QuickPay Intraday</span></div>
+        <div class="rank-val"><b>$45</b><span>25K</span></div>
+      </div>
+      <div class="rank-row">
+        <div class="rank-num">3</div>
+        <div class="rank-info"><b>Lucid Trading</b><span>VAULT · LucidFlex</span></div>
+        <div class="rank-val"><b>$50.30</b><span>25K</span></div>
+      </div>
+      <div class="rank-row">
+        <div class="rank-num">4</div>
+        <div class="rank-info"><b>Alpha Futures</b><span>ALPHA40 · Zero</span></div>
+        <div class="rank-val"><b>$53.40</b><span>25K</span></div>
+      </div>
+      <div class="rank-row">
+        <div class="rank-num">5</div>
+        <div class="rank-info"><b>My Funded Futures</b><span>BORI · Builder</span></div>
+        <div class="rank-val"><b>$63</b><span>25K</span></div>
+      </div>
+      <div class="radar-foot"><span data-es>▸ Precios verificados hoy · confirma en checkout</span><span data-en>▸ Prices verified today · confirm at checkout</span></div>
+    </div>
+  </div>
+
+  <p class="note">PREVIEW — BORIPROP DEALS · <span data-es>NO PUBLICADO</span><span data-en>NOT PUBLISHED</span></p>
+</div>
+
+<script>
+function setLang(l){
+  document.documentElement.lang = l;
+  document.getElementById('btnEs').classList.toggle('active', l==='es');
+  document.getElementById('btnEn').classList.toggle('active', l==='en');
+}
+</script>
+</body>
+</html>
