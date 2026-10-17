@@ -10,28 +10,42 @@
   h1 { font-size:clamp(22px,4vw,32px); letter-spacing:.08em; margin-bottom:6px; text-align:center; }
   h1 .accent { color:#59f2ad; text-shadow:0 0 20px rgba(89,242,173,.7); }
   .sub { color:#8fb8a3; font-size:13px; letter-spacing:.2em; margin-bottom:24px; text-align:center; }
-  .compare { display:grid; grid-template-columns:1fr 1fr; gap:20px; max-width:1100px; margin:0 auto; }
-  @media(max-width:760px){ .compare{grid-template-columns:1fr} }
-  .card { border:1px solid rgba(89,242,173,.25); border-radius:16px; overflow:hidden; background:#070d16; }
-  .card.new { border-color:#59f2ad; box-shadow:0 0 40px rgba(89,242,173,.15); }
-  .card img { display:block; width:100%; height:auto; }
-  .card .label { padding:12px 16px; font-size:13px; letter-spacing:.14em; color:#8fb8a3; border-top:1px solid rgba(89,242,173,.12); }
-  .card.new .label { color:#59f2ad; font-weight:700; }
-  .note { margin-top:22px; color:#6d9484; font-size:11px; letter-spacing:.12em; text-align:center; }
+  .stage { position:relative; max-width:900px; margin:0 auto; border:1px solid rgba(89,242,173,.3); border-radius:18px; overflow:hidden; box-shadow:0 0 60px rgba(89,242,173,.12); }
+  .stage img { display:block; width:100%; height:auto; }
+  /* animated radar sweep over the eye */
+  .eye-sweep {
+    position:absolute; left:52%; top:47%; width:13%; aspect-ratio:1;
+    transform:translate(-50%,-50%); border-radius:50%; pointer-events:none;
+    background:conic-gradient(from 0deg, rgba(89,242,173,.55), transparent 30%);
+    filter:blur(1px); mix-blend-mode:screen;
+    animation:sweep 3s linear infinite;
+  }
+  .eye-sweep::after {
+    content:''; position:absolute; inset:18%; border-radius:50%;
+    border:1px solid rgba(89,242,173,.5);
+    animation:ping 3s ease-out infinite;
+  }
+  @keyframes sweep { to { transform:translate(-50%,-50%) rotate(360deg); } }
+  @keyframes ping { 0%{transform:scale(.7);opacity:.9} 100%{transform:scale(1.15);opacity:0} }
+  .eye-glow {
+    position:absolute; left:52%; top:47%; width:15%; aspect-ratio:1;
+    transform:translate(-50%,-50%); border-radius:50%; pointer-events:none;
+    background:radial-gradient(circle, rgba(89,242,173,.22), transparent 70%);
+    animation:breathe 3s ease-in-out infinite;
+  }
+  @keyframes breathe { 0%,100%{opacity:.6} 50%{opacity:1} }
+  .tag { position:absolute; top:14px; left:50%; transform:translateX(-50%); font-family:monospace; font-size:11px; letter-spacing:.22em; color:#59f2ad; background:rgba(4,10,8,.7); padding:6px 14px; border-radius:6px; border:1px solid rgba(89,242,173,.3); white-space:nowrap; }
+  .note { margin-top:20px; color:#6d9484; font-size:11px; letter-spacing:.12em; text-align:center; }
 </style>
 </head>
 <body>
   <h1>TORO <span class="accent">OJO RADAR</span></h1>
-  <p class="sub">UPDATE · EL TORO ORIGINAL INTACTO</p>
-  <div class="compare">
-    <div class="card">
-      <img src="toro-solo-head.webp" alt="Toro original">
-      <div class="label">ORIGINAL</div>
-    </div>
-    <div class="card new">
-      <img src="toro-ojo-radar.jpg" alt="Toro con ojo radar">
-      <div class="label">✦ NUEVO · OJO RADAR</div>
-    </div>
+  <p class="sub">VERSIÓN NATURAL · OJO EN MOVIMIENTO</p>
+  <div class="stage">
+    <img src="toro-ojo-radar-natural.jpg" alt="Toro con ojo radar">
+    <div class="eye-glow"></div>
+    <div class="eye-sweep"></div>
+    <div class="tag">● BULLSEYE-1 // SCANNING</div>
   </div>
   <p class="note">PREVIEW — BORIPROP DEALS · NO PUBLICADO</p>
 </body>
