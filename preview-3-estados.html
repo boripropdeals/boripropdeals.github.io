@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Preview: 3 Estados del Indicador - BoriProp Deals</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: #0a0a0f;
+    color: #e8e8e8;
+    font-family: 'Segoe UI', system-ui, sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 20px;
+  }
+  h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    background: linear-gradient(135deg, #a78bfa, #60a5fa, #34d399);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  .subtitle {
+    color: #888;
+    font-size: 14px;
+    margin-bottom: 40px;
+    text-align: center;
+    max-width: 650px;
+    line-height: 1.6;
+  }
+  .states-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 24px;
+    width: 100%;
+    max-width: 1100px;
+  }
+  .state-card {
+    background: rgba(255,255,255,0.03);
+    border: 1px solid rgba(255,255,255,0.1);
+    border-radius: 16px;
+    padding: 24px;
+    text-align: center;
+  }
+  .state-card h2 {
+    font-size: 15px;
+    margin-bottom: 6px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+  }
+  .state-card h2.bullish { color: #4ade80; }
+  .state-card h2.bearish { color: #f87171; }
+  .state-card h2.closed { color: #ffffff; }
+  .state-card p.desc {
+    font-size: 12px;
+    color: #888;
+    margin-bottom: 16px;
+    line-height: 1.5;
+  }
+  .video-wrap {
+    display: flex;
+    justify-content: center;
+    margin: 12px 0;
+  }
+  .video-wrap video {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 12px;
+  }
+
+  /* === MARKET INDICATOR (original design) === */
+  .market-indicator {
+    position: relative;
+    display: block;
+    width: fit-content;
+    margin: 14px auto 0;
+    padding: 8px 18px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: clamp(11px, 1.6vw, 15px);
+    font-weight: 900;
+    letter-spacing: .25em;
+    text-transform: uppercase;
+    text-align: center;
+    border-radius: 10px;
+    animation: alertBeacon 2s ease-in-out infinite;
+    transition: all .5s ease;
+    overflow: hidden;
+  }
+  .market-indicator::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    border-radius: 10px;
+    padding: 2px;
+    background: linear-gradient(135deg, currentColor, transparent, currentColor);
+    -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    animation: borderFlow 3s linear infinite;
+    pointer-events: none;
+  }
+  .market-indicator.up {
+    color: #4ade80;
+    background: linear-gradient(135deg, rgba(74,222,128,.15), rgba(74,222,128,.03));
+    text-shadow: 0 0 20px rgba(74,222,128,1), 0 0 40px rgba(74,222,128,.5);
+    box-shadow: 0 0 30px rgba(74,222,128,.4), 0 0 60px rgba(74,222,128,.15);
+  }
+  .market-indicator.down {
+    color: #f87171;
+    background: linear-gradient(135deg, rgba(248,113,113,.15), rgba(248,113,113,.03));
+    text-shadow: 0 0 20px rgba(248,113,113,1), 0 0 40px rgba(248,113,113,.5);
+    box-shadow: 0 0 30px rgba(248,113,113,.4), 0 0 60px rgba(248,113,113,.15);
+  }
+  .market-indicator.closed {
+    color: #ffffff;
+    background: linear-gradient(135deg, rgba(255,255,255,.08), rgba(255,255,255,.02));
+    text-shadow: 0 0 20px rgba(255,255,255,.8), 0 0 40px rgba(255,255,255,.3);
+    box-shadow: 0 0 30px rgba(255,255,255,.2), 0 0 60px rgba(255,255,255,.08);
+  }
+  @keyframes alertBeacon {
+    0%, 100% { transform: scale(1); opacity: 1; }
+    50% { transform: scale(1.02); opacity: 0.95; }
+  }
+  @keyframes borderFlow {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+  .lang-toggle {
+    margin-top: 30px;
+    text-align: center;
+  }
+  .lang-toggle button {
+    display: inline-block;
+    margin: 0 5px;
+    padding: 10px 24px;
+    background: rgba(167,139,250,0.15);
+    border: 1px solid rgba(167,139,250,0.3);
+    color: #e8e8e8;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  .lang-toggle button.active {
+    background: rgba(167,139,250,0.35);
+    border-color: #a78bfa;
+  }
+</style>
+</head>
+<body>
+
+<h1>Los 3 Estados del Indicador</h1>
+<p class="subtitle">
+  El texto siempre dice "Indicador del Mercado" / "Market Indicator" con el diseño original.<br>
+  Solo cambia el color: <strong style="color:#4ade80">verde</strong> cuando sube,
+  <strong style="color:#f87171">rojo</strong> cuando baja,
+  <strong style="color:#fff">blanco</strong> cuando el mercado está cerrado.
+</p>
+
+<div class="lang-toggle">
+  <button class="active" onclick="setLangPreview('es')">🇪🇸 Español</button>
+  <button onclick="setLangPreview('en')">🇺🇸 English</button>
+</div>
+
+<br>
+
+<div class="states-grid">
+
+  <!-- ALCISTA -->
+  <div class="state-card">
+    <h2 class="bullish">📈 Alcista</h2>
+    <p class="desc">Mercado abierto y NQ subiendo.<br>Video del toro verde.</p>
+    <div class="video-wrap">
+      <video autoplay loop muted playsinline>
+        <source src="https://boripropdeals.github.io/toro-nasdaq-verde.mp4" type="video/mp4">
+      </video>
+    </div>
+    <div class="market-indicator up" data-es="Indicador del Mercado" data-en="Market Indicator">Indicador del Mercado</div>
+  </div>
+
+  <!-- BAJISTA -->
+  <div class="state-card">
+    <h2 class="bearish">📉 Bajista</h2>
+    <p class="desc">Mercado abierto y NQ bajando.<br>Video del oso rojo.</p>
+    <div class="video-wrap">
+      <video autoplay loop muted playsinline>
+        <source src="https://boripropdeals.github.io/oso-nasdaq-rojo.mp4" type="video/mp4">
+      </video>
+    </div>
+    <div class="market-indicator down" data-es="Indicador del Mercado" data-en="Market Indicator">Indicador del Mercado</div>
+  </div>
+
+  <!-- CERRADO -->
+  <div class="state-card">
+    <h2 class="closed">🌙 Cerrado</h2>
+    <p class="desc">Fin de semana o mantenimiento diario.<br>Video del toro 3D + nombre oficial.</p>
+    <div class="video-wrap">
+      <video autoplay loop muted playsinline>
+        <source src="toro-3d-lado-a-lado.mp4" type="video/mp4">
+      </video>
+    </div>
+    <div class="market-indicator closed" data-es="Indicador del Mercado" data-en="Market Indicator">Indicador del Mercado</div>
+  </div>
+
+</div>
+
+<script>
+  function setLangPreview(lang) {
+    document.querySelectorAll('.market-indicator').forEach(el => {
+      el.textContent = el.dataset[lang] || el.dataset.es;
+    });
+    document.querySelectorAll('.lang-toggle button').forEach(b => b.classList.remove('active'));
+    event.target.classList.add('active');
+  }
+</script>
+
+</body>
+</html>
