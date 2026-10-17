@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Preview: Mercado Cerrado - BoriProp Deals</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: #0a0a0f;
+    color: #e8e8e8;
+    font-family: 'Segoe UI', system-ui, sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 20px;
+  }
+  h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    background: linear-gradient(135deg, #a78bfa, #60a5fa, #34d399);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  .subtitle {
+    color: #888;
+    font-size: 14px;
+    margin-bottom: 40px;
+    text-align: center;
+    max-width: 600px;
+  }
+  .preview-section {
+    width: 100%;
+    max-width: 700px;
+    margin-bottom: 50px;
+    background: rgba(255,255,255,0.03);
+    border: 1px solid rgba(255,255,255,0.1);
+    border-radius: 16px;
+    padding: 30px;
+  }
+  .preview-section h2 {
+    font-size: 16px;
+    color: #a78bfa;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+  }
+  .preview-section p.desc {
+    font-size: 13px;
+    color: #888;
+    margin-bottom: 20px;
+    line-height: 1.6;
+  }
+
+  /* === CURRENT MARKET INDICATOR STYLES (for reference) === */
+  .market-indicator {
+    position: relative;
+    display: block;
+    width: fit-content;
+    margin: 14px auto 0;
+    padding: 8px 18px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: clamp(11px, 1.6vw, 15px);
+    font-weight: 900;
+    letter-spacing: .25em;
+    text-transform: uppercase;
+    text-align: center;
+    border-radius: 10px;
+    animation: alertBeacon 2s ease-in-out infinite;
+    transition: all .5s ease;
+    overflow: hidden;
+  }
+  .market-indicator::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    border-radius: 10px;
+    padding: 2px;
+    background: linear-gradient(135deg, currentColor, transparent, currentColor);
+    -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    animation: borderFlow 3s linear infinite;
+    pointer-events: none;
+  }
+  .market-indicator.up {
+    color: #4ade80;
+    background: linear-gradient(135deg, rgba(74,222,128,.15), rgba(74,222,128,.03));
+    text-shadow: 0 0 20px rgba(74,222,128,1), 0 0 40px rgba(74,222,128,.5);
+    box-shadow: 0 0 30px rgba(74,222,128,.4), 0 0 60px rgba(74,222,128,.15);
+  }
+  .market-indicator.down {
+    color: #f87171;
+    background: linear-gradient(135deg, rgba(248,113,113,.15), rgba(248,113,113,.03));
+    text-shadow: 0 0 20px rgba(248,113,113,1), 0 0 40px rgba(248,113,113,.5);
+    box-shadow: 0 0 30px rgba(248,113,113,.4), 0 0 60px rgba(248,113,113,.15);
+  }
+  /* === NEW: CLOSED STATE === */
+  .market-indicator.closed {
+    color: #e8e8e8;
+    background: rgba(255,255,255,0.04);
+    text-shadow: none;
+    box-shadow: none;
+    border: 1px solid rgba(255,255,255,0.15);
+    animation: none;
+  }
+  .market-indicator.closed::before {
+    display: none;
+  }
+
+  @keyframes alertBeacon {
+    0%, 100% { transform: scale(1); opacity: 1; }
+    50% { transform: scale(1.02); opacity: 0.95; }
+  }
+  @keyframes borderFlow {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+
+  .video-wrap {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+  }
+  .video-wrap video {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 12px;
+  }
+
+  .hours-box {
+    background: rgba(167,139,250,0.08);
+    border: 1px solid rgba(167,139,250,0.2);
+    border-radius: 10px;
+    padding: 16px 20px;
+    margin-top: 20px;
+    font-size: 13px;
+    line-height: 1.8;
+    color: #ccc;
+  }
+  .hours-box strong { color: #a78bfa; }
+  .toggle-btn {
+    display: inline-block;
+    margin: 10px 5px;
+    padding: 10px 20px;
+    background: rgba(167,139,250,0.15);
+    border: 1px solid rgba(167,139,250,0.3);
+    color: #e8e8e8;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: all 0.3s;
+  }
+  .toggle-btn:hover, .toggle-btn.active {
+    background: rgba(167,139,250,0.3);
+    border-color: #a78bfa;
+  }
+  .toggle-btn:disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+  }
+</style>
+</head>
+<body>
+
+<h1>Preview: Indicador "Mercado Cerrado"</h1>
+<p class="subtitle">
+  Cuando el mercado de futuros esté cerrado, el indicador cambiará a "Mercado Cerrado" 
+  en el color normal de las letras de la página (sin verde/rojo), y el video cambiará 
+  al logo del toro en 3D en movimiento.
+</p>
+
+<!-- ESTADO ACTUAL (referencia) -->
+<div class="preview-section">
+  <h2>📊 Estado Actual (mercado abierto)</h2>
+  <p class="desc">Así se ve hoy cuando el mercado está abierto — verde si NQ sube, rojo si baja:</p>
+  <div style="text-align:center;">
+    <div class="market-indicator up" style="margin-bottom:15px;">Indicador del Mercado</div>
+    <div class="market-indicator down">Indicador del Mercado</div>
+  </div>
+</div>
+
+<!-- NUEVO ESTADO: MERCADO CERRADO -->
+<div class="preview-section">
+  <h2>🌙 Nuevo: Mercado Cerrado</h2>
+  <p class="desc">
+    Cuando el mercado de futuros esté cerrado (fin de semana o mantenimiento diario), 
+    el indicador dirá <strong>"Mercado Cerrado"</strong> en el color normal de las letras, 
+    sin animación de alerta ni colores verde/rojo. El video cambiará al toro 3D:
+  </p>
+  
+  <div class="video-wrap">
+    <video autoplay loop muted playsinline>
+      <source src="toro-3d-mercado-cerrado.mp4" type="video/mp4">
+    </video>
+  </div>
+  
+  <div style="text-align:center;">
+    <div class="market-indicator closed" id="demo-closed-es">Mercado Cerrado</div>
+    <div style="margin-top:15px;">
+      <button class="toggle-btn" onclick="toggleLang('es')">Español</button>
+      <button class="toggle-btn" onclick="toggleLang('en')">English</button>
+    </div>
+    <div class="market-indicator closed" id="demo-closed-en" style="display:none; margin-top:15px;">Market Closed</div>
+  </div>
+
+  <div class="hours-box">
+    <strong>Horarios del mercado de futuros (NQ / CME Globex):</strong><br>
+    🟢 Abierto: Domingo 5:00 PM CT → Viernes 4:00 PM CT<br>
+    🔴 Cerrado: Viernes 4:00 PM CT → Domingo 5:00 PM CT (fin de semana)<br>
+    🔴 Cerrado: Todos los días 4:00 PM → 5:00 PM CT (mantenimiento diario)<br>
+    <br>
+    <em>El indicador detectará automáticamente estos horarios y cambiará al estado "Mercado Cerrado".</em>
+  </div>
+</div>
+
+<script>
+  function toggleLang(lang) {
+    document.getElementById('demo-closed-es').style.display = lang === 'es' ? 'block' : 'none';
+    document.getElementById('demo-closed-en').style.display = lang === 'en' ? 'block' : 'none';
+    document.querySelectorAll('.toggle-btn').forEach(b => b.classList.remove('active'));
+    event.target.classList.add('active');
+  }
+</script>
+
+</body>
+</html>
