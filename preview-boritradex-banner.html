@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Preview: BoriTradex se une a BoriProp Deals</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: #0a0a0f;
+    color: #e8e8e8;
+    font-family: 'Segoe UI', system-ui, sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 20px;
+  }
+  h1 {
+    font-size: 22px;
+    margin-bottom: 8px;
+    text-align: center;
+  }
+  .subtitle {
+    color: #888;
+    font-size: 14px;
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  .lang-toggle {
+    margin-bottom: 24px;
+  }
+  .lang-toggle button {
+    display: inline-block;
+    margin: 0 5px;
+    padding: 10px 24px;
+    background: rgba(167,139,250,0.15);
+    border: 1px solid rgba(167,139,250,0.3);
+    color: #e8e8e8;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  .lang-toggle button.active {
+    background: rgba(167,139,250,0.35);
+    border-color: #a78bfa;
+  }
+
+  /* ===== BANNER BORITRADEX ===== */
+  .boritradex-banner {
+    width: 100%;
+    max-width: 900px;
+    border-radius: 20px;
+    overflow: hidden;
+    position: relative;
+    background: linear-gradient(135deg, #1a0f2e 0%, #0f1a2e 50%, #0a2e1f 100%);
+    border: 1px solid rgba(167,139,250,0.25);
+    box-shadow: 0 0 40px rgba(167,139,250,0.15);
+  }
+  .boritradex-banner::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, #a78bfa, #60a5fa, #34d399, #a78bfa);
+    background-size: 200% 100%;
+    animation: shimmer 3s linear infinite;
+  }
+  @keyframes shimmer {
+    0% { background-position: 200% 0; }
+    100% { background-position: -200% 0; }
+  }
+  .banner-inner {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    padding: 32px;
+  }
+  .banner-avatar {
+    flex-shrink: 0;
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 3px solid transparent;
+    background: linear-gradient(#1a0f2e, #1a0f2e) padding-box,
+                linear-gradient(135deg, #a78bfa, #60a5fa, #34d399) border-box;
+    box-shadow: 0 0 25px rgba(167,139,250,0.4);
+  }
+  .banner-avatar img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .banner-content {
+    flex: 1;
+  }
+  .banner-badge {
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: #a78bfa;
+    background: rgba(167,139,250,0.12);
+    border: 1px solid rgba(167,139,250,0.3);
+    padding: 5px 14px;
+    border-radius: 20px;
+    margin-bottom: 12px;
+  }
+  .banner-title {
+    font-size: clamp(20px, 3.5vw, 30px);
+    font-weight: 800;
+    margin-bottom: 10px;
+    line-height: 1.2;
+  }
+  .banner-title .highlight {
+    background: linear-gradient(135deg, #a78bfa, #60a5fa, #34d399);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  .banner-desc {
+    font-size: 14px;
+    color: #b0b0b0;
+    line-height: 1.6;
+    margin-bottom: 18px;
+  }
+  .social-links {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+  .social-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+    color: #fff;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  .social-btn:hover {
+    transform: translateY(-2px);
+  }
+  .social-btn.youtube {
+    background: linear-gradient(135deg, #ff0000, #cc0000);
+    box-shadow: 0 4px 15px rgba(255,0,0,0.3);
+  }
+  .social-btn.instagram {
+    background: linear-gradient(135deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888);
+    box-shadow: 0 4px 15px rgba(220,39,67,0.3);
+  }
+  .social-btn.tiktok {
+    background: linear-gradient(135deg, #000000, #333333);
+    border: 1px solid rgba(255,255,255,0.2);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+  }
+  .social-btn svg {
+    width: 18px;
+    height: 18px;
+    fill: #fff;
+  }
+
+  @media (max-width: 600px) {
+    .banner-inner {
+      flex-direction: column;
+      text-align: center;
+      padding: 24px 20px;
+    }
+    .social-links {
+      justify-content: center;
+    }
+  }
+</style>
+</head>
+<body>
+
+<h1>Preview: Banner BoriTradex</h1>
+<p class="subtitle">Así se vería al final de la página de BoriProp Deals</p>
+
+<div class="lang-toggle">
+  <button class="active" onclick="setLangB(this,'es')">🇪🇸 Español</button>
+  <button onclick="setLangB(this,'en')">🇺🇸 English</button>
+</div>
+
+<div class="boritradex-banner">
+  <div class="banner-inner">
+    <div class="banner-avatar">
+      <img src="data:image/jpeg;base64,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" alt="BoriTradex">
+    </div>
+    <div class="banner-content">
+      <span class="banner-badge" data-es="✨ Última hora" data-en="✨ Breaking">✨ Última hora</span>
+      <h2 class="banner-title">
+        <span data-es="BoriTradex se une a " data-en="BoriTradex joins ">BoriTradex se une a </span><span class="highlight">BoriProp Deals</span>
+      </h2>
+      <p class="banner-desc" data-es="Síguenos en nuestras cuentas oficiales y obtén siempre la última información de ofertas, regalos, trading en vivo y mucho más." data-en="Follow us on our official accounts and always get the latest info on deals, giveaways, live trading and much more.">Síguenos en nuestras cuentas oficiales y obtén siempre la última información de ofertas, regalos, trading en vivo y mucho más.</p>
+      <div class="social-links">
+        <a href="https://youtube.com/@boritradex" target="_blank" rel="noopener" class="social-btn youtube">
+          <svg viewBox="0 0 24 24"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.5 12 3.5 12 3.5s-7.5 0-9.4.6A3 3 0 0 0 .5 6.2 31.3 31.3 0 0 0 0 12a31.3 31.3 0 0 0 .5 5.8 3 3 0 0 0 2.1 2.1c1.9.6 9.4.6 9.4.6s7.5 0 9.4-.6a3 3 0 0 0 2.1-2.1A31.3 31.3 0 0 0 24 12a31.3 31.3 0 0 0-.5-5.8zM9.6 15.6V8.4L15.8 12z"/></svg>
+          YouTube
+        </a>
+        <a href="https://www.instagram.com/boritradex" target="_blank" rel="noopener" class="social-btn instagram">
+          <svg viewBox="0 0 24 24"><path d="M12 2.2c3.2 0 3.6 0 4.9.1 1.2.1 1.8.2 2.2.4.6.2 1 .5 1.4.9.4.4.7.8.9 1.4.2.4.4 1 .4 2.2.1 1.3.1 1.7.1 4.9s0 3.6-.1 4.9c-.1 1.2-.2 1.8-.4 2.2-.2.6-.5 1-.9 1.4-.4.4-.8.7-1.4.9-.4.2-1 .4-2.2.4-1.3.1-1.7.1-4.9.1s-3.6 0-4.9-.1c-1.2-.1-1.8-.2-2.2-.4-.6-.2-1-.5-1.4-.9-.4-.4-.7-.8-.9-1.4-.2-.4-.4-1-.4-2.2C2.2 15.6 2.2 15.2 2.2 12s0-3.6.1-4.9c.1-1.2.2-1.8.4-2.2.2-.6.5-1 .9-1.4.4-.4.8-.7 1.4-.9.4-.2 1-.4 2.2-.4C8.4 2.2 8.8 2.2 12 2.2zm0 3.6a6.2 6.2 0 1 0 0 12.4 6.2 6.2 0 0 0 0-12.4zm0 10.2a4 4 0 1 1 0-8 4 4 0 0 1 0 8zm6.4-10.5a1.4 1.4 0 1 0 0 2.9 1.4 1.4 0 0 0 0-2.9z"/></svg>
+          Instagram
+        </a>
+        <a href="https://www.tiktok.com/@boritradex" target="_blank" rel="noopener" class="social-btn tiktok">
+          <svg viewBox="0 0 24 24"><path d="M19.6 7.2a5 5 0 0 1-3.2-1.2v6.6a5.9 5.9 0 1 1-5.9-5.9c.3 0 .7 0 1 .1v3a2.9 2.9 0 1 0 2 2.7V1h3a5 5 0 0 0 3.1 3.1v3.1z"/></svg>
+          TikTok
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+function setLangB(btn, lang) {
+  document.querySelectorAll('[data-es]').forEach(el => {
+    el.textContent = el.dataset[lang] || el.dataset.es;
+  });
+  document.querySelectorAll('.lang-toggle button').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+}
+</script>
+
+</body>
+</html>
