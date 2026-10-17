@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Toro Nave Espacial — Preview | BoriProp Deals</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { background:#04070d; color:#e8f5ee; font-family:'Segoe UI',system-ui,sans-serif; min-height:100vh; display:flex; flex-direction:column; align-items:center; padding:28px 16px 60px; }
+  h1 { font-size:clamp(22px,4vw,34px); letter-spacing:.08em; margin-bottom:6px; text-align:center; }
+  h1 .accent { color:#59f2ad; text-shadow:0 0 20px rgba(89,242,173,.7); }
+  .sub { color:#8fb8a3; font-size:13px; letter-spacing:.2em; margin-bottom:24px; text-align:center; }
+  .hud { position:relative; max-width:900px; width:100%; border-radius:18px; overflow:hidden; border:1px solid rgba(89,242,173,.3); box-shadow:0 0 60px rgba(89,242,173,.12); }
+  .hud video, .hud img { display:block; width:100%; height:auto; }
+  .corner { position:absolute; width:34px; height:34px; border:3px solid #59f2ad; filter:drop-shadow(0 0 6px #59f2ad); z-index:2; }
+  .corner.tl{top:12px;left:12px;border-right:0;border-bottom:0;border-radius:8px 0 0 0}
+  .corner.tr{top:12px;right:12px;border-left:0;border-bottom:0;border-radius:0 8px 0 0}
+  .corner.bl{bottom:12px;left:12px;border-right:0;border-top:0;border-radius:0 0 0 8px}
+  .corner.br{bottom:12px;right:12px;border-left:0;border-top:0;border-radius:0 0 8px 0}
+  .tag { position:absolute; top:16px; left:50%; transform:translateX(-50%); z-index:2; font-family:monospace; font-size:11px; letter-spacing:.22em; color:#59f2ad; background:rgba(4,10,8,.7); padding:6px 14px; border-radius:6px; border:1px solid rgba(89,242,173,.3); white-space:nowrap; }
+  .toggle { margin:18px 0 0; display:flex; gap:10px; }
+  .toggle button { background:transparent; border:1px solid rgba(89,242,173,.4); color:#59f2ad; font-weight:700; font-size:13px; padding:9px 22px; border-radius:10px; cursor:pointer; letter-spacing:.08em; }
+  .toggle button.active, .toggle button:hover { background:#59f2ad; color:#04120a; }
+  .note { margin-top:20px; color:#6d9484; font-size:11px; letter-spacing:.12em; text-align:center; }
+</style>
+</head>
+<body>
+  <h1>TORO <span class="accent">NAVE ESPACIAL</span></h1>
+  <p class="sub">TU IDEA · HUMO VERDE DE LA NARIZ · DESPEGUE</p>
+  <div class="hud">
+    <video id="vid" src="toro-nave-despegue.mp4" autoplay muted loop playsinline></video>
+    <img id="img" src="toro-nave-espacial.jpg" alt="Toro nave espacial" style="display:none">
+    <div class="corner tl"></div><div class="corner tr"></div>
+    <div class="corner bl"></div><div class="corner br"></div>
+    <div class="tag">● BULL-1 // ORBITAL LAUNCH</div>
+  </div>
+  <div class="toggle">
+    <button id="bVid" class="active" onclick="show('vid')">🎬 VIDEO</button>
+    <button id="bImg" onclick="show('img')">🖼️ IMAGEN</button>
+  </div>
+  <p class="note">PREVIEW — BORIPROP DEALS · NO PUBLICADO</p>
+<script>
+function show(which){
+  document.getElementById('vid').style.display = which==='vid' ? 'block' : 'none';
+  document.getElementById('img').style.display = which==='img' ? 'block' : 'none';
+  document.getElementById('bVid').classList.toggle('active', which==='vid');
+  document.getElementById('bImg').classList.toggle('active', which==='img');
+  if(which==='vid') document.getElementById('vid').play();
+}
+</script>
+</body>
+</html>
