@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-19T16:34:34.235382+00:00",
+ "updated_at": "2026-10-19T16:34:43.077785+00:00",
  "nq": {
-  "price": 29863.0,
-  "change_points": 471.5,
+  "price": 29861.25,
+  "change_points": 469.75,
   "percent_change": 1.6
  },
  "gold": {
@@ -11,35 +11,40 @@
   "percent_change": -0.46
  },
  "oil": {
-  "price": 98.75,
-  "change_points": -0.27,
-  "percent_change": -0.27
+  "price": 98.74,
+  "change_points": -0.28,
+  "percent_change": -0.28
  },
  "headlines": [
   {
-   "headline": "Futuros del Nasdaq y S&P 500 suben tras una semana de fuertes pérdidas",
-   "headline_en": "S&P 500, Nasdaq futures rise after a losing week",
+   "headline": "Nasdaq sube 1.6% y S&P 500 0.7% en el rebote tras la peor semana del mes; la caza de gangas en IA lidera",
+   "headline_en": "Nasdaq jumps 1.6%, S&P 500 gains 0.7% in rebound after worst week in a month; dip-buying in AI leads",
    "source": "Investopedia"
   },
   {
-   "headline": "El petróleo cae tras el alivio de sanciones de EE. UU. a Rusia",
-   "headline_en": "Oil falls after U.S. eases sanctions on Russia",
-   "source": "TipRanks"
-  },
-  {
-   "headline": "Semana clave de resultados: Meta, Tesla y Netflix reportan",
-   "headline_en": "Big earnings week: Meta, Tesla and Netflix headline earnings reports",
+   "headline": "Semiconductores e IA lideran el rebote: Intel +5% tras mejora de JPMorgan y CoreWeave +3% tras mejora de Goldman",
+   "headline_en": "Semiconductors and AI lead the rebound: Intel +5% after JPMorgan upgrade, CoreWeave +3% after Goldman upgrade",
    "source": "Investopedia"
   },
   {
-   "headline": "Asia mixta: China supera pronósticos con PIB de 4.5% en el tercer trimestre",
-   "headline_en": "Asian shares mixed as China beats forecasts with 4.5% Q3 GDP growth",
+   "headline": "El petróleo cae tras la exención de sanciones de Trump a Rusia: el Brent retrocede 2.3% a ~$107",
+   "headline_en": "Oil falls after Trump's Russia sanctions waiver: Brent drops 2.3% to ~$107",
+   "source": "Barron's"
+  },
+  {
+   "headline": "Semana clave de resultados: Meta, Tesla y Netflix reportan el miércoles con la lupa en el gasto de IA",
+   "headline_en": "Key earnings week: Meta, Tesla and Netflix report Wednesday with focus on AI capital spending",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "China supera pronósticos con un PIB de 4.5% en el 3T; Europa cae 1.1% lastrada por la energía",
+   "headline_en": "China beats forecasts with 4.5% Q3 GDP; Europe falls 1.1% weighed down by energy",
    "source": "Hargreaves Lansdown"
   },
   {
-   "headline": "El oro se mantiene cerca de $4,178 mientras el mercado espera a la Fed",
-   "headline_en": "Gold holds near $4,178 as markets eye the Fed's Oct 27-28 meeting",
-   "source": "The Hindu Business Line"
+   "headline": "El bono a 10 años se estabiliza en 5.09% y el oro ronda $4,185 mientras el mercado espera a la Fed",
+   "headline_en": "10-year yield steadies at 5.09%, gold near $4,185 as market awaits Fed signals",
+   "source": "WSJ"
   }
  ],
  "ultima_hora": {
