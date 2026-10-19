@@ -1,46 +1,56 @@
 {
- "updated_at": "2026-10-19T15:32:35.799868+00:00",
+ "updated_at": "2026-10-19T15:34:29.716137+00:00",
  "nq": {
-  "price": 29915.0,
-  "change_points": 523.5,
-  "percent_change": 1.78
+  "price": 29931.5,
+  "change_points": 540.0,
+  "percent_change": 1.84
  },
  "gold": {
-  "price": 4163.9,
-  "change_points": -17.2,
-  "percent_change": -0.41
+  "price": 4165.8,
+  "change_points": -15.3,
+  "percent_change": -0.37
  },
  "oil": {
-  "price": 97.82,
-  "change_points": -1.2,
-  "percent_change": -1.21
+  "price": 97.84,
+  "change_points": -1.18,
+  "percent_change": -1.19
  },
  "headlines": [
   {
-   "headline": "Futuros del Nasdaq y S&P 500 rebotan: la IA se recupera tras su peor semana desde junio",
-   "headline_en": "Nasdaq and S&P 500 futures rebound as AI stocks bounce back from their worst week since June",
+   "headline": "Futuros del Nasdaq rebotan +1.2% tras la peor semana de las acciones de IA en meses",
+   "headline_en": "Nasdaq futures jump ~1.2% as AI stocks rebound from worst week in months",
+   "source": "WSJ / Reuters"
+  },
+  {
+   "headline": "Semana clave de resultados: Meta, Tesla y Netflix reportan esta semana",
+   "headline_en": "Big week for earnings: Meta, Tesla and Netflix headline earnings reports this week",
+   "source": "Reuters / Investopedia"
+  },
+  {
+   "headline": "Intel sube 3.8% tras la mejora de JPMorgan a 'neutral'",
+   "headline_en": "Intel jumps 3.8% after JPMorgan upgrades the stock to 'neutral'",
    "source": "Reuters"
   },
   {
-   "headline": "Trump frena nuevas sanciones a Rusia y el petróleo cae ~2% desde su máximo de 5 meses",
-   "headline_en": "Trump halts new Russia sanctions; oil drops ~2% from five-month high",
-   "source": "Barron's"
+   "headline": "Preocupaciones por Francia pesan en Europa; el euro cerca de mínimos de 16 meses",
+   "headline_en": "France concerns weigh on Europe; euro near 16-month low",
+   "source": "Reuters"
   },
   {
-   "headline": "Semana clave de earnings: Meta, Tesla, Netflix, IBM y SpaceX reportan resultados",
-   "headline_en": "Big earnings week: Meta, Tesla, Netflix, IBM and SpaceX report results",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "El rendimiento del bono a 10 años se estabiliza cerca de 5.09% ante la vuelta al riesgo",
-   "headline_en": "10-year Treasury yield steadies near 5.09% as investors return to risk",
-   "source": "WSJ"
-  },
-  {
-   "headline": "Bitcoin sube a ~$82,500 y las acciones cripto repuntan; el oro se mantiene cerca de $4,185",
-   "headline_en": "Bitcoin climbs to ~$82,500 and crypto stocks rally; gold holds near $4,185",
-   "source": "Investopedia"
+   "headline": "China supera pronósticos: PIB del tercer trimestre crece 4.5% y el yuan marca su nivel más fuerte desde 2022",
+   "headline_en": "China beats forecasts: Q3 GDP grows 4.5%, yuan at strongest since 2022",
+   "source": "Reuters / Morning Bid"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Trump exime sanciones a Rusia y el petróleo Brent cae ~2% a $107",
+  "headline_en": "Trump waives some Russia sanctions; Brent crude falls ~2% to $107",
+  "source": "Barron's / Reuters",
+  "image": "",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/trump-sanciones-rusia-barriles-petroleo.webp",
+   "https://boripropdeals.github.io/breaking-visuals/trump-sanciones-rusia-refineria-nocturna.webp",
+   "https://boripropdeals.github.io/breaking-visuals/trump-sanciones-rusia-grafica-crudo.webp"
+  ]
+ }
 }
