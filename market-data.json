@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-10-19T18:32:32.464752+00:00",
+ "updated_at": "2026-10-19T18:32:58.632132+00:00",
  "nq": {
-  "price": 29754.75,
-  "change_points": 363.25,
-  "percent_change": 1.24
+  "price": 29744.75,
+  "change_points": 353.25,
+  "percent_change": 1.2
  },
  "gold": {
   "price": 4166.1,
@@ -11,46 +11,36 @@
   "percent_change": -0.36
  },
  "oil": {
-  "price": 98.7,
-  "change_points": -0.32,
-  "percent_change": -0.32
+  "price": 98.74,
+  "change_points": -0.28,
+  "percent_change": -0.28
  },
  "headlines": [
   {
-   "headline": "Nasdaq y S&P 500 repuntan el lunes tras la fuerte caída de la semana pasada, liderados por las acciones de IA",
-   "headline_en": "Stock Market Today: Nasdaq, S&P 500 Surge After Rough Week as Tech Stocks Rebound",
+   "headline": "Los futuros del Nasdaq rebotan con fuerza tras su peor semana desde junio; Nvidia y los chips lideran la recuperación",
+   "headline_en": "Nasdaq futures rebound sharply after worst week since June, with Nvidia and chip stocks leading the recovery",
+   "source": "Wall Street Journal"
+  },
+  {
+   "headline": "Semana clave de ganancias: Meta, Tesla (miércoles), Netflix, IBM y Texas Instruments reportan",
+   "headline_en": "Big earnings week: Meta, Tesla (Wednesday), Netflix, IBM and Texas Instruments report",
    "source": "Investopedia"
   },
   {
-   "headline": "Los futuros de Wall Street suben mientras las acciones de IA se recuperan; Intel avanza tras mejora de JPMorgan",
-   "headline_en": "US Stock Index Futures Climb as AI Stocks Rebound, Intel Gains on JPMorgan Upgrade",
+   "headline": "El petróleo cae: Trump frena sanciones a Rusia con una orden ejecutiva y el Brent baja a ~$107",
+   "headline_en": "Oil falls as Trump waives Russia sanctions by executive order; Brent drops to ~$107",
    "source": "Reuters"
   },
   {
-   "headline": "Semana decisiva de resultados: Meta, Tesla y Netflix reportan esta semana",
-   "headline_en": "Big Tech Earnings Week: Meta, Tesla and Netflix Report This Week",
-   "source": "Barron's"
+   "headline": "CoreWeave se desploma y crece la duda sobre si el gasto en infraestructura de IA puede pagarse solo",
+   "headline_en": "CoreWeave plunges as doubts grow over whether AI infrastructure spending can pay for itself",
+   "source": "TradingView"
   },
   {
-   "headline": "El PIB de China crece 4.5% en el tercer trimestre, superando expectativas",
-   "headline_en": "China Q3 GDP Rises 4.5%, Topping Expectations",
-   "source": "Investor's Business Daily"
-  },
-  {
-   "headline": "La confianza de los constructores de EE.UU. cae a su mínimo en 14 años",
-   "headline_en": "US Homebuilder Confidence Falls to 14-Year Low",
-   "source": "Barchart"
+   "headline": "Asia mixta: el Kospi sube 1.8% pero el Nikkei cae; Europa retrocede 1.1% por disturbios en Francia",
+   "headline_en": "Mixed Asia: Kospi up 1.8% but Nikkei falls; Europe drops 1.1% amid France unrest",
+   "source": "Wall Street Journal"
   }
  ],
- "ultima_hora": {
-  "headline": "Trump levanta sanciones a Rusia y el petróleo cae más del 2%",
-  "headline_en": "Trump Waives Russia Sanctions, Sending Oil Prices Tumbling",
-  "source": "Reuters",
-  "image": "",
-  "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-19-trump-oil-sanctions-tanker.jpg",
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-19-trump-oil-sanctions-pumpjack.jpg",
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-19-trump-oil-sanctions-briefing.jpg"
-  ]
- }
+ "ultima_hora": null
 }
