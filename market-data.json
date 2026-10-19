@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T21:32:33.017126+00:00",
+ "updated_at": "2026-10-19T21:32:37.554807+00:00",
  "nq": {
   "price": 29743.75,
   "change_points": 352.25,
@@ -17,40 +17,35 @@
  },
  "headlines": [
   {
-   "headline": "Las tecnológicas rebotan el lunes: el Nasdaq sube 1.67% y el S&P 500 un 0.85% tras su peor semana desde junio",
-   "headline_en": "Tech Stocks Rebound Monday as AI Confidence Returns: Nasdaq Up 1.67%, S&P 500 Up 0.85%",
-   "source": "Motley Fool"
-  },
-  {
-   "headline": "El petróleo cae tras la suspensión de sanciones de Trump a Rusia: el Brent ronda los $108",
-   "headline_en": "Oil Prices Fall as Trump Waives Russia Sanctions: Brent Near $108",
-   "source": "Barron's"
-  },
-  {
-   "headline": "Futuros al alza antes de una semana intensa de resultados: Meta, Tesla y Netflix reportan",
-   "headline_en": "Futures Rise Ahead of Big Earnings Week: Meta, Tesla, Netflix on Deck",
+   "headline": "Los futuros del Nasdaq suben más de 1% mientras Wall Street se recupera de su peor semana tecnológica en meses",
+   "headline_en": "Nasdaq futures jump over 1% as Wall Street rebounds from its worst tech week in months",
    "source": "Investopedia"
   },
   {
-   "headline": "La confianza de los constructores de vivienda en EE.UU. cae a su mínimo en 14 años",
-   "headline_en": "U.S. Homebuilder Confidence Falls to a 14-Year Low",
-   "source": "Motley Fool"
+   "headline": "Semana crucial de resultados: Tesla, Meta y Netflix reportan esta semana",
+   "headline_en": "High-stakes earnings week: Tesla, Meta and Netflix report this week",
+   "source": "XTB"
   },
   {
-   "headline": "El oro se mantiene firme cerca de $4,178 mientras el mercado apuesta a que la Fed mantendrá tasas el 27-28 de octubre",
-   "headline_en": "Gold Holds Near $4,178 as Markets Price a Fed Hold at the Oct 27-28 Meeting",
-   "source": "Angel One"
+   "headline": "El petróleo cae después de que Trump pospone las sanciones energéticas a Rusia",
+   "headline_en": "Oil falls as Trump waives new Russia energy sanctions",
+   "source": "eOption"
+  },
+  {
+   "headline": "El rendimiento del bono a 10 años ronda 5.10% mientras los bonos recuperan su rol de refugio",
+   "headline_en": "10-year Treasury yield hovers near 5.10% as bonds regain safe-haven role",
+   "source": "XTB"
+  },
+  {
+   "headline": "El PIB de China crece 4.5% en el tercer trimestre, superando expectativas",
+   "headline_en": "China Q3 GDP grows 4.5%, beating estimates",
+   "source": "Samuel & Co"
+  },
+  {
+   "headline": "El oro se mantiene cerca de $4,180 la onza entre la volatilidad del mercado",
+   "headline_en": "Gold holds near $4,180 an ounce amid market volatility",
+   "source": "Investopedia"
   }
  ],
- "ultima_hora": {
-  "headline": "Trump suspende las sanciones a Rusia y el petróleo se desploma",
-  "headline_en": "Trump Waives Russia Sanctions and Oil Prices Tumble",
-  "source": "Barron's",
-  "image": "",
-  "images": [
-   "https://boripropdeals.github.io/breaking-visuals/trump-rusia-sanciones-petroleo.jpg",
-   "https://boripropdeals.github.io/breaking-visuals/trump-rusia-sanciones-firma.jpg",
-   "https://boripropdeals.github.io/breaking-visuals/trump-rusia-sanciones-petroleros.jpg"
-  ]
- }
+ "ultima_hora": null
 }
