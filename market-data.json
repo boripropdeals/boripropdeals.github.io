@@ -1,61 +1,51 @@
 {
- "updated_at": "2026-10-19T17:32:33.848528+00:00",
+ "updated_at": "2026-10-19T17:32:46.603151+00:00",
  "nq": {
   "price": 29781.5,
   "change_points": 390.0,
   "percent_change": 1.33
  },
  "gold": {
-  "price": 4156.7,
-  "change_points": -24.4,
+  "price": 4156.8,
+  "change_points": -24.3,
   "percent_change": -0.58
  },
  "oil": {
-  "price": 99.3,
-  "change_points": 0.28,
-  "percent_change": 0.28
+  "price": 99.32,
+  "change_points": 0.3,
+  "percent_change": 0.3
  },
  "headlines": [
   {
-   "headline": "Nasdaq sube 1.6% y S&P 500 0.7% en el rebote tras la peor semana del mes; la caza de gangas en IA lidera",
-   "headline_en": "Nasdaq jumps 1.6%, S&P 500 gains 0.7% in rebound after worst week in a month; dip-buying in AI leads",
+   "headline": "Los futuros del Nasdaq rebotan tras la peor semana desde junio; los inversores regresan con cautela a las acciones de IA",
+   "headline_en": "Nasdaq futures rebound after worst weekly drop since June as investors make cautious return to AI stocks",
+   "source": "The Wall Street Journal"
+  },
+  {
+   "headline": "Amazon se dispara más de 5% y lidera las ganancias del Dow en la sesión",
+   "headline_en": "Amazon surges more than 5%, leading the Dow’s gainers in today’s session",
+   "source": "Investor’s Business Daily"
+  },
+  {
+   "headline": "El petróleo cae tras la decisión de Trump de levantar algunas sanciones a Rusia",
+   "headline_en": "Oil falls after President Trump waives some sanctions against Russia",
+   "source": "Barron’s"
+  },
+  {
+   "headline": "Semana clave de reportes de ganancias: Meta, Tesla, Netflix e IBM presentan resultados",
+   "headline_en": "Big earnings week ahead: Meta, Tesla, Netflix and IBM report results",
    "source": "Investopedia"
   },
   {
-   "headline": "Semiconductores e IA lideran el rebote: Intel +5% tras mejora de JPMorgan y CoreWeave +3% tras mejora de Goldman",
-   "headline_en": "Semiconductors and AI lead the rebound: Intel +5% after JPMorgan upgrade, CoreWeave +3% after Goldman upgrade",
-   "source": "Investopedia"
+   "headline": "Intel sube 3.8% tras mejora de JPMorgan a calificación neutral",
+   "headline_en": "Intel rises 3.8% after JPMorgan upgrades the stock to neutral",
+   "source": "Reuters"
   },
   {
-   "headline": "El petróleo cae tras la exención de sanciones de Trump a Rusia: el Brent retrocede 2.3% a ~$107",
-   "headline_en": "Oil falls after Trump's Russia sanctions waiver: Brent drops 2.3% to ~$107",
-   "source": "Barron's"
-  },
-  {
-   "headline": "Semana clave de resultados: Meta, Tesla y Netflix reportan el miércoles con la lupa en el gasto de IA",
-   "headline_en": "Key earnings week: Meta, Tesla and Netflix report Wednesday with focus on AI capital spending",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "China supera pronósticos con un PIB de 4.5% en el 3T; Europa cae 1.1% lastrada por la energía",
-   "headline_en": "China beats forecasts with 4.5% Q3 GDP; Europe falls 1.1% weighed down by energy",
-   "source": "Hargreaves Lansdown"
-  },
-  {
-   "headline": "El bono a 10 años se estabiliza en 5.09% y el oro ronda $4,185 mientras el mercado espera a la Fed",
-   "headline_en": "10-year yield steadies at 5.09%, gold near $4,185 as market awaits Fed signals",
-   "source": "WSJ"
+   "headline": "Irán reporta otro petrolero afectado por una mina en el Estrecho de Ormuz; el riesgo geopolítico sostiene al crudo",
+   "headline_en": "Iran reports another tanker hit a mine in the Strait of Hormuz; geopolitical risk keeps crude elevated",
+   "source": "Reuters"
   }
  ],
- "ultima_hora": {
-  "headline": "Trump exime sanciones a Rusia y el petróleo Brent cae ~2% a $107",
-  "headline_en": "Trump waives some Russia sanctions; Brent crude falls ~2% to $107",
-  "source": "Barron's / Reuters",
-  "image": "",
-  "images": [
-   "https://boripropdeals.github.io/breaking-visuals/trump-sanciones-rusia-barriles-petroleo.webp",
-   "https://boripropdeals.github.io/breaking-visuals/trump-sanciones-rusia-refineria-nocturna.webp",
-   "https://boripropdeals.github.io/breaking-visuals/trump-sanciones-rusia-grafica-crudo.webp"
-  ]
- }
+ "ultima_hora": null
 }
