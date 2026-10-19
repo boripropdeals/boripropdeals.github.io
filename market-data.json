@@ -1,55 +1,55 @@
 {
- "updated_at": "2026-10-19T12:02:32.094967+00:00",
+ "updated_at": "2026-10-19T12:04:21.332167+00:00",
  "nq": {
-  "price": 29718.75,
-  "change_points": 327.25,
+  "price": 29719.0,
+  "change_points": 327.5,
   "percent_change": 1.11
  },
  "gold": {
-  "price": 4188.8,
-  "change_points": 7.7,
+  "price": 4188.6,
+  "change_points": 7.5,
   "percent_change": 0.18
  },
  "oil": {
-  "price": 98.14,
-  "change_points": -0.88,
-  "percent_change": -0.89
+  "price": 98.11,
+  "change_points": -0.91,
+  "percent_change": -0.92
  },
  "headlines": [
   {
-   "headline": "Futuros de EE.UU. suben: el Nasdaq rebota tras su peor semana desde junio por dudas sobre el gasto en IA",
-   "headline_en": "U.S. futures rise as Nasdaq rebounds after its worst week since June on AI spending doubts",
-   "source": "WSJ"
+   "headline": "Futuros de EE.UU. suben: el Nasdaq rebota +1.2% tras su peor semana desde abril de 2025, con una semana clave de resultados por delante",
+   "headline_en": "U.S. futures rise as Nasdaq rebounds +1.2% after its worst week since April 2025, ahead of a heavy megacap earnings week",
+   "source": "Reuters"
   },
   {
-   "headline": "Trump frena las sanciones a Rusia y el petróleo se desploma: el Brent cae 2.3% a $107.30",
-   "headline_en": "Trump waives Russia sanctions and oil slides: Brent falls 2.3% to $107.30",
+   "headline": "Trump frena sanciones a Rusia y el petróleo se desploma: el Brent cae 2.3% a $107.36",
+   "headline_en": "Trump waives Russia sanctions and oil slides: Brent falls 2.3% to $107.36",
    "source": "Barron's"
   },
   {
-   "headline": "Asia mixta: Corea sube 1.1% mientras China sorprende con un crecimiento de 4.5%",
-   "headline_en": "Asia mixed: Korea gains 1.1% while China surprises with 4.5% growth",
-   "source": "Hargreaves Lansdown"
+   "headline": "Alerta de crédito en IA: CoreWeave se desplomó 25% la semana pasada y los spreads de crédito de IA están en máximos del año, dice Goldman",
+   "headline_en": "AI credit jitters: CoreWeave tumbled 25% last week as AI credit spreads hit the widest of the year, Goldman says",
+   "source": "CNBC"
   },
   {
-   "headline": "India cierra en rojo: el Sensex cae 1.17% arrastrado por bancos privados e IT",
-   "headline_en": "India closes lower: Sensex drops 1.17% dragged by private banks and IT",
-   "source": "The Hindu BusinessLine"
+   "headline": "Intel sube 3.8% tras la mejora de JPMorgan a neutral",
+   "headline_en": "Intel jumps 3.8% after JPMorgan upgrades to neutral",
+   "source": "Reuters"
   },
   {
-   "headline": "Oro firme en $4,178 mientras el mercado descuenta que la Fed no moverá tasas el 27-28 de octubre",
-   "headline_en": "Gold firm at $4,178 as markets price in a Fed hold at the Oct 27-28 meeting",
-   "source": "The Hindu BusinessLine"
+   "headline": "China sorprende con un PIB del 4.5% en el tercer trimestre",
+   "headline_en": "China's third-quarter GDP beats forecasts at 4.5%",
+   "source": "Reuters"
   },
   {
-   "headline": "Semana clave de resultados: Meta, Netflix, Tesla e IBM presentan esta semana",
-   "headline_en": "Big earnings week: Meta, Netflix, Tesla and IBM report this week",
+   "headline": "Semana clave de resultados: Netflix y GM el martes; Tesla, Meta e IBM el miércoles; P&G el jueves",
+   "headline_en": "Big earnings week: Netflix and GM report Tuesday; Tesla, Meta and IBM on Wednesday; P&G on Thursday",
    "source": "TipRanks"
   }
  ],
  "ultima_hora": {
   "headline": "ÚLTIMA HORA: Trump frena las sanciones a Rusia y el petróleo se desploma más de 2%",
-  "headline_en": "BREAKING: Trump waives Russia sanctions and oil plunges over 2%",
+  "headline_en": "BREAKING: Trump waives Russia sanctions and oil plunges more than 2%",
   "source": "Barron's",
   "image": "",
   "images": [
