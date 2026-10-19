@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-19T11:00:36.245980+00:00",
+ "updated_at": "2026-10-19T11:02:33.437233+00:00",
  "nq": {
-  "price": 29750.25,
-  "change_points": 358.75,
-  "percent_change": 1.22
+  "price": 29753.0,
+  "change_points": 361.5,
+  "percent_change": 1.23
  },
  "gold": {
-  "price": 4187.3,
-  "change_points": 6.2,
-  "percent_change": 0.15
+  "price": 4185.0,
+  "change_points": 3.9,
+  "percent_change": 0.09
  },
  "oil": {
-  "price": 97.97,
-  "change_points": -1.05,
-  "percent_change": -1.06
+  "price": 98.04,
+  "change_points": -0.98,
+  "percent_change": -0.99
  },
  "headlines": [
   {
-   "headline": "El presidente de la Fed, Warsh, no da señales sobre una subida de tasas en octubre",
-   "headline_en": "Fed Chair Warsh gives no signal on October rate hike decision",
-   "source": "Morningstar"
-  },
-  {
-   "headline": "Futuros mixtos al cierre de una semana volátil; el Nasdaq rompe su racha ganadora de cuatro semanas",
-   "headline_en": "Stock futures mixed to close a volatile week; Nasdaq snaps four-week winning streak",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "Tesla presenta el rediseño del Roadster y la acción sube 3% antes de la apertura",
-   "headline_en": "Tesla unveils Roadster redesign; stock jumps 3% premarket",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "Asia rebota: el Nikkei sube 1.8% y el Kospi 2% tras el desplome del jueves",
-   "headline_en": "Asia rebounds: Nikkei up 1.8%, Kospi up 2% after Thursday's selloff",
+   "headline": "Futuros suben: acciones de IA rebotan tras la peor semana del Nasdaq desde junio",
+   "headline_en": "Futures rise as AI stocks rebound from the Nasdaq's worst weekly drop since June",
    "source": "Reuters"
   },
   {
-   "headline": "CoreWeave cae 8% por preocupaciones de deuda; los chips siguen bajo presión",
-   "headline_en": "CoreWeave drops 8% on debt concerns; chip stocks remain under pressure",
-   "source": "TradingNews"
+   "headline": "Semana de ganancias pesadas: Meta, Netflix, Tesla e IBM reportan resultados esta semana",
+   "headline_en": "Heavy earnings week: Meta, Netflix, Tesla and IBM report results this week",
+   "source": "Barron's"
   },
   {
-   "headline": "El oro marca récord en $4,200 mientras el rendimiento del bono a 10 años ronda el 5.09%",
-   "headline_en": "Gold hits record $4,200 as 10-year Treasury yield hovers near 5.09%",
-   "source": "Investopedia"
+   "headline": "Petróleo cae tras exención de sanciones de Trump a Rusia; Brent cerca de $107",
+   "headline_en": "Oil falls after Trump waives sanctions on Russia; Brent near $107",
+   "source": "Wall Street Journal"
+  },
+  {
+   "headline": "Intel sube 3.8% tras mejora de calificación de JPMorgan",
+   "headline_en": "Intel jumps 3.8% after JPMorgan upgrade",
+   "source": "Reuters"
+  },
+  {
+   "headline": "Rendimiento del bono a 10 años se estabiliza cerca de 5.07%",
+   "headline_en": "10-year Treasury yield stabilizes near 5.07%",
+   "source": "TipRanks"
+  },
+  {
+   "headline": "China crece 4.5% en el tercer trimestre, mejor de lo esperado",
+   "headline_en": "China's economy expands 4.5% in Q3, better than expected",
+   "source": "Morningstar"
   }
  ],
  "ultima_hora": null
