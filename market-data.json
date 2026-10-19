@@ -1,45 +1,45 @@
 {
- "updated_at": "2026-10-19T14:30:33.878645+00:00",
+ "updated_at": "2026-10-19T14:32:29.848903+00:00",
  "nq": {
   "price": 29848.75,
   "change_points": 457.25,
   "percent_change": 1.56
  },
  "gold": {
-  "price": 4169.0,
-  "change_points": -12.1,
-  "percent_change": -0.29
+  "price": 4167.4,
+  "change_points": -13.7,
+  "percent_change": -0.33
  },
  "oil": {
-  "price": 97.5,
-  "change_points": -1.52,
-  "percent_change": -1.54
+  "price": 97.53,
+  "change_points": -1.49,
+  "percent_change": -1.5
  },
  "headlines": [
   {
-   "headline": "Nasdaq y S&P 500 rebotan tras una semana difícil: los valores de IA recuperan terreno",
-   "headline_en": "Nasdaq, S&P 500 Rise After Rough Week as Tech Stocks Rebound",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "El petróleo cae tras la exención de sanciones a Rusia anunciada por Trump",
-   "headline_en": "Oil Falls After President Trump Waives Sanctions Against Russia",
-   "source": "Barron's"
-  },
-  {
-   "headline": "Semana clave de resultados: Meta y Tesla reportan el miércoles, Netflix el martes",
-   "headline_en": "Tech Earnings Hold the Key: Meta, Tesla Report Wednesday, Netflix Tuesday",
-   "source": "Barron's"
-  },
-  {
-   "headline": "La economía china creció 4.5% en el tercer trimestre y superó las expectativas",
-   "headline_en": "China's Economy Grew 4.5% in Q3, Beating Forecasts",
+   "headline": "Futuros del Nasdaq y S&P 500 rebotan: la IA se recupera tras su peor semana desde junio",
+   "headline_en": "Nasdaq and S&P 500 futures rebound as AI stocks bounce back from their worst week since June",
    "source": "Reuters"
   },
   {
-   "headline": "Suben los rendimientos de los bonos franceses tras las protestas del fin de semana",
-   "headline_en": "French Bond Yields Rise After Weekend Demonstrations",
-   "source": "Wall Street Journal"
+   "headline": "Trump frena nuevas sanciones a Rusia y el petróleo cae ~2% desde su máximo de 5 meses",
+   "headline_en": "Trump halts new Russia sanctions; oil drops ~2% from five-month high",
+   "source": "Barron's"
+  },
+  {
+   "headline": "Semana clave de earnings: Meta, Tesla, Netflix, IBM y SpaceX reportan resultados",
+   "headline_en": "Big earnings week: Meta, Tesla, Netflix, IBM and SpaceX report results",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "El rendimiento del bono a 10 años se estabiliza cerca de 5.09% ante la vuelta al riesgo",
+   "headline_en": "10-year Treasury yield steadies near 5.09% as investors return to risk",
+   "source": "WSJ"
+  },
+  {
+   "headline": "Bitcoin sube a ~$82,500 y las acciones cripto repuntan; el oro se mantiene cerca de $4,185",
+   "headline_en": "Bitcoin climbs to ~$82,500 and crypto stocks rally; gold holds near $4,185",
+   "source": "Investopedia"
   }
  ],
  "ultima_hora": null
