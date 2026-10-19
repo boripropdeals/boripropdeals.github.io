@@ -1,19 +1,19 @@
 {
- "updated_at": "2026-10-19T15:34:32.951056+00:00",
+ "updated_at": "2026-10-19T15:36:37.440512+00:00",
  "nq": {
-  "price": 29934.5,
-  "change_points": 543.0,
-  "percent_change": 1.85
+  "price": 29945.0,
+  "change_points": 553.5,
+  "percent_change": 1.88
  },
  "gold": {
-  "price": 4165.8,
-  "change_points": -15.3,
-  "percent_change": -0.37
+  "price": 4166.3,
+  "change_points": -14.8,
+  "percent_change": -0.35
  },
  "oil": {
-  "price": 97.84,
-  "change_points": -1.18,
-  "percent_change": -1.19
+  "price": 97.79,
+  "change_points": -1.23,
+  "percent_change": -1.24
  },
  "headlines": [
   {
@@ -42,15 +42,5 @@
    "source": "Reuters / Morning Bid"
   }
  ],
- "ultima_hora": {
-  "headline": "Trump exime sanciones a Rusia y el petróleo Brent cae ~2% a $107",
-  "headline_en": "Trump waives some Russia sanctions; Brent crude falls ~2% to $107",
-  "source": "Barron's / Reuters",
-  "image": "",
-  "images": [
-   "https://boripropdeals.github.io/breaking-visuals/trump-sanciones-rusia-barriles-petroleo.webp",
-   "https://boripropdeals.github.io/breaking-visuals/trump-sanciones-rusia-refineria-nocturna.webp",
-   "https://boripropdeals.github.io/breaking-visuals/trump-sanciones-rusia-grafica-crudo.webp"
-  ]
- }
+ "ultima_hora": null
 }
