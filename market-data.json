@@ -1,51 +1,56 @@
 {
- "updated_at": "2026-10-19T18:04:48.452070+00:00",
+ "updated_at": "2026-10-19T18:05:00.256507+00:00",
  "nq": {
-  "price": 29743.0,
-  "change_points": 351.5,
-  "percent_change": 1.2
+  "price": 29750.0,
+  "change_points": 358.5,
+  "percent_change": 1.22
  },
  "gold": {
-  "price": 4164.1,
-  "change_points": -17.0,
-  "percent_change": -0.41
+  "price": 4164.5,
+  "change_points": -16.6,
+  "percent_change": -0.4
  },
  "oil": {
-  "price": 99.45,
-  "change_points": 0.43,
-  "percent_change": 0.43
+  "price": 99.37,
+  "change_points": 0.35,
+  "percent_change": 0.35
  },
  "headlines": [
   {
-   "headline": "Los futuros del Nasdaq rebotan tras la peor semana desde junio; los inversores regresan con cautela a las acciones de IA",
-   "headline_en": "Nasdaq futures rebound after worst weekly drop since June as investors make cautious return to AI stocks",
-   "source": "The Wall Street Journal"
-  },
-  {
-   "headline": "Amazon se dispara más de 5% y lidera las ganancias del Dow en la sesión",
-   "headline_en": "Amazon surges more than 5%, leading the Dow’s gainers in today’s session",
-   "source": "Investor’s Business Daily"
-  },
-  {
-   "headline": "El petróleo cae tras la decisión de Trump de levantar algunas sanciones a Rusia",
-   "headline_en": "Oil falls after President Trump waives some sanctions against Russia",
-   "source": "Barron’s"
-  },
-  {
-   "headline": "Semana clave de reportes de ganancias: Meta, Tesla, Netflix e IBM presentan resultados",
-   "headline_en": "Big earnings week ahead: Meta, Tesla, Netflix and IBM report results",
+   "headline": "Nasdaq y S&P 500 repuntan el lunes tras la fuerte caída de la semana pasada, liderados por las acciones de IA",
+   "headline_en": "Stock Market Today: Nasdaq, S&P 500 Surge After Rough Week as Tech Stocks Rebound",
    "source": "Investopedia"
   },
   {
-   "headline": "Intel sube 3.8% tras mejora de JPMorgan a calificación neutral",
-   "headline_en": "Intel rises 3.8% after JPMorgan upgrades the stock to neutral",
+   "headline": "Los futuros de Wall Street suben mientras las acciones de IA se recuperan; Intel avanza tras mejora de JPMorgan",
+   "headline_en": "US Stock Index Futures Climb as AI Stocks Rebound, Intel Gains on JPMorgan Upgrade",
    "source": "Reuters"
   },
   {
-   "headline": "Irán reporta otro petrolero afectado por una mina en el Estrecho de Ormuz; el riesgo geopolítico sostiene al crudo",
-   "headline_en": "Iran reports another tanker hit a mine in the Strait of Hormuz; geopolitical risk keeps crude elevated",
-   "source": "Reuters"
+   "headline": "Semana decisiva de resultados: Meta, Tesla y Netflix reportan esta semana",
+   "headline_en": "Big Tech Earnings Week: Meta, Tesla and Netflix Report This Week",
+   "source": "Barron's"
+  },
+  {
+   "headline": "El PIB de China crece 4.5% en el tercer trimestre, superando expectativas",
+   "headline_en": "China Q3 GDP Rises 4.5%, Topping Expectations",
+   "source": "Investor's Business Daily"
+  },
+  {
+   "headline": "La confianza de los constructores de EE.UU. cae a su mínimo en 14 años",
+   "headline_en": "US Homebuilder Confidence Falls to 14-Year Low",
+   "source": "Barchart"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Trump levanta sanciones a Rusia y el petróleo cae más del 2%",
+  "headline_en": "Trump Waives Russia Sanctions, Sending Oil Prices Tumbling",
+  "source": "Reuters",
+  "image": "",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-19-trump-oil-sanctions-tanker.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-19-trump-oil-sanctions-pumpjack.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-19-trump-oil-sanctions-briefing.jpg"
+  ]
+ }
 }
