@@ -1,45 +1,50 @@
 {
- "updated_at": "2026-10-19T20:02:37.384253+00:00",
+ "updated_at": "2026-10-19T20:04:05.808426+00:00",
  "nq": {
-  "price": 29721.25,
-  "change_points": 329.75,
-  "percent_change": 1.12
+  "price": 29730.25,
+  "change_points": 338.75,
+  "percent_change": 1.15
  },
  "gold": {
-  "price": 4161.7,
-  "change_points": -19.4,
-  "percent_change": -0.46
+  "price": 4162.4,
+  "change_points": -18.7,
+  "percent_change": -0.45
  },
  "oil": {
-  "price": 98.49,
-  "change_points": -0.53,
-  "percent_change": -0.54
+  "price": 98.46,
+  "change_points": -0.56,
+  "percent_change": -0.57
  },
  "headlines": [
   {
-   "headline": "Los futuros del Nasdaq rebotan con fuerza tras su peor semana desde junio; Nvidia y los chips lideran la recuperación",
-   "headline_en": "Nasdaq futures rebound sharply after worst week since June, with Nvidia and chip stocks leading the recovery",
-   "source": "Wall Street Journal"
-  },
-  {
-   "headline": "Semana clave de ganancias: Meta, Tesla (miércoles), Netflix, IBM y Texas Instruments reportan",
-   "headline_en": "Big earnings week: Meta, Tesla (Wednesday), Netflix, IBM and Texas Instruments report",
+   "headline": "Nasdaq y S&P 500 rebotan el lunes tras una semana brutal; las tecnológicas compran la caída",
+   "headline_en": "Nasdaq, S&P 500 Surge After Rough Week as Tech Stocks Rebound",
    "source": "Investopedia"
   },
   {
-   "headline": "El petróleo cae: Trump frena sanciones a Rusia con una orden ejecutiva y el Brent baja a ~$107",
-   "headline_en": "Oil falls as Trump waives Russia sanctions by executive order; Brent drops to ~$107",
-   "source": "Reuters"
-  },
-  {
-   "headline": "CoreWeave se desploma y crece la duda sobre si el gasto en infraestructura de IA puede pagarse solo",
-   "headline_en": "CoreWeave plunges as doubts grow over whether AI infrastructure spending can pay for itself",
+   "headline": "Chips de IA se recuperan: SanDisk sube 7% e Intel salta 5% tras mejora de JPMorgan",
+   "headline_en": "AI Chip Rout Reverses: SanDisk Jumps 7%, Intel Rises on JPMorgan Upgrade",
    "source": "TradingView"
   },
   {
-   "headline": "Asia mixta: el Kospi sube 1.8% pero el Nikkei cae; Europa retrocede 1.1% por disturbios en Francia",
-   "headline_en": "Mixed Asia: Kospi up 1.8% but Nikkei falls; Europe drops 1.1% amid France unrest",
-   "source": "Wall Street Journal"
+   "headline": "Semana clave de earnings: Meta, Tesla y Netflix reportan y pondrán a prueba el rebote",
+   "headline_en": "Tech Earnings Hold the Key to More Gains: Meta, Tesla and Netflix Report This Week",
+   "source": "Barron's"
+  },
+  {
+   "headline": "El presidente de la Fed, Warsh, no adelanta el FOMC; el mercado descuenta pausa en octubre",
+   "headline_en": "Fed Chair Warsh Declines to Preview FOMC; Markets Price ~80% Chance of October Hold",
+   "source": "TradingView"
+  },
+  {
+   "headline": "El petróleo cae ante la posible suspensión de sanciones a Rusia; el oro se mantiene sobre $4,180",
+   "headline_en": "Oil Falls on Trump's Russian Sanctions Waiver; Gold Holds Near $4,185",
+   "source": "Reuters"
+  },
+  {
+   "headline": "Morgan Stanley: el mercado está en la fase media del ciclo de IA; la durabilidad de las ganancias es clave",
+   "headline_en": "Morgan Stanley: Mid-Cycle of the AI Trade; Earnings Durability Is Key",
+   "source": "Barron's"
   }
  ],
  "ultima_hora": null
