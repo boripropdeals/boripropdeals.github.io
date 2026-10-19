@@ -1,58 +1,61 @@
 {
- "updated_at": "2026-10-19T12:32:31.590301+00:00",
+ "updated_at": "2026-10-19T12:33:48.893524+00:00",
  "nq": {
-  "price": 29759.25,
-  "change_points": 367.75,
-  "percent_change": 1.25
+  "price": 29753.25,
+  "change_points": 361.75,
+  "percent_change": 1.23
  },
  "gold": {
-  "price": 4187.0,
-  "change_points": 5.9,
-  "percent_change": 0.14
+  "price": 4185.4,
+  "change_points": 4.3,
+  "percent_change": 0.1
  },
  "oil": {
-  "price": 97.65,
-  "change_points": -1.37,
-  "percent_change": -1.38
+  "price": 97.74,
+  "change_points": -1.28,
+  "percent_change": -1.29
  },
  "headlines": [
   {
-   "headline": "Futuros de EE.UU. suben: el Nasdaq rebota +1.2% tras su peor semana desde abril de 2025, con una semana clave de resultados por delante",
-   "headline_en": "U.S. futures rise as Nasdaq rebounds +1.2% after its worst week since April 2025, ahead of a heavy megacap earnings week",
+   "headline": "El Nasdaq rebota +1.2% tras su peor semana desde abril de 2025; semana clave de resultados con Netflix, Tesla, Meta e IBM",
+   "headline_en": "Nasdaq rebounds +1.2% after its worst week since April 2025; key earnings week with Netflix, Tesla, Meta and IBM",
+   "source": "WSJ"
+  },
+  {
+   "headline": "Trump frena las sanciones a Rusia y el petróleo se desploma más de 2%",
+   "headline_en": "Trump waives Russia sanctions and oil plunges more than 2%",
+   "source": "Barrons"
+  },
+  {
+   "headline": "China sorprende con PIB de 4.5% en el tercer trimestre, por encima de lo esperado",
+   "headline_en": "China surprises with 4.5% Q3 GDP growth, beating estimates",
    "source": "Reuters"
   },
   {
-   "headline": "Trump frena sanciones a Rusia y el petróleo se desploma: el Brent cae 2.3% a $107.36",
-   "headline_en": "Trump waives Russia sanctions and oil slides: Brent falls 2.3% to $107.36",
-   "source": "Barron's"
-  },
-  {
-   "headline": "Alerta de crédito en IA: CoreWeave se desplomó 25% la semana pasada y los spreads de crédito de IA están en máximos del año, dice Goldman",
-   "headline_en": "AI credit jitters: CoreWeave tumbled 25% last week as AI credit spreads hit the widest of the year, Goldman says",
-   "source": "CNBC"
-  },
-  {
-   "headline": "Intel sube 3.8% tras la mejora de JPMorgan a neutral",
-   "headline_en": "Intel jumps 3.8% after JPMorgan upgrades to neutral",
-   "source": "Reuters"
-  },
-  {
-   "headline": "China sorprende con un PIB del 4.5% en el tercer trimestre",
-   "headline_en": "China's third-quarter GDP beats forecasts at 4.5%",
-   "source": "Reuters"
-  },
-  {
-   "headline": "Semana clave de resultados: Netflix y GM el martes; Tesla, Meta e IBM el miércoles; P&G el jueves",
-   "headline_en": "Big earnings week: Netflix and GM report Tuesday; Tesla, Meta and IBM on Wednesday; P&G on Thursday",
+   "headline": "CoreWeave, Nebius e IREN rebotan en premercado tras el desplome por dudas del crédito en IA",
+   "headline_en": "CoreWeave, Nebius and IREN bounce premarket after AI-credit selloff",
    "source": "TipRanks"
+  },
+  {
+   "headline": "Asia mixta: el Kospi sube 1.1% y el Nikkei cae 0.8%; Indonesia se hunde 5% por aviso de degradación de MSCI",
+   "headline_en": "Asia mixed: Kospi up 1.1%, Nikkei down 0.8%; Indonesia plunges 5% on MSCI downgrade warning",
+   "source": "Hargreaves Lansdown"
+  },
+  {
+   "headline": "Los bonos recuperan favor como refugio: el rendimiento a 10 años cede cerca del 5.07%",
+   "headline_en": "Bonds regain safe-haven favour: 10-year yield eases near 5.07%",
+   "source": "XTB"
   }
  ],
  "ultima_hora": {
   "headline": "ÚLTIMA HORA: Trump frena las sanciones a Rusia y el petróleo se desploma más de 2%",
   "headline_en": "BREAKING: Trump waives Russia sanctions and oil plunges more than 2%",
-  "source": "Barron's",
+  "source": "Barrons",
   "image": "",
   "images": [
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-19-trump-sanciones-firma-petroleo.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-19-trump-sanciones-barriles-diesel.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-19-trump-sanciones-gasolinera.webp",
    "https://boripropdeals.github.io/breaking-visuals/2026-10-19-trump-russia-sanctions-oil-tankers.webp",
    "https://boripropdeals.github.io/breaking-visuals/2026-10-19-trump-russia-sanctions-oil-refinery.webp",
    "https://boripropdeals.github.io/breaking-visuals/2026-10-19-trump-russia-sanctions-market-charts.webp"
