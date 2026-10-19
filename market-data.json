@@ -1,46 +1,56 @@
 {
- "updated_at": "2026-10-19T16:04:38.234712+00:00",
+ "updated_at": "2026-10-19T16:06:06.692462+00:00",
  "nq": {
-  "price": 29954.0,
-  "change_points": 562.5,
-  "percent_change": 1.91
+  "price": 29939.0,
+  "change_points": 547.5,
+  "percent_change": 1.86
  },
  "gold": {
-  "price": 4161.5,
-  "change_points": -19.6,
-  "percent_change": -0.47
+  "price": 4159.9,
+  "change_points": -21.2,
+  "percent_change": -0.51
  },
  "oil": {
-  "price": 98.04,
-  "change_points": -0.98,
-  "percent_change": -0.99
+  "price": 98.12,
+  "change_points": -0.9,
+  "percent_change": -0.91
  },
  "headlines": [
   {
-   "headline": "Futuros del Nasdaq rebotan +1.2% tras la peor semana de las acciones de IA en meses",
-   "headline_en": "Nasdaq futures jump ~1.2% as AI stocks rebound from worst week in months",
-   "source": "WSJ / Reuters"
+   "headline": "Futuros del Nasdaq y S&P 500 suben tras una semana de fuertes pérdidas",
+   "headline_en": "S&P 500, Nasdaq futures rise after a losing week",
+   "source": "Investopedia"
   },
   {
-   "headline": "Semana clave de resultados: Meta, Tesla y Netflix reportan esta semana",
-   "headline_en": "Big week for earnings: Meta, Tesla and Netflix headline earnings reports this week",
-   "source": "Reuters / Investopedia"
+   "headline": "El petróleo cae tras el alivio de sanciones de EE. UU. a Rusia",
+   "headline_en": "Oil falls after U.S. eases sanctions on Russia",
+   "source": "TipRanks"
   },
   {
-   "headline": "Intel sube 3.8% tras la mejora de JPMorgan a 'neutral'",
-   "headline_en": "Intel jumps 3.8% after JPMorgan upgrades the stock to 'neutral'",
-   "source": "Reuters"
+   "headline": "Semana clave de resultados: Meta, Tesla y Netflix reportan",
+   "headline_en": "Big earnings week: Meta, Tesla and Netflix headline earnings reports",
+   "source": "Investopedia"
   },
   {
-   "headline": "Preocupaciones por Francia pesan en Europa; el euro cerca de mínimos de 16 meses",
-   "headline_en": "France concerns weigh on Europe; euro near 16-month low",
-   "source": "Reuters"
+   "headline": "Asia mixta: China supera pronósticos con PIB de 4.5% en el tercer trimestre",
+   "headline_en": "Asian shares mixed as China beats forecasts with 4.5% Q3 GDP growth",
+   "source": "Hargreaves Lansdown"
   },
   {
-   "headline": "China supera pronósticos: PIB del tercer trimestre crece 4.5% y el yuan marca su nivel más fuerte desde 2022",
-   "headline_en": "China beats forecasts: Q3 GDP grows 4.5%, yuan at strongest since 2022",
-   "source": "Reuters / Morning Bid"
+   "headline": "El oro se mantiene cerca de $4,178 mientras el mercado espera a la Fed",
+   "headline_en": "Gold holds near $4,178 as markets eye the Fed's Oct 27-28 meeting",
+   "source": "The Hindu Business Line"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Trump exime sanciones a Rusia y el petróleo Brent cae ~2% a $107",
+  "headline_en": "Trump waives some Russia sanctions; Brent crude falls ~2% to $107",
+  "source": "Barron's / Reuters",
+  "image": "",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/trump-sanciones-rusia-barriles-petroleo.webp",
+   "https://boripropdeals.github.io/breaking-visuals/trump-sanciones-rusia-refineria-nocturna.webp",
+   "https://boripropdeals.github.io/breaking-visuals/trump-sanciones-rusia-grafica-crudo.webp"
+  ]
+ }
 }
