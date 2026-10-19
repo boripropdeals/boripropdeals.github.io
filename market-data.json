@@ -1,61 +1,56 @@
 {
- "updated_at": "2026-10-19T21:03:10.595164+00:00",
+ "updated_at": "2026-10-19T21:04:16.482750+00:00",
  "nq": {
-  "price": 29737.75,
-  "change_points": 346.25,
+  "price": 29738.75,
+  "change_points": 347.25,
   "percent_change": 1.18
  },
  "gold": {
-  "price": 4157.9,
-  "change_points": -23.2,
-  "percent_change": -0.55
+  "price": 4157.8,
+  "change_points": -23.3,
+  "percent_change": -0.56
  },
  "oil": {
-  "price": 98.38,
-  "change_points": -0.64,
-  "percent_change": -0.65
+  "price": 98.41,
+  "change_points": -0.61,
+  "percent_change": -0.62
  },
  "headlines": [
   {
-   "headline": "Nasdaq y S&P 500 rebotan al mediodía: la confianza en la IA regresa tras su peor semana desde junio",
-   "headline_en": "Tech Stocks Rebound as AI Confidence Returns After Worst Week Since June",
-   "source": "The Motley Fool"
+   "headline": "Las tecnológicas rebotan el lunes: el Nasdaq sube 1.67% y el S&P 500 un 0.85% tras su peor semana desde junio",
+   "headline_en": "Tech Stocks Rebound Monday as AI Confidence Returns: Nasdaq Up 1.67%, S&P 500 Up 0.85%",
+   "source": "Motley Fool"
   },
   {
-   "headline": "Chips se recuperan: SanDisk sube 7%, Micron 4.7% e Intel repunta tras mejora de JPMorgan",
-   "headline_en": "Chip Stocks Rebound: SanDisk Jumps 7%, Micron Gains, Intel Climbs on JPMorgan Upgrade",
-   "source": "The Motley Fool"
-  },
-  {
-   "headline": "Semana clave de earnings: Meta, Tesla y Netflix reportan mientras el mercado sigue nervioso por la IA",
-   "headline_en": "Blockbuster Earnings Week: Meta, Tesla and Netflix Report as AI Nerves Remain",
-   "source": "XTB Research"
-  },
-  {
-   "headline": "El petróleo cae tras el levantamiento de sanciones de Trump a Rusia; el Brent baja a ~$107",
-   "headline_en": "Oil Falls After Trump Waives Russian Sanctions; Brent Drops to $107",
+   "headline": "El petróleo cae tras la suspensión de sanciones de Trump a Rusia: el Brent ronda los $108",
+   "headline_en": "Oil Prices Fall as Trump Waives Russia Sanctions: Brent Near $108",
    "source": "Barron's"
   },
   {
-   "headline": "La confianza de las constructoras cae a su nivel más bajo en 14 años y presiona al sector inmobiliario",
-   "headline_en": "US Homebuilder Confidence Falls to a 14-Year Low",
-   "source": "The Motley Fool"
+   "headline": "Futuros al alza antes de una semana intensa de resultados: Meta, Tesla y Netflix reportan",
+   "headline_en": "Futures Rise Ahead of Big Earnings Week: Meta, Tesla, Netflix on Deck",
+   "source": "Investopedia"
   },
   {
-   "headline": "El oro se mantiene sobre $4,150 mientras el rendimiento del bono a 10 años supera 5.10%",
-   "headline_en": "Gold Holds Near $4,155 as 10-Year Treasury Yield Tops 5.10%",
-   "source": "eOption"
+   "headline": "La confianza de los constructores de vivienda en EE.UU. cae a su mínimo en 14 años",
+   "headline_en": "U.S. Homebuilder Confidence Falls to a 14-Year Low",
+   "source": "Motley Fool"
+  },
+  {
+   "headline": "El oro se mantiene firme cerca de $4,178 mientras el mercado apuesta a que la Fed mantendrá tasas el 27-28 de octubre",
+   "headline_en": "Gold Holds Near $4,178 as Markets Price a Fed Hold at the Oct 27-28 Meeting",
+   "source": "Angel One"
   }
  ],
  "ultima_hora": {
-  "headline": "ÚLTIMA HORA: Trump evalúa atacar la terminal petrolera de Irán en la isla Kharg — por ahí pasa el 90% del crudo iraní",
-  "headline_en": "BREAKING: Trump Weighs Strikes on Iran's Kharg Island Oil Hub — 90% of Iran's Crude Exports at Risk",
-  "source": "Erem News",
+  "headline": "Trump suspende las sanciones a Rusia y el petróleo se desploma",
+  "headline_en": "Trump Waives Russia Sanctions and Oil Prices Tumble",
+  "source": "Barron's",
   "image": "",
   "images": [
-   "https://boripropdeals.github.io/breaking-visuals/trump-iran-kharg-terminal-2026-10-19.webp",
-   "https://boripropdeals.github.io/breaking-visuals/trump-iran-kharg-aerial-2026-10-19.webp",
-   "https://boripropdeals.github.io/breaking-visuals/trump-iran-hormuz-strait-2026-10-19.webp"
+   "https://boripropdeals.github.io/breaking-visuals/trump-rusia-sanciones-petroleo.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/trump-rusia-sanciones-firma.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/trump-rusia-sanciones-petroleros.jpg"
   ]
  }
 }
