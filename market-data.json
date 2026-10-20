@@ -1,61 +1,51 @@
 {
- "updated_at": "2026-10-20T14:01:53.561998+00:00",
+ "updated_at": "2026-10-20T14:03:16.216659+00:00",
  "nq": {
-  "price": 29507.5,
-  "change_points": -215.0,
-  "percent_change": -0.72
+  "price": 29515.75,
+  "change_points": -206.75,
+  "percent_change": -0.7
  },
  "gold": {
-  "price": 4146.3,
-  "change_points": -13.8,
-  "percent_change": -0.33
+  "price": 4143.1,
+  "change_points": -17.0,
+  "percent_change": -0.41
  },
  "oil": {
-  "price": 98.53,
-  "change_points": -5.13,
-  "percent_change": -4.95
+  "price": 98.63,
+  "change_points": -5.03,
+  "percent_change": -4.85
  },
  "headlines": [
   {
-   "headline": "Futuros mixtos el martes: sube el petróleo y las acciones de IA retroceden de nuevo",
-   "headline_en": "Stock Market Today, Oct. 20 – Futures Mixed as Oil Prices Rise and AI Stocks Retreat Again",
+   "headline": "Futuros mixtos: el Nasdaq cae por temores de deuda de IA mientras el petróleo sube por ataques hutíes",
+   "headline_en": "Mixed futures: Nasdaq falls on AI debt fears as oil jumps on Houthi attacks",
    "source": "TipRanks"
   },
   {
-   "headline": "Los futuros del Nasdaq caen con el petróleo en alza; la mira puesta en los resultados de las big tech",
-   "headline_en": "Nasdaq futures dip as oil prices climb, earnings loom",
-   "source": "Reuters"
+   "headline": "El Nasdaq rebota 1.11% el lunes y el S&P 500 suma 0.41%; el Dow cierra en rojo",
+   "headline_en": "Nasdaq rebounds 1.11% on Monday, S&P 500 gains 0.41%; Dow ends in the red",
+   "source": "Zacks"
   },
   {
-   "headline": "El rebote tecnológico ya se desinfla: el temor por el gasto en IA vuelve a castigar a los chips",
-   "headline_en": "The Tech Stock Rebound Is Toast Already",
-   "source": "Barron's"
-  },
-  {
-   "headline": "Brent cerca de máximos de cinco meses ($111) por la escalada hutí contra Arabia Saudita",
-   "headline_en": "Brent crude nears five-month high as Houthis escalate attacks on Saudi Arabia",
-   "source": "TipRanks"
-  },
-  {
-   "headline": "Día cargado de resultados: GM, Netflix, United Airlines y SpaceX reportan hoy",
-   "headline_en": "Busy earnings day: General Motors, Netflix, United Airlines and SpaceX report",
+   "headline": "El petróleo toca máximos de meses (WTI sobre $110) por la escalada en Medio Oriente",
+   "headline_en": "Oil hits multi-month highs (WTI above $110) on Middle East escalation",
    "source": "Investopedia"
   },
   {
-   "headline": "CoreWeave cae más de 3% en premercado por las dudas sobre su deuda para financiar la IA",
-   "headline_en": "CoreWeave drops 3%+ premarket on debt worries for AI infrastructure",
-   "source": "MarketWatch"
+   "headline": "Asia se desploma: el KOSPI cae 4.3% y el Nikkei 1.2% por el miedo a los chips de IA",
+   "headline_en": "Asia slumps: KOSPI drops 4.3% and Nikkei 1.2% on AI chip fears",
+   "source": "Livemint"
+  },
+  {
+   "headline": "Ola de resultados: Netflix reporta hoy tras el cierre; Tesla y Meta llegan el miércoles",
+   "headline_en": "Earnings wave: Netflix reports today after the bell; Tesla and Meta due Wednesday",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "EE.UU. prohíbe el modelo chino de IA DeepSeek en agencias federales",
+   "headline_en": "US bans Chinese AI model DeepSeek in federal agencies",
+   "source": "Investopedia"
   }
  ],
- "ultima_hora": {
-  "headline": "Trump anuncia rescate de $8,000 millones para agricultores ante el alza del diésel",
-  "headline_en": "Trump announces $8B bailout for farmers to cover diesel cost surge amid attacks on global supply",
-  "source": "Fox Business",
-  "image": "",
-  "images": [
-   "https://boripropdeals.github.io/breaking-visuals/trump-8b-farmer-relief-combine-2026-10-20.webp",
-   "https://boripropdeals.github.io/breaking-visuals/trump-8b-farmer-relief-tractor-diesel-2026-10-20.webp",
-   "https://boripropdeals.github.io/breaking-visuals/trump-8b-farmer-relief-aerial-farm-2026-10-20.webp"
-  ]
- }
+ "ultima_hora": null
 }
