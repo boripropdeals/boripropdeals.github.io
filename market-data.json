@@ -1,45 +1,50 @@
 {
- "updated_at": "2026-10-20T16:02:31.832513+00:00",
+ "updated_at": "2026-10-20T16:02:47.727661+00:00",
  "nq": {
-  "price": 29745.5,
-  "change_points": 23.0,
-  "percent_change": 0.08
+  "price": 29749.25,
+  "change_points": 26.75,
+  "percent_change": 0.09
  },
  "gold": {
-  "price": 4152.7,
-  "change_points": -7.4,
-  "percent_change": -0.18
+  "price": 4153.1,
+  "change_points": -7.0,
+  "percent_change": -0.17
  },
  "oil": {
-  "price": 97.46,
-  "change_points": -6.2,
-  "percent_change": -5.98
+  "price": 97.37,
+  "change_points": -6.29,
+  "percent_change": -6.07
  },
  "headlines": [
   {
-   "headline": "Futuros del Nasdaq caen ~0.5% por retroceso de acciones de IA y repunte del petróleo",
-   "headline_en": "Nasdaq 100 futures slip ~0.5% on renewed AI-stock weakness and rising oil",
+   "headline": "Wall Street abre mixto: el petróleo sube y las acciones de IA retroceden de nuevo",
+   "headline_en": "Wall Street opens mixed: oil prices rise and AI stocks retreat again",
+   "source": "TipRanks"
+  },
+  {
+   "headline": "Escalada hutí contra Arabia Saudita dispara el crudo WTI más de 4%, hasta ~$108",
+   "headline_en": "Houthi escalation against Saudi Arabia sends WTI crude up over 4% to ~$108",
    "source": "Reuters"
   },
   {
-   "headline": "Brent supera los $111, máximo de cinco meses, tras ataques hutíes a infraestructura saudí",
-   "headline_en": "Brent tops $111, a five-month high, after Houthi attacks on Saudi infrastructure",
-   "source": "Reuters"
-  },
-  {
-   "headline": "CoreWeave cae 3.1% en preapertura; el debut en bolsa de Elice en Seúl se desploma ~30%",
-   "headline_en": "CoreWeave drops 3.1% premarket; Elice's Seoul IPO debut sinks ~30%",
-   "source": "Reuters"
-  },
-  {
-   "headline": "Día de resultados: Netflix y SpaceX reportan al cierre; Meta y Tesla el miércoles",
-   "headline_en": "Earnings day: Netflix and SpaceX report after the close; Meta and Tesla on Wednesday",
-   "source": "Reuters"
-  },
-  {
-   "headline": "El gobierno de EE.UU. prohíbe el uso del modelo chino DeepSeek en agencias federales",
-   "headline_en": "U.S. federal government bans use of Chinese AI model DeepSeek",
+   "headline": "Día pesado de earnings: GM, United, GE Aerospace y 3M reportan; Netflix y SpaceX tras el cierre",
+   "headline_en": "Heavy earnings day: GM, United, GE Aerospace and 3M report; Netflix and SpaceX after the bell",
    "source": "Investopedia"
+  },
+  {
+   "headline": "El gobierno federal prohíbe el modelo chino de IA DeepSeek en las agencias",
+   "headline_en": "Federal government bans China's DeepSeek AI model from government agencies",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "Preocupación fiscal en Francia: el bono a 10 años sube a 4.94%",
+   "headline_en": "France fiscal jitters: 10-year OAT yield climbs to 4.94%",
+   "source": "CaixaBank Research"
+  },
+  {
+   "headline": "La Fed no se apresura: Warsh ve una economía fuerte y apunta a pausa en octubre",
+   "headline_en": "Fed in no rush: Warsh sees strong economy, signals October pause",
+   "source": "Reuters"
   }
  ],
  "ultima_hora": null
