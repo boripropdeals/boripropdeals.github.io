@@ -1,61 +1,46 @@
 {
- "updated_at": "2026-10-20T15:32:32.017683+00:00",
+ "updated_at": "2026-10-20T15:32:49.595778+00:00",
  "nq": {
-  "price": 29759.5,
-  "change_points": 37.0,
-  "percent_change": 0.12
+  "price": 29760.75,
+  "change_points": 38.25,
+  "percent_change": 0.13
  },
  "gold": {
-  "price": 4155.3,
-  "change_points": -4.8,
-  "percent_change": -0.12
+  "price": 4155.4,
+  "change_points": -4.7,
+  "percent_change": -0.11
  },
  "oil": {
-  "price": 97.17,
-  "change_points": -6.49,
-  "percent_change": -6.26
+  "price": 97.21,
+  "change_points": -6.45,
+  "percent_change": -6.22
  },
  "headlines": [
   {
-   "headline": "El Dow se dispara 600 puntos en un día cargado de resultados; los rendimientos del Tesoro caen tras el desplome de las ventas pendientes de vivienda",
-   "headline_en": "Dow jumps 600 points on busy earnings day; Treasury yields fall as pending home sales plunge",
-   "source": "Investopedia"
+   "headline": "Futuros del Nasdaq caen ~0.5% por retroceso de acciones de IA y repunte del petróleo",
+   "headline_en": "Nasdaq 100 futures slip ~0.5% on renewed AI-stock weakness and rising oil",
+   "source": "Reuters"
   },
   {
-   "headline": "Wall Street rebota con las tecnológicas: el Dow sube 1.2% y el S&P suma $390,000 millones en capitalización",
-   "headline_en": "Stocks rebound as tech bounces back: Dow up 1.2% as S&P adds $390B in market cap",
-   "source": "Barron's"
+   "headline": "Brent supera los $111, máximo de cinco meses, tras ataques hutíes a infraestructura saudí",
+   "headline_en": "Brent tops $111, a five-month high, after Houthi attacks on Saudi infrastructure",
+   "source": "Reuters"
   },
   {
-   "headline": "El petróleo retrocede ante esperanzas de avances diplomáticos entre EE.UU. e Irán; el Brent cae bajo los $110",
-   "headline_en": "Oil pulls back on hopes of U.S.-Iran diplomatic progress; Brent falls below $110",
-   "source": "Wall Street Journal"
+   "headline": "CoreWeave cae 3.1% en preapertura; el debut en bolsa de Elice en Seúl se desploma ~30%",
+   "headline_en": "CoreWeave drops 3.1% premarket; Elice's Seoul IPO debut sinks ~30%",
+   "source": "Reuters"
   },
   {
-   "headline": "SpaceX y Netflix reportan hoy tras el cierre; Meta y Tesla llegan mañana",
-   "headline_en": "SpaceX and Netflix report after the close today; Meta and Tesla due tomorrow",
-   "source": "Investopedia"
+   "headline": "Día de resultados: Netflix y SpaceX reportan al cierre; Meta y Tesla el miércoles",
+   "headline_en": "Earnings day: Netflix and SpaceX report after the close; Meta and Tesla on Wednesday",
+   "source": "Reuters"
   },
   {
-   "headline": "Asia cae: el Kospi se desploma 3.5% y la peor salida a bolsa de la historia de Corea (Elice, -30%) sacude el trade de IA",
-   "headline_en": "Asian markets slide: Kospi plunges 3.5% as Korea's worst IPO on record (Elice, -30%) rattles AI trade",
-   "source": "LiveMint"
-  },
-  {
-   "headline": "El gobierno federal prohíbe el uso del modelo de IA chino DeepSeek en las agencias gubernamentales",
-   "headline_en": "Federal government bans Chinese AI model DeepSeek from government agencies",
+   "headline": "El gobierno de EE.UU. prohíbe el uso del modelo chino DeepSeek en agencias federales",
+   "headline_en": "U.S. federal government bans use of Chinese AI model DeepSeek",
    "source": "Investopedia"
   }
  ],
- "ultima_hora": {
-  "headline": "Trump anuncia $8,000 millones en ayuda a agricultores por el alza del diésel",
-  "headline_en": "Trump announces $8 billion aid package for farmers hit by diesel price surge",
-  "source": "Fox Business / Reuters",
-  "image": "",
-  "images": [
-   "https://boripropdeals.github.io/breaking-visuals/trump-8b-farmer-relief-combine-2026-10-20.webp",
-   "https://boripropdeals.github.io/breaking-visuals/trump-8b-farmer-relief-aerial-farm-2026-10-20.webp",
-   "https://boripropdeals.github.io/breaking-visuals/trump-8b-farmer-relief-tractor-diesel-2026-10-20.webp"
-  ]
- }
+ "ultima_hora": null
 }
