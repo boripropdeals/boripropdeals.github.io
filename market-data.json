@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-20T14:32:33.325725+00:00",
+ "updated_at": "2026-10-20T14:33:01.377745+00:00",
  "nq": {
-  "price": 29776.5,
-  "change_points": 54.0,
-  "percent_change": 0.18
+  "price": 29769.5,
+  "change_points": 47.0,
+  "percent_change": 0.16
  },
  "gold": {
-  "price": 4158.1,
-  "change_points": -2.0,
-  "percent_change": -0.05
+  "price": 4159.0,
+  "change_points": -1.1,
+  "percent_change": -0.03
  },
  "oil": {
-  "price": 97.03,
-  "change_points": -6.63,
-  "percent_change": -6.4
+  "price": 96.95,
+  "change_points": -6.71,
+  "percent_change": -6.47
  },
  "headlines": [
   {
-   "headline": "Futuros mixtos: el Nasdaq cae por temores de deuda de IA mientras el petróleo sube por ataques hutíes",
-   "headline_en": "Mixed futures: Nasdaq falls on AI debt fears as oil jumps on Houthi attacks",
-   "source": "TipRanks"
+   "headline": "Los futuros del Nasdaq caen en la preapertura: debilidad de las acciones de IA y petróleo al alza antes de los resultados",
+   "headline_en": "Nasdaq futures dip in premarket trading on AI stock weakness and rising oil prices ahead of earnings",
+   "source": "Reuters"
   },
   {
-   "headline": "El Nasdaq rebota 1.11% el lunes y el S&P 500 suma 0.41%; el Dow cierra en rojo",
-   "headline_en": "Nasdaq rebounds 1.11% on Monday, S&P 500 gains 0.41%; Dow ends in the red",
-   "source": "Zacks"
+   "headline": "CoreWeave se desploma 3.1% y Nebius 2.9% en preapertura; Apple cae 1% por temores de deuda en el auge de IA",
+   "headline_en": "CoreWeave drops 3.1% and Nebius 2.9% in premarket; Apple falls 1% on AI debt-load fears",
+   "source": "Reuters"
   },
   {
-   "headline": "El petróleo toca máximos de meses (WTI sobre $110) por la escalada en Medio Oriente",
-   "headline_en": "Oil hits multi-month highs (WTI above $110) on Middle East escalation",
-   "source": "Investopedia"
+   "headline": "El crudo Brent roza los $111, máximo de cinco meses, por ataques hutíes a infraestructura saudí y en el Golfo",
+   "headline_en": "Brent crude nears $111, a five-month high, on Houthi attacks on Saudi infrastructure and Gulf vessels",
+   "source": "Reuters"
   },
   {
-   "headline": "Asia se desploma: el KOSPI cae 4.3% y el Nikkei 1.2% por el miedo a los chips de IA",
-   "headline_en": "Asia slumps: KOSPI drops 4.3% and Nikkei 1.2% on AI chip fears",
-   "source": "Livemint"
+   "headline": "SpaceX y Netflix reportan hoy tras el cierre; Meta y Tesla llegan el miércoles",
+   "headline_en": "SpaceX and Netflix report after the close today; Meta and Tesla due Wednesday",
+   "source": "Reuters"
   },
   {
-   "headline": "Ola de resultados: Netflix reporta hoy tras el cierre; Tesla y Meta llegan el miércoles",
-   "headline_en": "Earnings wave: Netflix reports today after the bell; Tesla and Meta due Wednesday",
-   "source": "Investopedia"
+   "headline": "La aprobación de Trump cae a mínimo récord de 31% en encuesta Reuters/Ipsos; 68% desaprueba su manejo económico",
+   "headline_en": "Trump approval falls to record low of 31% in Reuters/Ipsos poll; 68% disapprove of his handling of the economy",
+   "source": "Reuters"
   },
   {
-   "headline": "EE.UU. prohíbe el modelo chino de IA DeepSeek en agencias federales",
-   "headline_en": "US bans Chinese AI model DeepSeek in federal agencies",
-   "source": "Investopedia"
+   "headline": "Elice Group, empresa coreana de IA, se desploma casi 30% en su debut bursátil",
+   "headline_en": "South Korean AI firm Elice Group plunges nearly 30% on market debut",
+   "source": "Reuters"
   }
  ],
  "ultima_hora": null
