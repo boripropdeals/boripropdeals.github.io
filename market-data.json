@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-10-20T12:04:33.857525+00:00",
+ "updated_at": "2026-10-20T12:06:10.713691+00:00",
  "nq": {
-  "price": 29525.5,
-  "change_points": -197.0,
-  "percent_change": -0.66
+  "price": 29514.5,
+  "change_points": -208.0,
+  "percent_change": -0.7
  },
  "gold": {
-  "price": 4142.6,
-  "change_points": -17.5,
-  "percent_change": -0.42
+  "price": 4144.0,
+  "change_points": -16.1,
+  "percent_change": -0.39
  },
  "oil": {
   "price": 100.62,
@@ -17,35 +17,45 @@
  },
  "headlines": [
   {
-   "headline": "Futuros mixtos: el Nasdaq 100 cae 0.5% y el S&P 500 cede 0.09%, mientras el Dow sube 0.22%",
-   "headline_en": "Futures mixed: Nasdaq 100 slips 0.5% and S&P 500 eases 0.09%, while Dow rises 0.22%",
-   "source": "Reuters"
-  },
-  {
-   "headline": "El Brent sube 1.7% a $111, máximo de 5 meses, por ataques hutíes a infraestructura saudí; el WTI roza $108",
-   "headline_en": "Brent crude up 1.7% to $111, a five-month high, on Houthi attacks on Saudi infrastructure; WTI nears $108",
-   "source": "Reuters"
-  },
-  {
-   "headline": "Las acciones de IA vuelven a retroceder: CoreWeave cae 3.1% en premarket por temores sobre su deuda",
-   "headline_en": "AI stocks retreat again: CoreWeave drops 3.1% premarket on debt-funding fears",
-   "source": "Reuters"
-  },
-  {
-   "headline": "Arranca la semana de earnings: Netflix y SpaceX reportan hoy tras el cierre; Meta y Tesla, mañana",
-   "headline_en": "Earnings week kicks off: Netflix and SpaceX report today after the close; Meta and Tesla tomorrow",
-   "source": "Reuters"
-  },
-  {
-   "headline": "GM, United Airlines, 3M y Halliburton reportan antes de la apertura del martes",
-   "headline_en": "GM, United Airlines, 3M and Halliburton report before Tuesday's open",
-   "source": "Reuters"
-  },
-  {
-   "headline": "El lunes el S&P 500 subió 0.41% y el Nasdaq 1.11% tras el fuerte selloff de la semana pasada",
-   "headline_en": "Monday's rebound: S&P 500 rose 0.41% and Nasdaq gained 1.11% after last week's sharp selloff",
+   "headline": "Futuros mixtos el martes: sube el petróleo y las acciones de IA retroceden de nuevo",
+   "headline_en": "Stock Market Today, Oct. 20 – Futures Mixed as Oil Prices Rise and AI Stocks Retreat Again",
    "source": "TipRanks"
+  },
+  {
+   "headline": "Los futuros del Nasdaq caen con el petróleo en alza; la mira puesta en los resultados de las big tech",
+   "headline_en": "Nasdaq futures dip as oil prices climb, earnings loom",
+   "source": "Reuters"
+  },
+  {
+   "headline": "El rebote tecnológico ya se desinfla: el temor por el gasto en IA vuelve a castigar a los chips",
+   "headline_en": "The Tech Stock Rebound Is Toast Already",
+   "source": "Barron's"
+  },
+  {
+   "headline": "Brent cerca de máximos de cinco meses ($111) por la escalada hutí contra Arabia Saudita",
+   "headline_en": "Brent crude nears five-month high as Houthis escalate attacks on Saudi Arabia",
+   "source": "TipRanks"
+  },
+  {
+   "headline": "Día cargado de resultados: GM, Netflix, United Airlines y SpaceX reportan hoy",
+   "headline_en": "Busy earnings day: General Motors, Netflix, United Airlines and SpaceX report",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "CoreWeave cae más de 3% en premercado por las dudas sobre su deuda para financiar la IA",
+   "headline_en": "CoreWeave drops 3%+ premarket on debt worries for AI infrastructure",
+   "source": "MarketWatch"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Trump anuncia rescate de $8,000 millones para agricultores ante el alza del diésel",
+  "headline_en": "Trump announces $8B bailout for farmers to cover diesel cost surge amid attacks on global supply",
+  "source": "Fox Business",
+  "image": "",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/trump-8b-farmer-relief-combine-2026-10-20.webp",
+   "https://boripropdeals.github.io/breaking-visuals/trump-8b-farmer-relief-tractor-diesel-2026-10-20.webp",
+   "https://boripropdeals.github.io/breaking-visuals/trump-8b-farmer-relief-aerial-farm-2026-10-20.webp"
+  ]
+ }
 }
