@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-20T18:32:32.711959+00:00",
+ "updated_at": "2026-10-20T18:33:37.818470+00:00",
  "nq": {
-  "price": 29755.25,
-  "change_points": 32.75,
+  "price": 29754.5,
+  "change_points": 32.0,
   "percent_change": 0.11
  },
  "gold": {
@@ -11,40 +11,40 @@
   "percent_change": -0.39
  },
  "oil": {
-  "price": 97.67,
-  "change_points": -5.99,
-  "percent_change": -5.78
+  "price": 97.7,
+  "change_points": -5.96,
+  "percent_change": -5.75
  },
  "headlines": [
   {
-   "headline": "El Dow suma más de 500 puntos por la esperanza de avances diplomáticos entre EE. UU. e Irán",
-   "headline_en": "Dow adds over 500 points on hopes of diplomatic progress between the U.S. and Iran",
-   "source": "Wall Street Journal"
+   "headline": "Wall Street abre mixta: el Dow sube 0.71% y el Nasdaq cae 0.70%; la BMV avanza 0.66% en su cuarta jornada consecutiva en verde",
+   "headline_en": "Mixed open on Wall Street: Dow up 0.71%, Nasdaq down 0.70%; Mexico's IPC rises 0.66% for a fourth straight day",
+   "source": "El CEO"
   },
   {
-   "headline": "El peor debut bursátil en la historia de Corea sacude al AI trade: la neocloud Elice se hunde más de 30%",
-   "headline_en": "Worst IPO debut in Korean history shakes the AI trade as neocloud Elice tanks over 30%",
-   "source": "Barron's"
+   "headline": "El temor a la burbuja de IA regresa: Elice se desploma 32% en su debut en Seúl y el Kospi cae cerca de 2.8%",
+   "headline_en": "AI bubble fears return: Elice plunges 32% on its Seoul debut as the Kospi drops nearly 2.8%",
+   "source": "GSD Análisis de Mercados"
   },
   {
-   "headline": "Día de reportes: SpaceX presenta su segundo reporte de ganancias como empresa pública y Netflix reporta tras el cierre",
-   "headline_en": "Earnings day: SpaceX delivers its second report as a public company and Netflix reports after the close",
-   "source": "Investopedia"
+   "headline": "El petróleo roza máximos de cinco meses: el Brent se acerca a los $110 por el conflicto en Medio Oriente",
+   "headline_en": "Oil nears five-month highs: Brent approaches $110 amid the Middle East conflict",
+   "source": "Reuters / CNN"
   },
   {
-   "headline": "Irán amenaza con atacar cables submarinos en el Estrecho de Ormuz; el petróleo sigue sobre los $106",
-   "headline_en": "Iran threatens undersea cables in the Strait of Hormuz; oil holds above $106",
-   "source": "Benzinga"
+   "headline": "La temporada de resultados toma el volante: Netflix como termómetro tech; SpaceX reporta hoy tras el cierre y Meta mañana",
+   "headline_en": "Earnings season takes the wheel: Netflix as the tech bellwether; SpaceX reports after the close today, Meta tomorrow",
+   "source": "GSD Análisis de Mercados"
   },
   {
-   "headline": "EE. UU. prohíbe a las agencias gubernamentales usar el modelo de IA chino DeepSeek",
-   "headline_en": "U.S. bans government agencies from using Chinese AI model DeepSeek",
-   "source": "Investopedia"
+   "headline": "Los bonos se convierten en refugio: demanda récord en la subasta de bonos japoneses a 20 años y el Treasury a 10 años ronda el 5.1%",
+   "headline_en": "Bonds become the safe haven: record demand at Japan's 20-year auction while the 10-year Treasury hovers near 5.1%",
+   "source": "Jorge González FX"
   },
   {
-   "headline": "El mercado apuesta por que la Fed mantenga las tasas en octubre; el bono a 10 años ronda el 5.10%",
-   "headline_en": "Markets price in a Fed hold in October; 10-year Treasury yield near 5.10%",
-   "source": "CME FedWatch"
+   "headline": "El empleo en EE.UU. se modera: ADP reporta 18,500 empleos semanales y la construcción de viviendas cae a 1.22 millones anualizados",
+   "headline_en": "U.S. labor market cools: ADP reports 18,500 weekly jobs as housing starts fall to 1.22 million annualized",
+   "source": "MarketPoints"
   }
  ],
  "ultima_hora": null
