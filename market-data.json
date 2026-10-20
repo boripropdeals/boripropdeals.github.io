@@ -1,50 +1,45 @@
 {
- "updated_at": "2026-10-20T20:02:33.140578+00:00",
+ "updated_at": "2026-10-20T20:03:42.789401+00:00",
  "nq": {
-  "price": 29693.0,
-  "change_points": -29.5,
-  "percent_change": -0.1
+  "price": 29678.75,
+  "change_points": -43.75,
+  "percent_change": -0.15
  },
  "gold": {
-  "price": 4141.0,
-  "change_points": -19.1,
-  "percent_change": -0.46
+  "price": 4140.2,
+  "change_points": -19.9,
+  "percent_change": -0.48
  },
  "oil": {
-  "price": 98.2,
-  "change_points": -5.46,
-  "percent_change": -5.27
+  "price": 98.28,
+  "change_points": -5.38,
+  "percent_change": -5.19
  },
  "headlines": [
   {
-   "headline": "Los futuros del Nasdaq caen ante el nerviosismo por la IA y el petróleo sobre los $110",
-   "headline_en": "Nasdaq futures slip as AI jitters and $110 oil weigh on tech",
+   "headline": "Mercado mixto al mediodía: el Dow sube casi 1% con las blue chips; Eli Lilly salta 5% y 3M tras batir expectativas",
+   "headline_en": "Midday mixed market: Dow up nearly 1% on blue chips; Eli Lilly jumps 5%, 3M after earnings beat",
+   "source": "The Motley Fool"
+  },
+  {
+   "headline": "Las acciones de IA vuelven a retroceder y el crudo sube tras la escalada de ataques hutíes a Arabia Saudita",
+   "headline_en": "AI stocks retreat again as oil rises after escalating Houthi attacks on Saudi Arabia",
+   "source": "TipRanks"
+  },
+  {
+   "headline": "Rotación hacia small-caps y biotecnología: el Russell 2000 lidera las ganancias del mediodía",
+   "headline_en": "Rotation into small-caps and biotech: Russell 2000 leads midday gains",
+   "source": "stockmarketwatch.com"
+  },
+  {
+   "headline": "General Motors cae 6% pese a superar expectativas; Netflix publica resultados tras el cierre",
+   "headline_en": "General Motors drops 6% despite beating expectations; Netflix reports after the bell",
+   "source": "Dimsum Daily"
+  },
+  {
+   "headline": "El petróleo cede mientras el mercado evalúa la exención de sanciones energéticas a Rusia; el bono a 10 años ronda el 5.1%",
+   "headline_en": "Oil eases as markets weigh waiver of Russia energy sanctions; 10-year Treasury yield near 5.1%",
    "source": "Reuters"
-  },
-  {
-   "headline": "El desplome de 32% de la IPO coreana de IA Elice en su debut reaviva la venta en tecnología",
-   "headline_en": "The AI selloff is back as Korean IPO shock spooks tech stocks",
-   "source": "Barron's"
-  },
-  {
-   "headline": "El petróleo toca máximos de cinco meses cerca de $111 por ataques hutíes en el Golfo",
-   "headline_en": "Renewed Gulf tensions push oil prices close to 5-month highs",
-   "source": "Barron's"
-  },
-  {
-   "headline": "El Dow sube ~500 puntos con esperanzas de acercamiento EE.UU.-Irán; Netflix y SpaceX reportan hoy",
-   "headline_en": "Dow jumps 500 points in everything rally on U.S.-Iran hopes; Netflix and SpaceX report today",
-   "source": "WSJ"
-  },
-  {
-   "headline": "El gobierno federal prohíbe el uso del modelo chino de IA DeepSeek en agencias",
-   "headline_en": "Federal government bans use of Chinese AI model DeepSeek by government agencies",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "GM supera expectativas pero cae 8% y anuncia recompra de acciones por $20,000 millones",
-   "headline_en": "GM beats earnings views but flashes sell signal despite $20 billion buyback",
-   "source": "Investor's Business Daily"
   }
  ],
  "ultima_hora": null
