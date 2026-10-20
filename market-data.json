@@ -1,45 +1,50 @@
 {
- "updated_at": "2026-10-20T18:02:32.983734+00:00",
+ "updated_at": "2026-10-20T18:02:54.103525+00:00",
  "nq": {
-  "price": 29768.25,
-  "change_points": 45.75,
+  "price": 29766.5,
+  "change_points": 44.0,
   "percent_change": 0.15
  },
  "gold": {
-  "price": 4143.8,
-  "change_points": -16.3,
+  "price": 4143.7,
+  "change_points": -16.4,
   "percent_change": -0.39
  },
  "oil": {
-  "price": 97.81,
-  "change_points": -5.85,
-  "percent_change": -5.64
+  "price": 97.83,
+  "change_points": -5.83,
+  "percent_change": -5.62
  },
  "headlines": [
   {
-   "headline": "El Dow sube 500 puntos con esperanzas de diplomacia entre EE.UU. e Irán; el petróleo retrocede",
-   "headline_en": "Dow jumps 500 points on hopes of U.S.-Iran diplomacy; oil prices pull back",
-   "source": "The Wall Street Journal"
+   "headline": "El Dow suma más de 500 puntos por la esperanza de avances diplomáticos entre EE. UU. e Irán",
+   "headline_en": "Dow adds over 500 points on hopes of diplomatic progress between the U.S. and Iran",
+   "source": "Wall Street Journal"
   },
   {
-   "headline": "Las acciones repuntan con la recuperación tecnológica; el S&P suma $390,000 millones en capitalización",
-   "headline_en": "Stocks rebound as tech bounces back; S&P adds $390 billion in market cap",
+   "headline": "El peor debut bursátil en la historia de Corea sacude al AI trade: la neocloud Elice se hunde más de 30%",
+   "headline_en": "Worst IPO debut in Korean history shakes the AI trade as neocloud Elice tanks over 30%",
    "source": "Barron's"
   },
   {
-   "headline": "Asia se desploma: el Kospi pierde 3.5% y Elice cae 30% en su debut",
-   "headline_en": "Asian markets slide: Kospi plunges 3.5%, Elice tanks 30% on debut",
-   "source": "The Wall Street Journal"
-  },
-  {
-   "headline": "Las ventas pendientes de vivienda se desploman 7.3% en septiembre, muy por debajo de lo esperado",
-   "headline_en": "Pending home sales plunge 7.3% in September, far worse than expected",
+   "headline": "Día de reportes: SpaceX presenta su segundo reporte de ganancias como empresa pública y Netflix reporta tras el cierre",
+   "headline_en": "Earnings day: SpaceX delivers its second report as a public company and Netflix reports after the close",
    "source": "Investopedia"
   },
   {
-   "headline": "SpaceX presenta hoy su segundo reporte como empresa pública; también reportan Netflix y United Airlines",
-   "headline_en": "SpaceX reports second earnings as a public company today; Netflix and United Airlines also due",
-   "source": "The Wall Street Journal"
+   "headline": "Irán amenaza con atacar cables submarinos en el Estrecho de Ormuz; el petróleo sigue sobre los $106",
+   "headline_en": "Iran threatens undersea cables in the Strait of Hormuz; oil holds above $106",
+   "source": "Benzinga"
+  },
+  {
+   "headline": "EE. UU. prohíbe a las agencias gubernamentales usar el modelo de IA chino DeepSeek",
+   "headline_en": "U.S. bans government agencies from using Chinese AI model DeepSeek",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "El mercado apuesta por que la Fed mantenga las tasas en octubre; el bono a 10 años ronda el 5.10%",
+   "headline_en": "Markets price in a Fed hold in October; 10-year Treasury yield near 5.10%",
+   "source": "CME FedWatch"
   }
  ],
  "ultima_hora": null
