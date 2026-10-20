@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-20T19:00:31.787079+00:00",
+ "updated_at": "2026-10-20T19:02:42.720126+00:00",
  "nq": {
-  "price": 29709.25,
-  "change_points": -13.25,
-  "percent_change": -0.04
+  "price": 29716.25,
+  "change_points": -6.25,
+  "percent_change": -0.02
  },
  "gold": {
-  "price": 4141.6,
-  "change_points": -18.5,
-  "percent_change": -0.44
+  "price": 4141.2,
+  "change_points": -18.9,
+  "percent_change": -0.45
  },
  "oil": {
-  "price": 97.79,
-  "change_points": -5.87,
-  "percent_change": -5.66
+  "price": 97.91,
+  "change_points": -5.75,
+  "percent_change": -5.55
  },
  "headlines": [
   {
-   "headline": "Wall Street abre mixta: el Dow sube 0.71% y el Nasdaq cae 0.70%; la BMV avanza 0.66% en su cuarta jornada consecutiva en verde",
-   "headline_en": "Mixed open on Wall Street: Dow up 0.71%, Nasdaq down 0.70%; Mexico's IPC rises 0.66% for a fourth straight day",
-   "source": "El CEO"
+   "headline": "Futuros mixtos: el petróleo supera los $110 mientras las acciones de IA retroceden de nuevo",
+   "headline_en": "Futures mixed as oil tops $110 and AI stocks retreat again",
+   "source": "TipRanks"
   },
   {
-   "headline": "El temor a la burbuja de IA regresa: Elice se desploma 32% en su debut en Seúl y el Kospi cae cerca de 2.8%",
-   "headline_en": "AI bubble fears return: Elice plunges 32% on its Seoul debut as the Kospi drops nearly 2.8%",
-   "source": "GSD Análisis de Mercados"
+   "headline": "Wall Street abre a la baja: el crudo sobre $110, la construcción de vivienda cae y la venta de IA regresa",
+   "headline_en": "Wall Street opens lower as oil tops $110, housing construction slumps, AI stocks resume selloff",
+   "source": "JBizNews"
   },
   {
-   "headline": "El petróleo roza máximos de cinco meses: el Brent se acerca a los $110 por el conflicto en Medio Oriente",
-   "headline_en": "Oil nears five-month highs: Brent approaches $110 amid the Middle East conflict",
-   "source": "Reuters / CNN"
+   "headline": "Netflix y SpaceX reportan resultados tras el cierre; GM y United Airlines reportaron esta mañana",
+   "headline_en": "Netflix and SpaceX report after the close; GM and United Airlines reported this morning",
+   "source": "Investopedia"
   },
   {
-   "headline": "La temporada de resultados toma el volante: Netflix como termómetro tech; SpaceX reporta hoy tras el cierre y Meta mañana",
-   "headline_en": "Earnings season takes the wheel: Netflix as the tech bellwether; SpaceX reports after the close today, Meta tomorrow",
-   "source": "GSD Análisis de Mercados"
+   "headline": "EE. UU. prohíbe el modelo chino de IA DeepSeek en agencias federales",
+   "headline_en": "US bans Chinese AI model DeepSeek from federal agencies",
+   "source": "Investopedia"
   },
   {
-   "headline": "Los bonos se convierten en refugio: demanda récord en la subasta de bonos japoneses a 20 años y el Treasury a 10 años ronda el 5.1%",
-   "headline_en": "Bonds become the safe haven: record demand at Japan's 20-year auction while the 10-year Treasury hovers near 5.1%",
-   "source": "Jorge González FX"
+   "headline": "Caída tecnológica en Asia: el Kospi de Corea del Sur se desploma 4.3% por el nerviosismo con la IA",
+   "headline_en": "Asian tech selloff: South Korean Kospi plunges 4.3% on AI jitters",
+   "source": "Share Talk"
   },
   {
-   "headline": "El empleo en EE.UU. se modera: ADP reporta 18,500 empleos semanales y la construcción de viviendas cae a 1.22 millones anualizados",
-   "headline_en": "U.S. labor market cools: ADP reports 18,500 weekly jobs as housing starts fall to 1.22 million annualized",
-   "source": "MarketPoints"
+   "headline": "Ansiedad por la deuda de IA: el riesgo crediticio de SoftBank toca su máximo en cuatro años",
+   "headline_en": "AI debt anxiety: SoftBank credit risk hits four-year high",
+   "source": "Headlines Briefing"
   }
  ],
  "ultima_hora": null
