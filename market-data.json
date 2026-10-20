@@ -1,51 +1,61 @@
 {
- "updated_at": "2026-10-20T15:04:41.994148+00:00",
+ "updated_at": "2026-10-20T15:05:23.809249+00:00",
  "nq": {
-  "price": 29857.75,
-  "change_points": 135.25,
-  "percent_change": 0.46
+  "price": 29866.0,
+  "change_points": 143.5,
+  "percent_change": 0.48
  },
  "gold": {
-  "price": 4158.5,
-  "change_points": -1.6,
-  "percent_change": -0.04
+  "price": 4158.7,
+  "change_points": -1.4,
+  "percent_change": -0.03
  },
  "oil": {
-  "price": 95.85,
-  "change_points": -7.81,
-  "percent_change": -7.53
+  "price": 95.92,
+  "change_points": -7.74,
+  "percent_change": -7.47
  },
  "headlines": [
   {
-   "headline": "Los futuros del Nasdaq caen en la preapertura: debilidad de las acciones de IA y petróleo al alza antes de los resultados",
-   "headline_en": "Nasdaq futures dip in premarket trading on AI stock weakness and rising oil prices ahead of earnings",
-   "source": "Reuters"
+   "headline": "El Dow se dispara 600 puntos en un día cargado de resultados; los rendimientos del Tesoro caen tras el desplome de las ventas pendientes de vivienda",
+   "headline_en": "Dow jumps 600 points on busy earnings day; Treasury yields fall as pending home sales plunge",
+   "source": "Investopedia"
   },
   {
-   "headline": "CoreWeave se desploma 3.1% y Nebius 2.9% en preapertura; Apple cae 1% por temores de deuda en el auge de IA",
-   "headline_en": "CoreWeave drops 3.1% and Nebius 2.9% in premarket; Apple falls 1% on AI debt-load fears",
-   "source": "Reuters"
+   "headline": "Wall Street rebota con las tecnológicas: el Dow sube 1.2% y el S&P suma $390,000 millones en capitalización",
+   "headline_en": "Stocks rebound as tech bounces back: Dow up 1.2% as S&P adds $390B in market cap",
+   "source": "Barron's"
   },
   {
-   "headline": "El crudo Brent roza los $111, máximo de cinco meses, por ataques hutíes a infraestructura saudí y en el Golfo",
-   "headline_en": "Brent crude nears $111, a five-month high, on Houthi attacks on Saudi infrastructure and Gulf vessels",
-   "source": "Reuters"
+   "headline": "El petróleo retrocede ante esperanzas de avances diplomáticos entre EE.UU. e Irán; el Brent cae bajo los $110",
+   "headline_en": "Oil pulls back on hopes of U.S.-Iran diplomatic progress; Brent falls below $110",
+   "source": "Wall Street Journal"
   },
   {
-   "headline": "SpaceX y Netflix reportan hoy tras el cierre; Meta y Tesla llegan el miércoles",
-   "headline_en": "SpaceX and Netflix report after the close today; Meta and Tesla due Wednesday",
-   "source": "Reuters"
+   "headline": "SpaceX y Netflix reportan hoy tras el cierre; Meta y Tesla llegan mañana",
+   "headline_en": "SpaceX and Netflix report after the close today; Meta and Tesla due tomorrow",
+   "source": "Investopedia"
   },
   {
-   "headline": "La aprobación de Trump cae a mínimo récord de 31% en encuesta Reuters/Ipsos; 68% desaprueba su manejo económico",
-   "headline_en": "Trump approval falls to record low of 31% in Reuters/Ipsos poll; 68% disapprove of his handling of the economy",
-   "source": "Reuters"
+   "headline": "Asia cae: el Kospi se desploma 3.5% y la peor salida a bolsa de la historia de Corea (Elice, -30%) sacude el trade de IA",
+   "headline_en": "Asian markets slide: Kospi plunges 3.5% as Korea's worst IPO on record (Elice, -30%) rattles AI trade",
+   "source": "LiveMint"
   },
   {
-   "headline": "Elice Group, empresa coreana de IA, se desploma casi 30% en su debut bursátil",
-   "headline_en": "South Korean AI firm Elice Group plunges nearly 30% on market debut",
-   "source": "Reuters"
+   "headline": "El gobierno federal prohíbe el uso del modelo de IA chino DeepSeek en las agencias gubernamentales",
+   "headline_en": "Federal government bans Chinese AI model DeepSeek from government agencies",
+   "source": "Investopedia"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Trump anuncia $8,000 millones en ayuda a agricultores por el alza del diésel",
+  "headline_en": "Trump announces $8 billion aid package for farmers hit by diesel price surge",
+  "source": "Fox Business / Reuters",
+  "image": "",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/trump-8b-farmer-relief-combine-2026-10-20.webp",
+   "https://boripropdeals.github.io/breaking-visuals/trump-8b-farmer-relief-aerial-farm-2026-10-20.webp",
+   "https://boripropdeals.github.io/breaking-visuals/trump-8b-farmer-relief-tractor-diesel-2026-10-20.webp"
+  ]
+ }
 }
