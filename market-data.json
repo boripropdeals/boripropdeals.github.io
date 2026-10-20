@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-20T11:02:31.672264+00:00",
+ "updated_at": "2026-10-20T11:03:23.639903+00:00",
  "nq": {
-  "price": 29576.75,
-  "change_points": -145.75,
-  "percent_change": -0.49
+  "price": 29574.25,
+  "change_points": -148.25,
+  "percent_change": -0.5
  },
  "gold": {
-  "price": 4140.1,
-  "change_points": -20.0,
+  "price": 4140.2,
+  "change_points": -19.9,
   "percent_change": -0.48
  },
  "oil": {
-  "price": 100.83,
-  "change_points": -2.83,
-  "percent_change": -2.73
+  "price": 100.86,
+  "change_points": -2.8,
+  "percent_change": -2.7
  },
  "headlines": [
   {
-   "headline": "Futuros mixtos tras el rebote tecnológico del lunes",
-   "headline_en": "US stock futures trade mixed after Monday tech rebound",
+   "headline": "Futuros mixtos: NQ cae ~0.5% y el Dow sube mientras el petroleo se dispara y las acciones de IA retroceden",
+   "headline_en": "Stock Market Today, Oct. 20 – Futures Mixed as Oil Prices Rise and AI Stocks Retreat Again",
    "source": "TipRanks"
   },
   {
-   "headline": "Netflix y SpaceX reportan resultados hoy tras el cierre",
-   "headline_en": "Netflix and SpaceX report earnings after today closing bell",
-   "source": "TipRanks"
+   "headline": "El rebote tecnologico se desinfla: las acciones de IA vuelven a caer antes de una semana clave de resultados",
+   "headline_en": "The Tech Stock Rebound Is Toast Already",
+   "source": "Barron's"
   },
   {
-   "headline": "El petróleo sube: los hutíes escalan ataques contra Arabia Saudita",
-   "headline_en": "Crude rises as Houthis escalate strikes on Saudi Arabia",
-   "source": "TipRanks"
-  },
-  {
-   "headline": "Asia cae con fuerza: el Kospi -3.6% y el Nikkei -1.5%",
-   "headline_en": "Asia slides: Kospi drops 3.6 percent, Nikkei loses 1.5 percent",
-   "source": "TradingView News"
-  },
-  {
-   "headline": "La deuda por IA sigue inquietando: CoreWeave no despega pese al upgrade de Goldman",
-   "headline_en": "AI debt worries persist: CoreWeave cannot rally despite Goldman upgrade",
-   "source": "Stocktwits"
-  },
-  {
-   "headline": "El bono a 10 años ronda el 5.1%",
-   "headline_en": "10-year Treasury yield hovers around 5.1 percent",
+   "headline": "El crudo se dispara: Brent en ~$111 y WTI en ~$108 tras la escalada huti contra Arabia Saudita; +13% en octubre",
+   "headline_en": "Oil prices rise as Houthis escalate attacks on Saudi Arabia, stoking supply fears",
    "source": "Investopedia"
+  },
+  {
+   "headline": "Dia pesado de resultados: GM, United y Netflix reportan hoy; Amazon subio 5% tras recomendacion de Morgan Stanley",
+   "headline_en": "Stock Market Today: Futures Mixed on Busy Earnings Day; Chip Stocks Point Lower",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "Asia en rojo: KOSPI se desploma 3.6%, Nikkei -1.5%; disturbios en Francia impulsan activos refugio",
+   "headline_en": "Asian shares tumble, oil rises as markets await AI sector results",
+   "source": "Reuters"
+  },
+  {
+   "headline": "Mercado apuesta a pausa de la Fed en octubre; Warsh optimista pero sin guia sobre mas alzas",
+   "headline_en": "Dow Jones futures rise as markets bet on Fed rate hold",
+   "source": "FXStreet"
   }
  ],
  "ultima_hora": null
