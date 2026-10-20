@@ -1,49 +1,49 @@
 {
- "updated_at": "2026-10-20T09:02:47.827953+00:00",
+ "updated_at": "2026-10-20T09:03:13.098325+00:00",
  "nq": {
-  "price": 29620.0,
-  "change_points": -102.5,
-  "percent_change": -0.34
+  "price": 29610.25,
+  "change_points": -112.25,
+  "percent_change": -0.38
  },
  "gold": {
-  "price": 4142.6,
-  "change_points": -17.5,
-  "percent_change": -0.42
+  "price": 4140.1,
+  "change_points": -20.0,
+  "percent_change": -0.48
  },
  "oil": {
-  "price": 100.14,
-  "change_points": -3.52,
-  "percent_change": -3.4
+  "price": 100.16,
+  "change_points": -3.5,
+  "percent_change": -3.38
  },
  "headlines": [
   {
-   "headline": "Los futuros del Nasdaq suben más de 1% mientras Wall Street se recupera de su peor semana tecnológica en meses",
-   "headline_en": "Nasdaq futures jump over 1% as Wall Street rebounds from its worst tech week in months",
-   "source": "Investopedia"
+   "headline": "Futuros mixtos tras el rebote tecnológico del lunes",
+   "headline_en": "US stock futures trade mixed after Monday tech rebound",
+   "source": "TipRanks"
   },
   {
-   "headline": "Semana crucial de resultados: Tesla, Meta y Netflix reportan esta semana",
-   "headline_en": "High-stakes earnings week: Tesla, Meta and Netflix report this week",
-   "source": "XTB"
+   "headline": "Netflix y SpaceX reportan resultados hoy tras el cierre",
+   "headline_en": "Netflix and SpaceX report earnings after today closing bell",
+   "source": "TipRanks"
   },
   {
-   "headline": "El petróleo cae después de que Trump pospone las sanciones energéticas a Rusia",
-   "headline_en": "Oil falls as Trump waives new Russia energy sanctions",
-   "source": "eOption"
+   "headline": "El petróleo sube: los hutíes escalan ataques contra Arabia Saudita",
+   "headline_en": "Crude rises as Houthis escalate strikes on Saudi Arabia",
+   "source": "TipRanks"
   },
   {
-   "headline": "El rendimiento del bono a 10 años ronda 5.10% mientras los bonos recuperan su rol de refugio",
-   "headline_en": "10-year Treasury yield hovers near 5.10% as bonds regain safe-haven role",
-   "source": "XTB"
+   "headline": "Asia cae con fuerza: el Kospi -3.6% y el Nikkei -1.5%",
+   "headline_en": "Asia slides: Kospi drops 3.6 percent, Nikkei loses 1.5 percent",
+   "source": "TradingView News"
   },
   {
-   "headline": "El PIB de China crece 4.5% en el tercer trimestre, superando expectativas",
-   "headline_en": "China Q3 GDP grows 4.5%, beating estimates",
-   "source": "Samuel & Co"
+   "headline": "La deuda por IA sigue inquietando: CoreWeave no despega pese al upgrade de Goldman",
+   "headline_en": "AI debt worries persist: CoreWeave cannot rally despite Goldman upgrade",
+   "source": "Stocktwits"
   },
   {
-   "headline": "El oro se mantiene cerca de $4,180 la onza entre la volatilidad del mercado",
-   "headline_en": "Gold holds near $4,180 an ounce amid market volatility",
+   "headline": "El bono a 10 años ronda el 5.1%",
+   "headline_en": "10-year Treasury yield hovers around 5.1 percent",
    "source": "Investopedia"
   }
  ],
