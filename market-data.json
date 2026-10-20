@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-20T16:30:32.371354+00:00",
+ "updated_at": "2026-10-20T16:32:30.749659+00:00",
  "nq": {
-  "price": 29712.0,
-  "change_points": -10.5,
-  "percent_change": -0.04
+  "price": 29734.75,
+  "change_points": 12.25,
+  "percent_change": 0.04
  },
  "gold": {
-  "price": 4142.1,
-  "change_points": -18.0,
-  "percent_change": -0.43
+  "price": 4141.9,
+  "change_points": -18.2,
+  "percent_change": -0.44
  },
  "oil": {
-  "price": 97.97,
-  "change_points": -5.69,
-  "percent_change": -5.49
+  "price": 97.89,
+  "change_points": -5.77,
+  "percent_change": -5.57
  },
  "headlines": [
   {
-   "headline": "Wall Street abre mixto: el petróleo sube y las acciones de IA retroceden de nuevo",
-   "headline_en": "Wall Street opens mixed: oil prices rise and AI stocks retreat again",
+   "headline": "El Nasdaq cae mientras las acciones de IA retroceden de nuevo y el petróleo supera los $110",
+   "headline_en": "Nasdaq Falls, Dow Rises as Oil Tops $110 and AI Stocks Retreat Again",
    "source": "TipRanks"
   },
   {
-   "headline": "Escalada hutí contra Arabia Saudita dispara el crudo WTI más de 4%, hasta ~$108",
-   "headline_en": "Houthi escalation against Saudi Arabia sends WTI crude up over 4% to ~$108",
-   "source": "Reuters"
+   "headline": "Los hutíes escalan ataques contra Arabia Saudita; el Brent toca los $111",
+   "headline_en": "Houthis Escalate Attacks on Saudi Arabia; Brent Crude Hits $111",
+   "source": "TipRanks"
   },
   {
-   "headline": "Día pesado de earnings: GM, United, GE Aerospace y 3M reportan; Netflix y SpaceX tras el cierre",
-   "headline_en": "Heavy earnings day: GM, United, GE Aerospace and 3M report; Netflix and SpaceX after the bell",
-   "source": "Investopedia"
+   "headline": "Asia se desploma por el miedo a la IA: el Kospi pierde 3.5% en venta masiva de chips",
+   "headline_en": "KOSPI Plunges 3.5% on Chip Selloff as AI Fears Hit Asia",
+   "source": "LiveMint"
   },
   {
-   "headline": "El gobierno federal prohíbe el modelo chino de IA DeepSeek en las agencias",
-   "headline_en": "Federal government bans China's DeepSeek AI model from government agencies",
-   "source": "Investopedia"
+   "headline": "Netflix reporta ganancias tras el cierre; GM y United Airlines también publican hoy",
+   "headline_en": "Netflix Reports Q3 Earnings After Close; GM, United Airlines Also Report",
+   "source": "NordFX"
   },
   {
-   "headline": "Preocupación fiscal en Francia: el bono a 10 años sube a 4.94%",
-   "headline_en": "France fiscal jitters: 10-year OAT yield climbs to 4.94%",
-   "source": "CaixaBank Research"
+   "headline": "Inicios de vivienda de septiembre hoy; la Fed mantendría tasas el 27-28 de octubre",
+   "headline_en": "September Housing Starts Today; Fed Expected to Hold Rates Oct. 27-28",
+   "source": "NordFX"
   },
   {
-   "headline": "La Fed no se apresura: Warsh ve una economía fuerte y apunta a pausa en octubre",
-   "headline_en": "Fed in no rush: Warsh sees strong economy, signals October pause",
-   "source": "Reuters"
+   "headline": "El oro ronda los $4,135 y el bitcoin los $81,000 en un ambiente de aversión al riesgo",
+   "headline_en": "Gold Near $4,135, Bitcoin Around $81K as Risk Appetite Fades",
+   "source": "NordFX"
   }
  ],
  "ultima_hora": null
