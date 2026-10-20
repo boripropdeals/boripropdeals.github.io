@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-10-20T17:05:01.288511+00:00",
+ "updated_at": "2026-10-20T17:05:38.485241+00:00",
  "nq": {
-  "price": 29705.5,
-  "change_points": -17.0,
-  "percent_change": -0.06
+  "price": 29723.5,
+  "change_points": 1.0,
+  "percent_change": 0.0
  },
  "gold": {
   "price": 4140.5,
@@ -11,40 +11,35 @@
   "percent_change": -0.47
  },
  "oil": {
-  "price": 98.12,
-  "change_points": -5.54,
-  "percent_change": -5.34
+  "price": 98.15,
+  "change_points": -5.51,
+  "percent_change": -5.32
  },
  "headlines": [
   {
-   "headline": "El Nasdaq cae mientras las acciones de IA retroceden de nuevo y el petróleo supera los $110",
-   "headline_en": "Nasdaq Falls, Dow Rises as Oil Tops $110 and AI Stocks Retreat Again",
-   "source": "TipRanks"
+   "headline": "El Dow sube 500 puntos con esperanzas de diplomacia entre EE.UU. e Irán; el petróleo retrocede",
+   "headline_en": "Dow jumps 500 points on hopes of U.S.-Iran diplomacy; oil prices pull back",
+   "source": "The Wall Street Journal"
   },
   {
-   "headline": "Los hutíes escalan ataques contra Arabia Saudita; el Brent toca los $111",
-   "headline_en": "Houthis Escalate Attacks on Saudi Arabia; Brent Crude Hits $111",
-   "source": "TipRanks"
+   "headline": "Las acciones repuntan con la recuperación tecnológica; el S&P suma $390,000 millones en capitalización",
+   "headline_en": "Stocks rebound as tech bounces back; S&P adds $390 billion in market cap",
+   "source": "Barron's"
   },
   {
-   "headline": "Asia se desploma por el miedo a la IA: el Kospi pierde 3.5% en venta masiva de chips",
-   "headline_en": "KOSPI Plunges 3.5% on Chip Selloff as AI Fears Hit Asia",
-   "source": "LiveMint"
+   "headline": "Asia se desploma: el Kospi pierde 3.5% y Elice cae 30% en su debut",
+   "headline_en": "Asian markets slide: Kospi plunges 3.5%, Elice tanks 30% on debut",
+   "source": "The Wall Street Journal"
   },
   {
-   "headline": "Netflix reporta ganancias tras el cierre; GM y United Airlines también publican hoy",
-   "headline_en": "Netflix Reports Q3 Earnings After Close; GM, United Airlines Also Report",
-   "source": "NordFX"
+   "headline": "Las ventas pendientes de vivienda se desploman 7.3% en septiembre, muy por debajo de lo esperado",
+   "headline_en": "Pending home sales plunge 7.3% in September, far worse than expected",
+   "source": "Investopedia"
   },
   {
-   "headline": "Inicios de vivienda de septiembre hoy; la Fed mantendría tasas el 27-28 de octubre",
-   "headline_en": "September Housing Starts Today; Fed Expected to Hold Rates Oct. 27-28",
-   "source": "NordFX"
-  },
-  {
-   "headline": "El oro ronda los $4,135 y el bitcoin los $81,000 en un ambiente de aversión al riesgo",
-   "headline_en": "Gold Near $4,135, Bitcoin Around $81K as Risk Appetite Fades",
-   "source": "NordFX"
+   "headline": "SpaceX presenta hoy su segundo reporte como empresa pública; también reportan Netflix y United Airlines",
+   "headline_en": "SpaceX reports second earnings as a public company today; Netflix and United Airlines also due",
+   "source": "The Wall Street Journal"
   }
  ],
  "ultima_hora": null
