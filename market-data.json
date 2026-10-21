@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-21T21:04:34.856143+00:00",
+ "updated_at": "2026-10-21T21:05:27.249817+00:00",
  "nq": {
-  "price": 30014.75,
-  "change_points": 339.5,
+  "price": 30013.5,
+  "change_points": 338.25,
   "percent_change": 1.14
  },
  "gold": {
-  "price": 4157.4,
-  "change_points": 14.8,
-  "percent_change": 0.36
+  "price": 4157.2,
+  "change_points": 14.6,
+  "percent_change": 0.35
  },
  "oil": {
-  "price": 97.61,
-  "change_points": -4.18,
-  "percent_change": -4.11
+  "price": 97.68,
+  "change_points": -4.11,
+  "percent_change": -4.04
  },
  "headlines": [
   {
-   "headline": "Nasdaq cierra con +1.1%, su mejor día en dos semanas, impulsado por SpaceX",
-   "headline_en": "Nasdaq ends up 1.1% for its best day in two weeks, led by SpaceX",
-   "source": "MarketWatch"
-  },
-  {
-   "headline": "SpaceX se dispara ~8% tras ganancias récord y reaviva el rally de la IA",
-   "headline_en": "SpaceX soars ~8% on record earnings, reigniting the AI rally",
-   "source": "WSJ"
-  },
-  {
-   "headline": "Meta y Tesla reportan al cierre; el destino del trade de IA depende de ellos",
-   "headline_en": "Meta and Tesla report after the close; the AI trade's fate hangs on them",
-   "source": "Barron's"
-  },
-  {
-   "headline": "Netflix se desploma 5% y AT&T cae 6.5% tras sus resultados",
-   "headline_en": "Netflix tumbles 5% and AT&T drops 6.5% after earnings",
+   "headline": "Wall Street cierra al alza: el Nasdaq sube 1.1% impulsado por los resultados tecnológicos",
+   "headline_en": "Wall Street closes higher: Nasdaq gains 1.1% on strong tech earnings",
    "source": "Investopedia"
   },
   {
-   "headline": "La IA vuelve a liderar: sin las tecnológicas, el S&P 500 estaría plano",
-   "headline_en": "AI leads again: without tech, the S&P 500 would be flat",
-   "source": "Barron's"
+   "headline": "SpaceX se dispara casi 8% tras reportar su primer trimestre rentable; Musk anuncia comité de fusión con Tesla",
+   "headline_en": "SpaceX surges nearly 8% after first profitable quarter; Musk announces Tesla merger committee",
+   "source": "Investopedia"
   },
   {
-   "headline": "El bono a 10 años sube al 5.145% mientras el mercado descuenta que la Fed mantendrá tasas",
-   "headline_en": "10-year Treasury yield rises to 5.145% as market prices in a Fed hold",
-   "source": "WSJ"
+   "headline": "Super Micro salta 9% tras elevar su guía de ingresos, arrastrando al alza a Nvidia y los semiconductores",
+   "headline_en": "Super Micro jumps 9% on raised revenue guidance, lifting Nvidia and chip stocks",
+   "source": "TipRanks"
+  },
+  {
+   "headline": "Tesla, Meta e IBM reportan tras el cierre; el mercado espera el pulso de la IA",
+   "headline_en": "Tesla, Meta and IBM report after the bell; market awaits AI pulse",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "Netflix cae más de 5% tras recortar su previsión de ingresos publicitarios para 2026",
+   "headline_en": "Netflix drops over 5% after cutting 2026 ad revenue outlook",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "El petróleo supera los 110 dólares y las ventas pendientes de viviendas caen 7.3% a mínimo récord",
+   "headline_en": "Oil climbs above 110 dollars while pending home sales drop 7.3% to record low",
+   "source": "Invezz"
   }
  ],
  "ultima_hora": null
