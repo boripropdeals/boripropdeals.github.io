@@ -1,61 +1,51 @@
 {
- "updated_at": "2026-10-21T16:32:35.094704+00:00",
+ "updated_at": "2026-10-21T16:32:52.280058+00:00",
  "nq": {
-  "price": 30013.0,
-  "change_points": 337.75,
+  "price": 30012.25,
+  "change_points": 337.0,
   "percent_change": 1.14
  },
  "gold": {
-  "price": 4149.2,
-  "change_points": 6.6,
-  "percent_change": 0.16
+  "price": 4150.2,
+  "change_points": 7.6,
+  "percent_change": 0.18
  },
  "oil": {
-  "price": 97.2,
-  "change_points": -4.59,
-  "percent_change": -4.51
+  "price": 97.21,
+  "change_points": -4.58,
+  "percent_change": -4.5
  },
  "headlines": [
   {
-   "headline": "Futuros al alza: Wall Street espera los resultados de Tesla y Meta tras el primer trimestre rentable de SpaceX",
-   "headline_en": "Futures rise as investors await Tesla and Meta results after SpaceX’s first profitable quarter",
+   "headline": "Los índices suben por tercer día consecutivo en plena temporada de resultados: Nasdaq +1%, S&P 500 +0.5%",
+   "headline_en": "Major indexes rise for a third straight day amid earnings flurry: Nasdaq +1%, S&P 500 +0.5%",
    "source": "Investopedia"
   },
   {
-   "headline": "El Dow subió 529 puntos el martes; el S&P avanzó mientras el Nasdaq cerró plano en semana de earnings",
-   "headline_en": "Dow jumped 529 points Tuesday as the S&P gained while Nasdaq ended flat",
-   "source": "Zacks"
+   "headline": "SpaceX se dispara 11% tras resultados y posible fusión con Tesla; Tesla sube 4% antes de reportar hoy",
+   "headline_en": "SpaceX soars 11% on earnings and possible Tesla merger; Tesla up 4% ahead of results today",
+   "source": "Barron’s"
   },
   {
-   "headline": "Netflix se desploma 6% en premarket tras una guía de ingresos débil",
-   "headline_en": "Netflix tumbles 6% premarket after weak revenue guidance",
-   "source": "eOption"
+   "headline": "Netflix cae 5% por una guía de ingresos decepcionante pese a superar expectativas",
+   "headline_en": "Netflix sinks 5% on disappointing revenue guidance despite earnings beat",
+   "source": "The Wall Street Journal"
   },
   {
-   "headline": "SMCI se dispara 10% tras elevar márgenes y outlook; las semis lideran la jornada",
-   "headline_en": "SMCI surges 10% after raising margin and revenue outlook; semis lead the day",
-   "source": "eOption"
-  },
-  {
-   "headline": "El petróleo toca casi $100 antes de los datos de inventarios de EE. UU.",
-   "headline_en": "Oil climbs near $100 ahead of U.S. inventory data",
-   "source": "Samuel & Co Trading"
-  },
-  {
-   "headline": "Oro en $4,160, bitcoin en $83,400 y el bono a 10 años en 5.10%",
-   "headline_en": "Gold at $4,160, bitcoin at $83,400, 10-year yield at 5.10%",
+   "headline": "Meta y Tesla reportan al cierre de hoy; Super Micro +10% y AT&T −6% en movimientos post-resultados",
+   "headline_en": "Meta and Tesla report after the close today; Super Micro +10%, AT&T −6% in post-earnings moves",
    "source": "Investopedia"
+  },
+  {
+   "headline": "El bono a 10 años se mantiene en 5.10% y Ken Griffin advierte de una posible burbuja de IA",
+   "headline_en": "10-year Treasury yield holds near 5.10% as Ken Griffin warns of possible AI bubble",
+   "source": "Seeking Alpha"
+  },
+  {
+   "headline": "Irán prolonga las negociaciones con EE.UU. de cara a las elecciones de medio término del 3 de noviembre",
+   "headline_en": "Iran prolongs talks with the US ahead of the Nov. 3 midterm elections",
+   "source": "TradingView / Reuters"
   }
  ],
- "ultima_hora": {
-  "headline": "Rusia libera al estadounidense Stephen Hubbard, detenido desde 2022; Trump lo anunció en Truth Social",
-  "headline_en": "Russia releases detained American Stephen Hubbard, held since 2022; Trump announced it on Truth Social",
-  "source": "USA Today",
-  "image": "",
-  "images": [
-   "https://boripropdeals.github.io/breaking-visuals/hubbard-home-airport.jpg",
-   "https://boripropdeals.github.io/breaking-visuals/hubbard-diplomacy-petersburg.jpg",
-   "https://boripropdeals.github.io/breaking-visuals/hubbard-family-reunion.jpg"
-  ]
- }
+ "ultima_hora": null
 }
