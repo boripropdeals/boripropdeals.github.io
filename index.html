@@ -265,28 +265,28 @@
     .pulse-card.featured .pulse-date:before{content:'';width:7px;height:7px;border-radius:50%;background:#59f2ad;flex:0 0 auto;animation:pulseDot 1.8s ease-out infinite}
     @keyframes pulseDot{0%{box-shadow:0 0 0 0 rgba(89,242,173,.55);transform:scale(1)}70%{box-shadow:0 0 0 7px rgba(89,242,173,0);transform:scale(1.12)}100%{box-shadow:0 0 0 0 rgba(89,242,173,0);transform:scale(1)}}
     @media(prefers-reduced-motion:reduce){.pulse-card.featured .pulse-date:before{animation:none}}
-    /* Móvil (≤640px) — SOLO esta sección: la etapa del carrusel crece para la tarjeta apilada en
-       1 columna (el JS fija min-height:230px inline, pensado para el layout horizontal de PC);
-       sin esto la tarjeta móvil se corta. Chips y logo a escala móvil, sin desborde horizontal. */
+    /* Móvil (≤640px) — SOLO esta sección: altura FLEXIBLE sin recorte. El JS posiciona los slides
+       en absoluto dentro de una etapa fija de 230px (pensada para el layout horizontal de PC) y la
+       tarjeta móvil apilada se cortaba (no se veía la oferta). Aquí los slides comparten una sola
+       celda de grid: la etapa crece hasta la tarjeta más alta y todo el contenido queda visible.
+       Chips y logo a escala móvil, sin desborde horizontal. Desktop no se toca. */
     @media(max-width:640px){
       .news-strip .ticker-viewport{padding:10px!important}
-      .news-strip #tickerTrack{min-height:428px!important}
+      .news-strip #tickerTrack{display:grid!important;grid-template-columns:minmax(0,1fr)}
+      .news-strip #tickerTrack>div{position:relative!important;grid-area:1/1;align-self:start}
       .pulse-card{max-width:100%}
       .pulse-body{min-width:0}
       .pulse-top{gap:8px;margin-bottom:8px}
       .pulse-badge{font-size:12px;padding:8px 14px;letter-spacing:.08em}
       .pulse-official{font-size:9px}
       .pulse-date{font-size:9px;padding:3px 8px}
-      .pulse-logo{width:40px;height:40px;border-radius:9px}
-      .pulse-logo-fallback{font-size:18px}
+      .pulse-logo{width:48px;height:48px;border-radius:11px}
+      .pulse-logo-fallback{font-size:20px}
       .pulse-firm-row{gap:10px;margin-bottom:5px}
       .pulse-firm{overflow-wrap:break-word}
       .pulse-title{overflow-wrap:break-word}
       .pulse-foot{gap:10px}
       .pulse-card.featured{box-shadow:0 14px 40px rgba(0,0,0,.5),0 0 30px rgba(89,242,173,.28),inset 0 1px 0 rgba(255,255,255,.10)}
-    }
-    @media(max-width:380px){
-      .news-strip #tickerTrack{min-height:452px!important}
     }
     .pulse-top{display:flex;align-items:center;gap:10px;margin-bottom:10px;flex-wrap:wrap}
     .pulse-badge{border-radius:10px;padding:10px 20px;background:linear-gradient(135deg,#ff6b35,#ff1744,#ff6b35);background-size:200% 200%;color:#fff;font:900 15px "IBM Plex Mono",monospace;letter-spacing:.12em;text-transform:uppercase;box-shadow:0 0 24px rgba(255,23,68,.75),0 0 48px rgba(255,107,53,.4),0 6px 20px rgba(255,23,68,.5);animation:ultimaHoraGlow 1.8s ease-in-out infinite;border:1px solid rgba(255,255,255,.35)}@keyframes ultimaHoraGlow{0%,100%{transform:scale(1);box-shadow:0 0 24px rgba(255,23,68,.75),0 0 48px rgba(255,107,53,.4),0 6px 20px rgba(255,23,68,.5);background-position:0% 50%}50%{transform:scale(1.06);box-shadow:0 0 36px rgba(255,23,68,.95),0 0 72px rgba(255,107,53,.6),0 8px 28px rgba(255,23,68,.7);background-position:100% 50%}}
@@ -302,7 +302,7 @@
     .pulse-hero b.small{font-size:clamp(26px,3.4vw,40px);letter-spacing:.02em}
     .pulse-hero span{display:block;margin-top:8px;font:800 13px "IBM Plex Mono",monospace;letter-spacing:.34em;color:var(--signal)}
     @keyframes heroFloat{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
-    @media(max-width:640px){.pulse-card{grid-template-columns:1fr;gap:12px;padding:14px;min-height:0}.pulse-firm{font-size:17px}.pulse-title{font-size:13px;margin-bottom:10px}.pulse-hero{min-width:0;margin-top:4px}.pulse-card:after{font-size:120px;bottom:-30px}}
+    @media(max-width:640px){.pulse-card{grid-template-columns:1fr;gap:12px;padding:14px;min-height:0}.pulse-firm{font-size:20px}.pulse-title{font-size:13px;margin-bottom:10px}.pulse-hero{min-width:0;margin-top:4px}.pulse-card:after{font-size:120px;bottom:-30px}}
     @keyframes tickerMove{from{transform:translateX(0)}to{transform:translateX(-50%)}}
     .price-matrix{margin:0 19px 12px;border:1px solid var(--line);border-radius:9px;overflow:hidden}
     .price-matrix-head{display:flex;justify-content:space-between;gap:10px;padding:8px 10px;background:var(--surface-2);color:var(--muted);font:700 9px "IBM Plex Mono",monospace;text-transform:uppercase;letter-spacing:.04em}
