@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-21T17:32:32.740482+00:00",
+ "updated_at": "2026-10-21T17:32:56.327489+00:00",
  "nq": {
-  "price": 30102.25,
-  "change_points": 427.0,
-  "percent_change": 1.44
+  "price": 30099.0,
+  "change_points": 423.75,
+  "percent_change": 1.43
  },
  "gold": {
-  "price": 4149.7,
-  "change_points": 7.1,
-  "percent_change": 0.17
+  "price": 4150.1,
+  "change_points": 7.5,
+  "percent_change": 0.18
  },
  "oil": {
-  "price": 96.89,
-  "change_points": -4.9,
-  "percent_change": -4.81
+  "price": 96.9,
+  "change_points": -4.89,
+  "percent_change": -4.8
  },
  "headlines": [
   {
-   "headline": "Futuros de Wall Street al alza antes de los resultados de Tesla y Meta",
-   "headline_en": "Wall Street futures higher ahead of Tesla and Meta earnings",
+   "headline": "El Dow ganó más de 500 puntos y el S&P 500 avanzó 0.3% el martes tras sólidos resultados del tercer trimestre; el Nasdaq cerró marginalmente a la baja",
+   "headline_en": "Dow surged over 500 points and the S&P 500 rose 0.3% Tuesday on strong Q3 earnings; Nasdaq closed marginally lower",
+   "source": "Zacks"
+  },
+  {
+   "headline": "SpaceX reportó su primer trimestre rentable y sus acciones suben más de 8%; Musk dijo que SpaceX y Tesla formaron comités para evaluar una posible fusión",
+   "headline_en": "SpaceX posted its first profitable quarter and shares jumped over 8%; Musk said SpaceX and Tesla formed committees to discuss a possible merger",
    "source": "Investopedia"
   },
   {
-   "headline": "SpaceX sube más de 8% tras reportar su primer trimestre rentable",
-   "headline_en": "SpaceX jumps over 8% after posting its first profitable quarter",
+   "headline": "Netflix se desploma 6% en premarket tras decepcionar su pronóstico de ingresos del cuarto trimestre y recortar su guía de ingresos publicitarios para 2026",
+   "headline_en": "Netflix plunges 6% in premarket after disappointing Q4 revenue forecast and cutting 2026 ad-revenue guidance",
    "source": "eOption"
   },
   {
-   "headline": "Netflix cae 6% en el premarket tras decepcionar su pronóstico de ingresos",
-   "headline_en": "Netflix slides 6% in premarket after disappointing revenue forecast",
-   "source": "eOption"
+   "headline": "Tesla y Meta reportan resultados hoy después del cierre del mercado en una semana clave para las ganancias de las grandes tecnológicas",
+   "headline_en": "Tesla and Meta report earnings today after the market close in a pivotal week for big-tech results",
+   "source": "Investopedia"
   },
   {
-   "headline": "El crudo WTI roza los $100 por barril ante tensiones en el suministro energético",
-   "headline_en": "WTI crude nears $100 a barrel amid energy supply concerns",
-   "source": "Samuel & Co"
+   "headline": "El petróleo WTI roza los $100 por barril ante la incertidumbre sobre los suministros energéticos de Medio Oriente",
+   "headline_en": "WTI crude flirts with $100 a barrel amid uncertainty over Middle East energy supplies",
+   "source": "Samuel & Co Trading"
   },
   {
-   "headline": "Inflación del Reino Unido acelera al 3.5% antes del Presupuesto",
-   "headline_en": "UK inflation comes in hot at 3.5% ahead of the Budget",
-   "source": "Samuel & Co"
-  },
-  {
-   "headline": "Wall Street cerró al alza el martes: el Dow ganó 1% impulsado por sólidas ganancias del tercer trimestre",
-   "headline_en": "Wall Street closed mostly higher Tuesday as strong Q3 earnings lifted the Dow 1%",
-   "source": "Zacks"
+   "headline": "La inflación del Reino Unido subió a 3.5%, más caliente de lo esperado, pero la libra apenas se movió ante la atención en el Presupuesto del 28 de octubre",
+   "headline_en": "UK inflation came in hot at 3.5%, but sterling barely moved as traders focus on the October 28 Budget",
+   "source": "Samuel & Co Trading"
   }
  ],
  "ultima_hora": null
