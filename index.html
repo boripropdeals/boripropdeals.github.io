@@ -261,10 +261,10 @@
     .pulse-logo{width:44px;height:44px;border-radius:10px;object-fit:cover;display:block;flex:0 0 auto;background:#0b2a20;border:1px solid rgba(255,255,255,.14);box-shadow:0 4px 14px rgba(0,0,0,.35)}
     .pulse-logo-fallback{display:grid;place-items:center;font:800 20px "IBM Plex Mono",monospace;color:#fff;background:linear-gradient(135deg,#8b5cf6,#3b82f6 55%,#59f2ad)}
     .pulse-card.featured{border:2px solid transparent;background:radial-gradient(520px 220px at 88% -10%,rgba(255,154,60,.16),transparent 60%) padding-box,radial-gradient(700px 260px at 8% 110%,rgba(89,242,173,.14),transparent 60%) padding-box,linear-gradient(135deg,rgba(89,242,173,.10),rgba(89,242,173,.02) 45%,transparent) padding-box,linear-gradient(var(--surface-2),var(--surface-2)) padding-box,linear-gradient(120deg,#8b5cf6,#3b82f6 52%,#59f2ad) border-box;box-shadow:0 18px 54px rgba(0,0,0,.5),0 0 46px rgba(89,242,173,.30),0 0 90px rgba(59,130,246,.14),inset 0 1px 0 rgba(255,255,255,.10)}
-    .pulse-card.featured .pulse-date{display:inline-flex;align-items:center;gap:7px}
-    .pulse-card.featured .pulse-date:before{content:'';width:7px;height:7px;border-radius:50%;background:#59f2ad;flex:0 0 auto;animation:pulseDot 1.8s ease-out infinite}
+    .pulse-card .pulse-date{display:inline-flex;align-items:center;gap:7px}
+    .pulse-card .pulse-date:before{content:'';width:7px;height:7px;border-radius:50%;background:#59f2ad;flex:0 0 auto;animation:pulseDot 1.8s ease-out infinite}
     @keyframes pulseDot{0%{box-shadow:0 0 0 0 rgba(89,242,173,.55);transform:scale(1)}70%{box-shadow:0 0 0 7px rgba(89,242,173,0);transform:scale(1.12)}100%{box-shadow:0 0 0 0 rgba(89,242,173,0);transform:scale(1)}}
-    @media(prefers-reduced-motion:reduce){.pulse-card.featured .pulse-date:before{animation:none}}
+    @media(prefers-reduced-motion:reduce){.pulse-card .pulse-date:before{animation:none}}
     /* Móvil (≤640px) — SOLO esta sección: altura FLEXIBLE sin recorte. El JS posiciona los slides
        en absoluto dentro de una etapa fija de 230px (pensada para el layout horizontal de PC) y la
        tarjeta móvil apilada se cortaba (no se veía la oferta). Aquí los slides comparten una sola
@@ -280,6 +280,7 @@
       .pulse-badge{font-size:12px;padding:8px 14px;letter-spacing:.08em}
       .pulse-official{font-size:9px}
       .pulse-date{font-size:9px;padding:3px 8px}
+      .pulse-pinned{font-size:9px;padding:3px 8px}
       .pulse-logo{width:48px;height:48px;border-radius:11px}
       .pulse-logo-fallback{font-size:20px}
       .pulse-firm-row{gap:10px;margin-bottom:5px}
@@ -293,6 +294,7 @@
     @keyframes pulseGlow{0%,100%{box-shadow:0 4px 14px rgba(255,61,90,.45)}50%{box-shadow:0 4px 28px rgba(255,61,90,.85)}}
     .pulse-official{color:var(--signal);font:700 10px "IBM Plex Mono",monospace;letter-spacing:.04em}
     .pulse-date{color:#fbbf24;font:700 10px "IBM Plex Mono",monospace;letter-spacing:.06em;border:1px solid rgba(251,191,36,.45);border-radius:999px;padding:3px 9px}
+    .pulse-pinned{color:#fbbf24;font:700 10px "IBM Plex Mono",monospace;letter-spacing:.06em;border:1px solid rgba(251,191,36,.55);border-radius:999px;padding:3px 9px;background:rgba(251,191,36,.13);box-shadow:0 0 14px rgba(251,191,36,.20);white-space:nowrap}
     .pulse-firm{margin:0 0 6px;font-size:24px;letter-spacing:-.02em;color:#fff}
     .pulse-title{margin:0 0 14px;color:var(--muted);font-size:15px;line-height:1.5}
     .pulse-foot{display:flex;align-items:center;gap:14px;flex-wrap:wrap}
@@ -3809,18 +3811,45 @@ const c=info.querySelector('[data-radar-firm]');if(c)c.addEventListener('click',
         if(!dt) return '';
         return lang==='es' ? (dt.d+' '+MONTH_ES[dt.mo-1]+' '+dt.y) : (MONTH_EN[dt.mo-1]+' '+dt.d+', '+dt.y);
       }
+      // FIJAS BORI (regla de Juan Luis, 20-oct-2026 19:17 CT): Phidias Prop, My Funded Futures y
+      // Traders Launch van SIEMPRE al inicio de la sección con su código BORI visible; nunca rotan
+      // fuera. El texto de su oferta se compone desde FIRM_DISCOUNTS (los % se mantienen actuales
+      // cuando cambian los descuentos). Las novedades van después (máx. 6), EXCLUYENDO a esas 3
+      // firmas: ya están representadas por su tarjeta fija.
+      var PINNED_FIRMS=['Phidias Prop','My Funded Futures','Traders Launch'];
+      function pinnedOffer(firm){
+        var d=discountInfo(firm)||{};
+        var pct=d.pct?Math.round(d.pct*100):null;
+        if(firm==='Phidias Prop'){
+          var s50=(d.sizes&&d.sizes['50K']&&d.sizes['50K'].pct)?Math.round(d.sizes['50K'].pct*100):null;
+          if(lang==='es') return (pct?pct+'% OFF en pago único':'Descuento en pago único')+(s50?' · '+s50+'% OFF en la cuenta 50K':'');
+          return (pct?pct+'% OFF on one-time payment':'Discount on one-time payment')+(s50?' · '+s50+'% OFF on the 50K account':'');
+        }
+        if(firm==='My Funded Futures'){
+          if(lang==='es') return (pct?pct+'% OFF en todos los planes':'Descuento en todos los planes')+' · 50% OFF en tu primera evaluación si eres nuevo';
+          return (pct?pct+'% OFF on all plans':'Discount on all plans')+' · 50% OFF your first evaluation if you are new';
+        }
+        if(lang==='es') return 'Precios de lanzamiento: evaluaciones desde $90 · Legacy NYC desde $99';
+        return 'Launch pricing: evaluations from $90 · Legacy NYC from $99';
+      }
       const picked=[];
       for(var pi=0; pi<research.promos.length && picked.length<6; pi++){
         if(isFeedNoise(research.promos[pi])) continue;
+        if(PINNED_FIRMS.indexOf(research.promos[pi].firm)>=0) continue;
         picked.push(research.promos[pi]);
       }
       const noDate=lang==='es'?'Sin fecha publicada':'No date published';
-      const items=picked.map(function(x){
-        return {firm:x.firm,title:cleanCodeMentions(x.title,[x.code]),meta:x.valid_until||noDate,code:x.code||null,affiliate:boriOnlyFirms.has(x.firm),date:entryDate(x)};
+      const newsItems=picked.map(function(x){
+        return {firm:x.firm,title:cleanCodeMentions(x.title,[x.code]),meta:x.valid_until||noDate,code:x.code||null,affiliate:boriOnlyFirms.has(x.firm),date:entryDate(x),pinned:false};
       });
-      // Sello de la sección: fecha de la novedad más reciente
+      const pinnedItems=PINNED_FIRMS.map(function(firm){
+        var d=discountInfo(firm)||{};
+        return {firm:firm,title:pinnedOffer(firm),meta:lang==='es'?'Código afiliado de BoriProp Deals':'BoriProp Deals affiliate code',code:d.code||'BORI',affiliate:true,date:null,pinned:true};
+      });
+      const items=pinnedItems.concat(newsItems);
+      // Sello de la sección: fecha de la novedad más reciente (las fijas BORI no llevan fecha)
       var headStamp=document.querySelector('[data-t="tickerDate"]');
-      if(headStamp && items.length && items[0].date) headStamp.textContent=(lang==='es'?'VERIFICADO · ':'VERIFIED · ')+fmtDate(items[0].date);
+      if(headStamp && newsItems.length && newsItems[0].date) headStamp.textContent=(lang==='es'?'VERIFICADO · ':'VERIFIED · ')+fmtDate(newsItems[0].date);
       const track=document.getElementById('tickerTrack');
       // Fade carousel: una tarjeta ancha a la vez, a ancho completo
       const viewport=track.parentNode;
@@ -3852,10 +3881,14 @@ const c=info.querySelector('[data-radar-firm]');if(c)c.addEventListener('click',
         const s=document.createElement('div');
         const pt=promoType(x);
         s.style.cssText='position:absolute;top:0;left:0;right:0;opacity:0;transition:opacity .6s ease;pointer-events:none;';
-        const h=promoHero(x.title,x.firm);
-        s.innerHTML='<article class="pulse-card'+(idx===0?' featured':'')+'">'
+        var h=promoHero(x.title,x.firm);
+        if(x.pinned && !h[1]) h=['BORI',''];
+        var topRow=x.pinned
+          ? '<span class="pulse-pinned">'+(lang==='es'?'⭐ SIEMPRE · CÓDIGO BORI':'⭐ ALWAYS · BORI CODE')+'</span><span class="pulse-official">'+official+'</span>'
+          : '<span class="pulse-badge '+pt+'">'+typeBadgeText(pt)+'</span><span class="pulse-official">'+official+'</span><span class="pulse-date">'+(lang==='es'?'NUEVO':'NEW')+(x.date?' · '+fmtDate(x.date):'')+'</span>';
+        s.innerHTML='<article class="pulse-card'+(idx===0?' featured':'')+(x.pinned?' pinned':'')+'">'
           +'<div class="pulse-body">'
-          +'<div class="pulse-top"><span class="pulse-badge '+pt+'">'+typeBadgeText(pt)+'</span><span class="pulse-official">'+official+'</span><span class="pulse-date">'+(lang==='es'?'NUEVO':'NEW')+(x.date?' · '+fmtDate(x.date):'')+'</span></div>'
+          +'<div class="pulse-top">'+topRow+'</div>'
           +'<div class="pulse-firm-row">'+pulseLogo(x.firm)+'<h3 class="pulse-firm">'+x.firm+'</h3></div>'
           +'<p class="pulse-title">'+x.title+'</p>'
           +'<div class="pulse-foot">'+(x.code?couponBadges(x.code,x.affiliate,true):'')+'<span class="pulse-valid">'+x.meta+'</span></div>'
