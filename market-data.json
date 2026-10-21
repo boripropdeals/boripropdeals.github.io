@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-21T14:33:49.621323+00:00",
+ "updated_at": "2026-10-21T14:34:11.264117+00:00",
  "nq": {
-  "price": 29848.25,
-  "change_points": 173.0,
-  "percent_change": 0.58
+  "price": 29843.75,
+  "change_points": 168.5,
+  "percent_change": 0.57
  },
  "gold": {
-  "price": 4146.2,
-  "change_points": 3.6,
-  "percent_change": 0.09
+  "price": 4146.6,
+  "change_points": 4.0,
+  "percent_change": 0.1
  },
  "oil": {
-  "price": 97.85,
-  "change_points": -3.94,
-  "percent_change": -3.87
+  "price": 97.87,
+  "change_points": -3.92,
+  "percent_change": -3.85
  },
  "headlines": [
   {
-   "headline": "SpaceX se dispara 8.5% tras su primera ganancia trimestral como empresa pública; Musk dice que comités de SpaceX y Tesla estudian una fusión",
-   "headline_en": "SpaceX surges 8.5% after first quarterly profit as a public company; Musk says SpaceX and Tesla committees are exploring a merger",
+   "headline": "SpaceX reporta su primer trimestre rentable y sus acciones saltan 8%; forma comités con Tesla para explorar una fusión",
+   "headline_en": "SpaceX posts its first profitable quarter and jumps 8%; forms special committees with Tesla to explore a merger",
+   "source": "eOption"
+  },
+  {
+   "headline": "Netflix se desploma ~6% en premercado tras decepcionar su pronóstico de ingresos",
+   "headline_en": "Netflix tumbles ~6% premarket after disappointing revenue forecast",
    "source": "Investopedia"
   },
   {
-   "headline": "Tesla y Meta presentan resultados esta noche en el pico de la temporada de ganancias",
-   "headline_en": "Tesla and Meta report earnings after the close as earnings season peaks",
-   "source": "Investors.com"
+   "headline": "Wall Street cerró mixto el martes: Dow +1% y S&P +0.3% con sólidas ganancias; Nasdaq plano",
+   "headline_en": "Wall Street closed mixed Tuesday: Dow +1%, S&P 500 +0.3% on strong earnings; Nasdaq flat",
+   "source": "Zacks"
   },
   {
-   "headline": "El Nasdaq lidera las ganancias (+0.6%) con el regreso del optimismo por la IA; Super Micro se dispara 13% y Nvidia presenta sus pods Vera Rubin",
-   "headline_en": "Nasdaq leads gains as AI optimism returns; Super Micro surges 13% and Nvidia unveils Vera Rubin DSX pods",
-   "source": "Barron's"
+   "headline": "Tesla y Meta reportan ganancias esta noche tras el cierre",
+   "headline_en": "Tesla and Meta report earnings tonight after the closing bell",
+   "source": "eOption"
   },
   {
-   "headline": "Netflix se desploma ~7% tras batir ganancias pero decepcionar con su guía de ingresos",
-   "headline_en": "Netflix plunges ~7% after beating earnings but issuing disappointing revenue guidance",
-   "source": "Barron's"
+   "headline": "Petróleo roza los $100: WTI toca $99.88 y Brent se acerca a $111 por riesgos de suministro",
+   "headline_en": "Oil nears $100: WTI touches $99.88, Brent nears $111 on supply risk",
+   "source": "Samuel & Co Trading"
   },
   {
-   "headline": "El crudo ronda los $97 entre ataques al transporte en Ormuz y esperanzas de mediación entre EE.UU. e Irán",
-   "headline_en": "Crude holds near $97 as Hormuz shipping attacks and hopes for US-Iran mediation whipsaw the market",
-   "source": "Barron's"
-  },
-  {
-   "headline": "Ken Griffin advierte que podría estarse formando una burbuja de la IA",
-   "headline_en": "Ken Griffin warns investors may be witnessing an AI bubble",
-   "source": "Seeking Alpha"
+   "headline": "Asia rebota liderada por IA: Kospi +2.7% y Nikkei +1.2% tras la guía optimista de Super Micro",
+   "headline_en": "Asia rebounds on AI-led rally: Kospi +2.7%, Nikkei +1.2% after Super Micro's upbeat guidance",
+   "source": "Share Talk"
   }
  ],
  "ultima_hora": null
