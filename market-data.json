@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-21T10:51:41.435190+00:00",
+ "updated_at": "2026-10-21T11:03:31.990443+00:00",
  "nq": {
-  "price": 29815.75,
-  "change_points": 140.5,
-  "percent_change": 0.47
+  "price": 29826.75,
+  "change_points": 151.5,
+  "percent_change": 0.51
  },
  "gold": {
-  "price": 4146.7,
-  "change_points": 4.1,
-  "percent_change": 0.1
+  "price": 4145.3,
+  "change_points": 2.7,
+  "percent_change": 0.07
  },
  "oil": {
-  "price": 99.81,
-  "change_points": -1.98,
-  "percent_change": -1.95
+  "price": 99.83,
+  "change_points": -1.96,
+  "percent_change": -1.93
  },
  "headlines": [
   {
-   "headline": "Los futuros del Nasdaq 100 caen mientras el petróleo sube y se acercan los resultados",
-   "headline_en": "Nasdaq 100 futures dip as oil prices climb, earnings loom",
+   "headline": "Futuros del Nasdaq lideran las alzas: resultados de SpaceX y Super Micro reavivan el rally de la IA",
+   "headline_en": "Nasdaq futures lead gains as SpaceX, Super Micro results lift AI trade",
    "source": "Reuters"
   },
   {
-   "headline": "El Brent roza los $111, máximo de cinco meses por ataques hutíes a infraestructura saudí",
-   "headline_en": "Brent crude nears $111, a five-month high, on Houthi attacks against Saudi infrastructure",
+   "headline": "Futuros del Nasdaq suben tras el rally de la IA en Asia; el petróleo ronda los $110",
+   "headline_en": "Nasdaq futures higher after Asian AI rally",
+   "source": "WSJ"
+  },
+  {
+   "headline": "Netflix se desploma 6% tras decepcionar con su pronóstico; hoy reportan Meta, Tesla e IBM",
+   "headline_en": "Netflix tumbles 6% after weak forecast; Meta, Tesla, IBM report today",
+   "source": "Morningstar"
+  },
+  {
+   "headline": "Asia sube liderada por Corea y Japón; hoy abre el mega IPO de Jio Platforms",
+   "headline_en": "Asian stocks rise as Kospi rebounds; Jio Platforms IPO opens today",
+   "source": "CNBC TV18"
+  },
+  {
+   "headline": "SpaceX y Tesla forman comités para explorar una fusión histórica",
+   "headline_en": "SpaceX, Tesla form special committees to explore potential merger",
    "source": "Reuters"
   },
   {
-   "headline": "General Motors supera expectativas del tercer trimestre con ingresos de $50,000 millones",
-   "headline_en": "General Motors beats third-quarter expectations with $50 billion in revenue",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "Netflix y SpaceX reportan resultados del tercer trimestre hoy tras el cierre",
-   "headline_en": "Netflix and SpaceX report third-quarter earnings after the close today",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "El debut bursátil de la firma de IA Elice se desploma 32% en Seúl y sacude la confianza en la IA",
-   "headline_en": "AI firm Elice's IPO plunges 32% on Seoul debut, rattling AI sentiment",
+   "headline": "Rusia enviará el primer carguero de diésel a EE.UU. el jueves tras el acuerdo con Trump",
+   "headline_en": "Russia says it will send first diesel cargo to US on Thursday",
    "source": "Reuters"
-  },
-  {
-   "headline": "El gobierno federal de EE. UU. prohíbe el modelo chino de IA DeepSeek en sus agencias",
-   "headline_en": "U.S. federal government bans Chinese AI model DeepSeek across its agencies",
-   "source": "Investopedia"
   }
  ],
  "ultima_hora": null
