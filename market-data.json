@@ -1,61 +1,51 @@
 {
- "updated_at": "2026-10-21T15:29:20.287955+00:00",
+ "updated_at": "2026-10-21T15:32:42.699170+00:00",
  "nq": {
-  "price": 29931.5,
-  "change_points": 256.25,
-  "percent_change": 0.86
+  "price": 29937.25,
+  "change_points": 262.0,
+  "percent_change": 0.88
  },
  "gold": {
-  "price": 4146.3,
-  "change_points": 3.7,
-  "percent_change": 0.09
+  "price": 4150.7,
+  "change_points": 8.1,
+  "percent_change": 0.2
  },
  "oil": {
-  "price": 97.72,
-  "change_points": -4.07,
-  "percent_change": -4.0
+  "price": 97.7,
+  "change_points": -4.09,
+  "percent_change": -4.02
  },
  "headlines": [
   {
-   "headline": "Futuros de Wall Street al alza: SpaceX reporta su primer trimestre rentable y dispara el rally de IA",
-   "headline_en": "Wall Street futures rise: SpaceX posts first profitable quarter, fueling AI rally",
-   "source": "Investopedia"
+   "headline": "Los futuros del Nasdaq suben ~0,7% en el premarket tras el rally de la IA en Asia y Europa y el trimestre récord de SpaceX",
+   "headline_en": "Nasdaq futures rise ~0.7% premarket after Asian and European AI rally and SpaceX blowout quarter",
+   "source": "TradingView"
   },
   {
-   "headline": "Musk confirma que SpaceX y Tesla crearon comités para explorar una posible fusión",
-   "headline_en": "Musk confirms SpaceX and Tesla formed committees to discuss a potential merger",
-   "source": "Investopedia"
+   "headline": "SpaceX reporta su primera ganancia trimestral como empresa pública y la acción sube ~10% antes de la apertura",
+   "headline_en": "SpaceX posts its first quarterly profit as a public company; shares jump ~10% premarket",
+   "source": "TradingView"
   },
   {
-   "headline": "Tesla y Meta presentan resultados esta noche tras el cierre en semana clave de ganancias",
-   "headline_en": "Tesla and Meta report earnings tonight after the bell in key earnings week",
-   "source": "Investopedia"
+   "headline": "El crudo Brent supera los $110 por barril tras el bloqueo de tanqueros en el estrecho de Ormuz",
+   "headline_en": "Brent crude tops $110 a barrel as Iran blocks tankers in the Strait of Hormuz",
+   "source": "Stocktwits"
   },
   {
-   "headline": "Netflix se desploma ~6% tras recortar su pronóstico de ingresos publicitarios para 2026",
-   "headline_en": "Netflix tumbles ~6% after cutting 2026 advertising revenue outlook",
+   "headline": "Las ventas pendientes de viviendas en EE. UU. caen 7,3% a un mínimo histórico por el alza de las tasas hipotecarias",
+   "headline_en": "US pending home sales plunge 7.3% to a record low as mortgage rates surge",
    "source": "Invezz"
   },
   {
-   "headline": "El petróleo se dispara: WTI roza los $100 y Brent supera los $110 por temores de suministro",
-   "headline_en": "Oil surges: WTI nears $100 and Brent tops $110 on supply fears",
-   "source": "Samuel & Co Trading"
+   "headline": "Netflix cae ~6% antes de la apertura tras recortar su pronóstico de ingresos publicitarios para 2026",
+   "headline_en": "Netflix sinks ~6% premarket after cutting its 2026 advertising revenue outlook",
+   "source": "Invezz"
   },
   {
-   "headline": "El Dow ganó 529 puntos el martes mientras el Nasdaq cerró plano en una sesión mixta",
-   "headline_en": "Dow gained 529 points Tuesday while Nasdaq closed flat in mixed session",
-   "source": "Zacks"
+   "headline": "Mega-tecnológicas al cierre: Meta, Tesla, IBM y AT&T reportan sus resultados hoy después de la campana",
+   "headline_en": "Mega-cap tech after the bell: Meta, Tesla, IBM and AT&T report earnings today",
+   "source": "Stocktwits"
   }
  ],
- "ultima_hora": {
-  "headline": "Trump ordena que los centros de datos generen su propia electricidad y paguen un dividendo a las comunidades",
-  "headline_en": "Trump orders data centers to provide their own electricity and pay a dividend to host communities",
-  "source": "The Wall Street Journal",
-  "image": "",
-  "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-21-trump-datacenter-aerial.jpg",
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-21-trump-datacenter-powergrid.jpg",
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-21-trump-datacenter-community.jpg"
-  ]
- }
+ "ultima_hora": null
 }
