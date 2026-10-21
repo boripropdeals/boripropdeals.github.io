@@ -1,61 +1,61 @@
 {
- "updated_at": "2026-10-21T12:58:33.461839+00:00",
+ "updated_at": "2026-10-21T13:04:35.936013+00:00",
  "nq": {
-  "price": 29837.5,
-  "change_points": 162.25,
-  "percent_change": 0.55
+  "price": 29850.75,
+  "change_points": 175.5,
+  "percent_change": 0.59
  },
  "gold": {
-  "price": 4144.6,
-  "change_points": 2.0,
-  "percent_change": 0.05
+  "price": 4146.6,
+  "change_points": 4.0,
+  "percent_change": 0.1
  },
  "oil": {
-  "price": 98.07,
-  "change_points": -3.72,
-  "percent_change": -3.65
+  "price": 97.59,
+  "change_points": -4.2,
+  "percent_change": -4.13
  },
  "headlines": [
   {
-   "headline": "Dow sube 1% y S&P 500 avanza 0.3% el martes con sólidos resultados del tercer trimestre; el Nasdaq cierra plano",
-   "headline_en": "Dow rises 1%, S&P 500 up 0.3% Tuesday on strong Q3 earnings; Nasdaq ends flat",
-   "source": "Zacks"
+   "headline": "SpaceX se dispara 8% tras su primer trimestre rentable; Netflix cae 7% por pronóstico débil",
+   "headline_en": "SpaceX soars 8% after first profitable quarter; Netflix sinks 7% on weak forecast",
+   "source": "Investopedia"
   },
   {
-   "headline": "Futuros del Nasdaq suben 0.78% tras el beat de SpaceX, que dispara sus acciones más de 10%",
-   "headline_en": "Nasdaq futures rise 0.78% as SpaceX's earnings beat lifts shares over 10%",
-   "source": "Seeking Alpha"
+   "headline": "Futuros al alza: Nasdaq 100 +0.6% y S&P 500 +0.3% antes de resultados de Tesla y Meta tras el cierre",
+   "headline_en": "Futures rise: Nasdaq 100 +0.6%, S&P 500 +0.3% ahead of Tesla and Meta earnings after the close",
+   "source": "Investor's Business Daily"
   },
   {
-   "headline": "Tesla y Meta reportan resultados hoy tras el cierre en plena temporada de earnings",
-   "headline_en": "Tesla and Meta report after the bell today as earnings season heats up",
-   "source": "Samuel & Co Trading"
+   "headline": "Rally de IA en Asia impulsa al Nasdaq: Kospi +3.3% y Nikkei +0.85%; Super Micro sube 13%",
+   "headline_en": "Asian AI rally lifts Nasdaq: Kospi +3.3%, Nikkei +0.85%; Super Micro up 13%",
+   "source": "WSJ"
   },
   {
-   "headline": "Asia mixta: el Kospi rebota 2.7% y el Nikkei sube 1.2% con exportaciones japonesas al alza",
-   "headline_en": "Mixed Asia: Kospi rebounds 2.7%, Nikkei gains 1.2% as Japanese exports climb",
-   "source": "Share Talk"
+   "headline": "Petróleo Brent roza los $110 por ataques a barcos en el Estrecho de Ormuz; WTI sube a ~$98",
+   "headline_en": "Brent crude nears $110 on Strait of Hormuz shipping attacks; WTI rises to ~$98",
+   "source": "WSJ"
   },
   {
-   "headline": "El crudo roza los $100-$111 y la inflación del Reino Unido llega caliente en 3.5%",
-   "headline_en": "Crude nears $100-$111 while UK inflation comes in hot at 3.5%",
-   "source": "Samuel & Co Trading"
+   "headline": "Ventas pendientes de casas en EE.UU. caen 7.3% a mínimo histórico por hipotecas altas; la Fed mantendría tasas (85%)",
+   "headline_en": "US pending home sales fall 7.3% to record low on high mortgages; Fed seen holding rates (85%)",
+   "source": "Invezz"
   },
   {
-   "headline": "Superar estimados no basta: Intuitive Surgical, Danaher y AT&T caen pese a beats",
-   "headline_en": "Beats aren't enough: Intuitive Surgical, Danaher and AT&T fall despite topping estimates",
-   "source": "Samuel & Co Trading"
+   "headline": "Bonos de Francia en su mayor rendimiento desde 2002; el Tesoro a 10 años de EE.UU. en 5.10%",
+   "headline_en": "French bonds hit highest yield since 2002; US 10-year Treasury at 5.10%",
+   "source": "WSJ"
   }
  ],
  "ultima_hora": {
-  "headline": "Trump ordena que los centros de datos generen su propia electricidad",
-  "headline_en": "Trump says data centers must provide their own electricity",
-  "source": "The Wall Street Journal",
+  "headline": "Witkoff se reúne hoy con Putin en Rusia con un nuevo plan de paz; Trump advierte a Zelensky: 'es hora de hacer un trato'",
+  "headline_en": "Witkoff meets Putin in Russia today with new peace plan; Trump warns Zelensky: 'it's time to make a deal'",
+  "source": "The Sun",
   "image": "",
   "images": [
-   "https://boripropdeals.github.io/breaking-visuals/trump-data-centers-podium-2026-10-21.webp",
-   "https://boripropdeals.github.io/breaking-visuals/trump-data-centers-campus-aerial-2026-10-21.webp",
-   "https://boripropdeals.github.io/breaking-visuals/trump-data-centers-servers-energy-2026-10-21.webp"
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-21-trump-witkoff-putin-summit.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-21-trump-witkoff-arrival-spb.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-21-trump-prisoner-release-reunion.jpg"
   ]
  }
 }
