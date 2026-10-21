@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-21T11:24:00.349069+00:00",
+ "updated_at": "2026-10-21T11:32:30.778967+00:00",
  "nq": {
-  "price": 29840.75,
-  "change_points": 165.5,
-  "percent_change": 0.56
+  "price": 29844.0,
+  "change_points": 168.75,
+  "percent_change": 0.57
  },
  "gold": {
-  "price": 4147.7,
-  "change_points": 5.1,
-  "percent_change": 0.12
+  "price": 4147.9,
+  "change_points": 5.3,
+  "percent_change": 0.13
  },
  "oil": {
-  "price": 99.28,
-  "change_points": -2.51,
-  "percent_change": -2.47
+  "price": 99.21,
+  "change_points": -2.58,
+  "percent_change": -2.53
  },
  "headlines": [
   {
-   "headline": "Futuros del Nasdaq lideran las alzas: resultados de SpaceX y Super Micro reavivan el rally de la IA",
-   "headline_en": "Nasdaq futures lead gains as SpaceX, Super Micro results lift AI trade",
-   "source": "Reuters"
+   "headline": "SpaceX se dispara ~9% tras superar el Q3 y Musk confirma que estudia fusionarla con Tesla",
+   "headline_en": "SpaceX surges ~9% after beating Q3 estimates as Musk confirms Tesla merger committees",
+   "source": "Investopedia"
   },
   {
-   "headline": "Futuros del Nasdaq suben tras el rally de la IA en Asia; el petróleo ronda los $110",
-   "headline_en": "Nasdaq futures higher after Asian AI rally",
-   "source": "WSJ"
+   "headline": "Futuros del Nasdaq y S&P suben antes de los resultados de Meta y Tesla tras el cierre",
+   "headline_en": "Nasdaq and S&P futures climb ahead of Meta and Tesla earnings after the bell",
+   "source": "MarketWatch"
   },
   {
-   "headline": "Netflix se desploma 6% tras decepcionar con su pronóstico; hoy reportan Meta, Tesla e IBM",
-   "headline_en": "Netflix tumbles 6% after weak forecast; Meta, Tesla, IBM report today",
-   "source": "Morningstar"
+   "headline": "Dow cerró con +500 puntos el martes por buenos resultados; S&P subió y el Nasdaq quedó plano",
+   "headline_en": "Dow closed up 500+ points on strong earnings; S&P rose, Nasdaq flat",
+   "source": "Investopedia"
   },
   {
-   "headline": "Asia sube liderada por Corea y Japón; hoy abre el mega IPO de Jio Platforms",
-   "headline_en": "Asian stocks rise as Kospi rebounds; Jio Platforms IPO opens today",
-   "source": "CNBC TV18"
+   "headline": "Netflix se hunde 6% tras resultados; Super Micro se dispara 16% con cifras preliminares",
+   "headline_en": "Netflix sinks 6% on earnings; Super Micro jumps 16% on strong preliminary results",
+   "source": "MarketWatch"
   },
   {
-   "headline": "SpaceX y Tesla forman comités para explorar una fusión histórica",
-   "headline_en": "SpaceX, Tesla form special committees to explore potential merger",
-   "source": "Reuters"
+   "headline": "Petróleo retrocede ante esperanzas de diplomacia en Medio Oriente; Brent cerca de $109",
+   "headline_en": "Oil pulls back on Middle East diplomacy hopes; Brent near $109",
+   "source": "Investopedia"
   },
   {
-   "headline": "Rusia enviará el primer carguero de diésel a EE.UU. el jueves tras el acuerdo con Trump",
-   "headline_en": "Russia says it will send first diesel cargo to US on Thursday",
-   "source": "Reuters"
+   "headline": "Ventas pendientes de viviendas caen 7.3% en septiembre, mucho peor de lo esperado",
+   "headline_en": "Pending home sales fall 7.3% in September, far worse than expected",
+   "source": "Investopedia"
   }
  ],
  "ultima_hora": null
