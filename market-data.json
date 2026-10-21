@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-21T11:32:30.778967+00:00",
+ "updated_at": "2026-10-21T12:04:14.970328+00:00",
  "nq": {
-  "price": 29844.0,
-  "change_points": 168.75,
-  "percent_change": 0.57
+  "price": 29881.0,
+  "change_points": 205.75,
+  "percent_change": 0.69
  },
  "gold": {
-  "price": 4147.9,
-  "change_points": 5.3,
-  "percent_change": 0.13
+  "price": 4157.8,
+  "change_points": 15.2,
+  "percent_change": 0.37
  },
  "oil": {
-  "price": 99.21,
-  "change_points": -2.58,
-  "percent_change": -2.53
+  "price": 98.56,
+  "change_points": -3.23,
+  "percent_change": -3.17
  },
  "headlines": [
   {
-   "headline": "SpaceX se dispara ~9% tras superar el Q3 y Musk confirma que estudia fusionarla con Tesla",
-   "headline_en": "SpaceX surges ~9% after beating Q3 estimates as Musk confirms Tesla merger committees",
-   "source": "Investopedia"
+   "headline": "Futuros del Nasdaq suben 160 puntos: SpaceX y Super Micro reavivan el rally de la IA",
+   "headline_en": "Nasdaq futures rise 160 points as SpaceX and Supermicro fuel fresh AI stock rally",
+   "source": "WSJ"
   },
   {
-   "headline": "Futuros del Nasdaq y S&P suben antes de los resultados de Meta y Tesla tras el cierre",
-   "headline_en": "Nasdaq and S&P futures climb ahead of Meta and Tesla earnings after the bell",
-   "source": "MarketWatch"
+   "headline": "Netflix cae más de 6% tras recortar su pronóstico de ingresos publicitarios para 2026",
+   "headline_en": "Netflix drops over 6% after cutting its 2026 advertising revenue outlook",
+   "source": "WSJ"
   },
   {
-   "headline": "Dow cerró con +500 puntos el martes por buenos resultados; S&P subió y el Nasdaq quedó plano",
-   "headline_en": "Dow closed up 500+ points on strong earnings; S&P rose, Nasdaq flat",
-   "source": "Investopedia"
+   "headline": "El crudo Brent supera los $110 por barril ante temores de suministro en el Golfo",
+   "headline_en": "Brent crude climbs above $110 a barrel as Gulf supply fears fuel inflation concerns",
+   "source": "invezz.com"
   },
   {
-   "headline": "Netflix se hunde 6% tras resultados; Super Micro se dispara 16% con cifras preliminares",
-   "headline_en": "Netflix sinks 6% on earnings; Super Micro jumps 16% on strong preliminary results",
-   "source": "MarketWatch"
+   "headline": "Ventas pendientes de viviendas en EE.UU. caen 7.3% a un mínimo histórico por el alza de las tasas hipotecarias",
+   "headline_en": "US pending home sales drop 7.3% to a record low as mortgage rates surge",
+   "source": "invezz.com"
   },
   {
-   "headline": "Petróleo retrocede ante esperanzas de diplomacia en Medio Oriente; Brent cerca de $109",
-   "headline_en": "Oil pulls back on Middle East diplomacy hopes; Brent near $109",
-   "source": "Investopedia"
+   "headline": "Meta y Tesla reportan tras el cierre mientras el mercado evalúa la temporada de resultados",
+   "headline_en": "Meta and Tesla report after the bell as investors scrutinize Q3 earnings season",
+   "source": "Reuters"
   },
   {
-   "headline": "Ventas pendientes de viviendas caen 7.3% en septiembre, mucho peor de lo esperado",
-   "headline_en": "Pending home sales fall 7.3% in September, far worse than expected",
-   "source": "Investopedia"
+   "headline": "El índice de semiconductores marca ocho sesiones en rojo, su peor racha en 18 años",
+   "headline_en": "Semiconductor index posts eight straight declines, longest losing streak in 18 years",
+   "source": "Reuters"
   }
  ],
  "ultima_hora": null
