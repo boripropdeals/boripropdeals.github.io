@@ -1,61 +1,51 @@
 {
- "updated_at": "2026-10-21T20:02:36.149124+00:00",
+ "updated_at": "2026-10-21T20:03:10.486425+00:00",
  "nq": {
-  "price": 30038.0,
-  "change_points": 362.75,
-  "percent_change": 1.22
+  "price": 30026.0,
+  "change_points": 350.75,
+  "percent_change": 1.18
  },
  "gold": {
-  "price": 4151.7,
-  "change_points": 9.1,
-  "percent_change": 0.22
+  "price": 4151.5,
+  "change_points": 8.9,
+  "percent_change": 0.21
  },
  "oil": {
-  "price": 97.53,
-  "change_points": -4.26,
-  "percent_change": -4.19
+  "price": 97.58,
+  "change_points": -4.21,
+  "percent_change": -4.14
  },
  "headlines": [
   {
-   "headline": "El Nasdaq lidera con +1.3% antes de los resultados de Meta y Tesla; el mejor día en dos semanas",
-   "headline_en": "Nasdaq leads with 1.3% gain ahead of Meta and Tesla earnings; best day in two weeks",
-   "source": "investors.com"
+   "headline": "Futuros del Nasdaq al alza: las ganancias récord de SpaceX impulsan a la tecnología",
+   "headline_en": "Nasdaq futures rise as SpaceX earnings boost tech stocks",
+   "source": "Seeking Alpha"
   },
   {
-   "headline": "SpaceX se dispara 7% tras volver a ser rentable; Musk sugiere posible fusión con Tesla",
-   "headline_en": "SpaceX soars 7% after swinging to profit; Musk floats possible merger with Tesla",
-   "source": "investopedia.com"
+   "headline": "Tesla y Meta reportan resultados hoy al cierre; Musk plantea fusión SpaceX-Tesla",
+   "headline_en": "Tesla and Meta report after the close today; Musk floats SpaceX-Tesla merger",
+   "source": "eOption"
   },
   {
-   "headline": "La tecnología lleva el rally: sin ella, el S&P 500 estaría plano",
-   "headline_en": "Tech carries the rally: without it, the S&P 500 would be flat",
-   "source": "barrons.com"
+   "headline": "Netflix cae ~6% tras recortar su pronóstico de ingresos publicitarios para 2026",
+   "headline_en": "Netflix slides ~6% after cutting 2026 ad revenue outlook",
+   "source": "Investopedia"
   },
   {
-   "headline": "Netflix y AT&T caen tras sus resultados; Super Micro se dispara 9%",
-   "headline_en": "Netflix and AT&T fall on earnings; Super Micro jumps 9%",
-   "source": "investopedia.com"
+   "headline": "El petróleo se dispara: Brent supera los $110 por tensiones en Irán",
+   "headline_en": "Oil climbs: Brent tops $110 amid Iran tensions",
+   "source": "Invezz"
   },
   {
-   "headline": "El diésel promedia $6.32 por galón, +74% anual; EE.UU. recurrirá a la reserva de emergencia",
-   "headline_en": "Diesel averages $6.32 per gallon, up 74% year over year; U.S. to tap emergency stockpile",
-   "source": "investors.com"
+   "headline": "Super Micro eleva su pronóstico y reaviva a los chips de IA (Nvidia +2.1%)",
+   "headline_en": "Super Micro raises outlook, reigniting AI chip stocks (Nvidia +2.1%)",
+   "source": "Invezz"
   },
   {
-   "headline": "Irán prolonga las negociaciones con EE.UU. a 13 días de las elecciones de medio término",
-   "headline_en": "Iran prolongs talks with U.S. 13 days out from midterm elections",
-   "source": "tradingview.com"
+   "headline": "Las ventas pendientes de casas caen 7.3% a un mínimo histórico",
+   "headline_en": "US pending home sales drop 7.3% to record low",
+   "source": "Invezz"
   }
  ],
- "ultima_hora": {
-  "headline": "Crisis del diésel: EE.UU. liberará la reserva de emergencia de calefacción mientras Rusia promete tanqueros",
-  "headline_en": "Diesel crisis: U.S. to release emergency heating-oil stockpile as Russia promises tankers",
-  "source": "investors.com",
-  "image": "",
-  "images": [
-   "https://boripropdeals.github.io/breaking-visuals/diesel-crisis-gas-station-1021.webp",
-   "https://boripropdeals.github.io/breaking-visuals/diesel-crisis-tanker-ship-1021.webp",
-   "https://boripropdeals.github.io/breaking-visuals/diesel-crisis-heating-oil-reserve-1021.webp"
-  ]
- }
+ "ultima_hora": null
 }
