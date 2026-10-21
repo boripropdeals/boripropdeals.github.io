@@ -926,7 +926,7 @@ a.t-stars:hover{text-decoration:underline}
       'Elite Trader Funding':'monthly'
     };
     function moneyDisc(value,firm,planName){var f=discountedPrice(value,firm,planName);return f==null?money(value):money(f)}
-    function pricesOf(p){return (p.account_sizes||[]).filter(s=>s==='25K'||s==='50K').map(s=>[s,p.price_usd&&Object.prototype.hasOwnProperty.call(p.price_usd,s)?p.price_usd[s]:null])}
+    function pricesOf(p){var dh100k=(p.firm==='Elite Trader Funding'&&p.plan_name==='Diamond Hands');return (p.account_sizes||[]).filter(s=>s==='25K'||s==='50K'||(dh100k&&s==='100K')).map(s=>[s,p.price_usd&&Object.prototype.hasOwnProperty.call(p.price_usd,s)?p.price_usd[s]:null])}
     function minPrice(p){const x=pricesOf(p).filter(v=>v[1]!=null).sort((a,b)=>a[1]-b[1]);return x.length?{size:x[0][0],value:x[0][1]}:null}
     function finalMinPrice(p){const mp=minPrice(p);if(!mp)return null;const d=discountedPrice(mp.value,p.firm,p.plan_name,mp.size);return d!=null?d:mp.value}
     function payoutGroup(p){const x=(p.payout_frequency||'').toLowerCase();if(x.includes('on demand'))return 'onDemand';if(x.includes('daily')||x.includes('24h')||x.includes('day one'))return 'daily';if(x.includes('per cycle')||x.includes('cycle-based'))return 'other';if(x.includes('14 days')||x.includes('two weeks'))return 'biweekly';if(x.includes('month'))return 'monthly';if(x.includes('5 ')||x.includes('five'))return 'fiveDays';if(x.includes('week'))return 'weekly';return 'other'}
