@@ -1,51 +1,61 @@
 {
- "updated_at": "2026-10-21T12:25:45.986225+00:00",
+ "updated_at": "2026-10-21T12:35:19.918684+00:00",
  "nq": {
-  "price": 29846.25,
-  "change_points": 171.0,
-  "percent_change": 0.58
+  "price": 29872.25,
+  "change_points": 197.0,
+  "percent_change": 0.66
  },
  "gold": {
-  "price": 4154.7,
-  "change_points": 12.1,
-  "percent_change": 0.29
+  "price": 4151.6,
+  "change_points": 9.0,
+  "percent_change": 0.22
  },
  "oil": {
-  "price": 98.39,
-  "change_points": -3.4,
-  "percent_change": -3.34
+  "price": 98.24,
+  "change_points": -3.55,
+  "percent_change": -3.49
  },
  "headlines": [
   {
-   "headline": "Futuros del Nasdaq suben 160 puntos: SpaceX y Super Micro reavivan el rally de la IA",
-   "headline_en": "Nasdaq futures rise 160 points as SpaceX and Supermicro fuel fresh AI stock rally",
-   "source": "WSJ"
+   "headline": "Dow sube 1% y S&P 500 avanza 0.3% el martes con sólidos resultados del tercer trimestre; el Nasdaq cierra plano",
+   "headline_en": "Dow rises 1%, S&P 500 up 0.3% Tuesday on strong Q3 earnings; Nasdaq ends flat",
+   "source": "Zacks"
   },
   {
-   "headline": "Netflix cae más de 6% tras recortar su pronóstico de ingresos publicitarios para 2026",
-   "headline_en": "Netflix drops over 6% after cutting its 2026 advertising revenue outlook",
-   "source": "WSJ"
+   "headline": "Futuros del Nasdaq suben 0.78% tras el beat de SpaceX, que dispara sus acciones más de 10%",
+   "headline_en": "Nasdaq futures rise 0.78% as SpaceX's earnings beat lifts shares over 10%",
+   "source": "Seeking Alpha"
   },
   {
-   "headline": "El crudo Brent supera los $110 por barril ante temores de suministro en el Golfo",
-   "headline_en": "Brent crude climbs above $110 a barrel as Gulf supply fears fuel inflation concerns",
-   "source": "invezz.com"
+   "headline": "Tesla y Meta reportan resultados hoy tras el cierre en plena temporada de earnings",
+   "headline_en": "Tesla and Meta report after the bell today as earnings season heats up",
+   "source": "Samuel & Co Trading"
   },
   {
-   "headline": "Ventas pendientes de viviendas en EE.UU. caen 7.3% a un mínimo histórico por el alza de las tasas hipotecarias",
-   "headline_en": "US pending home sales drop 7.3% to a record low as mortgage rates surge",
-   "source": "invezz.com"
+   "headline": "Asia mixta: el Kospi rebota 2.7% y el Nikkei sube 1.2% con exportaciones japonesas al alza",
+   "headline_en": "Mixed Asia: Kospi rebounds 2.7%, Nikkei gains 1.2% as Japanese exports climb",
+   "source": "Share Talk"
   },
   {
-   "headline": "Meta y Tesla reportan tras el cierre mientras el mercado evalúa la temporada de resultados",
-   "headline_en": "Meta and Tesla report after the bell as investors scrutinize Q3 earnings season",
-   "source": "Reuters"
+   "headline": "El crudo roza los $100-$111 y la inflación del Reino Unido llega caliente en 3.5%",
+   "headline_en": "Crude nears $100-$111 while UK inflation comes in hot at 3.5%",
+   "source": "Samuel & Co Trading"
   },
   {
-   "headline": "El índice de semiconductores marca ocho sesiones en rojo, su peor racha en 18 años",
-   "headline_en": "Semiconductor index posts eight straight declines, longest losing streak in 18 years",
-   "source": "Reuters"
+   "headline": "Superar estimados no basta: Intuitive Surgical, Danaher y AT&T caen pese a beats",
+   "headline_en": "Beats aren't enough: Intuitive Surgical, Danaher and AT&T fall despite topping estimates",
+   "source": "Samuel & Co Trading"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Trump ordena que los centros de datos generen su propia electricidad",
+  "headline_en": "Trump says data centers must provide their own electricity",
+  "source": "The Wall Street Journal",
+  "image": "",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/trump-data-centers-podium-2026-10-21.webp",
+   "https://boripropdeals.github.io/breaking-visuals/trump-data-centers-campus-aerial-2026-10-21.webp",
+   "https://boripropdeals.github.io/breaking-visuals/trump-data-centers-servers-energy-2026-10-21.webp"
+  ]
+ }
 }
