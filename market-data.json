@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-21T17:00:35.271371+00:00",
+ "updated_at": "2026-10-21T17:02:35.179825+00:00",
  "nq": {
-  "price": 30059.0,
-  "change_points": 383.75,
-  "percent_change": 1.29
+  "price": 30079.5,
+  "change_points": 404.25,
+  "percent_change": 1.36
  },
  "gold": {
-  "price": 4151.1,
-  "change_points": 8.5,
-  "percent_change": 0.21
+  "price": 4150.5,
+  "change_points": 7.9,
+  "percent_change": 0.19
  },
  "oil": {
-  "price": 96.72,
-  "change_points": -5.07,
-  "percent_change": -4.98
+  "price": 96.71,
+  "change_points": -5.08,
+  "percent_change": -4.99
  },
  "headlines": [
   {
-   "headline": "Los índices suben por tercer día consecutivo en plena temporada de resultados: Nasdaq +1%, S&P 500 +0.5%",
-   "headline_en": "Major indexes rise for a third straight day amid earnings flurry: Nasdaq +1%, S&P 500 +0.5%",
+   "headline": "Futuros de Wall Street al alza antes de los resultados de Tesla y Meta",
+   "headline_en": "Wall Street futures higher ahead of Tesla and Meta earnings",
    "source": "Investopedia"
   },
   {
-   "headline": "SpaceX se dispara 11% tras resultados y posible fusión con Tesla; Tesla sube 4% antes de reportar hoy",
-   "headline_en": "SpaceX soars 11% on earnings and possible Tesla merger; Tesla up 4% ahead of results today",
-   "source": "Barron’s"
+   "headline": "SpaceX sube más de 8% tras reportar su primer trimestre rentable",
+   "headline_en": "SpaceX jumps over 8% after posting its first profitable quarter",
+   "source": "eOption"
   },
   {
-   "headline": "Netflix cae 5% por una guía de ingresos decepcionante pese a superar expectativas",
-   "headline_en": "Netflix sinks 5% on disappointing revenue guidance despite earnings beat",
-   "source": "The Wall Street Journal"
+   "headline": "Netflix cae 6% en el premarket tras decepcionar su pronóstico de ingresos",
+   "headline_en": "Netflix slides 6% in premarket after disappointing revenue forecast",
+   "source": "eOption"
   },
   {
-   "headline": "Meta y Tesla reportan al cierre de hoy; Super Micro +10% y AT&T −6% en movimientos post-resultados",
-   "headline_en": "Meta and Tesla report after the close today; Super Micro +10%, AT&T −6% in post-earnings moves",
-   "source": "Investopedia"
+   "headline": "El crudo WTI roza los $100 por barril ante tensiones en el suministro energético",
+   "headline_en": "WTI crude nears $100 a barrel amid energy supply concerns",
+   "source": "Samuel & Co"
   },
   {
-   "headline": "El bono a 10 años se mantiene en 5.10% y Ken Griffin advierte de una posible burbuja de IA",
-   "headline_en": "10-year Treasury yield holds near 5.10% as Ken Griffin warns of possible AI bubble",
-   "source": "Seeking Alpha"
+   "headline": "Inflación del Reino Unido acelera al 3.5% antes del Presupuesto",
+   "headline_en": "UK inflation comes in hot at 3.5% ahead of the Budget",
+   "source": "Samuel & Co"
   },
   {
-   "headline": "Irán prolonga las negociaciones con EE.UU. de cara a las elecciones de medio término del 3 de noviembre",
-   "headline_en": "Iran prolongs talks with the US ahead of the Nov. 3 midterm elections",
-   "source": "TradingView / Reuters"
+   "headline": "Wall Street cerró al alza el martes: el Dow ganó 1% impulsado por sólidas ganancias del tercer trimestre",
+   "headline_en": "Wall Street closed mostly higher Tuesday as strong Q3 earnings lifted the Dow 1%",
+   "source": "Zacks"
   }
  ],
  "ultima_hora": null
