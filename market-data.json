@@ -1,61 +1,61 @@
 {
- "updated_at": "2026-10-21T18:34:36.865362+00:00",
+ "updated_at": "2026-10-21T18:35:31.353781+00:00",
  "nq": {
-  "price": 30076.75,
-  "change_points": 401.5,
+  "price": 30076.25,
+  "change_points": 401.0,
   "percent_change": 1.35
  },
  "gold": {
-  "price": 4157.8,
-  "change_points": 15.2,
-  "percent_change": 0.37
+  "price": 4158.2,
+  "change_points": 15.6,
+  "percent_change": 0.38
  },
  "oil": {
-  "price": 97.17,
-  "change_points": -4.62,
-  "percent_change": -4.54
+  "price": 97.19,
+  "change_points": -4.6,
+  "percent_change": -4.52
  },
  "headlines": [
   {
-   "headline": "SpaceX se dispara más de 8% tras su primer trimestre rentable; ingresos crecen 161% y Musk habla de fusión con Tesla",
-   "headline_en": "SpaceX surges over 8% after first profitable quarter; revenue up 161% as Musk discusses Tesla merger",
-   "source": "Zacks"
+   "headline": "El Nasdaq sube 1.1% rumbo a su mejor día en dos semanas, impulsado por SpaceX (+10%) antes de los resultados de Tesla y Meta",
+   "headline_en": "Nasdaq jumps 1.1% toward its best day in two weeks, lifted by SpaceX (+10%) ahead of Tesla and Meta earnings",
+   "source": "MarketWatch"
   },
   {
-   "headline": "El Dow sube 529 puntos el martes; los futuros avanzan el miércoles en plena temporada de resultados",
-   "headline_en": "Dow gains 529 points Tuesday; futures higher Wednesday amid busy earnings week",
+   "headline": "Netflix se desploma 4.5% y AT&T 6% tras sus resultados; Super Micro y United Airlines se disparan",
+   "headline_en": "Netflix tumbles 4.5%, AT&T sinks 6% after earnings; Super Micro and United Airlines soar",
    "source": "Investopedia"
   },
   {
-   "headline": "Tesla y Meta reportan hoy tras el cierre; Netflix se desploma 6% por una guía débil",
-   "headline_en": "Tesla and Meta report after the close today; Netflix tumbles 6% on weak guidance",
-   "source": "eOption"
+   "headline": "Irán prolonga las negociaciones con EE.UU. antes de las elecciones de medio término; el crudo WTI ronda los $97",
+   "headline_en": "Iran prolongs negotiations with the U.S. ahead of the midterms; WTI crude hovers near $97",
+   "source": "Benzinga"
   },
   {
-   "headline": "El petróleo roza los $100 por barril y el oro toca los $4,160; la inflación británica sorprende al alza (3.5%)",
-   "headline_en": "Oil nears $100 a barrel, gold at $4,160 as UK inflation comes in hot at 3.5%",
-   "source": "Investopedia"
+   "headline": "El mercado descuenta un 85% de probabilidad de que la Fed mantenga las tasas en su reunión de octubre",
+   "headline_en": "Markets price in 85% odds the Fed holds rates steady at its October meeting",
+   "source": "Benzinga"
   },
   {
-   "headline": "Asia rebota con el regreso de la IA: el Kospi sube 2.7% y el Nikkei 1.2%; exportaciones japonesas +16.7%",
-   "headline_en": "Asia rebounds on AI return: Kospi up 2.7%, Nikkei up 1.2%; Japanese exports +16.7%",
-   "source": "Share Talk"
+   "headline": "El rendimiento del bono a 10 años cae a 5.11% y los semiconductores lideran el rebote del Nasdaq",
+   "headline_en": "10-year Treasury yield dips to 5.11% as semiconductors lead the Nasdaq rebound",
+   "source": "Investors.com"
   },
   {
-   "headline": "Trump anuncia un plan de $8,000 millones en ayuda para agricultores",
-   "headline_en": "Trump plans $8 billion bailout for farmers",
-   "source": "Morningstar"
+   "headline": "Trump da marcha atrás con la amenaza de vetar a Bombardier y sus acciones suben 4%",
+   "headline_en": "Trump backs off threat to ban Bombardier; shares climb 4%",
+   "source": "Wealth Professional"
   }
  ],
  "ultima_hora": {
-  "headline": "Casa Blanca: la IA descubrió una falla crítica en PHP, el software que corre el 70% de los sitios web del mundo",
-  "headline_en": "White House: AI discovered a critical flaw in PHP, the software powering 70% of the world's websites",
-  "source": "USA Today",
+  "headline": "Rusia enviará mañana el primer tanquero con 40,000 toneladas de diésel a EE.UU. bajo el acuerdo Trump-Putin",
+  "headline_en": "Russia to send first 40,000-ton diesel cargo to the U.S. tomorrow under the Trump-Putin deal",
+  "source": "CNN",
   "image": "",
   "images": [
-   "https://raw.githubusercontent.com/boripropdeals/boripropdeals.github.io/main/breaking-visuals/2026-10-21-php-vulnerabilidad-servidores.jpg",
-   "https://raw.githubusercontent.com/boripropdeals/boripropdeals.github.io/main/breaking-visuals/2026-10-21-php-vulnerabilidad-red-global.jpg",
-   "https://raw.githubusercontent.com/boripropdeals/boripropdeals.github.io/main/breaking-visuals/2026-10-21-php-vulnerabilidad-ia-detecta.jpg"
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-21-trump-putin-diesel-tanquero.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-21-trump-putin-diesel-gasolinera.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-21-trump-putin-diesel-refineria.webp"
   ]
  }
 }
