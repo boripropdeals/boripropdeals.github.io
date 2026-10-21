@@ -1,51 +1,61 @@
 {
- "updated_at": "2026-10-21T16:04:33.879654+00:00",
+ "updated_at": "2026-10-21T16:05:14.799352+00:00",
  "nq": {
-  "price": 30040.5,
-  "change_points": 365.25,
+  "price": 30039.5,
+  "change_points": 364.25,
   "percent_change": 1.23
  },
  "gold": {
-  "price": 4151.4,
-  "change_points": 8.8,
+  "price": 4151.1,
+  "change_points": 8.5,
   "percent_change": 0.21
  },
  "oil": {
-  "price": 96.89,
-  "change_points": -4.9,
-  "percent_change": -4.81
+  "price": 96.99,
+  "change_points": -4.8,
+  "percent_change": -4.72
  },
  "headlines": [
   {
-   "headline": "Los futuros del Nasdaq suben ~0,7% en el premarket tras el rally de la IA en Asia y Europa y el trimestre récord de SpaceX",
-   "headline_en": "Nasdaq futures rise ~0.7% premarket after Asian and European AI rally and SpaceX blowout quarter",
-   "source": "TradingView"
+   "headline": "Futuros al alza: Wall Street espera los resultados de Tesla y Meta tras el primer trimestre rentable de SpaceX",
+   "headline_en": "Futures rise as investors await Tesla and Meta results after SpaceX’s first profitable quarter",
+   "source": "Investopedia"
   },
   {
-   "headline": "SpaceX reporta su primera ganancia trimestral como empresa pública y la acción sube ~10% antes de la apertura",
-   "headline_en": "SpaceX posts its first quarterly profit as a public company; shares jump ~10% premarket",
-   "source": "TradingView"
+   "headline": "El Dow subió 529 puntos el martes; el S&P avanzó mientras el Nasdaq cerró plano en semana de earnings",
+   "headline_en": "Dow jumped 529 points Tuesday as the S&P gained while Nasdaq ended flat",
+   "source": "Zacks"
   },
   {
-   "headline": "El crudo Brent supera los $110 por barril tras el bloqueo de tanqueros en el estrecho de Ormuz",
-   "headline_en": "Brent crude tops $110 a barrel as Iran blocks tankers in the Strait of Hormuz",
-   "source": "Stocktwits"
+   "headline": "Netflix se desploma 6% en premarket tras una guía de ingresos débil",
+   "headline_en": "Netflix tumbles 6% premarket after weak revenue guidance",
+   "source": "eOption"
   },
   {
-   "headline": "Las ventas pendientes de viviendas en EE. UU. caen 7,3% a un mínimo histórico por el alza de las tasas hipotecarias",
-   "headline_en": "US pending home sales plunge 7.3% to a record low as mortgage rates surge",
-   "source": "Invezz"
+   "headline": "SMCI se dispara 10% tras elevar márgenes y outlook; las semis lideran la jornada",
+   "headline_en": "SMCI surges 10% after raising margin and revenue outlook; semis lead the day",
+   "source": "eOption"
   },
   {
-   "headline": "Netflix cae ~6% antes de la apertura tras recortar su pronóstico de ingresos publicitarios para 2026",
-   "headline_en": "Netflix sinks ~6% premarket after cutting its 2026 advertising revenue outlook",
-   "source": "Invezz"
+   "headline": "El petróleo toca casi $100 antes de los datos de inventarios de EE. UU.",
+   "headline_en": "Oil climbs near $100 ahead of U.S. inventory data",
+   "source": "Samuel & Co Trading"
   },
   {
-   "headline": "Mega-tecnológicas al cierre: Meta, Tesla, IBM y AT&T reportan sus resultados hoy después de la campana",
-   "headline_en": "Mega-cap tech after the bell: Meta, Tesla, IBM and AT&T report earnings today",
-   "source": "Stocktwits"
+   "headline": "Oro en $4,160, bitcoin en $83,400 y el bono a 10 años en 5.10%",
+   "headline_en": "Gold at $4,160, bitcoin at $83,400, 10-year yield at 5.10%",
+   "source": "Investopedia"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Rusia libera al estadounidense Stephen Hubbard, detenido desde 2022; Trump lo anunció en Truth Social",
+  "headline_en": "Russia releases detained American Stephen Hubbard, held since 2022; Trump announced it on Truth Social",
+  "source": "USA Today",
+  "image": "",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/hubbard-home-airport.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/hubbard-diplomacy-petersburg.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/hubbard-family-reunion.jpg"
+  ]
+ }
 }
