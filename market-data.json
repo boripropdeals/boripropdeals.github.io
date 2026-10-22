@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-22T17:34:26.870809+00:00",
+ "updated_at": "2026-10-22T17:36:17.494079+00:00",
  "nq": {
-  "price": 29210.5,
-  "change_points": -796.5,
-  "percent_change": -2.65
+  "price": 29209.75,
+  "change_points": -797.25,
+  "percent_change": -2.66
  },
  "gold": {
-  "price": 4060.7,
-  "change_points": -89.3,
-  "percent_change": -2.15
+  "price": 4060.5,
+  "change_points": -89.5,
+  "percent_change": -2.16
  },
  "oil": {
-  "price": 99.36,
-  "change_points": 2.21,
-  "percent_change": 2.27
+  "price": 99.21,
+  "change_points": 2.06,
+  "percent_change": 2.12
  },
  "headlines": [
   {
-   "headline": "Nasdaq y S&P 500 se desploman tras los resultados de Meta y Tesla: la disciplina de gasto frena la euforia del gasto de capital",
-   "headline_en": "Nasdaq, S&P 500 plunge after Meta and Tesla earnings as spending discipline replaces capex euphoria",
-   "source": "Investopedia / Barron's"
-  },
-  {
-   "headline": "El petróleo se dispara (Brent +2.76% hasta $111.82) por planes de EE. UU. e Israel de renovar ataques contra Irán tras las elecciones de medio término",
-   "headline_en": "Oil surges (Brent +2.76% to $111.82) on reports the U.S. and Israel plan renewed strikes on Iran after the midterms",
-   "source": "The New York Times / CNBC"
-  },
-  {
-   "headline": "Tesla recorta su guía de gasto de capital 2026 a unos $20 mil millones pese a superar las ganancias",
-   "headline_en": "Tesla cuts 2026 capex guidance to about $20 billion despite beating earnings expectations",
-   "source": "Reuters / Barron's"
-  },
-  {
-   "headline": "Meta eleva el piso de su guía de gasto de capital a $135 mil millones y anuncia un split de 2 por 1; la acción cae 7%",
-   "headline_en": "Meta raises capex floor to $135B and announces a 2-for-1 stock split; stock falls 7%",
-   "source": "TradingView / Investopedia"
-  },
-  {
-   "headline": "Las acciones de chips se desploman: el SOXX cae cerca de 6% y las de memoria (Micron, Sandisk) lideran las pérdidas",
-   "headline_en": "Chip stocks plunge: SOXX falls about 6% with memory names (Micron, Sandisk) leading the losses",
+   "headline": "Nasdaq y S&P 500 se desploman el jueves, liderados por la venta masiva de tecnológicas tras los resultados de Meta y Tesla",
+   "headline_en": "Nasdaq, S&P 500 plunge Thursday, led by tech selloff after Meta and Tesla earnings",
    "source": "Investopedia"
   },
   {
-   "headline": "El rendimiento del bono del Tesoro a 10 años cae por debajo del 5% ante la demanda de activos refugio",
-   "headline_en": "10-year Treasury yield sinks below 5% on safe-haven demand",
-   "source": "Investopedia / CNBC"
+   "headline": "El petróleo se dispara: Brent supera los $112 (+3.1%) por los planes de EE. UU. e Israel de renovar ataques contra Irán tras las elecciones de medio término",
+   "headline_en": "Oil surges: Brent tops $112 (+3.1%) on reports the U.S. and Israel plan renewed strikes on Iran after the midterms",
+   "source": "Barron's"
+  },
+  {
+   "headline": "El rendimiento del bono del Tesoro a 10 años cae a ~5.07%, mínimo de casi un mes; Francia supera el 5% por primera vez desde 2002",
+   "headline_en": "10-year Treasury yield falls to ~5.07%, near one-month low; France tops 5% for the first time since 2002",
+   "source": "Barron's"
+  },
+  {
+   "headline": "Resurgen los temores sobre el gasto en IA: Meta eleva su guía de capex y su flujo de caja libre se vuelve negativo; CoreWeave cae 5%",
+   "headline_en": "AI spending fears reignite: Meta raises capex forecast, free cash flow turns negative; CoreWeave drops 5%",
+   "source": "Barron's"
+  },
+  {
+   "headline": "Temporada de resultados: Tesla decepciona en utilidad operativa, IBM bate pero desacelera ingresos; esta tarde reportan Intel y Ford",
+   "headline_en": "Earnings season: Tesla disappoints on operating profit, IBM beats but revenue growth slows; Intel and Ford report after the close",
+   "source": "Barron's"
+  },
+  {
+   "headline": "Asia retrocede (KOSPI −3.5%) y EE. UU. ordena la salida de diplomáticos de Arabia Saudita tras ataques hutíes",
+   "headline_en": "Asia retreats (KOSPI −3.5%) as U.S. orders some diplomats out of Saudi Arabia after Houthi attacks",
+   "source": "TradingView"
   }
  ],
  "ultima_hora": null
