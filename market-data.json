@@ -1,13 +1,13 @@
 {
- "updated_at": "2026-10-22T21:06:35.641974+00:00",
+ "updated_at": "2026-10-22T21:07:05.975191+00:00",
  "nq": {
-  "price": 29093.0,
-  "change_points": -914.0,
+  "price": 29093.25,
+  "change_points": -913.75,
   "percent_change": -3.05
  },
  "gold": {
-  "price": 4040.5,
-  "change_points": -109.5,
+  "price": 4040.6,
+  "change_points": -109.4,
   "percent_change": -2.64
  },
  "oil": {
@@ -17,45 +17,45 @@
  },
  "headlines": [
   {
-   "headline": "Wall Street cae: el Nasdaq se desploma más del 2% ante el temor al gasto en IA",
-   "headline_en": "Wall Street Sinks: Nasdaq Plunges Over 2% on AI Spending Fears",
-   "source": "The Motley Fool"
+   "headline": "Wall Street se desploma: el Nasdaq cae 2.6% por temor al gasto en IA",
+   "headline_en": "Wall Street sells off: Nasdaq plunges 2.6% on AI spending fears",
+   "source": "Wall Street Journal"
   },
   {
-   "headline": "Meta se desploma más del 6% pese a superar ingresos; su utilidad decepciona por un acuerdo legal de $9,900 millones",
-   "headline_en": "Meta Tumbles Over 6% Despite Revenue Beat as Earnings Disappoint on $9.9B Legal Settlement",
-   "source": "TipRanks"
+   "headline": "Meta cae 7% tras resultados: flujo de caja libre negativo por primera vez desde 2012",
+   "headline_en": "Meta drops 7% after earnings: negative free cash flow for first time since 2012",
+   "source": "Wall Street Journal"
   },
   {
-   "headline": "Tesla supera ingresos y utilidades del tercer trimestre pero sus acciones caen; recorta su guía de inversión 2026",
-   "headline_en": "Tesla Tops Q3 Revenue and Earnings but Shares Fall; Cuts 2026 Capex Guidance",
-   "source": "TipRanks"
+   "headline": "El bono a 10 años baja de 5% por primera vez en casi un mes; inversores buscan refugio",
+   "headline_en": "10-year Treasury yield drops below 5% for first time in nearly a month as investors seek safety",
+   "source": "Wall Street Journal"
   },
   {
-   "headline": "El petróleo se dispara: el Brent supera los $112 y el WTI roza los $100 por la escalada con Irán",
-   "headline_en": "Oil Surges: Brent Tops $112 and WTI Nears $100 on Iran Escalation",
-   "source": "Stocktwits / TradingView"
+   "headline": "El petróleo sube más de 2%: el Brent supera los $111 por ataques en Arabia Saudita y riesgos con Irán",
+   "headline_en": "Oil prices rise over 2% as Brent climbs above $111 on Saudi attacks and U.S.-Iran risks",
+   "source": "Dow Jones"
   },
   {
-   "headline": "Lam Research se desploma 8% tras una guía débil; los semiconductores arrastran al sector tech",
-   "headline_en": "Lam Research Plunges 8% on Weak Outlook; Chipmakers Drag Tech Lower",
+   "headline": "La crisis de deuda de Francia se profundiza: inversores extranjeros buscan la salida",
+   "headline_en": "France debt crisis deepens as foreign investors look for the exit",
+   "source": "Dow Jones"
+  },
+  {
+   "headline": "Los semiconductores se hunden: el índice SOXX cae 6.5% arrastrado por Nvidia y AMD",
+   "headline_en": "Semiconductors tumble: SOXX index drops 6.5% dragged by Nvidia and AMD",
    "source": "Investopedia"
-  },
-  {
-   "headline": "Las solicitudes de desempleo en EE. UU. caen a su mínimo de tres meses",
-   "headline_en": "U.S. Jobless Claims Fall to Three-Month Low",
-   "source": "The Motley Fool"
   }
  ],
  "ultima_hora": {
-  "headline": "Trump acusa a Irán de fingir ataques a tanqueros para subir el petróleo antes de las elecciones",
-  "headline_en": "Trump Accuses Iran of Faking Tanker Attacks to Drive Up Oil Before the Midterms",
-  "source": "Newsmax",
+  "headline": "Trump llamó a Musk y le pidió levantar las restricciones de Starlink en Ucrania",
+  "headline_en": "Trump called Musk and asked him to lift Ukraine Starlink restrictions",
+  "source": "Dow Jones",
   "image": "",
   "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-22-trump-iran-acusacion-tanqueros-hormuz.jpg",
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-22-trump-iran-acusacion-refineria-llamas.jpg",
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-22-trump-iran-acusacion-portaaviones.jpg"
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-22-trump-starlink-musk-ucrania-constelacion.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-22-trump-starlink-musk-ucrania-antenas.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-22-trump-starlink-musk-ucrania-satelite.jpg"
   ]
  }
 }
