@@ -1,45 +1,50 @@
 {
- "updated_at": "2026-10-22T14:04:38.256216+00:00",
+ "updated_at": "2026-10-22T14:05:10.675161+00:00",
  "nq": {
-  "price": 29484.0,
-  "change_points": -523.0,
-  "percent_change": -1.74
+  "price": 29496.5,
+  "change_points": -510.5,
+  "percent_change": -1.7
  },
  "gold": {
-  "price": 4070.2,
-  "change_points": -79.8,
-  "percent_change": -1.92
+  "price": 4071.2,
+  "change_points": -78.8,
+  "percent_change": -1.9
  },
  "oil": {
-  "price": 98.9,
-  "change_points": 1.75,
-  "percent_change": 1.8
+  "price": 98.88,
+  "change_points": 1.73,
+  "percent_change": 1.78
  },
  "headlines": [
   {
-   "headline": "Futuros del Nasdaq caen 1.7%: Lam Research se desploma 8% tras guía débil; Tesla, Meta y chips retroceden antes de la apertura",
-   "headline_en": "Nasdaq futures slide 1.7% as Lam Research plunges 8% on weak outlook; Tesla, Meta and chip stocks fall premarket",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "El petróleo se dispara: el WTI supera $99 y el Brent $111 tras nuevos ataques hutíes en Arabia Saudita",
-   "headline_en": "Oil surges as WTI tops $99 and Brent tops $111 after fresh Houthi attacks in Saudi Arabia",
+   "headline": "Los futuros del Nasdaq caen casi 2%: Tesla, Meta y los chips se desploman tras resultados que reavivan las dudas sobre el gasto en IA",
+   "headline_en": "Nasdaq futures slide nearly 2% as Tesla, Meta and chip stocks tumble on renewed AI spending worries",
    "source": "Reuters"
   },
   {
-   "headline": "Solicitudes de hipoteca en EE.UU. caen 5.3% y registran su séptima semana consecutiva a la baja",
-   "headline_en": "US mortgage applications fall 5.3%, marking a seventh straight weekly decline",
-   "source": "Simply Wall St"
+   "headline": "El Brent supera los $112, máximo de cinco meses, tras nuevos ataques hutíes en Arabia Saudita",
+   "headline_en": "Brent crude tops $112, near five-month high, after fresh Houthi attacks in Saudi Arabia",
+   "source": "Reuters"
   },
   {
-   "headline": "Anthropic lanza Claude Duet, su nuevo agente de IA, y compite de frente con Muse de Meta y los dots de OpenAI",
-   "headline_en": "Anthropic launches Claude Duet, its new AI agent, taking on Meta's Muse and OpenAI's dots",
+   "headline": "Trump dice que EE.UU. no negocia con Teherán; EE.UU. e Israel preparan planes de ataque a Irán para después de las elecciones",
+   "headline_en": "Trump says Washington not negotiating with Tehran; U.S., Israel draft Iran strike plans for after midterms",
+   "source": "The New York Times"
+  },
+  {
+   "headline": "SpaceX reporta su primera ganancia como empresa pública y Anthropic podría presentar su S-1 el viernes",
+   "headline_en": "SpaceX posts first profit as a public company; Anthropic could file S-1 as soon as Friday",
+   "source": "CNBC"
+  },
+  {
+   "headline": "Bitcoin cae 3.4% a $81,600 y el bono a 10 años baja al 5.05% en jornada de aversión al riesgo",
+   "headline_en": "Bitcoin drops 3.4% to $81,600; 10-year Treasury yield falls to 5.05% in risk-off session",
    "source": "Investopedia"
   },
   {
-   "headline": "SpaceX registra su primera ganancia como empresa pública y Super Micro eleva su pronóstico, impulsando el rally de la IA del miércoles",
-   "headline_en": "SpaceX posts its first profit as a public company and Super Micro raises its forecast, fueling Wednesday's AI rally",
-   "source": "CNBC"
+   "headline": "Jornada cargada de resultados: Spotify, Blackstone, American Airlines, Honeywell y Western Digital reportan hoy",
+   "headline_en": "Busy earnings day: Spotify, Blackstone, American Airlines, Honeywell, Western Digital report today",
+   "source": "Benzinga"
   }
  ],
  "ultima_hora": null
