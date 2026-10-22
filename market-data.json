@@ -1,56 +1,51 @@
 {
- "updated_at": "2026-10-22T16:33:49.955900+00:00",
+ "updated_at": "2026-10-22T16:35:01.568270+00:00",
  "nq": {
-  "price": 29349.25,
-  "change_points": -657.75,
-  "percent_change": -2.19
+  "price": 29359.25,
+  "change_points": -647.75,
+  "percent_change": -2.16
  },
  "gold": {
-  "price": 4060.6,
-  "change_points": -89.4,
-  "percent_change": -2.15
+  "price": 4062.6,
+  "change_points": -87.4,
+  "percent_change": -2.11
  },
  "oil": {
-  "price": 98.84,
-  "change_points": 1.69,
-  "percent_change": 1.74
+  "price": 98.78,
+  "change_points": 1.63,
+  "percent_change": 1.68
  },
  "headlines": [
   {
-   "headline": "Wall Street cae hoy: Nasdaq se desploma tras los reportes decepcionantes de Meta y Tesla",
-   "headline_en": "Wall Street slides: Nasdaq tumbles after disappointing Meta and Tesla earnings",
-   "source": "Investopedia"
+   "headline": "Trump advierte que 'algo pasará pronto' con Irán; el petróleo supera los $112 y Wall Street cae",
+   "headline_en": "Oil soars above $112 as stocks plummet on Iran strike news, AI spending concerns",
+   "source": "New York Post"
   },
   {
-   "headline": "El petróleo se dispara: el Brent supera los $110 por barril por la escalada en Medio Oriente",
-   "headline_en": "Oil surges: Brent tops $110 a barrel on Middle East escalation",
-   "source": "XTB"
+   "headline": "Meta y Tesla arrastran al sector tecnológico por dudas sobre el gasto en IA, pese a buenos resultados",
+   "headline_en": "Meta, Tesla lead tech stocks lower even after reporting strong earnings on AI spending concerns",
+   "source": "TradingView"
   },
   {
-   "headline": "Meta bate ingresos pero falla en ganancias por un acuerdo legal de $9.9 mil millones",
-   "headline_en": "Meta beats revenue but misses on earnings on $9.9B legal settlement",
-   "source": "TipRanks"
+   "headline": "Tesoro de EE.UU. propone prohibir que inversionistas institucionales compren casas unifamiliares",
+   "headline_en": "Investors would be barred from buying up single-family homes under new US Treasury rule",
+   "source": "New York Post"
   },
   {
-   "headline": "Tesla supera estimaciones pero recorta su gasto 2026 a ~$20 mil millones; la acción cae",
-   "headline_en": "Tesla beats estimates but cuts 2026 capex to ~$20B; stock slides",
-   "source": "CoinPaper"
+   "headline": "Trump pide a constructores de centros de datos pagar un 'dividendo' a las comunidades vecinas",
+   "headline_en": "Trump tells data center builders to pay neighbors if they want the projects welcomed",
+   "source": "Daily Caller"
   },
   {
-   "headline": "American Airlines y Southwest recortan proyecciones por los altos costos del combustible",
-   "headline_en": "American Airlines and Southwest cut outlooks on high fuel costs",
-   "source": "Jake Novak Morning Briefing"
+   "headline": "Solicitudes de desempleo en EE.UU. caen inesperadamente; la Fed se mantendría sin cambios",
+   "headline_en": "Weekly US jobless claims unexpectedly fell, reinforcing expectations the Fed will hold rates",
+   "source": "TradingView"
+  },
+  {
+   "headline": "Bonos del Tesoro suben mientras inversores huyen del riesgo; el rendimiento a 10 años cae a 5.05%",
+   "headline_en": "Treasury yields drop as S&P 500 and Nasdaq futures fall",
+   "source": "Barron's"
   }
  ],
- "ultima_hora": {
-  "headline": "Trump: EE.UU. e Israel planean nuevos ataques contra Irán después de las elecciones intermedias del 3 de noviembre",
-  "headline_en": "Trump: U.S. and Israel planning renewed strikes on Iran after Nov. 3 midterms, NYT reports; Washington not negotiating with Tehran",
-  "source": "The New York Times",
-  "image": "",
-  "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-22-trump-iran-strike-plans-carriers.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-22-trump-iran-strike-plans-oil-refinery.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-22-trump-iran-strike-plans-strategy.webp"
-  ]
- }
+ "ultima_hora": null
 }
