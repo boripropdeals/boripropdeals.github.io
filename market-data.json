@@ -1,13 +1,13 @@
 {
- "updated_at": "2026-10-22T11:04:37.959180+00:00",
+ "updated_at": "2026-10-22T11:04:45.127828+00:00",
  "nq": {
-  "price": 29505.5,
-  "change_points": -501.5,
+  "price": 29506.5,
+  "change_points": -500.5,
   "percent_change": -1.67
  },
  "gold": {
-  "price": 4097.3,
-  "change_points": -52.7,
+  "price": 4097.2,
+  "change_points": -52.8,
   "percent_change": -1.27
  },
  "oil": {
@@ -17,35 +17,45 @@
  },
  "headlines": [
   {
-   "headline": "Los futuros del Nasdaq suben impulsados por las ganancias de SpaceX antes de los resultados de Tesla y Meta",
-   "headline_en": "Nasdaq futures rise as SpaceX earnings boost sentiment ahead of Tesla, Meta results",
-   "source": "Investopedia"
+   "headline": "Futuros del Nasdaq caen más de 1% mientras resurgen las dudas sobre la IA y el petróleo sube",
+   "headline_en": "Nasdaq futures drop over 1% as AI worries resurface, oil climbs",
+   "source": "Reuters"
   },
   {
-   "headline": "Netflix se desploma tras recortar su previsión de ingresos por publicidad para 2026",
-   "headline_en": "Netflix slides after cutting 2026 advertising revenue outlook",
-   "source": "Invezz"
+   "headline": "Wall Street cierra en verde: Dow +0.7%, Nasdaq +1.1% y S&P 500 +0.6% tras sólidos resultados del Q3",
+   "headline_en": "Wall Street closes higher: Dow +0.7%, Nasdaq +1.1%, S&P 500 +0.6% on strong Q3 earnings",
+   "source": "Zacks"
   },
   {
-   "headline": "Resultados de Tesla y Meta esta noche ponen a prueba la apuesta por la IA",
-   "headline_en": "Tesla and Meta earnings due tonight in key test for the AI trade",
-   "source": "Investopedia"
+   "headline": "El Brent sube más de 3% hasta los $112, cerca de máximos de 5 meses, tras nuevos ataques hutíes en Arabia Saudita",
+   "headline_en": "Brent crude climbs over 3% to $112, near five-month high, after Houthi attacks in Saudi Arabia",
+   "source": "Reuters"
   },
   {
-   "headline": "El petróleo Brent supera los $110 por barril ante tensiones en el Golfo",
-   "headline_en": "Brent crude climbs above $110 on Gulf supply fears",
-   "source": "Invezz"
+   "headline": "Tesla cae 5.3% tras recortar su pronóstico de gasto de capital; Meta baja 1.9% tras emitir acciones para financiar su apuesta en IA",
+   "headline_en": "Tesla falls 5.3% after cutting capex forecast; Meta slips 1.9% after issuing shares to fund AI push",
+   "source": "Reuters"
   },
   {
-   "headline": "El Dow ganó más de 500 puntos el martes; el S&P 500 cerró en 7,712.57",
-   "headline_en": "Dow gained 500+ points Tuesday; S&P 500 closed at 7,712.57",
-   "source": "TS2"
+   "headline": "Jornada de aversión al riesgo: petróleo al alza, dudas sobre la IA y tensión en Francia con el bono a 10 años sobre el 5%",
+   "headline_en": "Risk-off day: oil, tech and France as 10-year yields top 5%, widest spread vs Germany since 2011",
+   "source": "Reuters"
   },
   {
-   "headline": "Ventas pendientes de vivienda en EE.UU. caen 7.3% a mínimo histórico por altas tasas hipotecarias",
-   "headline_en": "US pending home sales drop 7.3% to record low as mortgage rates surge",
-   "source": "Invezz"
+   "headline": "Caen los rendimientos de los bonos del Tesoro mientras los futuros del S&P 500 y el Nasdaq retroceden",
+   "headline_en": "Treasury yields drop as S&P 500 and Nasdaq futures fall",
+   "source": "Barron’s"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "EE.UU. e Israel planifican nuevos ataques 'cortos pero intensivos' contra Irán tras las elecciones de medio término",
+  "headline_en": "US and Israel plan 'short but intensive' renewed strikes on Iran after the midterm elections",
+  "source": "The New York Times",
+  "image": "",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-22-trump-iran-strike-plans-carriers.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-22-trump-iran-strike-plans-oil-refinery.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-22-trump-iran-strike-plans-strategy.webp"
+  ]
+ }
 }
