@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-10-22T13:32:34.426282+00:00",
+ "updated_at": "2026-10-22T13:32:39.841266+00:00",
  "nq": {
-  "price": 29483.0,
-  "change_points": -524.0,
-  "percent_change": -1.75
+  "price": 29485.0,
+  "change_points": -522.0,
+  "percent_change": -1.74
  },
  "gold": {
-  "price": 4093.4,
-  "change_points": -56.6,
-  "percent_change": -1.36
+  "price": 4093.3,
+  "change_points": -56.7,
+  "percent_change": -1.37
  },
  "oil": {
   "price": 99.82,
@@ -17,40 +17,30 @@
  },
  "headlines": [
   {
-   "headline": "Futuros de Wall Street caen con fuerza: el Nasdaq baja 1.6% ante temores de nuevos ataques de EE.UU. e Israel a Irán",
-   "headline_en": "Wall Street futures fall sharply: Nasdaq down 1.6% on fears of renewed U.S.-Israel strikes on Iran",
+   "headline": "Futuros del Nasdaq caen 1.7%: Lam Research se desploma 8% tras guía débil; Tesla, Meta y chips retroceden antes de la apertura",
+   "headline_en": "Nasdaq futures slide 1.7% as Lam Research plunges 8% on weak outlook; Tesla, Meta and chip stocks fall premarket",
    "source": "Investopedia"
   },
   {
-   "headline": "El petróleo Brent supera los $112 y el WTI roza los $100, en máximos de cinco meses por la tensión en Oriente Medio",
-   "headline_en": "Brent crude tops $112 and WTI nears $100, hitting five-month highs on Middle East tensions",
-   "source": "Barron's"
+   "headline": "El petróleo se dispara: el WTI supera $99 y el Brent $111 tras nuevos ataques hutíes en Arabia Saudita",
+   "headline_en": "Oil surges as WTI tops $99 and Brent tops $111 after fresh Houthi attacks in Saudi Arabia",
+   "source": "Reuters"
   },
   {
-   "headline": "Tesla se desploma casi 5% tras recortar su gasto de capital de 2026; Meta cae a pesar de superar estimados",
-   "headline_en": "Tesla plunges nearly 5% after cutting its 2026 capex; Meta slides despite beating estimates",
-   "source": "Investors.com"
+   "headline": "Solicitudes de hipoteca en EE.UU. caen 5.3% y registran su séptima semana consecutiva a la baja",
+   "headline_en": "US mortgage applications fall 5.3%, marking a seventh straight weekly decline",
+   "source": "Simply Wall St"
   },
   {
-   "headline": "Las solicitudes de desempleo en EE.UU. caen inesperadamente a 194,000",
-   "headline_en": "U.S. jobless claims unexpectedly fall to 194,000",
-   "source": "Investors.com"
+   "headline": "Anthropic lanza Claude Duet, su nuevo agente de IA, y compite de frente con Muse de Meta y los dots de OpenAI",
+   "headline_en": "Anthropic launches Claude Duet, its new AI agent, taking on Meta's Muse and OpenAI's dots",
+   "source": "Investopedia"
   },
   {
-   "headline": "El rendimiento del Tesoro a 10 años cae a 5.04%, mínimo de casi un mes, mientras el bono francés supera el 5%",
-   "headline_en": "10-year Treasury yield falls to 5.04%, a near one-month low, as French bond yield tops 5%",
-   "source": "Barron's"
+   "headline": "SpaceX registra su primera ganancia como empresa pública y Super Micro eleva su pronóstico, impulsando el rally de la IA del miércoles",
+   "headline_en": "SpaceX posts its first profit as a public company and Super Micro raises its forecast, fueling Wednesday's AI rally",
+   "source": "CNBC"
   }
  ],
- "ultima_hora": {
-  "headline": "Trump dice que Washington no negocia con Teherán mientras EE.UU. e Israel planean nuevos ataques a Irán tras las elecciones de noviembre",
-  "headline_en": "Trump says Washington is not negotiating with Tehran as the U.S. and Israel plan new strikes on Iran after November midterms",
-  "source": "Stocktwits",
-  "image": "",
-  "images": [
-   "https://boripropdeals.github.io/breaking-visuals/trump-iran-refinerias-humo-1022.jpg",
-   "https://boripropdeals.github.io/breaking-visuals/trump-iran-mercado-petroleo-1022.jpg",
-   "https://boripropdeals.github.io/breaking-visuals/trump-iran-atril-mapagolfo-1022.jpg"
-  ]
- }
+ "ultima_hora": null
 }
