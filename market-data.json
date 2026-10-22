@@ -1,49 +1,49 @@
 {
- "updated_at": "2026-10-22T18:03:24.276339+00:00",
+ "updated_at": "2026-10-22T18:04:09.888370+00:00",
  "nq": {
-  "price": 29178.5,
-  "change_points": -828.5,
-  "percent_change": -2.76
+  "price": 29186.0,
+  "change_points": -821.0,
+  "percent_change": -2.74
  },
  "gold": {
-  "price": 4060.2,
-  "change_points": -89.8,
-  "percent_change": -2.16
+  "price": 4061.0,
+  "change_points": -89.0,
+  "percent_change": -2.14
  },
  "oil": {
-  "price": 99.98,
-  "change_points": 2.83,
-  "percent_change": 2.91
+  "price": 100.05,
+  "change_points": 2.9,
+  "percent_change": 2.99
  },
  "headlines": [
   {
-   "headline": "Nasdaq y S&P 500 se desploman el jueves, liderados por la venta masiva de tecnológicas tras los resultados de Meta y Tesla",
-   "headline_en": "Nasdaq, S&P 500 plunge Thursday, led by tech selloff after Meta and Tesla earnings",
+   "headline": "Nasdaq y S&P 500 se desploman este jueves, arrastrados por la venta masiva de tecnológicas y chips tras los resultados de Meta y Tesla",
+   "headline_en": "Nasdaq, S&P 500 plunge Thursday as tech and chip stocks sell off after Meta and Tesla earnings",
    "source": "Investopedia"
   },
   {
-   "headline": "El petróleo se dispara: Brent supera los $112 (+3.1%) por los planes de EE. UU. e Israel de renovar ataques contra Irán tras las elecciones de medio término",
-   "headline_en": "Oil surges: Brent tops $112 (+3.1%) on reports the U.S. and Israel plan renewed strikes on Iran after the midterms",
+   "headline": "Brent supera los $112, máximo de 5 meses, y Trump culpa hoy a Irán en Truth Social de inflar los precios del petróleo antes de las midterms",
+   "headline_en": "Brent tops $112, five-month high, as Trump blames Iran on Truth Social for pushing oil prices higher ahead of the midterms",
+   "source": "Stocktwits"
+  },
+  {
+   "headline": "El bono del Tesoro a 10 años cae a ~5.07%, mínimo de casi un mes; el bono francés supera el 5% por primera vez desde 2002",
+   "headline_en": "10-year Treasury yield drops to ~5.07%, near one-month low; French 10-year tops 5% for the first time since 2002",
    "source": "Barron's"
   },
   {
-   "headline": "El rendimiento del bono del Tesoro a 10 años cae a ~5.07%, mínimo de casi un mes; Francia supera el 5% por primera vez desde 2002",
-   "headline_en": "10-year Treasury yield falls to ~5.07%, near one-month low; France tops 5% for the first time since 2002",
-   "source": "Barron's"
+   "headline": "Resurgen los temores por el gasto en IA: Meta eleva su guía de capex, Tesla recorta la suya de 2026 y CoreWeave toca mínimos de 17 meses",
+   "headline_en": "AI spending fears resurface: Meta raises capex guidance, Tesla cuts its 2026 forecast and CoreWeave hits 17-month lows",
+   "source": "TradingView"
   },
   {
-   "headline": "Resurgen los temores sobre el gasto en IA: Meta eleva su guía de capex y su flujo de caja libre se vuelve negativo; CoreWeave cae 5%",
-   "headline_en": "AI spending fears reignite: Meta raises capex forecast, free cash flow turns negative; CoreWeave drops 5%",
-   "source": "Barron's"
+   "headline": "Asia se desploma por las tensiones en Medio Oriente (KOSPI −4%, Hang Seng Tech −5%) mientras EE. UU. ordena la salida de personal no esencial de Arabia Saudita",
+   "headline_en": "Asian stocks tumble on Middle East tensions (Kospi −4%, Hang Seng Tech −5%) as the U.S. orders non-emergency personnel out of Saudi Arabia",
+   "source": "WSJ"
   },
   {
-   "headline": "Temporada de resultados: Tesla decepciona en utilidad operativa, IBM bate pero desacelera ingresos; esta tarde reportan Intel y Ford",
-   "headline_en": "Earnings season: Tesla disappoints on operating profit, IBM beats but revenue growth slows; Intel and Ford report after the close",
-   "source": "Barron's"
-  },
-  {
-   "headline": "Asia retrocede (KOSPI −3.5%) y EE. UU. ordena la salida de diplomáticos de Arabia Saudita tras ataques hutíes",
-   "headline_en": "Asia retreats (KOSPI −3.5%) as U.S. orders some diplomats out of Saudi Arabia after Houthi attacks",
+   "headline": "Temporada de resultados: IBM cae pese a batir estimados, Lam Research se desploma 8.5% tras su récord; Intel y Ford reportan al cierre",
+   "headline_en": "Earnings: IBM drops despite beating estimates, Lam Research plunges 8.5% after record quarter; Intel and Ford report after the close",
    "source": "TradingView"
   }
  ],
