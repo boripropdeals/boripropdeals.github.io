@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-10-22T13:02:32.705729+00:00",
+ "updated_at": "2026-10-22T13:03:56.113591+00:00",
  "nq": {
-  "price": 29515.25,
-  "change_points": -491.75,
-  "percent_change": -1.64
+  "price": 29512.25,
+  "change_points": -494.75,
+  "percent_change": -1.65
  },
  "gold": {
-  "price": 4102.2,
-  "change_points": -47.8,
-  "percent_change": -1.15
+  "price": 4101.8,
+  "change_points": -48.2,
+  "percent_change": -1.16
  },
  "oil": {
   "price": 99.59,
@@ -17,35 +17,40 @@
  },
  "headlines": [
   {
-   "headline": "Los futuros del Nasdaq caen casi 2% por preocupaciones sobre el gasto en IA tras los resultados de Tesla y Meta",
-   "headline_en": "Nasdaq futures drop nearly 2% as AI spending worries resurface after Tesla and Meta earnings",
-   "source": "Reuters"
+   "headline": "Futuros de Wall Street caen con fuerza: el Nasdaq baja 1.6% ante temores de nuevos ataques de EE.UU. e Israel a Irán",
+   "headline_en": "Wall Street futures fall sharply: Nasdaq down 1.6% on fears of renewed U.S.-Israel strikes on Iran",
+   "source": "Investopedia"
   },
   {
-   "headline": "El crudo Brent supera los $112, cerca de máximos de cinco meses, tras ataques hutíes en Arabia Saudita",
-   "headline_en": "Brent crude tops $112, near five-month high, after Houthi attacks in Saudi Arabia",
-   "source": "Reuters"
+   "headline": "El petróleo Brent supera los $112 y el WTI roza los $100, en máximos de cinco meses por la tensión en Oriente Medio",
+   "headline_en": "Brent crude tops $112 and WTI nears $100, hitting five-month highs on Middle East tensions",
+   "source": "Barron's"
   },
   {
-   "headline": "Tesla cae 5.3% tras recortar su pronóstico de gasto de capital; Meta baja 1.9% por nueva emisión de acciones",
-   "headline_en": "Tesla drops 5.3% after cutting annual capex forecast; Meta slips 1.9% on new share plan",
-   "source": "Reuters"
+   "headline": "Tesla se desploma casi 5% tras recortar su gasto de capital de 2026; Meta cae a pesar de superar estimados",
+   "headline_en": "Tesla plunges nearly 5% after cutting its 2026 capex; Meta slides despite beating estimates",
+   "source": "Investors.com"
   },
   {
-   "headline": "Las acciones de chips se desploman: Intel cae 5.1% y AMD, Qualcomm, Broadcom y Micron pierden entre 2.9% y 5.3%",
-   "headline_en": "Chip stocks slide: Intel drops 5.1% as AMD, Qualcomm, Broadcom and Micron lose 2.9%-5.3%",
-   "source": "Reuters"
+   "headline": "Las solicitudes de desempleo en EE.UU. caen inesperadamente a 194,000",
+   "headline_en": "U.S. jobless claims unexpectedly fall to 194,000",
+   "source": "Investors.com"
   },
   {
-   "headline": "El mercado aguarda las solicitudes de desempleo semanales y una agenda cargada de resultados: Spotify, Blackstone, American Airlines y Honeywell",
-   "headline_en": "Market eyes weekly jobless claims and heavy earnings slate: Spotify, Blackstone, American Airlines, Honeywell",
-   "source": "Reuters / TradingView"
-  },
-  {
-   "headline": "El bono a 10 años baja a ~5.08% por huida hacia la seguridad; el bitcoin cae 3.4%",
-   "headline_en": "10-year yield dips to ~5.08% in flight to safety; bitcoin falls 3.4%",
-   "source": "Reuters"
+   "headline": "El rendimiento del Tesoro a 10 años cae a 5.04%, mínimo de casi un mes, mientras el bono francés supera el 5%",
+   "headline_en": "10-year Treasury yield falls to 5.04%, a near one-month low, as French bond yield tops 5%",
+   "source": "Barron's"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Trump dice que Washington no negocia con Teherán mientras EE.UU. e Israel planean nuevos ataques a Irán tras las elecciones de noviembre",
+  "headline_en": "Trump says Washington is not negotiating with Tehran as the U.S. and Israel plan new strikes on Iran after November midterms",
+  "source": "Stocktwits",
+  "image": "",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/trump-iran-refinerias-humo-1022.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/trump-iran-mercado-petroleo-1022.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/trump-iran-atril-mapagolfo-1022.jpg"
+  ]
+ }
 }
