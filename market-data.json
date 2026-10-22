@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-10-22T12:30:37.752107+00:00",
+ "updated_at": "2026-10-22T12:32:19.976873+00:00",
  "nq": {
-  "price": 29528.25,
-  "change_points": -478.75,
-  "percent_change": -1.6
+  "price": 29521.75,
+  "change_points": -485.25,
+  "percent_change": -1.62
  },
  "gold": {
-  "price": 4083.6,
-  "change_points": -66.4,
-  "percent_change": -1.6
+  "price": 4080.2,
+  "change_points": -69.8,
+  "percent_change": -1.68
  },
  "oil": {
   "price": 99.32,
@@ -17,34 +17,34 @@
  },
  "headlines": [
   {
-   "headline": "Futuros del Nasdaq caen más de 1% tras los decepcionantes resultados de Tesla y Meta; el petróleo sube",
-   "headline_en": "Nasdaq futures drop over 1% as AI worries resurface after Tesla, Meta earnings; oil climbs",
+   "headline": "Los futuros del Nasdaq caen casi 2% por preocupaciones sobre el gasto en IA tras los resultados de Tesla y Meta",
+   "headline_en": "Nasdaq futures drop nearly 2% as AI spending worries resurface after Tesla and Meta earnings",
    "source": "Reuters"
   },
   {
-   "headline": "El petróleo supera los $112 ante el temor a nuevos ataques de EE.UU. e Israel contra Irán",
-   "headline_en": "Oil tops $112 on escalating Middle East tensions and fears of renewed Iran strikes",
-   "source": "Wall Street Journal"
-  },
-  {
-   "headline": "Meta supera previsiones con ingresos +26%, pero su gasto en IA preocupa; crea nueva clase de acciones sin voto",
-   "headline_en": "Meta beats Q3 views with revenue up 26%, but heavy AI capex worries investors; approves new non-voting shares",
-   "source": "Investor's Business Daily"
-  },
-  {
-   "headline": "Tesla se desploma 5% tras recortar su pronóstico de inversión en IA y robótica",
-   "headline_en": "Tesla slides 5% after cutting full-year capex forecast",
+   "headline": "El crudo Brent supera los $112, cerca de máximos de cinco meses, tras ataques hutíes en Arabia Saudita",
+   "headline_en": "Brent crude tops $112, near five-month high, after Houthi attacks in Saudi Arabia",
    "source": "Reuters"
   },
   {
-   "headline": "Acciones de chips se hunden en el premarket: Intel cae 5.1% y Micron hasta 5.3%",
-   "headline_en": "Chip stocks sink premarket: Intel drops 5.1% as AI spending worries resurface",
+   "headline": "Tesla cae 5.3% tras recortar su pronóstico de gasto de capital; Meta baja 1.9% por nueva emisión de acciones",
+   "headline_en": "Tesla drops 5.3% after cutting annual capex forecast; Meta slips 1.9% on new share plan",
    "source": "Reuters"
   },
   {
-   "headline": "SpaceX y Super Micro impulsaron el repunte del miércoles con sólidos resultados trimestrales",
-   "headline_en": "SpaceX and Super Micro powered Wednesday's tech rally on strong earnings",
-   "source": "Investopedia"
+   "headline": "Las acciones de chips se desploman: Intel cae 5.1% y AMD, Qualcomm, Broadcom y Micron pierden entre 2.9% y 5.3%",
+   "headline_en": "Chip stocks slide: Intel drops 5.1% as AMD, Qualcomm, Broadcom and Micron lose 2.9%-5.3%",
+   "source": "Reuters"
+  },
+  {
+   "headline": "El mercado aguarda las solicitudes de desempleo semanales y una agenda cargada de resultados: Spotify, Blackstone, American Airlines y Honeywell",
+   "headline_en": "Market eyes weekly jobless claims and heavy earnings slate: Spotify, Blackstone, American Airlines, Honeywell",
+   "source": "Reuters / TradingView"
+  },
+  {
+   "headline": "El bono a 10 años baja a ~5.08% por huida hacia la seguridad; el bitcoin cae 3.4%",
+   "headline_en": "10-year yield dips to ~5.08% in flight to safety; bitcoin falls 3.4%",
+   "source": "Reuters"
   }
  ],
  "ultima_hora": null
