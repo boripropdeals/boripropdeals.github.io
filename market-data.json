@@ -1,24 +1,24 @@
 {
- "updated_at": "2026-10-22T15:32:33.648890+00:00",
+ "updated_at": "2026-10-22T15:33:25.108970+00:00",
  "nq": {
-  "price": 29329.25,
-  "change_points": -677.75,
-  "percent_change": -2.26
+  "price": 29338.75,
+  "change_points": -668.25,
+  "percent_change": -2.23
  },
  "gold": {
-  "price": 4071.6,
-  "change_points": -78.4,
-  "percent_change": -1.89
+  "price": 4069.2,
+  "change_points": -80.8,
+  "percent_change": -1.95
  },
  "oil": {
-  "price": 98.1,
-  "change_points": 0.95,
-  "percent_change": 0.98
+  "price": 98.15,
+  "change_points": 1.0,
+  "percent_change": 1.03
  },
  "headlines": [
   {
-   "headline": "Futuros del Nasdaq caen ~2% antes de la apertura: Meta y Tesla reviven el miedo al gasto en IA",
-   "headline_en": "Nasdaq futures drop ~2% premarket: Meta and Tesla revive AI spending fears",
+   "headline": "Nasdaq rumbo a su peor día desde junio: los chips se desploman (-5.7% el índice de semiconductores) por el miedo al gasto en IA",
+   "headline_en": "Nasdaq on track for worst day since June as chip stocks dive on AI spending fears",
    "source": "Barron's"
   },
   {
@@ -27,24 +27,24 @@
    "source": "Barron's"
   },
   {
-   "headline": "Lockheed Martin se dispara en el S&P 500: resultados superan expectativas y EE.UU. ordena más F-35",
-   "headline_en": "Lockheed Martin soars to top of S&P 500 after earnings beat and new F-35 framework deal",
-   "source": "Barron's"
-  },
-  {
-   "headline": "Wall Street abre en rojo: el Nasdaq pierde ~1.5% con las acciones de chips liderando la caída",
-   "headline_en": "Wall Street opens lower: Nasdaq drops ~1.5% as chip stocks lead decline",
+   "headline": "Meta se desploma 6.5% y Tesla recorta su capex 2026: el mercado castiga la disciplina de gasto en IA",
+   "headline_en": "Meta plunges 6.5% as Tesla cuts 2026 capex: markets punish AI spending discipline",
    "source": "Investopedia"
   },
   {
-   "headline": "Rendimiento del Tesoro a 10 años cae al 5.06% mientras el capital huye de los mercados de riesgo",
-   "headline_en": "10-year Treasury yield drops to 5.06% as investors flee risk markets",
+   "headline": "Lockheed Martin lidera el S&P 500: supera estimaciones y EE.UU. ordena más F-35",
+   "headline_en": "Lockheed Martin leads the S&P 500 higher after earnings beat and new F-35 deal",
+   "source": "TradingView News"
+  },
+  {
+   "headline": "Rendimiento del Tesoro a 10 años cae al 5.06%, mínimo en casi un mes, en huida hacia los bonos",
+   "headline_en": "10-year Treasury yield falls to 5.06%, lowest in nearly a month, on flight to safety",
    "source": "Barron's"
   },
   {
-   "headline": "Mercados asiáticos retroceden: el KOSPI de Corea del Sur pierde 3.5% por la incertidumbre geopolítica",
-   "headline_en": "Asian markets retreat: South Korea's KOSPI falls 3.5% on geopolitical uncertainty",
-   "source": "Barron's"
+   "headline": "Mercados asiáticos en rojo: Nikkei -2.3% (¥17.8 billones perdidos en un día) y KOSPI -2.7%",
+   "headline_en": "Asian markets in the red: Nikkei -2.3% (¥17.8 trillion lost in a day) and KOSPI -2.7%",
+   "source": "TradingView News"
   }
  ],
  "ultima_hora": null
