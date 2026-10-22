@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-10-22T19:02:34.156809+00:00",
+ "updated_at": "2026-10-22T19:03:00.806341+00:00",
  "nq": {
-  "price": 29096.0,
-  "change_points": -911.0,
-  "percent_change": -3.04
+  "price": 29097.25,
+  "change_points": -909.75,
+  "percent_change": -3.03
  },
  "gold": {
   "price": 4047.5,
@@ -17,29 +17,29 @@
  },
  "headlines": [
   {
-   "headline": "El Nasdaq cae más de 2% mientras se reavivan las preocupaciones sobre el gasto en IA",
-   "headline_en": "Nasdaq Drops Over 2% as AI Spending Concerns Resurface",
-   "source": "The Motley Fool"
+   "headline": "El Nasdaq se hunde 2.5% y rumbo a su peor día desde junio: los chips se desploman por miedo a la burbuja de la IA",
+   "headline_en": "Nasdaq on track for worst day since June as chip stocks dive on AI fears",
+   "source": "Barron’s"
   },
   {
-   "headline": "Petróleo se dispara: Brent supera los $112 ante tensiones con Irán y ataques hutíes",
-   "headline_en": "Oil Surges: Brent Tops $112 on Iran Tensions and Houthi Attacks",
-   "source": "Stocktwits"
-  },
-  {
-   "headline": "Meta se desploma 6% a pesar de superar ingresos tras resultados del tercer trimestre",
-   "headline_en": "Meta Plunges 6% Despite Beating Revenue on Q3 Results",
-   "source": "TradingView"
-  },
-  {
-   "headline": "Lam Research advierte de restricciones de suministro y arrastra a los semiconductores",
-   "headline_en": "Lam Research Warns of Supply Constraints, Dragging Semiconductors Lower",
+   "headline": "El petróleo se dispara: el Brent supera los $112 tras ataques en Arabia Saudita y reportes de planes de ataque a Irán",
+   "headline_en": "Oil prices surge on Middle East escalations; Brent jumps above $112",
    "source": "Investopedia"
   },
   {
-   "headline": "Solicitudes de desempleo en EE.UU. caen a mínimo de tres meses",
-   "headline_en": "U.S. Jobless Claims Fall to Three-Month Low",
-   "source": "The Motley Fool"
+   "headline": "Meta cae 7% tras elevar su gasto en IA a $135 mil millones; Tesla recorta su inversión de 2026",
+   "headline_en": "Meta sinks 7% on higher AI spending forecast; Tesla slips after cutting 2026 capex",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "El rendimiento del bono a 10 años cae por debajo del 5% mientras los inversores huyen del riesgo",
+   "headline_en": "Treasury yields drop as investors flee risk; 10-year sinks below 5%",
+   "source": "Barron’s"
+  },
+  {
+   "headline": "Ni los récords salvan: Lam Research cae 8.4% e IBM 5.7% pese a superar las expectativas",
+   "headline_en": "Earnings beats aren’t enough: Lam Research drops 8.4%, IBM falls 5.7%",
+   "source": "TradingView"
   }
  ],
  "ultima_hora": null
