@@ -1,44 +1,49 @@
 {
- "updated_at": "2026-10-22T20:32:33.509096+00:00",
+ "updated_at": "2026-10-22T20:34:25.694585+00:00",
  "nq": {
-  "price": 29143.75,
-  "change_points": -863.25,
-  "percent_change": -2.88
+  "price": 29146.25,
+  "change_points": -860.75,
+  "percent_change": -2.87
  },
  "gold": {
-  "price": 4038.6,
-  "change_points": -111.4,
+  "price": 4038.7,
+  "change_points": -111.3,
   "percent_change": -2.68
  },
  "oil": {
-  "price": 99.27,
-  "change_points": 2.12,
-  "percent_change": 2.18
+  "price": 99.26,
+  "change_points": 2.11,
+  "percent_change": 2.17
  },
  "headlines": [
   {
-   "headline": "Wall Street cae: el Nasdaq se hunde más de 2% por el miedo al gasto en IA",
-   "headline_en": "Tech Weakness Drags Nasdaq Lower as AI Spending Concerns Mount",
+   "headline": "Wall Street cae: el Nasdaq se desploma más del 2% ante el temor al gasto en IA",
+   "headline_en": "Wall Street Sinks: Nasdaq Plunges Over 2% on AI Spending Fears",
    "source": "The Motley Fool"
   },
   {
-   "headline": "Meta cae 5% pese a superar ingresos: su EPS decepciona por un acuerdo legal de $9,900 millones",
-   "headline_en": "Meta Slides 5% Despite Revenue Beat as EPS Misses on $9.9B Legal Settlement",
+   "headline": "Meta se desploma más del 6% pese a superar ingresos; su utilidad decepciona por un acuerdo legal de $9,900 millones",
+   "headline_en": "Meta Tumbles Over 6% Despite Revenue Beat as Earnings Disappoint on $9.9B Legal Settlement",
    "source": "TipRanks"
   },
   {
-   "headline": "Tesla supera ingresos y utilidades del tercer trimestre: ingresos de $28,050 millones y EPS de $0.48",
-   "headline_en": "Tesla Tops Q3 Revenue and EPS Estimates at $28.05B and 48 Cents",
+   "headline": "Tesla supera ingresos y utilidades del tercer trimestre pero sus acciones caen; recorta su guía de inversión 2026",
+   "headline_en": "Tesla Tops Q3 Revenue and Earnings but Shares Fall; Cuts 2026 Capex Guidance",
    "source": "TipRanks"
   },
   {
-   "headline": "El petróleo Brent supera los $111 por tensiones con Irán; el WTI roza los $100",
-   "headline_en": "Brent Crude Tops $111, WTI Nears $100 on Rising Iran Tensions",
-   "source": "Stocktwits"
+   "headline": "El petróleo se dispara: el Brent supera los $112 y el WTI roza los $100 por la escalada con Irán",
+   "headline_en": "Oil Surges: Brent Tops $112 and WTI Nears $100 on Iran Escalation",
+   "source": "Stocktwits / TradingView"
   },
   {
-   "headline": "Solicitudes de desempleo en EE.UU. caen a su mínimo de tres meses",
-   "headline_en": "US Jobless Claims Fall to Three-Month Low",
+   "headline": "Lam Research se desploma 8% tras una guía débil; los semiconductores arrastran al sector tech",
+   "headline_en": "Lam Research Plunges 8% on Weak Outlook; Chipmakers Drag Tech Lower",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "Las solicitudes de desempleo en EE. UU. caen a su mínimo de tres meses",
+   "headline_en": "U.S. Jobless Claims Fall to Three-Month Low",
    "source": "The Motley Fool"
   }
  ],
