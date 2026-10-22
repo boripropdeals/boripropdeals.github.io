@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-22T11:32:35.015159+00:00",
+ "updated_at": "2026-10-22T11:33:00.464857+00:00",
  "nq": {
-  "price": 29457.5,
-  "change_points": -549.5,
+  "price": 29459.0,
+  "change_points": -548.0,
   "percent_change": -1.83
  },
  "gold": {
-  "price": 4083.5,
-  "change_points": -66.5,
+  "price": 4083.7,
+  "change_points": -66.3,
   "percent_change": -1.6
  },
  "oil": {
-  "price": 99.17,
-  "change_points": 2.02,
-  "percent_change": 2.08
+  "price": 99.09,
+  "change_points": 1.94,
+  "percent_change": 2.0
  },
  "headlines": [
   {
-   "headline": "Futuros del Nasdaq caen más de 1% mientras resurgen las dudas sobre la IA y el petróleo sube",
-   "headline_en": "Nasdaq futures drop over 1% as AI worries resurface, oil climbs",
-   "source": "Reuters"
+   "headline": "Futuros tecnológicos caen con fuerza: el Nasdaq 100 baja 1.8% mientras resurgen los temores por el gasto en IA tras Tesla y Meta",
+   "headline_en": "Tech futures tumble as AI spending fears reignite after Tesla, Meta earnings; Nasdaq 100 down 1.8%",
+   "source": "Barron's"
   },
   {
-   "headline": "Wall Street cierra en verde: Dow +0.7%, Nasdaq +1.1% y S&P 500 +0.6% tras sólidos resultados del Q3",
-   "headline_en": "Wall Street closes higher: Dow +0.7%, Nasdaq +1.1%, S&P 500 +0.6% on strong Q3 earnings",
-   "source": "Zacks"
+   "headline": "El petróleo se dispara: el Brent sube más de 3% y supera los $112, máximo de 5 meses, tras los planes de EE.UU. e Israel contra Irán",
+   "headline_en": "Oil surges: Brent jumps over 3% above $112, a five-month high, on reports of US-Israel Iran strike plans",
+   "source": "Investopedia"
   },
   {
-   "headline": "El Brent sube más de 3% hasta los $112, cerca de máximos de 5 meses, tras nuevos ataques hutíes en Arabia Saudita",
-   "headline_en": "Brent crude climbs over 3% to $112, near five-month high, after Houthi attacks in Saudi Arabia",
-   "source": "Reuters"
+   "headline": "Los rendimientos de los bonos del Tesoro caen a mínimos de casi un mes mientras los inversores huyen del riesgo",
+   "headline_en": "Treasury yields drop to near one-month lows as investors flee risk",
+   "source": "Barron's"
   },
   {
-   "headline": "Tesla cae 5.3% tras recortar su pronóstico de gasto de capital; Meta baja 1.9% tras emitir acciones para financiar su apuesta en IA",
-   "headline_en": "Tesla falls 5.3% after cutting capex forecast; Meta slips 1.9% after issuing shares to fund AI push",
-   "source": "Reuters"
+   "headline": "Wall Street cerró ayer en verde: el Nasdaq +1.1% y el Dow +350 impulsados por SpaceX (+8%) y Super Micro (+12.7%)",
+   "headline_en": "Wall Street closed higher Wednesday: Nasdaq +1.1%, Dow +350 led by SpaceX (+8%) and Super Micro (+12.7%)",
+   "source": "Investors.com"
   },
   {
-   "headline": "Jornada de aversión al riesgo: petróleo al alza, dudas sobre la IA y tensión en Francia con el bono a 10 años sobre el 5%",
-   "headline_en": "Risk-off day: oil, tech and France as 10-year yields top 5%, widest spread vs Germany since 2011",
-   "source": "Reuters"
+   "headline": "El bono francés a 10 años supera el 5% por primera vez desde 2002; el KOSPI surcoreano cae 3.5%",
+   "headline_en": "French 10-year yield tops 5% for first time since 2002; South Korea's KOSPI falls 3.5%",
+   "source": "Barron's"
   },
   {
-   "headline": "Caen los rendimientos de los bonos del Tesoro mientras los futuros del S&P 500 y el Nasdaq retroceden",
-   "headline_en": "Treasury yields drop as S&P 500 and Nasdaq futures fall",
-   "source": "Barron’s"
+   "headline": "El bitcoin cae a ~$82,000 y las acciones cripto se desploman",
+   "headline_en": "Bitcoin drops to ~$82,000 and crypto stocks tumble",
+   "source": "Investopedia"
   }
  ],
  "ultima_hora": {
