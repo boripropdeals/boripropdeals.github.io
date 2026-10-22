@@ -1,50 +1,45 @@
 {
- "updated_at": "2026-10-22T18:31:12.616135+00:00",
+ "updated_at": "2026-10-22T18:32:36.847521+00:00",
  "nq": {
-  "price": 29201.5,
-  "change_points": -805.5,
-  "percent_change": -2.68
+  "price": 29186.5,
+  "change_points": -820.5,
+  "percent_change": -2.73
  },
  "gold": {
-  "price": 4054.5,
-  "change_points": -95.5,
-  "percent_change": -2.3
+  "price": 4054.8,
+  "change_points": -95.2,
+  "percent_change": -2.29
  },
  "oil": {
-  "price": 99.22,
-  "change_points": 2.07,
-  "percent_change": 2.13
+  "price": 99.3,
+  "change_points": 2.15,
+  "percent_change": 2.21
  },
  "headlines": [
   {
-   "headline": "Nasdaq y S&P 500 se desploman este jueves, arrastrados por la venta masiva de tecnológicas y chips tras los resultados de Meta y Tesla",
-   "headline_en": "Nasdaq, S&P 500 plunge Thursday as tech and chip stocks sell off after Meta and Tesla earnings",
-   "source": "Investopedia"
+   "headline": "El Nasdaq cae más de 2% mientras se reavivan las preocupaciones sobre el gasto en IA",
+   "headline_en": "Nasdaq Drops Over 2% as AI Spending Concerns Resurface",
+   "source": "The Motley Fool"
   },
   {
-   "headline": "Brent supera los $112, máximo de 5 meses, y Trump culpa hoy a Irán en Truth Social de inflar los precios del petróleo antes de las midterms",
-   "headline_en": "Brent tops $112, five-month high, as Trump blames Iran on Truth Social for pushing oil prices higher ahead of the midterms",
+   "headline": "Petróleo se dispara: Brent supera los $112 ante tensiones con Irán y ataques hutíes",
+   "headline_en": "Oil Surges: Brent Tops $112 on Iran Tensions and Houthi Attacks",
    "source": "Stocktwits"
   },
   {
-   "headline": "El bono del Tesoro a 10 años cae a ~5.07%, mínimo de casi un mes; el bono francés supera el 5% por primera vez desde 2002",
-   "headline_en": "10-year Treasury yield drops to ~5.07%, near one-month low; French 10-year tops 5% for the first time since 2002",
-   "source": "Barron's"
-  },
-  {
-   "headline": "Resurgen los temores por el gasto en IA: Meta eleva su guía de capex, Tesla recorta la suya de 2026 y CoreWeave toca mínimos de 17 meses",
-   "headline_en": "AI spending fears resurface: Meta raises capex guidance, Tesla cuts its 2026 forecast and CoreWeave hits 17-month lows",
+   "headline": "Meta se desploma 6% a pesar de superar ingresos tras resultados del tercer trimestre",
+   "headline_en": "Meta Plunges 6% Despite Beating Revenue on Q3 Results",
    "source": "TradingView"
   },
   {
-   "headline": "Asia se desploma por las tensiones en Medio Oriente (KOSPI −4%, Hang Seng Tech −5%) mientras EE. UU. ordena la salida de personal no esencial de Arabia Saudita",
-   "headline_en": "Asian stocks tumble on Middle East tensions (Kospi −4%, Hang Seng Tech −5%) as the U.S. orders non-emergency personnel out of Saudi Arabia",
-   "source": "WSJ"
+   "headline": "Lam Research advierte de restricciones de suministro y arrastra a los semiconductores",
+   "headline_en": "Lam Research Warns of Supply Constraints, Dragging Semiconductors Lower",
+   "source": "Investopedia"
   },
   {
-   "headline": "Temporada de resultados: IBM cae pese a batir estimados, Lam Research se desploma 8.5% tras su récord; Intel y Ford reportan al cierre",
-   "headline_en": "Earnings: IBM drops despite beating estimates, Lam Research plunges 8.5% after record quarter; Intel and Ford report after the close",
-   "source": "TradingView"
+   "headline": "Solicitudes de desempleo en EE.UU. caen a mínimo de tres meses",
+   "headline_en": "U.S. Jobless Claims Fall to Three-Month Low",
+   "source": "The Motley Fool"
   }
  ],
  "ultima_hora": null
