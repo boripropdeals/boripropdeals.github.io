@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-10-22T20:34:25.694585+00:00",
+ "updated_at": "2026-10-22T20:34:35.141861+00:00",
  "nq": {
-  "price": 29146.25,
-  "change_points": -860.75,
-  "percent_change": -2.87
+  "price": 29142.0,
+  "change_points": -865.0,
+  "percent_change": -2.88
  },
  "gold": {
   "price": 4038.7,
