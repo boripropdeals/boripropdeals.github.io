@@ -1,61 +1,51 @@
 {
- "updated_at": "2026-10-22T12:02:32.384320+00:00",
+ "updated_at": "2026-10-22T12:02:49.963921+00:00",
  "nq": {
-  "price": 29519.75,
-  "change_points": -487.25,
-  "percent_change": -1.62
+  "price": 29516.25,
+  "change_points": -490.75,
+  "percent_change": -1.64
  },
  "gold": {
-  "price": 4076.7,
-  "change_points": -73.3,
-  "percent_change": -1.77
+  "price": 4077.5,
+  "change_points": -72.5,
+  "percent_change": -1.75
  },
  "oil": {
-  "price": 99.45,
-  "change_points": 2.3,
-  "percent_change": 2.37
+  "price": 99.48,
+  "change_points": 2.33,
+  "percent_change": 2.4
  },
  "headlines": [
   {
-   "headline": "Futuros tecnológicos caen con fuerza: el Nasdaq 100 baja 1.8% mientras resurgen los temores por el gasto en IA tras Tesla y Meta",
-   "headline_en": "Tech futures tumble as AI spending fears reignite after Tesla, Meta earnings; Nasdaq 100 down 1.8%",
-   "source": "Barron's"
+   "headline": "Futuros del Nasdaq caen más de 1% tras los decepcionantes resultados de Tesla y Meta; el petróleo sube",
+   "headline_en": "Nasdaq futures drop over 1% as AI worries resurface after Tesla, Meta earnings; oil climbs",
+   "source": "Reuters"
   },
   {
-   "headline": "El petróleo se dispara: el Brent sube más de 3% y supera los $112, máximo de 5 meses, tras los planes de EE.UU. e Israel contra Irán",
-   "headline_en": "Oil surges: Brent jumps over 3% above $112, a five-month high, on reports of US-Israel Iran strike plans",
-   "source": "Investopedia"
+   "headline": "El petróleo supera los $112 ante el temor a nuevos ataques de EE.UU. e Israel contra Irán",
+   "headline_en": "Oil tops $112 on escalating Middle East tensions and fears of renewed Iran strikes",
+   "source": "Wall Street Journal"
   },
   {
-   "headline": "Los rendimientos de los bonos del Tesoro caen a mínimos de casi un mes mientras los inversores huyen del riesgo",
-   "headline_en": "Treasury yields drop to near one-month lows as investors flee risk",
-   "source": "Barron's"
+   "headline": "Meta supera previsiones con ingresos +26%, pero su gasto en IA preocupa; crea nueva clase de acciones sin voto",
+   "headline_en": "Meta beats Q3 views with revenue up 26%, but heavy AI capex worries investors; approves new non-voting shares",
+   "source": "Investor's Business Daily"
   },
   {
-   "headline": "Wall Street cerró ayer en verde: el Nasdaq +1.1% y el Dow +350 impulsados por SpaceX (+8%) y Super Micro (+12.7%)",
-   "headline_en": "Wall Street closed higher Wednesday: Nasdaq +1.1%, Dow +350 led by SpaceX (+8%) and Super Micro (+12.7%)",
-   "source": "Investors.com"
+   "headline": "Tesla se desploma 5% tras recortar su pronóstico de inversión en IA y robótica",
+   "headline_en": "Tesla slides 5% after cutting full-year capex forecast",
+   "source": "Reuters"
   },
   {
-   "headline": "El bono francés a 10 años supera el 5% por primera vez desde 2002; el KOSPI surcoreano cae 3.5%",
-   "headline_en": "French 10-year yield tops 5% for first time since 2002; South Korea's KOSPI falls 3.5%",
-   "source": "Barron's"
+   "headline": "Acciones de chips se hunden en el premarket: Intel cae 5.1% y Micron hasta 5.3%",
+   "headline_en": "Chip stocks sink premarket: Intel drops 5.1% as AI spending worries resurface",
+   "source": "Reuters"
   },
   {
-   "headline": "El bitcoin cae a ~$82,000 y las acciones cripto se desploman",
-   "headline_en": "Bitcoin drops to ~$82,000 and crypto stocks tumble",
+   "headline": "SpaceX y Super Micro impulsaron el repunte del miércoles con sólidos resultados trimestrales",
+   "headline_en": "SpaceX and Super Micro powered Wednesday's tech rally on strong earnings",
    "source": "Investopedia"
   }
  ],
- "ultima_hora": {
-  "headline": "EE.UU. e Israel planifican nuevos ataques 'cortos pero intensivos' contra Irán tras las elecciones de medio término",
-  "headline_en": "US and Israel plan 'short but intensive' renewed strikes on Iran after the midterm elections",
-  "source": "The New York Times",
-  "image": "",
-  "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-22-trump-iran-strike-plans-carriers.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-22-trump-iran-strike-plans-oil-refinery.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-22-trump-iran-strike-plans-strategy.webp"
-  ]
- }
+ "ultima_hora": null
 }
