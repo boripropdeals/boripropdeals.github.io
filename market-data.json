@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T21:32:32.879721+00:00",
+ "updated_at": "2026-10-22T21:33:34.060311+00:00",
  "nq": {
   "price": 29094.75,
   "change_points": -912.25,
@@ -17,45 +17,35 @@
  },
  "headlines": [
   {
-   "headline": "Wall Street se desploma: el Nasdaq cae 2.6% por temor al gasto en IA",
-   "headline_en": "Wall Street sells off: Nasdaq plunges 2.6% on AI spending fears",
+   "headline": "El Nasdaq cae 2.6%, su peor día desde junio, por el temor a un gasto insostenible en IA",
+   "headline_en": "Nasdaq slides 2.6% in worst day since June as AI spending fears rattle tech",
    "source": "Wall Street Journal"
   },
   {
-   "headline": "Meta cae 7% tras resultados: flujo de caja libre negativo por primera vez desde 2012",
-   "headline_en": "Meta drops 7% after earnings: negative free cash flow for first time since 2012",
+   "headline": "Meta se desploma 7% tras anunciar miles de millones más en gasto de IA y flujo de caja negativo",
+   "headline_en": "Meta sinks 7% after disclosing billions more in AI spending and negative free cash flow",
    "source": "Wall Street Journal"
   },
   {
-   "headline": "El bono a 10 años baja de 5% por primera vez en casi un mes; inversores buscan refugio",
-   "headline_en": "10-year Treasury yield drops below 5% for first time in nearly a month as investors seek safety",
-   "source": "Wall Street Journal"
+   "headline": "El Brent supera los $112 por la escalada de tensiones con Irán y un ataque hutí cerca de un campo de Aramco",
+   "headline_en": "Brent crude tops $112 as Iran tensions escalate after Houthi drone strike near Aramco field",
+   "source": "TradingNews"
   },
   {
-   "headline": "El petróleo sube más de 2%: el Brent supera los $111 por ataques en Arabia Saudita y riesgos con Irán",
-   "headline_en": "Oil prices rise over 2% as Brent climbs above $111 on Saudi attacks and U.S.-Iran risks",
-   "source": "Dow Jones"
+   "headline": "Huida a los bonos: el rendimiento del Tesoro a 10 años cae por debajo del 5%",
+   "headline_en": "Flight to safety sends 10-year Treasury yield below 5%",
+   "source": "Barron's"
   },
   {
-   "headline": "La crisis de deuda de Francia se profundiza: inversores extranjeros buscan la salida",
-   "headline_en": "France debt crisis deepens as foreign investors look for the exit",
-   "source": "Dow Jones"
+   "headline": "Las solicitudes de desempleo caen inesperadamente a 194,000; la Fed mantendría las tasas la próxima semana",
+   "headline_en": "Initial jobless claims unexpectedly fall to 194,000; Fed expected to hold rates next week",
+   "source": "Reuters / TradingView"
   },
   {
-   "headline": "Los semiconductores se hunden: el índice SOXX cae 6.5% arrastrado por Nvidia y AMD",
-   "headline_en": "Semiconductors tumble: SOXX index drops 6.5% dragged by Nvidia and AMD",
-   "source": "Investopedia"
+   "headline": "Los semiconductores se desploman: el índice PHLX cae 6.7% con todas sus acciones en rojo",
+   "headline_en": "Chip stocks pummeled: PHLX Semiconductor index tumbles 6.7% with every component lower",
+   "source": "Barron's"
   }
  ],
- "ultima_hora": {
-  "headline": "Trump llamó a Musk y le pidió levantar las restricciones de Starlink en Ucrania",
-  "headline_en": "Trump called Musk and asked him to lift Ukraine Starlink restrictions",
-  "source": "Dow Jones",
-  "image": "",
-  "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-22-trump-starlink-musk-ucrania-constelacion.jpg",
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-22-trump-starlink-musk-ucrania-antenas.jpg",
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-22-trump-starlink-musk-ucrania-satelite.jpg"
-  ]
- }
+ "ultima_hora": null
 }
