@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-22T15:00:36.709419+00:00",
+ "updated_at": "2026-10-22T15:02:27.123161+00:00",
  "nq": {
-  "price": 29259.25,
-  "change_points": -747.75,
-  "percent_change": -2.49
+  "price": 29276.0,
+  "change_points": -731.0,
+  "percent_change": -2.44
  },
  "gold": {
-  "price": 4077.6,
-  "change_points": -72.4,
-  "percent_change": -1.74
+  "price": 4078.6,
+  "change_points": -71.4,
+  "percent_change": -1.72
  },
  "oil": {
-  "price": 98.38,
-  "change_points": 1.23,
-  "percent_change": 1.27
+  "price": 98.35,
+  "change_points": 1.2,
+  "percent_change": 1.24
  },
  "headlines": [
   {
-   "headline": "Los futuros del Nasdaq caen casi 2%: Tesla, Meta y los chips se desploman tras resultados que reavivan las dudas sobre el gasto en IA",
-   "headline_en": "Nasdaq futures slide nearly 2% as Tesla, Meta and chip stocks tumble on renewed AI spending worries",
-   "source": "Reuters"
+   "headline": "Futuros del Nasdaq caen ~2% antes de la apertura: Meta y Tesla reviven el miedo al gasto en IA",
+   "headline_en": "Nasdaq futures drop ~2% premarket: Meta and Tesla revive AI spending fears",
+   "source": "Barron's"
   },
   {
-   "headline": "El Brent supera los $112, máximo de cinco meses, tras nuevos ataques hutíes en Arabia Saudita",
-   "headline_en": "Brent crude tops $112, near five-month high, after fresh Houthi attacks in Saudi Arabia",
-   "source": "Reuters"
+   "headline": "Brent supera los $112 por barril: ataques en Arabia Saudita y planes de ataque contra Irán tensan el petróleo",
+   "headline_en": "Brent tops $112: Saudi attacks and reported US-Israel strike plans on Iran jolt oil markets",
+   "source": "Barron's"
   },
   {
-   "headline": "Trump dice que EE.UU. no negocia con Teherán; EE.UU. e Israel preparan planes de ataque a Irán para después de las elecciones",
-   "headline_en": "Trump says Washington not negotiating with Tehran; U.S., Israel draft Iran strike plans for after midterms",
-   "source": "The New York Times"
+   "headline": "Lockheed Martin se dispara en el S&P 500: resultados superan expectativas y EE.UU. ordena más F-35",
+   "headline_en": "Lockheed Martin soars to top of S&P 500 after earnings beat and new F-35 framework deal",
+   "source": "Barron's"
   },
   {
-   "headline": "SpaceX reporta su primera ganancia como empresa pública y Anthropic podría presentar su S-1 el viernes",
-   "headline_en": "SpaceX posts first profit as a public company; Anthropic could file S-1 as soon as Friday",
-   "source": "CNBC"
-  },
-  {
-   "headline": "Bitcoin cae 3.4% a $81,600 y el bono a 10 años baja al 5.05% en jornada de aversión al riesgo",
-   "headline_en": "Bitcoin drops 3.4% to $81,600; 10-year Treasury yield falls to 5.05% in risk-off session",
+   "headline": "Wall Street abre en rojo: el Nasdaq pierde ~1.5% con las acciones de chips liderando la caída",
+   "headline_en": "Wall Street opens lower: Nasdaq drops ~1.5% as chip stocks lead decline",
    "source": "Investopedia"
   },
   {
-   "headline": "Jornada cargada de resultados: Spotify, Blackstone, American Airlines, Honeywell y Western Digital reportan hoy",
-   "headline_en": "Busy earnings day: Spotify, Blackstone, American Airlines, Honeywell, Western Digital report today",
-   "source": "Benzinga"
+   "headline": "Rendimiento del Tesoro a 10 años cae al 5.06% mientras el capital huye de los mercados de riesgo",
+   "headline_en": "10-year Treasury yield drops to 5.06% as investors flee risk markets",
+   "source": "Barron's"
+  },
+  {
+   "headline": "Mercados asiáticos retroceden: el KOSPI de Corea del Sur pierde 3.5% por la incertidumbre geopolítica",
+   "headline_en": "Asian markets retreat: South Korea's KOSPI falls 3.5% on geopolitical uncertainty",
+   "source": "Barron's"
   }
  ],
  "ultima_hora": null
