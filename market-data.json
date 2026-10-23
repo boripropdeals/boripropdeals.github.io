@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T21:36:33.533211+00:00",
+ "updated_at": "2026-10-23T21:38:34.170920+00:00",
  "nq": {
   "price": 29175.0,
   "change_points": 33.0,
@@ -17,34 +17,34 @@
  },
  "headlines": [
   {
-   "headline": "El Dow cierra la semana al alza a pesar del desplome del viernes; el petróleo sube por tensiones en Medio Oriente; Nasdaq y S&P 500 terminan en rojo",
-   "headline_en": "Dow Ends Higher for Week Despite Tumbling Friday as Oil Prices Rise on Middle East Tensions; Nasdaq, S&P 500 Close Lower",
-   "source": "Investopedia"
+   "headline": "El petróleo se dispara: el WTI sube 3.8% a $103 y el Brent toca $117 por la escalada en Medio Oriente",
+   "headline_en": "Oil surges: WTI climbs 3.8% to $103 and Brent hits $117 as Middle East tensions escalate",
+   "source": "Motley Fool"
   },
   {
-   "headline": "El Nasdaq cae al desvanecerse el rebote de la IA tras la liquidación del jueves",
-   "headline_en": "Nasdaq Falls as AI Recovery Quickly Fades After Selloff",
-   "source": "Barron's"
+   "headline": "El Dow cae 1.23% al cierre del viernes; Nasdaq y S&P 500 terminan la semana en rojo tras la venta masiva de IA",
+   "headline_en": "Dow drops 1.23% at the close; Nasdaq and S&P 500 end the week in the red after AI selloff",
+   "source": "StockMarketWatch"
   },
   {
-   "headline": "El petróleo Brent roza los $115 por las tensiones en Medio Oriente",
-   "headline_en": "Oil Surges Toward $115 Amid Escalating Middle East Tensions",
-   "source": "CryptoRank"
+   "headline": "Crown Castle salta 12% por el interés de SpaceX en sus torres; AT&T y las telecos bajo presión",
+   "headline_en": "Crown Castle jumps 12% as SpaceX seeks its cell tower sites; AT&T and telcos under pressure",
+   "source": "Motley Fool"
   },
   {
-   "headline": "La CFTC investiga operaciones sospechosas de petróleo en torno a la guerra de EE.UU. con Irán",
-   "headline_en": "CFTC Probing Suspicious Oil Trading Around U.S. War in Iran",
-   "source": "TradingView"
+   "headline": "Las acciones de ciberseguridad suben: Palo Alto, CrowdStrike y Okta ganan ante una vulnerabilidad masiva en la web",
+   "headline_en": "Cybersecurity stocks climb: Palo Alto, CrowdStrike and Okta gain amid massive web vulnerability",
+   "source": "Motley Fool"
   },
   {
-   "headline": "Meta cae 7% y CoreWeave se hunde 10% mientras crecen las dudas sobre el gasto en IA",
-   "headline_en": "Meta Falls 7%, CoreWeave Sinks 10% as AI Spending Fears Mount",
-   "source": "CoinCentral"
+   "headline": "American Express cae 3.7% tras anunciar el recorte del 5% de su plantilla",
+   "headline_en": "American Express falls 3.7% after announcing a 5% workforce cut",
+   "source": "Global Markets Close"
   },
   {
-   "headline": "El rendimiento del bono a 10 años registra su mayor caída diaria desde marzo de 2023",
-   "headline_en": "10-Year Treasury Yield Posts Largest Daily Drop Since March 2023",
-   "source": "Barron's"
+   "headline": "El bono a 10 años vuelve al 5% y las apuestas de un alza de la Fed el 28-oct se duplican",
+   "headline_en": "10-year Treasury yield returns to 5% as bets on a Fed hike at the Oct 28 meeting double",
+   "source": "TipRanks"
   }
  ],
  "ultima_hora": {
