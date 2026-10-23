@@ -1,61 +1,51 @@
 {
- "updated_at": "2026-10-23T15:34:35.664498+00:00",
+ "updated_at": "2026-10-23T15:34:47.023737+00:00",
  "nq": {
-  "price": 29228.25,
-  "change_points": 86.25,
-  "percent_change": 0.3
+  "price": 29245.25,
+  "change_points": 103.25,
+  "percent_change": 0.35
  },
  "gold": {
-  "price": 4009.3,
-  "change_points": -51.1,
-  "percent_change": -1.26
+  "price": 4010.5,
+  "change_points": -49.9,
+  "percent_change": -1.23
  },
  "oil": {
-  "price": 102.05,
-  "change_points": 2.58,
-  "percent_change": 2.59
+  "price": 102.01,
+  "change_points": 2.54,
+  "percent_change": 2.55
  },
  "headlines": [
   {
-   "headline": "El Nasdaq se desploma 2.6%, su peor día desde junio, por dudas sobre el gasto en IA",
-   "headline_en": "Nasdaq plunges 2.6%, its worst day since June, on AI spending fears",
-   "source": "Share Talk"
+   "headline": "Wall Street cae: el Nasdaq sufre su peor día desde junio por las dudas sobre el gasto en IA",
+   "headline_en": "Wall Street falls: Nasdaq suffers worst day since June on AI spending doubts",
+   "source": "Zacks"
   },
   {
-   "headline": "Futuros de EE. UU. caen de nuevo: el Dow baja en la apertura tras la liquidación tecnológica",
-   "headline_en": "U.S. stock futures fall again after Nasdaq takes a hit on AI spending fears",
-   "source": "Seeking Alpha"
+   "headline": "El petróleo toca máximos de 5 meses: el Brent supera los $116 por temor a nuevos ataques de EE.UU. a Irán",
+   "headline_en": "Oil hits 5-month high: Brent tops $116 on fears of fresh U.S. strikes on Iran",
+   "source": "NY Post"
   },
   {
-   "headline": "El índice de semiconductores de Filadelfia pierde 6.7% ante el escepticismo por la rentabilidad de la IA",
-   "headline_en": "Philadelphia Semiconductor Index drops 6.7% as investors reassess AI infrastructure returns",
-   "source": "Reuters"
+   "headline": "Las semiconductores rebotan tras la liquidación del jueves; persiste la preocupación por el gasto en IA",
+   "headline_en": "Chipmakers bounce after Thursday's rout as AI spending concerns linger",
+   "source": "Investopedia"
   },
   {
-   "headline": "El Brent supera los $114 por tensiones en Oriente Medio: ataques hutíes y riesgo en el suministro",
-   "headline_en": "Brent crude above $114 on Middle East supply concerns as Houthis strike Saudi sites",
-   "source": "Reuters / Morning Bid"
-  },
-  {
-   "headline": "SpaceX buscaría acceso a 80,000 torres celulares: las telecoms caen en preapertura y las torres se disparan",
-   "headline_en": "SpaceX seeks access to 80,000 US cell sites; telecoms slide pre-market while tower stocks jump",
+   "headline": "SpaceX planea un servicio inalámbrico nacional: las acciones de torres se disparan y las telecos caen",
+   "headline_en": "SpaceX eyes nationwide wireless service: tower stocks surge, carriers tumble",
    "source": "Bloomberg"
   },
   {
-   "headline": "El rendimiento del bono a 10 años baja de 5% antes de la decisión de la Fed del próximo miércoles",
-   "headline_en": "10-year Treasury yield falls below 5% ahead of next Wednesday's Fed decision",
-   "source": "CAMS"
+   "headline": "La Fed decide el próximo miércoles: hoy salen datos de actividad y confianza del consumidor",
+   "headline_en": "Fed decision due Wednesday: business activity and consumer sentiment data out today",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "American Express eleva su previsión de ganancias; Deckers se desploma tras resultados débiles",
+   "headline_en": "American Express raises profit forecast; Deckers plunges on weak earnings",
+   "source": "Investopedia"
   }
  ],
- "ultima_hora": {
-  "headline": "Buque con diésel ruso pone rumbo a EE. UU. tras el acuerdo Trump-Putin: primera importación desde la prohibición de 2022",
-  "headline_en": "Tanker with Russian diesel signals US port after Trump-Putin deal — first US import since the 2022 ban",
-  "source": "Bloomberg Law",
-  "image": "",
-  "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-23-trump-putin-diesel-tanquero.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-23-trump-putin-diesel-surtidor.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-23-trump-putin-diesel-refineria.webp"
-  ]
- }
+ "ultima_hora": null
 }
