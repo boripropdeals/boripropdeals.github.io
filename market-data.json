@@ -1,51 +1,61 @@
 {
- "updated_at": "2026-10-23T14:34:33.503307+00:00",
+ "updated_at": "2026-10-23T14:35:39.180845+00:00",
  "nq": {
-  "price": 29129.5,
-  "change_points": -12.5,
-  "percent_change": -0.04
+  "price": 29133.0,
+  "change_points": -9.0,
+  "percent_change": -0.03
  },
  "gold": {
-  "price": 4004.8,
-  "change_points": -55.6,
-  "percent_change": -1.37
+  "price": 4008.6,
+  "change_points": -51.8,
+  "percent_change": -1.28
  },
  "oil": {
-  "price": 102.3,
-  "change_points": 2.83,
-  "percent_change": 2.85
+  "price": 102.2,
+  "change_points": 2.73,
+  "percent_change": 2.74
  },
  "headlines": [
   {
-   "headline": "El Nasdaq pausa la venta masiva de chips de IA tras su peor día desde junio; los futuros se estabilizan",
-   "headline_en": "Nasdaq futures steady as AI selloff pauses after worst day since June",
-   "source": "Wall Street Journal"
+   "headline": "El Nasdaq se desploma 2.6%, su peor día desde junio, por dudas sobre el gasto en IA",
+   "headline_en": "Nasdaq plunges 2.6%, its worst day since June, on AI spending fears",
+   "source": "Share Talk"
   },
   {
-   "headline": "El Brent supera los $114 por tensiones EE. UU.–Irán; Washington prepara opciones militares y Teherán promete represalias",
-   "headline_en": "Brent tops $114 on US-Iran tensions as US weighs military options, Iran vows retaliation",
-   "source": "Wall Street Journal"
+   "headline": "Futuros de EE. UU. caen de nuevo: el Dow baja en la apertura tras la liquidación tecnológica",
+   "headline_en": "U.S. stock futures fall again after Nasdaq takes a hit on AI spending fears",
+   "source": "Seeking Alpha"
   },
   {
-   "headline": "Meta, Nvidia y Broadcom lideran la caída de semiconductores; Moderna se desploma casi 18%",
-   "headline_en": "Chip stocks hammered as Meta, Nvidia, Broadcom sink; Moderna plunges nearly 18%",
-   "source": "Investor's Business Daily"
+   "headline": "El índice de semiconductores de Filadelfia pierde 6.7% ante el escepticismo por la rentabilidad de la IA",
+   "headline_en": "Philadelphia Semiconductor Index drops 6.7% as investors reassess AI infrastructure returns",
+   "source": "Reuters"
   },
   {
-   "headline": "El bono a 10 años cae por debajo del 5% en su mayor desplome diario del año; bitcoin retrocede a $81,300",
-   "headline_en": "10-year Treasury yield plunges below 5% in biggest daily drop of the year; bitcoin falls to $81,300",
-   "source": "Investor's Business Daily"
+   "headline": "El Brent supera los $114 por tensiones en Oriente Medio: ataques hutíes y riesgo en el suministro",
+   "headline_en": "Brent crude above $114 on Middle East supply concerns as Houthis strike Saudi sites",
+   "source": "Reuters / Morning Bid"
   },
   {
-   "headline": "Asia cierra al alza (Hang Seng +0.8%) mientras Europa retrocede por el encarecimiento de la energía",
-   "headline_en": "Asian stocks end higher while European shares slip as energy prices surge",
-   "source": "Wall Street Journal"
+   "headline": "SpaceX buscaría acceso a 80,000 torres celulares: las telecoms caen en preapertura y las torres se disparan",
+   "headline_en": "SpaceX seeks access to 80,000 US cell sites; telecoms slide pre-market while tower stocks jump",
+   "source": "Bloomberg"
   },
   {
-   "headline": "SK Hynix sube 4.4% en premarket tras cancelar la salida a bolsa de su unidad de memorias en EE. UU.",
-   "headline_en": "SK Hynix jumps 4.4% premarket after scrapping US listing of memory-chip unit",
-   "source": "Wall Street Journal"
+   "headline": "El rendimiento del bono a 10 años baja de 5% antes de la decisión de la Fed del próximo miércoles",
+   "headline_en": "10-year Treasury yield falls below 5% ahead of next Wednesday's Fed decision",
+   "source": "CAMS"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Buque con diésel ruso pone rumbo a EE. UU. tras el acuerdo Trump-Putin: primera importación desde la prohibición de 2022",
+  "headline_en": "Tanker with Russian diesel signals US port after Trump-Putin deal — first US import since the 2022 ban",
+  "source": "Bloomberg Law",
+  "image": "",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-23-trump-putin-diesel-tanquero.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-23-trump-putin-diesel-surtidor.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-23-trump-putin-diesel-refineria.webp"
+  ]
+ }
 }
