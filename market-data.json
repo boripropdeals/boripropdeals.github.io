@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-23T12:02:32.312370+00:00",
+ "updated_at": "2026-10-23T12:02:40.898411+00:00",
  "nq": {
-  "price": 29128.0,
-  "change_points": -14.0,
-  "percent_change": -0.05
+  "price": 29132.25,
+  "change_points": -9.75,
+  "percent_change": -0.03
  },
  "gold": {
-  "price": 4039.5,
-  "change_points": -20.9,
-  "percent_change": -0.51
+  "price": 4038.8,
+  "change_points": -21.6,
+  "percent_change": -0.53
  },
  "oil": {
-  "price": 100.8,
-  "change_points": 1.33,
-  "percent_change": 1.34
+  "price": 100.79,
+  "change_points": 1.32,
+  "percent_change": 1.33
  },
  "headlines": [
   {
-   "headline": "El Nasdaq se desploma 2.6% en su peor día desde junio por temor al gasto en IA",
-   "headline_en": "Nasdaq plunges 2.6% in worst day since June on AI spending fears",
-   "source": "Zacks.com"
+   "headline": "Futuros de Wall Street caen tras desplome de acciones de IA y golpe a telecomunicaciones",
+   "headline_en": "Wall Street futures edge lower after AI selloff, telecom slide",
+   "source": "Reuters"
   },
   {
-   "headline": "El crudo Brent supera los $114 por ataques hutíes a Arabia Saudita",
-   "headline_en": "Brent crude tops $114 on Houthi attacks in Saudi Arabia",
-   "source": "Share-Talk"
+   "headline": "Meta se hunde casi 8% tras reportar su primera salida de efectivo en más de una década",
+   "headline_en": "Meta slides nearly 8% after reporting first cash outflow in over a decade",
+   "source": "Reuters"
   },
   {
-   "headline": "El S&P 500 cae 1.2% y el Dow termina plano; el VIX salta 14%",
-   "headline_en": "S&P 500 drops 1.2% while Dow ends flat; VIX jumps 14%",
-   "source": "Zacks.com"
+   "headline": "AT&T, Verizon y T-Mobile caen más de 4% ante reporte de que SpaceX lanzaría un operador inalámbrico",
+   "headline_en": "Telecom shares slide over 4% on report SpaceX may launch nationwide wireless carrier",
+   "source": "Reuters"
   },
   {
-   "headline": "Futuros del Nasdaq 100 planos antes de la apertura; la Fed decide el 28 de octubre",
-   "headline_en": "Nasdaq 100 futures flat ahead of the bell; Fed decision due October 28",
-   "source": "CAMS Morning Market Brief"
+   "headline": "El petróleo Brent se mantiene cerca de máximos de cinco meses por preocupaciones de suministro en Medio Oriente",
+   "headline_en": "Brent crude holds near five-month high amid Middle East supply concerns",
+   "source": "Reuters"
   },
   {
-   "headline": "El bono a 10 años rinde 4.98%; el oro cae a ~$4,037",
-   "headline_en": "10-year Treasury yield at 4.98%; gold slips to ~$4,037",
-   "source": "CAMS Morning Market Brief"
+   "headline": "El Dow aguanta con rotación hacia defensivos: P&G +5.8%, Home Depot +4.3%, J&J +3.8%",
+   "headline_en": "Dow cushioned by rotation into defensives: P&G +5.8%, Home Depot +4.3%, J&J +3.8%",
+   "source": "FX Leaders"
   },
   {
-   "headline": "La venta masiva tecnológica se extiende a Asia: Japón y Corea caen, Hong Kong sube",
-   "headline_en": "Tech sell-off spreads to Asia: Japan and Korea fall, Hong Kong rises",
-   "source": "Share-Talk"
+   "headline": "Temporada de earnings: American Express y SLB reportan hoy; Microsoft, Alphabet y Amazon la próxima semana",
+   "headline_en": "Earnings week: American Express and SLB report today; Microsoft, Alphabet and Amazon next week",
+   "source": "Reuters"
   }
  ],
  "ultima_hora": null
