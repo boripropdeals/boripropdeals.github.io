@@ -1,51 +1,61 @@
 {
- "updated_at": "2026-10-23T19:36:32.391173+00:00",
+ "updated_at": "2026-10-23T19:38:24.045155+00:00",
  "nq": {
-  "price": 29138.0,
-  "change_points": -4.0,
-  "percent_change": -0.01
+  "price": 29129.75,
+  "change_points": -12.25,
+  "percent_change": -0.04
  },
  "gold": {
-  "price": 4010.8,
-  "change_points": -49.6,
-  "percent_change": -1.22
+  "price": 4011.7,
+  "change_points": -48.7,
+  "percent_change": -1.2
  },
  "oil": {
-  "price": 103.5,
-  "change_points": 4.03,
-  "percent_change": 4.05
+  "price": 103.41,
+  "change_points": 3.94,
+  "percent_change": 3.96
  },
  "headlines": [
   {
-   "headline": "El petróleo supera los $100 por temores de nuevos ataques de EE.UU. a Irán",
-   "headline_en": "Oil tops $100 on Iran fears as US rejects negotiations",
-   "source": "TradingView News"
+   "headline": "El petróleo supera los $100 por barril en medio de temores de nuevos ataques de EE.UU. a Irán",
+   "headline_en": "Oil climbs past $100 a barrel amid fears of new U.S. strikes on Iran",
+   "source": "Curve Ahead"
   },
   {
-   "headline": "El Dow se desploma 600 puntos en el cierre de una semana volátil",
-   "headline_en": "Dow tumbles 600 points as volatile week comes to a close",
-   "source": "Investopedia"
+   "headline": "El Nasdaq intenta recuperarse tras la brutal liquidación tecnológica del jueves",
+   "headline_en": "Nasdaq tries to stabilize after Thursday's brutal tech-led selloff",
+   "source": "The Motley Fool"
   },
   {
-   "headline": "El Nasdaq intenta recuperarse tras la brutal liquidación del jueves",
-   "headline_en": "Nasdaq shows signs of life after worst session since June",
-   "source": "Barron's"
+   "headline": "SpaceX planea su propia red móvil y hunde a AT&T y Verizon; Crown Castle se dispara 12%",
+   "headline_en": "SpaceX said to target U.S. cell sites for a mobile network, pressuring AT&T and Verizon; Crown Castle jumps 12%",
+   "source": "Reuters"
   },
   {
-   "headline": "Apple recupera el trono como la empresa más valiosa del mundo",
-   "headline_en": "Apple tops Nvidia in market value, hits $5.1 trillion",
-   "source": "TradingView News"
+   "headline": "El PMI compuesto de EE.UU. llega a 57.6 y los precios suben al ritmo más alto desde 2022",
+   "headline_en": "U.S. composite PMI hits 57.6 as selling prices rise at the fastest pace since 2022",
+   "source": "S&P Global"
   },
   {
-   "headline": "SpaceX planea red móvil propia y hunde a AT&T y Verizon",
-   "headline_en": "SpaceX eyes 80,000 cell sites; AT&T and Verizon slide",
-   "source": "WSJ / Barron's"
+   "headline": "American Express reporta ingresos récord de $20.1 mil millones pero sus acciones caen 3.6%",
+   "headline_en": "American Express posts record $20.1 billion revenue but shares fall 3.6%",
+   "source": "Curve Ahead"
   },
   {
-   "headline": "American Express recorta el 5% de su plantilla tras resultados mixtos",
-   "headline_en": "American Express to cut 5% of global workforce",
-   "source": "WSJ"
+   "headline": "El oro retrocede a $4,000 mientras el rendimiento del bono a 10 años roza el 5%",
+   "headline_en": "Gold slips toward $4,000 as the 10-year Treasury yield nears 5%",
+   "source": "The Motley Fool"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Primer tanquero con diésel ruso rumbo a EE.UU.: llega a Nueva York el 7 de noviembre",
+  "headline_en": "First Russian diesel tanker heads to the U.S., due in New York on Nov. 7",
+  "source": "NY Post",
+  "image": "",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-23-trump-diesel-tanquero-baltico.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-23-trump-diesel-surtidor-bandera.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-23-trump-diesel-refineria-atardecer.webp"
+  ]
+ }
 }
