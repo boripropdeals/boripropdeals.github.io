@@ -1,50 +1,45 @@
 {
- "updated_at": "2026-10-23T18:02:33.584500+00:00",
+ "updated_at": "2026-10-23T18:03:40.106224+00:00",
  "nq": {
-  "price": 29181.75,
-  "change_points": 39.75,
+  "price": 29183.5,
+  "change_points": 41.5,
   "percent_change": 0.14
  },
  "gold": {
-  "price": 4010.7,
-  "change_points": -49.7,
-  "percent_change": -1.22
+  "price": 4009.7,
+  "change_points": -50.7,
+  "percent_change": -1.25
  },
  "oil": {
-  "price": 102.99,
-  "change_points": 3.52,
-  "percent_change": 3.54
+  "price": 103.09,
+  "change_points": 3.62,
+  "percent_change": 3.64
  },
  "headlines": [
   {
-   "headline": "El petróleo se dispara y la energía despega: el Brent roza los $115 y el Dow cae 1%",
-   "headline_en": "Oil spikes and energy rallies: Brent nears $115 as Dow drops 1%",
+   "headline": "El petróleo se dispara: el Brent roza los $115 por ataques a infraestructura saudí",
+   "headline_en": "Oil surges: Brent nears $115 after attacks on Saudi infrastructure",
    "source": "The Motley Fool"
   },
   {
-   "headline": "El Nasdaq se desploma 2.6% por dudas sobre el gasto en IA; Meta cae 7% pese a buenos resultados",
-   "headline_en": "Nasdaq plunges 2.6% on AI-spending doubts; Meta falls 7% despite earnings beat",
-   "source": "TradingView News"
+   "headline": "Venta masiva tecnológica: Meta cae 7% por temor al gasto en IA; semiconductores se desploman",
+   "headline_en": "Tech selloff: Meta drops 7% on AI spending fears; semiconductors plunge",
+   "source": "Global Economy Charts"
   },
   {
-   "headline": "Nuevos ataques hutíes en Arabia Saudita avivan el temor a una interrupción del suministro de crudo",
-   "headline_en": "Fresh Houthi attacks on Saudi Arabia stoke fears of crude supply disruption",
-   "source": "Reuters"
-  },
-  {
-   "headline": "Crown Castle se dispara 12% por el interés de SpaceX en torres celulares; las telecos caen",
-   "headline_en": "Crown Castle jumps 12% on SpaceX cell-tower interest; telecom shares slide",
+   "headline": "Crown Castle sube 12% tras reportes de que SpaceX busca torres celulares; AT&T bajo presión",
+   "headline_en": "Crown Castle jumps 12% on reports SpaceX is seeking cell tower sites; AT&T under pressure",
    "source": "The Motley Fool"
   },
   {
-   "headline": "Las acciones de ciberseguridad suben tras una vulnerabilidad que afectaría al 70% de los sitios web",
-   "headline_en": "Cybersecurity stocks climb after vulnerability that could hit 70% of websites",
-   "source": "The Motley Fool"
+   "headline": "El bono del Tesoro a 10 años roza el 5% antes de la reunión de la Fed del 28 de octubre",
+   "headline_en": "10-year Treasury yield nears 5% ahead of Oct 28 Fed meeting",
+   "source": "Curve Ahead Market Strategies"
   },
   {
-   "headline": "La inflación acecha: los inversores miran la reunión de la Fed de la próxima semana",
-   "headline_en": "Inflation fears loom: investors eye next week's Fed meeting",
-   "source": "The Motley Fool"
+   "headline": "American Express reporta ingresos récord de $20,100M y eleva pronóstico, pero sus acciones caen",
+   "headline_en": "American Express posts record $20.1B revenue, raises outlook, but shares fall",
+   "source": "Curve Ahead Market Strategies"
   }
  ],
  "ultima_hora": null
