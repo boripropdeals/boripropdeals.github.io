@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-23T19:02:32.882255+00:00",
+ "updated_at": "2026-10-23T19:02:50.306912+00:00",
  "nq": {
-  "price": 29159.0,
-  "change_points": 17.0,
-  "percent_change": 0.06
+  "price": 29164.5,
+  "change_points": 22.5,
+  "percent_change": 0.08
  },
  "gold": {
-  "price": 4010.2,
-  "change_points": -50.2,
-  "percent_change": -1.24
+  "price": 4010.5,
+  "change_points": -49.9,
+  "percent_change": -1.23
  },
  "oil": {
-  "price": 103.33,
-  "change_points": 3.86,
-  "percent_change": 3.88
+  "price": 103.34,
+  "change_points": 3.87,
+  "percent_change": 3.89
  },
  "headlines": [
   {
-   "headline": "El Nasdaq vuelve a caer el viernes y la recuperación de la IA se desvanece tras la peor caída desde junio; el Dow pierde 600 puntos",
-   "headline_en": "Nasdaq falls again Friday as AI recovery quickly fades after worst selloff since June; Dow sheds 600 points",
+   "headline": "El petróleo supera los $100 por temores de nuevos ataques de EE.UU. a Irán",
+   "headline_en": "Oil tops $100 on Iran fears as US rejects negotiations",
+   "source": "TradingView News"
+  },
+  {
+   "headline": "El Dow se desploma 600 puntos en el cierre de una semana volátil",
+   "headline_en": "Dow tumbles 600 points as volatile week comes to a close",
    "source": "Investopedia"
   },
   {
-   "headline": "Rotación fuera de las acciones de IA: Meta cae 7% por temores de gasto y Nvidia pierde 4.4%",
-   "headline_en": "Rotation out of AI stocks: Meta drops 7% on spending fears, Nvidia falls 4.4%",
+   "headline": "El Nasdaq intenta recuperarse tras la brutal liquidación del jueves",
+   "headline_en": "Nasdaq shows signs of life after worst session since June",
    "source": "Barron's"
   },
   {
-   "headline": "El petróleo Brent supera los $114 por barril por temores de escalada EE. UU.-Irán; se reaviva la preocupación inflacionaria",
-   "headline_en": "Brent crude tops $114 a barrel on US-Iran war fears, rekindling inflation concerns",
-   "source": "Reuters"
+   "headline": "Apple recupera el trono como la empresa más valiosa del mundo",
+   "headline_en": "Apple tops Nvidia in market value, hits $5.1 trillion",
+   "source": "TradingView News"
   },
   {
-   "headline": "El rendimiento del bono a 10 años cae por debajo del 5%, su mayor caída diaria desde 2023",
-   "headline_en": "10-year Treasury yield drops below 5%, its largest one-day fall since 2023",
+   "headline": "SpaceX planea red móvil propia y hunde a AT&T y Verizon",
+   "headline_en": "SpaceX eyes 80,000 cell sites; AT&T and Verizon slide",
+   "source": "WSJ / Barron's"
+  },
+  {
+   "headline": "American Express recorta el 5% de su plantilla tras resultados mixtos",
+   "headline_en": "American Express to cut 5% of global workforce",
    "source": "WSJ"
-  },
-  {
-   "headline": "Las telecomunicaciones se desploman: AT&T, Verizon y T-Mobile caen más de 3% ante reportes de que SpaceX negocia su propia red móvil",
-   "headline_en": "Telecoms slide: AT&T, Verizon and T-Mobile drop over 3% on report SpaceX is in talks for its own wireless carrier",
-   "source": "Reuters"
-  },
-  {
-   "headline": "Hoy se publican los PMI flash y la confianza del consumidor de Michigan; Wall Street cierra una semana volátil",
-   "headline_en": "Flash PMIs and Michigan consumer survey due today as Wall Street wraps a volatile week",
-   "source": "MarketWatch"
   }
  ],
  "ultima_hora": null
