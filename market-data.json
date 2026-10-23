@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-23T16:02:34.025283+00:00",
+ "updated_at": "2026-10-23T16:03:40.855870+00:00",
  "nq": {
-  "price": 29266.5,
-  "change_points": 124.5,
-  "percent_change": 0.43
+  "price": 29269.75,
+  "change_points": 127.75,
+  "percent_change": 0.44
  },
  "gold": {
-  "price": 4015.4,
-  "change_points": -45.0,
-  "percent_change": -1.11
+  "price": 4017.6,
+  "change_points": -42.8,
+  "percent_change": -1.05
  },
  "oil": {
-  "price": 103.05,
-  "change_points": 3.58,
-  "percent_change": 3.6
+  "price": 103.0,
+  "change_points": 3.53,
+  "percent_change": 3.55
  },
  "headlines": [
   {
-   "headline": "Wall Street cae: el Nasdaq sufre su peor día desde junio por las dudas sobre el gasto en IA",
-   "headline_en": "Wall Street falls: Nasdaq suffers worst day since June on AI spending doubts",
-   "source": "Zacks"
-  },
-  {
-   "headline": "El petróleo toca máximos de 5 meses: el Brent supera los $116 por temor a nuevos ataques de EE.UU. a Irán",
-   "headline_en": "Oil hits 5-month high: Brent tops $116 on fears of fresh U.S. strikes on Iran",
-   "source": "NY Post"
-  },
-  {
-   "headline": "Las semiconductores rebotan tras la liquidación del jueves; persiste la preocupación por el gasto en IA",
-   "headline_en": "Chipmakers bounce after Thursday's rout as AI spending concerns linger",
+   "headline": "El petróleo sube y el Dow cae 500 puntos por las tensiones en Medio Oriente; las acciones de memoria rebotan",
+   "headline_en": "Dow Tumbles 500 Points as Oil Prices Rise Further on Middle East Tensions; Memory Stocks Rebound",
    "source": "Investopedia"
   },
   {
-   "headline": "SpaceX planea un servicio inalámbrico nacional: las acciones de torres se disparan y las telecos caen",
-   "headline_en": "SpaceX eyes nationwide wireless service: tower stocks surge, carriers tumble",
-   "source": "Bloomberg"
+   "headline": "El rebote de la IA se desvanece: el Nasdaq cae tras su peor sesión desde junio",
+   "headline_en": "Nasdaq Falls as AI Recovery Quickly Fades After Selloff",
+   "source": "Barrons"
   },
   {
-   "headline": "La Fed decide el próximo miércoles: hoy salen datos de actividad y confianza del consumidor",
-   "headline_en": "Fed decision due Wednesday: business activity and consumer sentiment data out today",
-   "source": "Investopedia"
+   "headline": "El Brent supera los $113 por barril y sube casi 8% en la semana ante la escalada con Irán",
+   "headline_en": "Brent Crude Above $113 per Barrel, on Pace for Highest Close Since April",
+   "source": "WSJ"
   },
   {
-   "headline": "American Express eleva su previsión de ganancias; Deckers se desploma tras resultados débiles",
-   "headline_en": "American Express raises profit forecast; Deckers plunges on weak earnings",
-   "source": "Investopedia"
+   "headline": "SpaceX negocia 80,000 torres celulares: AT&T, Verizon y T-Mobile caen más de 3%; Crown Castle sube 12%",
+   "headline_en": "SpaceX in Talks to Secure 80,000 Cell Towers; Telecom Giants Drop, Crown Castle Jumps 12%",
+   "source": "Barrons"
+  },
+  {
+   "headline": "SK Hynix cancela la OPI de Solidigm en EE. UU.; las acciones de memoria se recuperan",
+   "headline_en": "SK Hynix Scraps Planned U.S. IPO of Solidigm; Memory Stocks Rebound",
+   "source": "Barrons"
+  },
+  {
+   "headline": "El bono a 10 años cae 19 puntos base, su mayor caída diaria desde marzo de 2023",
+   "headline_en": "10-Year Treasury Yield Drops 19 Basis Points, Largest Daily Decline Since March 2023",
+   "source": "Barrons"
   }
  ],
  "ultima_hora": null
