@@ -1,45 +1,50 @@
 {
- "updated_at": "2026-10-23T14:02:38.336321+00:00",
+ "updated_at": "2026-10-23T14:04:37.255663+00:00",
  "nq": {
-  "price": 29140.0,
-  "change_points": -2.0,
-  "percent_change": -0.01
+  "price": 29131.5,
+  "change_points": -10.5,
+  "percent_change": -0.04
  },
  "gold": {
-  "price": 4034.2,
-  "change_points": -26.2,
-  "percent_change": -0.65
+  "price": 4037.3,
+  "change_points": -23.1,
+  "percent_change": -0.57
  },
  "oil": {
-  "price": 102.6,
-  "change_points": 3.13,
-  "percent_change": 3.15
+  "price": 102.32,
+  "change_points": 2.85,
+  "percent_change": 2.87
  },
  "headlines": [
   {
-   "headline": "El Nasdaq se hunde 2.6% el jueves — su peor día desde junio — por temor al gasto masivo en IA; Meta cae casi 8% tras reportar su primera salida de efectivo en más de una década",
-   "headline_en": "Nasdaq plunges 2.6% Thursday — worst day since June — on AI spending fears; Meta drops nearly 8% after first cash outflow in over a decade",
-   "source": "Reuters"
+   "headline": "El Nasdaq pausa la venta masiva de chips de IA tras su peor día desde junio; los futuros se estabilizan",
+   "headline_en": "Nasdaq futures steady as AI selloff pauses after worst day since June",
+   "source": "Wall Street Journal"
   },
   {
-   "headline": "Telefónicas se desploman ante el reporte de que SpaceX busca ~80,000 sitios celulares para lanzar un operador inalámbrico; las torres celulares se disparan (Crown Castle +9%)",
-   "headline_en": "Telecoms slide on report SpaceX seeks ~80,000 cell sites for a nationwide wireless carrier; cell tower stocks soar (Crown Castle +9%)",
-   "source": "Reuters / Bloomberg"
+   "headline": "El Brent supera los $114 por tensiones EE. UU.–Irán; Washington prepara opciones militares y Teherán promete represalias",
+   "headline_en": "Brent tops $114 on US-Iran tensions as US weighs military options, Iran vows retaliation",
+   "source": "Wall Street Journal"
   },
   {
-   "headline": "El petróleo se dispara: el Brent cerca de los $115, máximo de cinco meses, por preocupaciones de suministro en Medio Oriente antes de la decisión de la Fed",
-   "headline_en": "Oil surges: Brent near $115, a five-month high, on Middle East supply concerns ahead of next week's Fed decision",
-   "source": "Reuters"
+   "headline": "Meta, Nvidia y Broadcom lideran la caída de semiconductores; Moderna se desploma casi 18%",
+   "headline_en": "Chip stocks hammered as Meta, Nvidia, Broadcom sink; Moderna plunges nearly 18%",
+   "source": "Investor's Business Daily"
   },
   {
-   "headline": "Caída fuerte en rendimientos: el bono a 10 años baja 19 puntos básicos a 4.96%, su primer cierre bajo el 5% en un mes, ante búsqueda de refugio",
-   "headline_en": "Treasury yields tumble: 10-year down 19bp to 4.96%, first close below 5% in a month, as investors seek safety",
-   "source": "Schwab Network"
+   "headline": "El bono a 10 años cae por debajo del 5% en su mayor desplome diario del año; bitcoin retrocede a $81,300",
+   "headline_en": "10-year Treasury yield plunges below 5% in biggest daily drop of the year; bitcoin falls to $81,300",
+   "source": "Investor's Business Daily"
   },
   {
-   "headline": "La próxima semana manda: decisión de tasas de la Fed el miércoles y ganancias de Big Tech (Alphabet, Microsoft, Amazon)",
-   "headline_en": "Next week takes over: FOMC rate decision Wednesday plus Big Tech earnings (Alphabet, Microsoft, Amazon)",
-   "source": "Schwab Network / Reuters"
+   "headline": "Asia cierra al alza (Hang Seng +0.8%) mientras Europa retrocede por el encarecimiento de la energía",
+   "headline_en": "Asian stocks end higher while European shares slip as energy prices surge",
+   "source": "Wall Street Journal"
+  },
+  {
+   "headline": "SK Hynix sube 4.4% en premarket tras cancelar la salida a bolsa de su unidad de memorias en EE. UU.",
+   "headline_en": "SK Hynix jumps 4.4% premarket after scrapping US listing of memory-chip unit",
+   "source": "Wall Street Journal"
   }
  ],
  "ultima_hora": null
