@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-23T21:04:34.138658+00:00",
+ "updated_at": "2026-10-23T21:06:13.092149+00:00",
  "nq": {
-  "price": 29163.75,
-  "change_points": 21.75,
-  "percent_change": 0.07
+  "price": 29165.75,
+  "change_points": 23.75,
+  "percent_change": 0.08
  },
  "gold": {
-  "price": 4010.3,
-  "change_points": -50.1,
-  "percent_change": -1.23
+  "price": 4011.2,
+  "change_points": -49.2,
+  "percent_change": -1.21
  },
  "oil": {
-  "price": 103.24,
-  "change_points": 3.77,
-  "percent_change": 3.79
+  "price": 103.28,
+  "change_points": 3.81,
+  "percent_change": 3.83
  },
  "headlines": [
   {
-   "headline": "El Nasdaq se desploma 2.6% en su peor sesión desde junio por dudas sobre el gasto en IA",
-   "headline_en": "Nasdaq plunges 2.6% in worst session since June as AI spending fears rattle tech",
-   "source": "Zacks"
+   "headline": "El Dow cierra la semana al alza a pesar del desplome del viernes; el petróleo sube por tensiones en Medio Oriente; Nasdaq y S&P 500 terminan en rojo",
+   "headline_en": "Dow Ends Higher for Week Despite Tumbling Friday as Oil Prices Rise on Middle East Tensions; Nasdaq, S&P 500 Close Lower",
+   "source": "Investopedia"
   },
   {
-   "headline": "El petróleo se dispara: el WTI toca $117, su máximo desde abril, tras ataques hutíes a Arabia Saudita",
-   "headline_en": "Oil surges: WTI hits $117, highest since April, after Houthi attacks on Saudi Arabia",
-   "source": "Motley Fool"
+   "headline": "El Nasdaq cae al desvanecerse el rebote de la IA tras la liquidación del jueves",
+   "headline_en": "Nasdaq Falls as AI Recovery Quickly Fades After Selloff",
+   "source": "Barron's"
   },
   {
-   "headline": "SpaceX planea una operadora inalámbrica con 80,000 torres: Crown Castle se dispara 12% y las telecom caen",
-   "headline_en": "SpaceX reportedly seeks 80,000 cell sites for wireless carrier: Crown Castle jumps 12%, telecoms slide",
-   "source": "Motley Fool"
+   "headline": "El petróleo Brent roza los $115 por las tensiones en Medio Oriente",
+   "headline_en": "Oil Surges Toward $115 Amid Escalating Middle East Tensions",
+   "source": "CryptoRank"
   },
   {
-   "headline": "Las acciones de ciberseguridad se salvan del desplome: Palo Alto, CrowdStrike y Okta suben ante amenazas de IA",
-   "headline_en": "Cybersecurity stocks buck the selloff: Palo Alto, CrowdStrike and Okta climb on AI-powered threat fears",
-   "source": "Motley Fool"
-  },
-  {
-   "headline": "Apple recupera el trono como la empresa más valiosa del mundo, superando a Nvidia",
-   "headline_en": "Apple tops Nvidia to reclaim title of world's most valuable company",
+   "headline": "La CFTC investiga operaciones sospechosas de petróleo en torno a la guerra de EE.UU. con Irán",
+   "headline_en": "CFTC Probing Suspicious Oil Trading Around U.S. War in Iran",
    "source": "TradingView"
   },
   {
-   "headline": "La confianza del consumidor de EE.UU. se desploma a mínimos casi récord en octubre",
-   "headline_en": "U.S. consumer sentiment sinks to near record-low in October",
-   "source": "Morningstar"
+   "headline": "Meta cae 7% y CoreWeave se hunde 10% mientras crecen las dudas sobre el gasto en IA",
+   "headline_en": "Meta Falls 7%, CoreWeave Sinks 10% as AI Spending Fears Mount",
+   "source": "CoinCentral"
+  },
+  {
+   "headline": "El rendimiento del bono a 10 años registra su mayor caída diaria desde marzo de 2023",
+   "headline_en": "10-Year Treasury Yield Posts Largest Daily Drop Since March 2023",
+   "source": "Barron's"
   }
  ],
  "ultima_hora": {
