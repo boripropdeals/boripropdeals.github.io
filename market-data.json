@@ -1,61 +1,61 @@
 {
- "updated_at": "2026-10-23T20:36:35.658857+00:00",
+ "updated_at": "2026-10-23T20:37:21.492591+00:00",
  "nq": {
-  "price": 29165.25,
-  "change_points": 23.25,
+  "price": 29166.0,
+  "change_points": 24.0,
   "percent_change": 0.08
  },
  "gold": {
-  "price": 4010.6,
-  "change_points": -49.8,
+  "price": 4010.5,
+  "change_points": -49.9,
   "percent_change": -1.23
  },
  "oil": {
-  "price": 103.19,
-  "change_points": 3.72,
-  "percent_change": 3.74
+  "price": 103.21,
+  "change_points": 3.74,
+  "percent_change": 3.76
  },
  "headlines": [
   {
-   "headline": "El crudo se dispara: el Brent roza los $115 por temores de interrupción en Medio Oriente",
-   "headline_en": "Oil surges as Brent nears $115 on Middle East supply disruption fears",
-   "source": "Curve Ahead"
+   "headline": "El Nasdaq se desploma 2.6% en su peor sesión desde junio por dudas sobre el gasto en IA",
+   "headline_en": "Nasdaq plunges 2.6% in worst session since June as AI spending fears rattle tech",
+   "source": "Zacks"
   },
   {
-   "headline": "El Nasdaq intenta estabilizarse tras la fuerte liquidación tecnológica del jueves",
-   "headline_en": "Nasdaq tries to stabilize after Thursday's sharp tech-led selloff",
-   "source": "The Motley Fool"
+   "headline": "El petróleo se dispara: el WTI toca $117, su máximo desde abril, tras ataques hutíes a Arabia Saudita",
+   "headline_en": "Oil surges: WTI hits $117, highest since April, after Houthi attacks on Saudi Arabia",
+   "source": "Motley Fool"
   },
   {
-   "headline": "SpaceX planea su propia red móvil: AT&T y Verizon caen, Crown Castle se dispara 12%",
-   "headline_en": "SpaceX reportedly targets U.S. cell sites for a mobile network; Crown Castle jumps 12%, carriers fall",
-   "source": "Reuters"
+   "headline": "SpaceX planea una operadora inalámbrica con 80,000 torres: Crown Castle se dispara 12% y las telecom caen",
+   "headline_en": "SpaceX reportedly seeks 80,000 cell sites for wireless carrier: Crown Castle jumps 12%, telecoms slide",
+   "source": "Motley Fool"
   },
   {
-   "headline": "El PMI compuesto de EE.UU. llega a 57.6 y los precios suben al ritmo más rápido desde 2022",
-   "headline_en": "U.S. flash composite PMI hits 57.6 as selling prices rise at the fastest pace since 2022",
-   "source": "S&P Global"
+   "headline": "Las acciones de ciberseguridad se salvan del desplome: Palo Alto, CrowdStrike y Okta suben ante amenazas de IA",
+   "headline_en": "Cybersecurity stocks buck the selloff: Palo Alto, CrowdStrike and Okta climb on AI-powered threat fears",
+   "source": "Motley Fool"
   },
   {
-   "headline": "American Express reporta ingresos récord de $20.1 mil millones, pero la acción cae",
-   "headline_en": "American Express posts record $20.1 billion revenue, but shares fall",
-   "source": "Curve Ahead"
+   "headline": "Apple recupera el trono como la empresa más valiosa del mundo, superando a Nvidia",
+   "headline_en": "Apple tops Nvidia to reclaim title of world's most valuable company",
+   "source": "TradingView"
   },
   {
-   "headline": "El oro cae hacia los $4,000 mientras el bono a 10 años roza el 5%",
-   "headline_en": "Gold slips toward $4,000 as the 10-year Treasury yield nears 5%",
-   "source": "The Motley Fool"
+   "headline": "La confianza del consumidor de EE.UU. se desploma a mínimos casi récord en octubre",
+   "headline_en": "U.S. consumer sentiment sinks to near record-low in October",
+   "source": "Morningstar"
   }
  ],
  "ultima_hora": {
-  "headline": "Primer tanquero con diésel ruso rumbo a EE.UU.: llega a Nueva York el 7 de noviembre",
-  "headline_en": "First Russian diesel tanker heads to the U.S., due in New York on Nov. 7",
-  "source": "NY Post",
+  "headline": "Trump amenaza con una «nueva operación» contra Irán y el petróleo se dispara a máximos de 5 meses",
+  "headline_en": "Trump says US may launch “another operation” against Iran; oil surges to 5-month highs",
+  "source": "InvestingLive",
   "image": "",
   "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-23-trump-diesel-tanquero-baltico.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-23-trump-diesel-surtidor-bandera.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-23-trump-diesel-refineria-atardecer.webp"
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-23-trump-iran-operacion-rally.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-23-trump-iran-operacion-refineria.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-23-trump-iran-operacion-tanquero.jpg"
   ]
  }
 }
