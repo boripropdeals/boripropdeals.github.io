@@ -1,45 +1,50 @@
 {
- "updated_at": "2026-10-23T17:32:33.702488+00:00",
+ "updated_at": "2026-10-23T17:33:33.209177+00:00",
  "nq": {
-  "price": 29177.5,
-  "change_points": 35.5,
+  "price": 29176.25,
+  "change_points": 34.25,
   "percent_change": 0.12
  },
  "gold": {
-  "price": 4007.0,
-  "change_points": -53.4,
-  "percent_change": -1.32
+  "price": 4007.2,
+  "change_points": -53.2,
+  "percent_change": -1.31
  },
  "oil": {
-  "price": 102.96,
-  "change_points": 3.49,
-  "percent_change": 3.51
+  "price": 102.91,
+  "change_points": 3.44,
+  "percent_change": 3.46
  },
  "headlines": [
   {
-   "headline": "El Nasdaq cayó 2.6% ayer por temores al gasto en IA: sus peores pérdidas desde junio",
-   "headline_en": "Nasdaq plunged 2.6% Thursday on AI spending fears, its worst day since June",
-   "source": "Schwab Network"
+   "headline": "El petróleo se dispara y la energía despega: el Brent roza los $115 y el Dow cae 1%",
+   "headline_en": "Oil spikes and energy rallies: Brent nears $115 as Dow drops 1%",
+   "source": "The Motley Fool"
   },
   {
-   "headline": "Los futuros de Wall Street apuntan a la baja para cerrar una semana volátil",
-   "headline_en": "U.S. stock futures point lower to wrap up a volatile week",
-   "source": "Investopedia"
+   "headline": "El Nasdaq se desploma 2.6% por dudas sobre el gasto en IA; Meta cae 7% pese a buenos resultados",
+   "headline_en": "Nasdaq plunges 2.6% on AI-spending doubts; Meta falls 7% despite earnings beat",
+   "source": "TradingView News"
   },
   {
-   "headline": "El petróleo supera los $100: WTI en máximos de 5 meses por tensiones en Medio Oriente",
-   "headline_en": "Oil tops $100: WTI hits five-month high on Middle East supply fears",
-   "source": "TipRanks"
+   "headline": "Nuevos ataques hutíes en Arabia Saudita avivan el temor a una interrupción del suministro de crudo",
+   "headline_en": "Fresh Houthi attacks on Saudi Arabia stoke fears of crude supply disruption",
+   "source": "Reuters"
   },
   {
-   "headline": "SpaceX busca entrar al negocio inalámbrico: acciones de torres de celular se disparan y las telecoms caen",
-   "headline_en": "SpaceX aims for wireless carrier play: tower stocks jump, telecoms slide",
-   "source": "Investopedia"
+   "headline": "Crown Castle se dispara 12% por el interés de SpaceX en torres celulares; las telecos caen",
+   "headline_en": "Crown Castle jumps 12% on SpaceX cell-tower interest; telecom shares slide",
+   "source": "The Motley Fool"
   },
   {
-   "headline": "La Fed decide sobre tasas la próxima semana y llegan ganancias de Alphabet, Microsoft y Amazon",
-   "headline_en": "Fed rate decision next week, with Alphabet, Microsoft and Amazon earnings due",
-   "source": "Schwab Network"
+   "headline": "Las acciones de ciberseguridad suben tras una vulnerabilidad que afectaría al 70% de los sitios web",
+   "headline_en": "Cybersecurity stocks climb after vulnerability that could hit 70% of websites",
+   "source": "The Motley Fool"
+  },
+  {
+   "headline": "La inflación acecha: los inversores miran la reunión de la Fed de la próxima semana",
+   "headline_en": "Inflation fears loom: investors eye next week's Fed meeting",
+   "source": "The Motley Fool"
   }
  ],
  "ultima_hora": null
