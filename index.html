@@ -2270,5 +2270,75 @@ const c=info.querySelector('[data-radar-firm]');if(c)c.addEventListener('click',
   setTimeout(schedule,600);setTimeout(schedule,1800);
 })();
 </script>
+
+<style>
+/* ===== YouTube Live popup — solo visible cuando BoriTradex está en vivo (live-status.json) ===== */
+.yt-live-pop{position:fixed;left:18px;bottom:18px;width:min(384px,calc(100vw - 36px));z-index:9990;background:#0a1512;border:1px solid rgba(255,255,255,.14);border-radius:16px;overflow:hidden;box-shadow:0 24px 60px rgba(0,0,0,.55);opacity:0;transform:translateY(16px);pointer-events:none;transition:opacity .35s ease,transform .35s ease;font-family:"Inter",system-ui,sans-serif}
+.yt-live-pop.show{opacity:1;transform:none;pointer-events:auto}
+.yt-live-head{display:flex;align-items:center;gap:9px;padding:11px 14px 9px}
+.yt-live-dot{width:9px;height:9px;border-radius:50%;background:#ff3b30;box-shadow:0 0 0 0 rgba(255,59,48,.6);animation:ytPulse 1.6s ease-out infinite;flex:0 0 auto}
+@keyframes ytPulse{0%{box-shadow:0 0 0 0 rgba(255,59,48,.55)}100%{box-shadow:0 0 0 9px rgba(255,59,48,0)}}
+.yt-live-badge{font-size:11px;font-weight:800;letter-spacing:.14em;color:#ff5a52;text-transform:uppercase}
+.yt-live-title{flex:1;min-width:0;font-size:12.5px;font-weight:600;color:#eafaf4;line-height:1.35;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.yt-live-close{flex:0 0 auto;width:28px;height:28px;border-radius:50%;border:1px solid rgba(255,255,255,.18);background:rgba(255,255,255,.06);color:#eafaf4;font-size:15px;line-height:1;cursor:pointer;display:grid;place-items:center}
+.yt-live-close:hover{background:rgba(255,255,255,.14)}
+.yt-live-frame{position:relative;aspect-ratio:16/9;background:#000}
+.yt-live-frame iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.yt-live-foot{display:flex;align-items:center;justify-content:space-between;padding:9px 14px 11px}
+.yt-live-foot span{font-size:11.5px;color:#9fc4b8}
+.yt-live-foot a{font-size:12px;font-weight:700;color:#fff;background:#ff0000;border-radius:8px;padding:6px 11px;text-decoration:none}
+.yt-live-foot a:hover{filter:brightness(1.12)}
+@media(max-width:600px){.yt-live-pop{left:10px;bottom:10px;width:calc(100vw - 20px)}}
+</style>
+<div class="yt-live-pop" id="ytLivePop" role="dialog" aria-label="Transmisión en vivo de YouTube">
+  <div class="yt-live-head">
+    <span class="yt-live-dot" aria-hidden="true"></span>
+    <span class="yt-live-badge">En vivo</span>
+    <span class="yt-live-title" id="ytLiveTitle">BoriTradex en vivo</span>
+    <button type="button" class="yt-live-close" id="ytLiveClose" aria-label="Cerrar">×</button>
+  </div>
+  <div class="yt-live-frame" id="ytLiveFrame"></div>
+  <div class="yt-live-foot">
+    <span>Corriendo en vivo · sin sonido, toca el video para escuchar</span>
+    <a id="ytLiveWatch" href="https://youtube.com/@boritradex" target="_blank" rel="noopener noreferrer">Ver en YouTube</a>
+  </div>
+</div>
+<script>
+(function(){
+  var pop=document.getElementById('ytLivePop');
+  var titleEl=document.getElementById('ytLiveTitle');
+  var frameBox=document.getElementById('ytLiveFrame');
+  var watchEl=document.getElementById('ytLiveWatch');
+  var currentId=null;
+  function dismissedFor(id){try{return sessionStorage.getItem('ytLiveDismissedLive')===id;}catch(e){return false}}
+  function show(d){
+    titleEl.textContent=d.title||'BoriTradex en vivo';
+    watchEl.href='https://www.youtube.com/watch?v='+d.videoId;
+    frameBox.innerHTML='<iframe src="https://www.youtube.com/embed/'+d.videoId+'?autoplay=1&mute=1&playsinline=1&rel=0" title="YouTube live" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>';
+    currentId=d.videoId;
+    pop.classList.add('show');
+  }
+  function hide(){
+    pop.classList.remove('show');
+    frameBox.innerHTML='';
+    currentId=null;
+  }
+  document.getElementById('ytLiveClose').addEventListener('click',function(){
+    var id=currentId;
+    hide();
+    try{if(id)sessionStorage.setItem('ytLiveDismissedLive',id);}catch(e){}
+  });
+  function check(){
+    fetch('live-status.json?t='+Date.now(),{cache:'no-store'}).then(function(r){return r.json();}).then(function(d){
+      if(d&&d.live&&d.videoId){
+        if(dismissedFor(d.videoId)){if(currentId)hide();}
+        else if(currentId!==d.videoId){show(d);}
+      }else if(currentId){hide();}
+    }).catch(function(){});
+  }
+  check();
+  setInterval(check,60000);
+})();
+</script>
 </body>
 </html>
