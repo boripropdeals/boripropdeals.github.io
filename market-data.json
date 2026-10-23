@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-10-23T11:02:31.615463+00:00",
+ "updated_at": "2026-10-23T11:02:34.473717+00:00",
  "nq": {
-  "price": 29098.5,
-  "change_points": -43.5,
-  "percent_change": -0.15
+  "price": 29100.5,
+  "change_points": -41.5,
+  "percent_change": -0.14
  },
  "gold": {
-  "price": 4036.6,
-  "change_points": -23.8,
-  "percent_change": -0.59
+  "price": 4036.2,
+  "change_points": -24.2,
+  "percent_change": -0.6
  },
  "oil": {
   "price": 101.04,
@@ -17,34 +17,34 @@
  },
  "headlines": [
   {
-   "headline": "El Nasdaq cae 2.6%, su peor día desde junio, por el temor a un gasto insostenible en IA",
-   "headline_en": "Nasdaq slides 2.6% in worst day since June as AI spending fears rattle tech",
-   "source": "Wall Street Journal"
+   "headline": "Futuros mixtos tras desplome del Nasdaq de 2.6% por dudas sobre el gasto en IA",
+   "headline_en": "Futures mixed after Nasdaq's 2.6% plunge on AI spending concerns",
+   "source": "Reuters"
   },
   {
-   "headline": "Meta se desploma 7% tras anunciar miles de millones más en gasto de IA y flujo de caja negativo",
-   "headline_en": "Meta sinks 7% after disclosing billions more in AI spending and negative free cash flow",
-   "source": "Wall Street Journal"
+   "headline": "Meta se desploma ~8% tras reportar su primera salida neta de caja en más de una década por gastos en IA",
+   "headline_en": "Meta slides ~8% after reporting first cash outflow in over a decade on AI spending",
+   "source": "Reuters"
   },
   {
-   "headline": "El Brent supera los $112 por la escalada de tensiones con Irán y un ataque hutí cerca de un campo de Aramco",
-   "headline_en": "Brent crude tops $112 as Iran tensions escalate after Houthi drone strike near Aramco field",
-   "source": "TradingNews"
+   "headline": "Brent supera $114, máximo de 5 meses, por reportes de nuevos ataques de EE.UU. e Israel contra Irán",
+   "headline_en": "Brent tops $114, five-month high, on reports of renewed US-Israeli strikes on Iran",
+   "source": "Reuters"
   },
   {
-   "headline": "Huida a los bonos: el rendimiento del Tesoro a 10 años cae por debajo del 5%",
-   "headline_en": "Flight to safety sends 10-year Treasury yield below 5%",
-   "source": "Barron's"
+   "headline": "Bono a 10 años cae 18.5 pb a 4.96%, mínimo de un mes, por búsqueda de refugio seguro",
+   "headline_en": "10-year Treasury yield drops 18.5 bp to 4.96%, one-month low, on safe-haven bid",
+   "source": "TipRanks"
   },
   {
-   "headline": "Las solicitudes de desempleo caen inesperadamente a 194,000; la Fed mantendría las tasas la próxima semana",
-   "headline_en": "Initial jobless claims unexpectedly fall to 194,000; Fed expected to hold rates next week",
-   "source": "Reuters / TradingView"
+   "headline": "Telecoms caen 3%+ en premarket ante reporte de carrier inalámbrico de SpaceX; torres celulares suben",
+   "headline_en": "Telecoms drop 3%+ premarket on reported SpaceX wireless carrier plans; tower operators rally",
+   "source": "Reuters"
   },
   {
-   "headline": "Los semiconductores se desploman: el índice PHLX cae 6.7% con todas sus acciones en rojo",
-   "headline_en": "Chip stocks pummeled: PHLX Semiconductor index tumbles 6.7% with every component lower",
-   "source": "Barron's"
+   "headline": "En agenda hoy: PMI manufacturero de EE.UU., sentimiento del consumidor de Michigan y resultados de Chevron",
+   "headline_en": "On tap today: US flash manufacturing PMI, Michigan consumer sentiment, and Chevron earnings",
+   "source": "Market Brief"
   }
  ],
  "ultima_hora": null
