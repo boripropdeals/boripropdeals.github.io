@@ -1,46 +1,61 @@
 {
- "updated_at": "2026-10-23T13:04:36.506911+00:00",
+ "updated_at": "2026-10-23T13:05:25.728721+00:00",
  "nq": {
-  "price": 29031.5,
-  "change_points": -110.5,
-  "percent_change": -0.38
+  "price": 29025.75,
+  "change_points": -116.25,
+  "percent_change": -0.4
  },
  "gold": {
-  "price": 4039.6,
-  "change_points": -20.8,
-  "percent_change": -0.51
+  "price": 4041.3,
+  "change_points": -19.1,
+  "percent_change": -0.47
  },
  "oil": {
-  "price": 101.34,
-  "change_points": 1.87,
-  "percent_change": 1.88
+  "price": 101.29,
+  "change_points": 1.82,
+  "percent_change": 1.83
  },
  "headlines": [
   {
-   "headline": "Futuros de Wall Street apuntan a la baja al cierre de una semana volátil; el petróleo sube por tensiones en Medio Oriente",
-   "headline_en": "Wall Street futures head lower to end a wild week as oil prices rise on Middle East tensions; chip stocks rebound",
+   "headline": "El Dow apunta a su tercera semana consecutiva de ganancias mientras el petróleo se dispara",
+   "headline_en": "Dow Poised for Third Straight Weekly Gain as Oil Prices Climb Further on Middle East Tensions",
    "source": "Investopedia"
   },
   {
-   "headline": "El Nasdaq se desplomó 2.6% el jueves, su peor sesión desde junio, con rotación masiva de acciones de IA hacia sectores defensivos",
-   "headline_en": "Nasdaq falls 2.6% Thursday in its worst session since June as investors rotate out of AI into defensive plays",
+   "headline": "El Nasdaq frena la recuperación tras la peor jornada tecnológica desde junio",
+   "headline_en": "Nasdaq Falls as AI Recovery Quickly Fades After Thursday's Tech Selloff",
    "source": "Barron's"
   },
   {
-   "headline": "Acciones de telecomunicaciones caen en premarket: AT&T, Verizon y T-Mobile pierden más de 3% ante reportes de que SpaceX lanzaría una red móvil nacional",
-   "headline_en": "Telecom stocks slide premarket — AT&T, Verizon, T-Mobile down over 3% — on report SpaceX is in talks to launch a nationwide wireless carrier",
+   "headline": "El Brent supera los $114 por barril ante nuevos ataques en Medio Oriente",
+   "headline_en": "Brent Crude Above $114 a Barrel on Fresh Middle East Strikes, Threat of New Attacks on Iran",
    "source": "Reuters"
   },
   {
-   "headline": "Resultados de empresas de IA mueven el mercado: Bloom Energy cae 3% pese a superar estimados; MaxLinear sube 5%",
-   "headline_en": "AI earnings movers: Bloom Energy tumbles 3% despite beating estimates; MaxLinear rallies 5% on strong guidance",
+   "headline": "Bloom Energy, MaxLinear y Western Digital se mueven fuerte tras sus resultados",
+   "headline_en": "AI Earnings Movers: Bloom Energy, MaxLinear and Western Digital Swing on Results",
    "source": "Investor's Business Daily"
   },
   {
-   "headline": "Brent supera los $113 por barril y el WTI vuelve sobre $100; reaviva temores de inflación antes de la reunión de la Fed de la próxima semana",
-   "headline_en": "Brent tops $113 a barrel and WTI back above $100, rekindling inflation fears ahead of next week's Fed meeting",
+   "headline": "SpaceX prepara su entrada al negocio inalámbrico; AT&T y Verizon caen",
+   "headline_en": "SpaceX Eyes 80,000 Cell Sites for Wireless Push; AT&T and Verizon Slide",
+   "source": "The Wall Street Journal"
+  },
+  {
+   "headline": "El rendimiento del bono a 10 años registra su mayor caída diaria desde 2023",
+   "headline_en": "10-Year Treasury Yield Posts Biggest Daily Drop Since March 2023 as Investors Seek Safety",
    "source": "Barron's"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Tanquero con diésel ruso señala puerto de EE.UU. por primera vez desde 2022 tras el acuerdo Trump-Putin",
+  "headline_en": "Tanker Carrying Russian Diesel Signals U.S. Port for First Time Since 2022 After Trump-Putin Deal",
+  "source": "The Wall Street Journal",
+  "image": "",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/media-generation-tanquero-nueva-york-0-3bec16d3-84fe-4770-87ff-16424992f218.webp",
+   "https://boripropdeals.github.io/breaking-visuals/media-generation-diesel-infraestructura-0-b14d72f3-c70f-4a87-84f6-fa1d11d8b03e.webp",
+   "https://boripropdeals.github.io/breaking-visuals/media-generation-precio-diesel-record-0-7f93a341-723e-4752-a8fa-a2292d04434f.webp"
+  ]
+ }
 }
