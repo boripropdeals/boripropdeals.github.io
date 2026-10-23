@@ -2242,5 +2242,40 @@ const c=info.querySelector('[data-radar-firm]');if(c)c.addEventListener('click',
 </style>
 <div class="preview-banner">Vista previa · Tarjetas del mismo tamaño — borrador, no es la web en vivo</div>
 <script>document.body.insertBefore(document.querySelector('.preview-banner'),document.body.firstChild);</script>
+
+<style>
+/* ===== PREVIEW v2: 4 por línea también en pantallas medianas + alturas igualadas por JS ===== */
+.firm-directory{grid-template-columns:repeat(4,minmax(0,1fr))}
+@media(max-width:700px){.firm-directory{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:420px){.firm-directory{grid-template-columns:1fr}}
+@media(max-width:1080px){
+  .firm-directory .t-plat{width:36px;height:36px}
+  .firm-directory .t-plat img{max-width:28px;max-height:28px}
+  .firm-directory .t-name{font-size:17px}
+  .firm-directory .t-plat-row{min-height:0}
+}
+</style>
+<script>
+(function(){
+  function eqCards(){
+    var cards=Array.prototype.slice.call(document.querySelectorAll('.firm-directory .firm-ticket'));
+    if(!cards.length)return;
+    cards.forEach(function(c){c.style.minHeight='';});
+    var closed=cards.filter(function(c){return !c.open;});
+    if(!closed.length)return;
+    var max=0;
+    closed.forEach(function(c){max=Math.max(max,c.getBoundingClientRect().height);});
+    if(max>0)closed.forEach(function(c){c.style.minHeight=max+'px';});
+  }
+  var pending=false;
+  function schedule(){if(pending)return;pending=true;requestAnimationFrame(function(){pending=false;eqCards();});}
+  window.addEventListener('resize',schedule);
+  window.addEventListener('load',schedule);
+  document.addEventListener('toggle',schedule,true);
+  var target=document.getElementById('results');
+  if(target){new MutationObserver(schedule).observe(target,{childList:true});}
+  setTimeout(schedule,600);setTimeout(schedule,1800);
+})();
+</script>
 </body>
 </html>
