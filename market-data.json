@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-23T11:30:35.269982+00:00",
+ "updated_at": "2026-10-23T11:32:27.791180+00:00",
  "nq": {
-  "price": 29105.5,
-  "change_points": -36.5,
-  "percent_change": -0.13
+  "price": 29114.0,
+  "change_points": -28.0,
+  "percent_change": -0.1
  },
  "gold": {
-  "price": 4042.3,
-  "change_points": -18.1,
-  "percent_change": -0.45
+  "price": 4043.0,
+  "change_points": -17.4,
+  "percent_change": -0.43
  },
  "oil": {
-  "price": 101.08,
-  "change_points": 1.61,
-  "percent_change": 1.62
+  "price": 101.0,
+  "change_points": 1.53,
+  "percent_change": 1.54
  },
  "headlines": [
   {
-   "headline": "Futuros mixtos tras desplome del Nasdaq de 2.6% por dudas sobre el gasto en IA",
-   "headline_en": "Futures mixed after Nasdaq's 2.6% plunge on AI spending concerns",
-   "source": "Reuters"
+   "headline": "El Nasdaq se desploma 2.6% en su peor día desde junio por temor al gasto en IA",
+   "headline_en": "Nasdaq plunges 2.6% in worst day since June on AI spending fears",
+   "source": "Zacks.com"
   },
   {
-   "headline": "Meta se desploma ~8% tras reportar su primera salida neta de caja en más de una década por gastos en IA",
-   "headline_en": "Meta slides ~8% after reporting first cash outflow in over a decade on AI spending",
-   "source": "Reuters"
+   "headline": "El crudo Brent supera los $114 por ataques hutíes a Arabia Saudita",
+   "headline_en": "Brent crude tops $114 on Houthi attacks in Saudi Arabia",
+   "source": "Share-Talk"
   },
   {
-   "headline": "Brent supera $114, máximo de 5 meses, por reportes de nuevos ataques de EE.UU. e Israel contra Irán",
-   "headline_en": "Brent tops $114, five-month high, on reports of renewed US-Israeli strikes on Iran",
-   "source": "Reuters"
+   "headline": "El S&P 500 cae 1.2% y el Dow termina plano; el VIX salta 14%",
+   "headline_en": "S&P 500 drops 1.2% while Dow ends flat; VIX jumps 14%",
+   "source": "Zacks.com"
   },
   {
-   "headline": "Bono a 10 años cae 18.5 pb a 4.96%, mínimo de un mes, por búsqueda de refugio seguro",
-   "headline_en": "10-year Treasury yield drops 18.5 bp to 4.96%, one-month low, on safe-haven bid",
-   "source": "TipRanks"
+   "headline": "Futuros del Nasdaq 100 planos antes de la apertura; la Fed decide el 28 de octubre",
+   "headline_en": "Nasdaq 100 futures flat ahead of the bell; Fed decision due October 28",
+   "source": "CAMS Morning Market Brief"
   },
   {
-   "headline": "Telecoms caen 3%+ en premarket ante reporte de carrier inalámbrico de SpaceX; torres celulares suben",
-   "headline_en": "Telecoms drop 3%+ premarket on reported SpaceX wireless carrier plans; tower operators rally",
-   "source": "Reuters"
+   "headline": "El bono a 10 años rinde 4.98%; el oro cae a ~$4,037",
+   "headline_en": "10-year Treasury yield at 4.98%; gold slips to ~$4,037",
+   "source": "CAMS Morning Market Brief"
   },
   {
-   "headline": "En agenda hoy: PMI manufacturero de EE.UU., sentimiento del consumidor de Michigan y resultados de Chevron",
-   "headline_en": "On tap today: US flash manufacturing PMI, Michigan consumer sentiment, and Chevron earnings",
-   "source": "Market Brief"
+   "headline": "La venta masiva tecnológica se extiende a Asia: Japón y Corea caen, Hong Kong sube",
+   "headline_en": "Tech sell-off spreads to Asia: Japan and Korea fall, Hong Kong rises",
+   "source": "Share-Talk"
   }
  ],
  "ultima_hora": null
