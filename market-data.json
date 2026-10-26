@@ -1,61 +1,51 @@
 {
- "updated_at": "2026-10-26T13:30:37.724842+00:00",
+ "updated_at": "2026-10-26T13:32:30.014586+00:00",
  "nq": {
-  "price": 29250.5,
-  "change_points": 132.75,
-  "percent_change": 0.46
+  "price": 29241.0,
+  "change_points": 123.25,
+  "percent_change": 0.42
  },
  "gold": {
-  "price": 4026.1,
-  "change_points": 18.2,
-  "percent_change": 0.45
+  "price": 4023.6,
+  "change_points": 15.7,
+  "percent_change": 0.39
  },
  "oil": {
-  "price": 101.82,
-  "change_points": -1.45,
-  "percent_change": -1.4
+  "price": 101.76,
+  "change_points": -1.51,
+  "percent_change": -1.46
  },
  "headlines": [
   {
-   "headline": "Futuros al alza antes de una semana clave: ganancias de las big tech y decisión de la Fed",
-   "headline_en": "Futures rise ahead of a key week: Big Tech earnings and the Fed decision",
+   "headline": "Futuros de EE.UU. suben al inicio de una semana clave con ganancias de Big Tech y la decisión de la Fed",
+   "headline_en": "U.S. stock futures rise to start a pivotal week headlined by Big Tech earnings and the Fed rate decision",
    "source": "Investopedia"
   },
   {
-   "headline": "El petróleo cae cerca de 2% tras aliviarse la tensión sobre Irán",
-   "headline_en": "Oil falls nearly 2% as Iran tensions ease",
+   "headline": "El Nasdaq intenta recuperarse tras su segunda semana consecutiva a la baja",
+   "headline_en": "Nasdaq futures edge up as tech looks to recover from last week sell-off",
+   "source": "TechDefused"
+  },
+  {
+   "headline": "El petróleo cae alrededor de 2% tras su fuerte alza de la semana pasada por tensiones en Oriente Medio",
+   "headline_en": "Oil prices fall about 2% after last week surge on Middle East tensions",
    "source": "TipRanks"
   },
   {
-   "headline": "Las acciones de neoclouds caen tras la advertencia de Musk sobre el crédito en la IA",
-   "headline_en": "Neocloud stocks fall after Musk warning on AI credit risks",
+   "headline": "Las acciones de neocloud caen tras la advertencia de Elon Musk sobre el crédito en la infraestructura de IA",
+   "headline_en": "Neocloud stocks fall after Elon Musk warns about tighter credit for AI infrastructure",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "Las acciones brasileñas se desploman tras la victoria de Lula en la segunda vuelta",
+   "headline_en": "Brazilian stocks tumble after Lula clings to power in Sunday runoff election",
    "source": "eOption"
   },
   {
-   "headline": "Semana de bancos centrales: la Fed decide el miércoles, el BCE el jueves y el Banco de Japón el viernes",
-   "headline_en": "Central bank week: Fed decides Wednesday, ECB Thursday, Bank of Japan Friday",
-   "source": "IC"
-  },
-  {
-   "headline": "Lula gana la reelección en Brasil y los activos brasileños se desploman",
-   "headline_en": "Lula wins re-election in Brazil and Brazilian assets tumble",
-   "source": "TickerRoast"
-  },
-  {
-   "headline": "EQT comprará Range Resources en un acuerdo de más de $50,000 millones",
-   "headline_en": "EQT to buy Range Resources in a deal worth over $50 billion",
+   "headline": "EQT comprará Range Resources en un acuerdo de gas natural valorado en más de 50,000 millones de dólares",
+   "headline_en": "EQT to acquire Range Resources in a natural gas deal valued at more than $50 billion",
    "source": "eOption"
   }
  ],
- "ultima_hora": {
-  "headline": "Trump descarta un ataque a Irán hoy y el petróleo cae",
-  "headline_en": "Trump says no strike on Iran today as oil prices fall",
-  "source": "TickerRoast",
-  "image": "",
-  "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-26-trump-iran-no-strike-refineria.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-26-trump-iran-no-strike-tanquero.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-26-trump-iran-no-strike-diplomacia.webp"
-  ]
- }
+ "ultima_hora": null
 }
