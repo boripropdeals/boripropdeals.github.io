@@ -1,61 +1,51 @@
 {
- "updated_at": "2026-10-26T14:30:39.324415+00:00",
+ "updated_at": "2026-10-26T14:32:22.406123+00:00",
  "nq": {
-  "price": 29379.0,
-  "change_points": 261.25,
-  "percent_change": 0.9
+  "price": 29359.25,
+  "change_points": 241.5,
+  "percent_change": 0.83
  },
  "gold": {
-  "price": 4025.8,
-  "change_points": 17.9,
-  "percent_change": 0.45
+  "price": 4026.7,
+  "change_points": 18.8,
+  "percent_change": 0.47
  },
  "oil": {
-  "price": 100.82,
-  "change_points": -2.45,
-  "percent_change": -2.37
+  "price": 100.8,
+  "change_points": -2.47,
+  "percent_change": -2.39
  },
  "headlines": [
   {
-   "headline": "Futuros de EE.UU. al alza al inicio de una semana clave: ganancias de Big Tech y decisión de la Fed",
-   "headline_en": "U.S. stock futures rise to start a pivotal week headlined by Big Tech earnings and the Fed rate decision",
+   "headline": "Futuros al alza para abrir la semana antes de las ganancias de las big tech y la decisión de la Fed",
+   "headline_en": "Stock futures rise to start the week ahead of big tech earnings and the Fed rate decision",
    "source": "Investopedia"
   },
   {
-   "headline": "Acciones de neoclouds caen tras la advertencia de Musk sobre el crédito en la infraestructura de IA",
-   "headline_en": "Neocloud stocks fall after Musk warns tighter credit could hit AI infrastructure firms",
-   "source": "eOption"
+   "headline": "La Fed decidirá el miércoles: el mercado da 90% de probabilidad a que mantenga las tasas sin cambios",
+   "headline_en": "Fed to decide Wednesday: markets price a 90% chance rates stay on hold",
+   "source": "Investopedia"
   },
   {
-   "headline": "Meta busca recaudar hasta $95,000 millones para financiar su gasto en infraestructura de IA",
-   "headline_en": "Meta seeks up to $95 billion in financing to fund AI infrastructure spending",
-   "source": "PANews"
-  },
-  {
-   "headline": "Acciones brasileñas se desploman tras la victoria de Lula en la segunda vuelta",
-   "headline_en": "Brazilian stocks tumble after Lula's runoff election victory",
-   "source": "eOption"
-  },
-  {
-   "headline": "EQT comprará Range Resources por más de $50,000 millones en una gran operación de gas natural",
-   "headline_en": "EQT to acquire Range Resources in an all-stock deal valued at more than $50 billion",
-   "source": "eOption"
-  },
-  {
-   "headline": "El petróleo cae desde sus máximos recientes ante esperanzas de menor tensión con Irán",
-   "headline_en": "Oil falls from recent highs as hopes of easing tensions with Iran grow",
+   "headline": "El petróleo retrocede desde máximos de seis meses tras aliviarse el temor a un nuevo ataque en Medio Oriente",
+   "headline_en": "Oil pulls back from six-month highs as fears of renewed Middle East strikes ease",
    "source": "TipRanks"
+  },
+  {
+   "headline": "Las acciones neocloud caen tras la advertencia de Elon Musk sobre el crédito en la infraestructura de IA",
+   "headline_en": "Neocloud stocks fall after Elon Musk warns on credit in AI infrastructure",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "Lula se aferra al poder en Brasil y las acciones brasileñas se desploman",
+   "headline_en": "Lula clings to power in Brazil runoff and Brazilian stocks tumble",
+   "source": "eOption"
+  },
+  {
+   "headline": "EQT comprará Range Resources en un acuerdo de gas natural valorado en más de $50,000 millones",
+   "headline_en": "EQT to acquire Range Resources in $50B+ natural gas deal",
+   "source": "eOption"
   }
  ],
- "ultima_hora": {
-  "headline": "Trump descarta atacar a Irán este domingo y el petróleo cae desde sus máximos",
-  "headline_en": "Trump rules out striking Iran on Sunday as oil pulls back from recent highs",
-  "source": "TipRanks",
-  "image": "",
-  "images": [
-   "https://boripropdeals.github.io/breaking-visuals/trump-iran-no-ataque-petroleo-2026-10-26.webp",
-   "https://boripropdeals.github.io/breaking-visuals/trump-iran-no-ataque-bolsa-2026-10-26.webp",
-   "https://boripropdeals.github.io/breaking-visuals/trump-iran-no-ataque-diplomacia-2026-10-26.webp"
-  ]
- }
+ "ultima_hora": null
 }
