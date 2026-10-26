@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-10-26T11:32:34.963721+00:00",
+ "updated_at": "2026-10-26T11:32:38.133858+00:00",
  "nq": {
-  "price": 29118.25,
-  "change_points": 0.5,
-  "percent_change": 0.0
+  "price": 29119.25,
+  "change_points": 1.5,
+  "percent_change": 0.01
  },
  "gold": {
   "price": 4024.6,
@@ -17,28 +17,28 @@
  },
  "headlines": [
   {
-   "headline": "Futuros de EE.UU. suben mientras el petróleo cae antes de la avalancha de ganancias y la decisión de la Fed",
-   "headline_en": "US stock futures edge up as oil falls heading into earnings barrage",
-   "source": "Reuters"
-  },
-  {
-   "headline": "Alphabet, Microsoft y Amazon reportan esta semana: el mercado exige pruebas de que la inversión en IA se monetiza",
-   "headline_en": "Big Tech earnings this week: Alphabet, Microsoft and Amazon in focus as markets demand AI monetization proof",
-   "source": "Reuters"
-  },
-  {
-   "headline": "La Fed decide el miércoles: el mercado da 90% de probabilidad a que mantenga las tasas en 3.75%-4%",
-   "headline_en": "Fed decision Wednesday: markets price 90% chance rates stay at 3.75%-4%",
+   "headline": "Futuros de EE. UU. suben al inicio de la semana antes de las ganancias de las grandes tecnológicas y la decisión de la Fed",
+   "headline_en": "U.S. stock futures rise ahead of Big Tech earnings and Fed rate decision",
    "source": "TipRanks"
   },
   {
-   "headline": "El petróleo cae más de 2% pese a los ataques hutíes contra Arabia Saudita durante el fin de semana",
-   "headline_en": "Oil falls over 2% despite weekend Houthi attacks on Saudi Arabia",
-   "source": "TipRanks"
+   "headline": "La Fed decidirá las tasas el miércoles y el mercado descuenta una pausa en 3.75%-4%",
+   "headline_en": "Fed to decide rates Wednesday, markets price a pause at 3.75%-4%",
+   "source": "TipRanks / CNBC"
   },
   {
-   "headline": "El trade de IA tropieza: CoreWeave y Nebius pierden más de 30% en octubre por temor a gasto con deuda",
-   "headline_en": "AI trade stumbles: CoreWeave and Nebius down over 30% in October on debt-funded spending fears",
+   "headline": "El petróleo cae cerca de 2% tras el alza de la semana pasada, pese a los ataques a Arabia Saudita",
+   "headline_en": "Oil falls about 2% after last week surge despite attacks on Saudi Arabia",
+   "source": "Reuters"
+  },
+  {
+   "headline": "Activos brasileños caen tras la victoria de Lula en la segunda vuelta",
+   "headline_en": "Brazilian assets sink after Lula runoff victory",
+   "source": "TickerRoast"
+  },
+  {
+   "headline": "El mercado exige pruebas de monetización de la IA mientras Alphabet, Microsoft y Amazon reportan esta semana",
+   "headline_en": "Markets demand AI monetization proof as Alphabet, Microsoft and Amazon report this week",
    "source": "Reuters"
   }
  ],
