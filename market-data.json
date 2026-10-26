@@ -1,61 +1,46 @@
 {
- "updated_at": "2026-10-26T11:00:34.202326+00:00",
+ "updated_at": "2026-10-26T11:02:35.151869+00:00",
  "nq": {
-  "price": 29123.5,
-  "change_points": 5.75,
-  "percent_change": 0.02
+  "price": 29126.5,
+  "change_points": 8.75,
+  "percent_change": 0.03
  },
  "gold": {
-  "price": 4025.6,
-  "change_points": 17.7,
-  "percent_change": 0.44
+  "price": 4026.3,
+  "change_points": 18.4,
+  "percent_change": 0.46
  },
  "oil": {
-  "price": 101.01,
-  "change_points": -2.26,
-  "percent_change": -2.19
+  "price": 100.98,
+  "change_points": -2.29,
+  "percent_change": -2.22
  },
  "headlines": [
   {
-   "headline": "El petróleo se dispara: el WTI sube 3.8% a $103 y el Brent toca $117 por la escalada en Medio Oriente",
-   "headline_en": "Oil surges: WTI climbs 3.8% to $103 and Brent hits $117 as Middle East tensions escalate",
-   "source": "Motley Fool"
+   "headline": "Futuros de EE.UU. suben mientras el petróleo cae antes de la avalancha de ganancias y la decisión de la Fed",
+   "headline_en": "US stock futures edge up as oil falls heading into earnings barrage",
+   "source": "Reuters"
   },
   {
-   "headline": "El Dow cae 1.23% al cierre del viernes; Nasdaq y S&P 500 terminan la semana en rojo tras la venta masiva de IA",
-   "headline_en": "Dow drops 1.23% at the close; Nasdaq and S&P 500 end the week in the red after AI selloff",
-   "source": "StockMarketWatch"
+   "headline": "Alphabet, Microsoft y Amazon reportan esta semana: el mercado exige pruebas de que la inversión en IA se monetiza",
+   "headline_en": "Big Tech earnings this week: Alphabet, Microsoft and Amazon in focus as markets demand AI monetization proof",
+   "source": "Reuters"
   },
   {
-   "headline": "Crown Castle salta 12% por el interés de SpaceX en sus torres; AT&T y las telecos bajo presión",
-   "headline_en": "Crown Castle jumps 12% as SpaceX seeks its cell tower sites; AT&T and telcos under pressure",
-   "source": "Motley Fool"
-  },
-  {
-   "headline": "Las acciones de ciberseguridad suben: Palo Alto, CrowdStrike y Okta ganan ante una vulnerabilidad masiva en la web",
-   "headline_en": "Cybersecurity stocks climb: Palo Alto, CrowdStrike and Okta gain amid massive web vulnerability",
-   "source": "Motley Fool"
-  },
-  {
-   "headline": "American Express cae 3.7% tras anunciar el recorte del 5% de su plantilla",
-   "headline_en": "American Express falls 3.7% after announcing a 5% workforce cut",
-   "source": "Global Markets Close"
-  },
-  {
-   "headline": "El bono a 10 años vuelve al 5% y las apuestas de un alza de la Fed el 28-oct se duplican",
-   "headline_en": "10-year Treasury yield returns to 5% as bets on a Fed hike at the Oct 28 meeting double",
+   "headline": "La Fed decide el miércoles: el mercado da 90% de probabilidad a que mantenga las tasas en 3.75%-4%",
+   "headline_en": "Fed decision Wednesday: markets price 90% chance rates stay at 3.75%-4%",
    "source": "TipRanks"
+  },
+  {
+   "headline": "El petróleo cae más de 2% pese a los ataques hutíes contra Arabia Saudita durante el fin de semana",
+   "headline_en": "Oil falls over 2% despite weekend Houthi attacks on Saudi Arabia",
+   "source": "TipRanks"
+  },
+  {
+   "headline": "El trade de IA tropieza: CoreWeave y Nebius pierden más de 30% en octubre por temor a gasto con deuda",
+   "headline_en": "AI trade stumbles: CoreWeave and Nebius down over 30% in October on debt-funded spending fears",
+   "source": "Reuters"
   }
  ],
- "ultima_hora": {
-  "headline": "Trump amenaza con una «nueva operación» contra Irán y el petróleo se dispara a máximos de 5 meses",
-  "headline_en": "Trump says US may launch “another operation” against Iran; oil surges to 5-month highs",
-  "source": "InvestingLive",
-  "image": "",
-  "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-23-trump-iran-operacion-rally.jpg",
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-23-trump-iran-operacion-refineria.jpg",
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-23-trump-iran-operacion-tanquero.jpg"
-  ]
- }
+ "ultima_hora": null
 }
