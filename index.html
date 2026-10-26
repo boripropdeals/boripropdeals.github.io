@@ -716,7 +716,7 @@ button.codechip{cursor:pointer}
     @media(max-width:640px){.hw-moon{width:76px;height:76px;top:150px;right:6%}.hw-pumpkin{width:42px;bottom:16px}.hw-web{width:140px;height:140px}}
     @media (prefers-reduced-motion:reduce){.hw-fx{display:none}}
   </style>
-</head>
+<style>.pulse-banner{display:block;width:100%;height:150px;object-fit:cover;border-radius:12px;margin-bottom:14px}</style></head>
 <body>
   <!-- HALLOWEEN 2026: fondo temporal de octubre -->
   <div class="hw-sky" aria-hidden="true">
@@ -1273,6 +1273,10 @@ const c=info.querySelector('[data-radar-firm]');if(c)c.addEventListener('click',
           if(lang==='es') return '50% OFF en Ignite Instant Funding y Elite Daily · Buy 1 Get 1 Free en Elite Access';
           return '50% OFF on Ignite Instant Funding and Elite Daily · Buy 1 Get 1 Free on Elite Access';
         }
+        if(firm==='Traders Launch'){
+          if(lang==='es') return 'Drop 02 · 20% OFF con código BORI · 25K desde $63.20 · Termina 2 nov';
+          return 'Drop 02 · 20% OFF with code BORI · 25K from $63.20 · Ends Nov 2';
+        }
         if(lang==='es') return (pct?pct+'% OFF con código BORI · ':'')+'Precios de lanzamiento: evaluaciones desde $90 · Legacy NYC desde $99';
         return (pct?pct+'% OFF with code BORI · ':'')+'Launch pricing: evaluations from $90 · Legacy NYC from $99';
       }
@@ -1331,7 +1335,7 @@ const c=info.querySelector('[data-radar-firm]');if(c)c.addEventListener('click',
           ? '<span class="pulse-pinned">'+(lang==='es'?'⭐ SIEMPRE · CÓDIGO BORI':'⭐ ALWAYS · BORI CODE')+'</span><span class="pulse-official">'+official+'</span>'
           : '<span class="pulse-badge '+pt+'">'+typeBadgeText(pt)+'</span><span class="pulse-official">'+official+'</span><span class="pulse-date">'+(lang==='es'?'NUEVO':'NEW')+(x.date?' · '+fmtDate(x.date):'')+'</span>';
         s.innerHTML='<article class="pulse-card'+(idx===0?' featured':'')+(x.pinned?' pinned':'')+'">'
-          +'<div class="pulse-body">'
+          +'<div class="pulse-body">'+(x.firm==='Traders Launch'&&x.pinned?'<img class="pulse-banner" src="https://boripropdeals.github.io/banners/tl-drop02-banner.png" alt="Traders Launch Drop 02">':'')
           +'<div class="pulse-top">'+topRow+'</div>'
           +'<div class="pulse-firm-row">'+pulseLogo(x.firm)+'<h3 class="pulse-firm">'+x.firm+'</h3></div>'
           +'<p class="pulse-title">'+x.title+'</p>'
