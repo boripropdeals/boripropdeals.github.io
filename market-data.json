@@ -1,51 +1,61 @@
 {
- "updated_at": "2026-10-26T14:02:33.335953+00:00",
+ "updated_at": "2026-10-26T14:04:15.241589+00:00",
  "nq": {
-  "price": 29266.5,
-  "change_points": 148.75,
-  "percent_change": 0.51
+  "price": 29281.75,
+  "change_points": 164.0,
+  "percent_change": 0.56
  },
  "gold": {
-  "price": 4008.3,
-  "change_points": 0.4,
-  "percent_change": 0.01
+  "price": 4004.6,
+  "change_points": -3.3,
+  "percent_change": -0.08
  },
  "oil": {
-  "price": 101.74,
-  "change_points": -1.53,
-  "percent_change": -1.48
+  "price": 101.64,
+  "change_points": -1.63,
+  "percent_change": -1.58
  },
  "headlines": [
   {
-   "headline": "Futuros de EE.UU. suben al inicio de una semana clave con ganancias de Big Tech y la decisión de la Fed",
+   "headline": "Futuros de EE.UU. al alza al inicio de una semana clave: ganancias de Big Tech y decisión de la Fed",
    "headline_en": "U.S. stock futures rise to start a pivotal week headlined by Big Tech earnings and the Fed rate decision",
    "source": "Investopedia"
   },
   {
-   "headline": "El Nasdaq intenta recuperarse tras su segunda semana consecutiva a la baja",
-   "headline_en": "Nasdaq futures edge up as tech looks to recover from last week sell-off",
-   "source": "TechDefused"
+   "headline": "Acciones de neoclouds caen tras la advertencia de Musk sobre el crédito en la infraestructura de IA",
+   "headline_en": "Neocloud stocks fall after Musk warns tighter credit could hit AI infrastructure firms",
+   "source": "eOption"
   },
   {
-   "headline": "El petróleo cae alrededor de 2% tras su fuerte alza de la semana pasada por tensiones en Oriente Medio",
-   "headline_en": "Oil prices fall about 2% after last week surge on Middle East tensions",
+   "headline": "Meta busca recaudar hasta $95,000 millones para financiar su gasto en infraestructura de IA",
+   "headline_en": "Meta seeks up to $95 billion in financing to fund AI infrastructure spending",
+   "source": "PANews"
+  },
+  {
+   "headline": "Acciones brasileñas se desploman tras la victoria de Lula en la segunda vuelta",
+   "headline_en": "Brazilian stocks tumble after Lula's runoff election victory",
+   "source": "eOption"
+  },
+  {
+   "headline": "EQT comprará Range Resources por más de $50,000 millones en una gran operación de gas natural",
+   "headline_en": "EQT to acquire Range Resources in an all-stock deal valued at more than $50 billion",
+   "source": "eOption"
+  },
+  {
+   "headline": "El petróleo cae desde sus máximos recientes ante esperanzas de menor tensión con Irán",
+   "headline_en": "Oil falls from recent highs as hopes of easing tensions with Iran grow",
    "source": "TipRanks"
-  },
-  {
-   "headline": "Las acciones de neocloud caen tras la advertencia de Elon Musk sobre el crédito en la infraestructura de IA",
-   "headline_en": "Neocloud stocks fall after Elon Musk warns about tighter credit for AI infrastructure",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "Las acciones brasileñas se desploman tras la victoria de Lula en la segunda vuelta",
-   "headline_en": "Brazilian stocks tumble after Lula clings to power in Sunday runoff election",
-   "source": "eOption"
-  },
-  {
-   "headline": "EQT comprará Range Resources en un acuerdo de gas natural valorado en más de 50,000 millones de dólares",
-   "headline_en": "EQT to acquire Range Resources in a natural gas deal valued at more than $50 billion",
-   "source": "eOption"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Trump descarta atacar a Irán este domingo y el petróleo cae desde sus máximos",
+  "headline_en": "Trump rules out striking Iran on Sunday as oil pulls back from recent highs",
+  "source": "TipRanks",
+  "image": "",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/trump-iran-no-ataque-petroleo-2026-10-26.webp",
+   "https://boripropdeals.github.io/breaking-visuals/trump-iran-no-ataque-bolsa-2026-10-26.webp",
+   "https://boripropdeals.github.io/breaking-visuals/trump-iran-no-ataque-diplomacia-2026-10-26.webp"
+  ]
+ }
 }
