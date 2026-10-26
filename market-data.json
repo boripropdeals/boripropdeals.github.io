@@ -1,45 +1,50 @@
 {
- "updated_at": "2026-10-26T18:32:31.740091+00:00",
+ "updated_at": "2026-10-26T18:32:46.341220+00:00",
  "nq": {
-  "price": 29501.5,
-  "change_points": 383.75,
+  "price": 29502.5,
+  "change_points": 384.75,
   "percent_change": 1.32
  },
  "gold": {
-  "price": 4033.3,
-  "change_points": 25.4,
-  "percent_change": 0.63
+  "price": 4033.4,
+  "change_points": 25.5,
+  "percent_change": 0.64
  },
  "oil": {
-  "price": 101.95,
-  "change_points": -1.32,
-  "percent_change": -1.28
+  "price": 101.9,
+  "change_points": -1.37,
+  "percent_change": -1.33
  },
  "headlines": [
   {
-   "headline": "Wall Street sube impulsada por la tecnología tras la solicitud de salida a bolsa de Anthropic",
-   "headline_en": "Wall Street rises on tech gains after Anthropic files for IPO",
+   "headline": "Los futuros de Wall Street suben antes de la decisión de la Fed y los resultados de Microsoft, Alphabet y Amazon",
+   "headline_en": "Wall Street futures rise ahead of the Fed decision and Microsoft, Alphabet and Amazon earnings",
    "source": "Reuters"
   },
   {
-   "headline": "Wall Street abre en verde mientras la BMV cae por tercera sesión consecutiva",
-   "headline_en": "Wall Street opens higher while Mexico's BMV falls for a third straight session",
-   "source": "El CEO"
+   "headline": "El petróleo cae cerca de un 2% mientras se desvanece la prima de riesgo por Irán",
+   "headline_en": "Oil falls nearly 2% as the Iran risk premium fades",
+   "source": "Reuters"
   },
   {
-   "headline": "Activos brasileños se desploman tras la victoria de Lula en la segunda vuelta",
+   "headline": "Las acciones neocloud caen tras la advertencia de Musk sobre el crédito para los centros de datos de IA",
+   "headline_en": "Neocloud stocks fall after Musk warns on credit for AI data centers",
+   "source": "Reuters"
+  },
+  {
+   "headline": "Los activos brasileños se desploman tras la victoria de Lula en la segunda vuelta",
    "headline_en": "Brazilian assets plunge after Lula's runoff victory",
-   "source": "TradingKey"
+   "source": "eOption"
   },
   {
-   "headline": "El petróleo retrocede desde sus máximos recientes mientras cede la prima de riesgo por Irán",
-   "headline_en": "Oil pulls back from recent highs as Iran risk premium fades",
-   "source": "TradingKey"
+   "headline": "Verizon eleva su pronóstico anual mientras Anthropic se prepara para salir a bolsa",
+   "headline_en": "Verizon lifts its full-year outlook as Anthropic prepares IPO filing",
+   "source": "Investopedia"
   },
   {
-   "headline": "Semana clave: decisión de la Fed el miércoles y resultados de Microsoft, Alphabet y Amazon",
-   "headline_en": "Key week ahead: Fed decision Wednesday plus Microsoft, Alphabet and Amazon earnings",
-   "source": "Reuters"
+   "headline": "EQT comprará Range Resources en un acuerdo de más de 50,000 millones de dólares",
+   "headline_en": "EQT to buy Range Resources in a deal valued at more than $50 billion",
+   "source": "eOption"
   }
  ],
  "ultima_hora": {
