@@ -1,0 +1,82 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><style>
+
+    /* Newsletter capture. Regular HTML POST; no simulated submission state. */
+    .signup-modal{position:fixed;inset:0;z-index:80;display:none;place-items:center;padding:18px;background:rgba(2,10,8,.78);overflow:hidden}
+.signup-modal.open{display:grid}
+
+    .signup-panel{position:relative;width:calc(100% - 36px);max-width:540px;min-width:0;max-height:calc(100vh - 36px);overflow:auto;overflow-x:hidden;border:1px solid color-mix(in srgb,var(--accent) 55%,var(--line));border-radius:18px;background:var(--surface);box-shadow:0 34px 100px rgba(0,0,0,.48)}
+
+    .signup-top{min-width:0;padding:25px 25px 20px;background:linear-gradient(130deg,var(--hero),var(--hero-2));color:var(--hero-ink)}
+.signup-top .eyebrow{margin-bottom:12px}
+.signup-top h2{max-width:100%;margin:0;font-size:30px;line-height:1.02;letter-spacing:-.04em;overflow-wrap:anywhere}
+.signup-top p{max-width:420px;margin:10px 0 0;color:var(--hero-muted);font-size:13px;overflow-wrap:anywhere}
+
+    .signup-close{position:absolute;right:12px;top:12px;z-index:2;width:36px;height:36px;border:1px solid rgba(255,255,255,.22);border-radius:50%;background:rgba(2,15,11,.65);color:var(--hero-ink);font-size:22px;cursor:pointer}
+
+    .signup-form{min-width:0;padding:20px 25px 25px;display:grid;gap:13px}
+.signup-form>*{min-width:0;max-width:100%}
+.signup-form .field label{text-transform:none;letter-spacing:0;font-size:11px}
+.signup-form .field input,.signup-form .field select{min-width:0;max-width:100%;background:var(--surface-2)}
+
+    .signup-submit{height:48px;border:0;border-radius:8px;background:var(--accent);color:#02140e;font-weight:800;cursor:pointer}
+.signup-privacy{margin:0;color:var(--muted);font-size:9px;line-height:1.45}
+
+      .signup-modal{display:none;padding:9px;overflow-y:auto;overflow-x:hidden}
+.signup-modal.open{display:block}
+.signup-panel{width:min(360px,calc(100vw - 18px));max-width:100%;max-height:calc(100vh - 18px);margin:0 auto;border-radius:13px}
+.signup-top{padding:20px 18px 16px}
+.signup-top h2{font-size:24px;padding-right:30px}
+.signup-top p{font-size:11px}
+.signup-form{padding:15px 18px 18px;gap:10px}
+.signup-submit{height:43px}
+
+      .signup-modal{padding:9px}
+.signup-panel{width:calc(100% - 18px);max-height:calc(100vh - 18px);border-radius:13px}
+.signup-top{padding:20px 18px 16px}
+.signup-top h2{font-size:24px;padding-right:30px}
+.signup-top p{font-size:11px}
+.signup-form{padding:15px 18px 18px;gap:10px}
+.signup-submit{height:43px}
+
+      .signup-modal.open{display:block!important;overflow-y:auto!important;overflow-x:hidden!important;padding:8px!important}
+
+      .signup-panel{position:relative!important;width:calc(100vw - 16px)!important;min-width:0!important;max-width:calc(100vw - 16px)!important;max-height:none!important;margin:0 auto!important;overflow-x:hidden!important}
+
+      .signup-top,.signup-form{width:100%!important;min-width:0!important;overflow-x:hidden!important}
+
+      .signup-top h2,.signup-top p,.signup-form,.signup-form *{max-width:100%!important;min-width:0!important;white-space:normal!important;overflow-wrap:anywhere!important}
+
+      .signup-close{right:8px!important;top:8px!important}
+
+    .success-toast{position:fixed;left:50%;top:20px;z-index:90;display:none;width:min(520px,calc(100% - 24px));transform:translateX(-50%);padding:14px 44px 14px 16px;border:1px solid color-mix(in srgb,var(--accent) 55%,var(--line));border-radius:11px;background:var(--surface);box-shadow:var(--shadow);font-size:13px}
+.success-toast.show{display:block}
+.success-toast b{display:block;color:var(--accent);margin-bottom:2px}
+.success-toast button{position:absolute;right:8px;top:8px;width:30px;height:30px;border:0;background:transparent;color:var(--ink);font-size:20px;cursor:pointer}</style></head><body><div class="signup-modal" id="signupModal" role="dialog" aria-modal="true" aria-labelledby="signupTitle">
+    <div class="signup-panel">
+      <button class="signup-close" id="signupClose" type="button" aria-label="Cerrar">×</button>
+      <div class="signup-top">
+        <div class="eyebrow"><span class="dot"></span><span id="signupEyebrow">Radar de oportunidades</span></div>
+        <h2 id="signupTitle">Recibe los mejores deals antes de pagar.</h2>
+        <p id="signupIntro">Promociones, cambios de reglas y lanzamientos de prop firms de futuros, en tu idioma.</p>
+      </div>
+      <form class="signup-form" id="signupForm" action="https://formsubmit.co/BoriDeals@gmail.com" method="POST">
+        <input type="hidden" name="_subject" value="Nuevo registro — BoriProp Deals">
+        <input type="hidden" name="_template" value="table">
+        <input type="hidden" name="_captcha" value="false">
+        <input type="hidden" name="_next" id="signupNext" value="https://boripropdeals.github.io/?registered=1&amp;lang=es">
+        <div class="field"><label for="signupEmail" id="emailLabel">Tu email</label><input id="signupEmail" name="email" type="email" autocomplete="email" required placeholder="nombre@email.com"></div>
+        <div class="field"><label for="signupLang" id="languageLabel">Idioma</label><select id="signupLang" name="idioma" required><option value="Español">Español</option><option value="English">English</option></select></div>
+        <input type="hidden" name="prop_favorita" value="Todas">
+        <button class="signup-submit" id="signupSubmit" type="submit">Quiero recibir los deals</button>
+        <p class="signup-privacy" id="signupPrivacy">Al registrarte, recibirás novedades de BoriProp Deals. Puedes darte de baja desde cualquier email.</p>
+      </form>
+    </div>
+  </div>
+  <div class="success-toast" id="successToast" role="status" aria-live="polite"><b id="successTitle">¡Registro recibido!</b><span id="successText">Revisa tu email para confirmar que todo llegó bien.</span><button id="successClose" type="button" aria-label="Cerrar">×</button></div><script>
+const signupModal=document.getElementById('signupModal'),signupClose=document.getElementById('signupClose'),successToast=document.getElementById('successToast');
+function setLang(l){}
+function openSignup(){signupModal.classList.add('open');document.body.style.overflow='hidden';setTimeout(()=>document.getElementById('signupEmail').focus(),40)}
+function closeSignup(){signupModal.classList.remove('open');document.body.style.overflow=''}
+signupClose.addEventListener('click',closeSignup);signupModal.addEventListener('click',e=>{if(e.target===signupModal)closeSignup()});document.getElementById('signupLang').addEventListener('change',e=>setLang(e.target.value==='English'?'en':'es'));document.getElementById('successClose').addEventListener('click',()=>successToast.classList.remove('show'));document.addEventListener('keydown',e=>{if(e.key==='Escape'&&signupModal.classList.contains('open'))closeSignup()});
+const params=new URLSearchParams(window.location.search),returnedLang=params.get('lang');setLang(returnedLang==='en'?'en':'es');if(params.get('registered')==='1'){successToast.classList.add('show')}else{setTimeout(openSignup,1800)}
+</script></body></html>
