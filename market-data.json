@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-26T19:32:36.092405+00:00",
+ "updated_at": "2026-10-26T19:32:53.072301+00:00",
  "nq": {
-  "price": 29510.25,
-  "change_points": 392.5,
+  "price": 29511.25,
+  "change_points": 393.5,
   "percent_change": 1.35
  },
  "gold": {
@@ -17,14 +17,24 @@
  },
  "headlines": [
   {
-   "headline": "Wall Street sube: el IPO de Anthropic impulsa a los fabricantes de chips de IA",
-   "headline_en": "Wall Street rises as Anthropic’s IPO filing lifts AI chipmakers",
-   "source": "TipRanks"
+   "headline": "Wall Street sube con fuerza: tecnología y semiconductores lideran el repunte antes de la Fed y las ganancias de las big tech",
+   "headline_en": "Wall Street rallies as tech and semiconductors lead gains ahead of the Fed decision and big-tech earnings",
+   "source": "Investopedia"
   },
   {
-   "headline": "La Fed decidirá el miércoles: el mercado da 90% de probabilidad a que mantenga las tasas",
-   "headline_en": "Fed decision due Wednesday: markets price a 90% chance rates stay on hold",
+   "headline": "Anthropic presenta su solicitud de IPO en Nasdaq y da impulso a las acciones de IA",
+   "headline_en": "Anthropic files for Nasdaq IPO, lifting AI stocks",
    "source": "Investopedia"
+  },
+  {
+   "headline": "Meta planea emitir hasta 95,000 millones de dólares en acciones para financiar sus apuestas en IA",
+   "headline_en": "Meta plans to raise up to $95 billion in stock offerings to fund its AI ambitions",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "La Fed decide el miércoles: el mercado da cerca de 90% de probabilidad a que mantenga las tasas",
+   "headline_en": "Fed decision due Wednesday: markets price about a 90% chance rates stay on hold",
+   "source": "TradingView"
   },
   {
    "headline": "Semana clave de ganancias: Alphabet y Microsoft reportan el miércoles y Amazon el jueves",
@@ -32,19 +42,9 @@
    "source": "Investopedia"
   },
   {
-   "headline": "El petróleo cae tras el fin de semana: Trump descarta un ataque inmediato a Irán",
-   "headline_en": "Oil falls as Trump rules out an immediate strike on Iran",
+   "headline": "El petróleo retrocede tras el fin de semana: Trump descarta un ataque inmediato a Irán",
+   "headline_en": "Oil pulls back as Trump rules out an immediate strike on Iran",
    "source": "TipRanks"
-  },
-  {
-   "headline": "Verizon eleva su pronóstico anual pero queda fuera del repunte general",
-   "headline_en": "Verizon lifts its full-year outlook but sits out the broad rally",
-   "source": "Schaeffer’s Investment Research"
-  },
-  {
-   "headline": "Las acciones neocloud caen por la preocupación sobre la deuda de infraestructura de IA",
-   "headline_en": "Neocloud stocks fall on worries over AI infrastructure debt",
-   "source": "Investopedia"
   }
  ],
  "ultima_hora": null
