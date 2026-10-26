@@ -1,45 +1,50 @@
 {
- "updated_at": "2026-10-26T12:30:31.946361+00:00",
+ "updated_at": "2026-10-26T12:32:21.269715+00:00",
  "nq": {
-  "price": 29313.75,
-  "change_points": 196.0,
+  "price": 29311.5,
+  "change_points": 193.75,
   "percent_change": 0.67
  },
  "gold": {
-  "price": 4030.7,
-  "change_points": 22.8,
-  "percent_change": 0.57
+  "price": 4030.4,
+  "change_points": 22.5,
+  "percent_change": 0.56
  },
  "oil": {
-  "price": 101.06,
-  "change_points": -2.21,
-  "percent_change": -2.14
+  "price": 101.0,
+  "change_points": -2.27,
+  "percent_change": -2.2
  },
  "headlines": [
   {
-   "headline": "Futuros de EE. UU. suben al inicio de la semana antes de las ganancias de las grandes tecnológicas y la decisión de la Fed",
-   "headline_en": "U.S. stock futures rise ahead of Big Tech earnings and Fed rate decision",
-   "source": "TipRanks"
+   "headline": "Futuros al alza al inicio de una semana clave: ganancias de Big Tech y decisión de la Fed el miércoles",
+   "headline_en": "Futures rise to start a pivotal week: Big Tech earnings and the Fed rate decision on Wednesday",
+   "source": "Investopedia"
   },
   {
-   "headline": "La Fed decidirá las tasas el miércoles y el mercado descuenta una pausa en 3.75%-4%",
-   "headline_en": "Fed to decide rates Wednesday, markets price a pause at 3.75%-4%",
-   "source": "TipRanks / CNBC"
-  },
-  {
-   "headline": "El petróleo cae cerca de 2% tras el alza de la semana pasada, pese a los ataques a Arabia Saudita",
-   "headline_en": "Oil falls about 2% after last week surge despite attacks on Saudi Arabia",
+   "headline": "El petróleo cae más de 2% tras aliviarse la tensión sobre Irán y bajar la prima de riesgo",
+   "headline_en": "Oil falls over 2% as Iran tensions ease and the risk premium unwinds",
    "source": "Reuters"
   },
   {
-   "headline": "Activos brasileños caen tras la victoria de Lula en la segunda vuelta",
-   "headline_en": "Brazilian assets sink after Lula runoff victory",
+   "headline": "Semana de bancos centrales: la Fed decide el miércoles, el BCE el jueves y el Banco de Japón el viernes",
+   "headline_en": "Central bank week: the Fed decides Wednesday, the ECB Thursday and the Bank of Japan Friday",
+   "source": "TradingKey"
+  },
+  {
+   "headline": "Activos brasileños caen con fuerza tras la victoria de Lula en la segunda vuelta",
+   "headline_en": "Brazilian assets slide sharply after Lula runoff victory",
    "source": "TickerRoast"
   },
   {
-   "headline": "El mercado exige pruebas de monetización de la IA mientras Alphabet, Microsoft y Amazon reportan esta semana",
-   "headline_en": "Markets demand AI monetization proof as Alphabet, Microsoft and Amazon report this week",
-   "source": "Reuters"
+   "headline": "Las acciones neocloud caen tras advertencia de Elon Musk sobre su salud financiera",
+   "headline_en": "Neocloud stocks drop after Elon Musk warns on their financial health",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "Verizon eleva su pronóstico anual y Cadence reporta ganancias al cierre",
+   "headline_en": "Verizon lifts its full-year outlook and Cadence reports earnings after the bell",
+   "source": "Investopedia"
   }
  ],
  "ultima_hora": null
