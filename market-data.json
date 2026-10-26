@@ -1,61 +1,51 @@
 {
- "updated_at": "2026-10-26T19:00:32.414753+00:00",
+ "updated_at": "2026-10-26T19:02:21.247923+00:00",
  "nq": {
-  "price": 29490.0,
-  "change_points": 372.25,
-  "percent_change": 1.28
+  "price": 29488.0,
+  "change_points": 370.25,
+  "percent_change": 1.27
  },
  "gold": {
-  "price": 4027.8,
-  "change_points": 19.9,
-  "percent_change": 0.5
+  "price": 4027.4,
+  "change_points": 19.5,
+  "percent_change": 0.49
  },
  "oil": {
-  "price": 101.95,
-  "change_points": -1.32,
-  "percent_change": -1.28
+  "price": 102.11,
+  "change_points": -1.16,
+  "percent_change": -1.12
  },
  "headlines": [
   {
-   "headline": "Los futuros de Wall Street suben antes de la decisión de la Fed y los resultados de Microsoft, Alphabet y Amazon",
-   "headline_en": "Wall Street futures rise ahead of the Fed decision and Microsoft, Alphabet and Amazon earnings",
-   "source": "Reuters"
+   "headline": "Wall Street sube: el IPO de Anthropic impulsa a los fabricantes de chips de IA",
+   "headline_en": "Wall Street rises as Anthropic’s IPO filing lifts AI chipmakers",
+   "source": "TipRanks"
   },
   {
-   "headline": "El petróleo cae cerca de un 2% mientras se desvanece la prima de riesgo por Irán",
-   "headline_en": "Oil falls nearly 2% as the Iran risk premium fades",
-   "source": "Reuters"
-  },
-  {
-   "headline": "Las acciones neocloud caen tras la advertencia de Musk sobre el crédito para los centros de datos de IA",
-   "headline_en": "Neocloud stocks fall after Musk warns on credit for AI data centers",
-   "source": "Reuters"
-  },
-  {
-   "headline": "Los activos brasileños se desploman tras la victoria de Lula en la segunda vuelta",
-   "headline_en": "Brazilian assets plunge after Lula's runoff victory",
-   "source": "eOption"
-  },
-  {
-   "headline": "Verizon eleva su pronóstico anual mientras Anthropic se prepara para salir a bolsa",
-   "headline_en": "Verizon lifts its full-year outlook as Anthropic prepares IPO filing",
+   "headline": "La Fed decidirá el miércoles: el mercado da 90% de probabilidad a que mantenga las tasas",
+   "headline_en": "Fed decision due Wednesday: markets price a 90% chance rates stay on hold",
    "source": "Investopedia"
   },
   {
-   "headline": "EQT comprará Range Resources en un acuerdo de más de 50,000 millones de dólares",
-   "headline_en": "EQT to buy Range Resources in a deal valued at more than $50 billion",
-   "source": "eOption"
+   "headline": "Semana clave de ganancias: Alphabet y Microsoft reportan el miércoles y Amazon el jueves",
+   "headline_en": "Big tech earnings week: Alphabet and Microsoft report Wednesday, Amazon on Thursday",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "El petróleo cae tras el fin de semana: Trump descarta un ataque inmediato a Irán",
+   "headline_en": "Oil falls as Trump rules out an immediate strike on Iran",
+   "source": "TipRanks"
+  },
+  {
+   "headline": "Verizon eleva su pronóstico anual pero queda fuera del repunte general",
+   "headline_en": "Verizon lifts its full-year outlook but sits out the broad rally",
+   "source": "Schaeffer’s Investment Research"
+  },
+  {
+   "headline": "Las acciones neocloud caen por la preocupación sobre la deuda de infraestructura de IA",
+   "headline_en": "Neocloud stocks fall on worries over AI infrastructure debt",
+   "source": "Investopedia"
   }
  ],
- "ultima_hora": {
-  "headline": "Trump descarta atacar a Irán el domingo y el petróleo cae mientras Wall Street sube",
-  "headline_en": "Trump rules out striking Iran on Sunday as oil falls and Wall Street rises",
-  "source": "TipRanks",
-  "image": "",
-  "images": [
-   "https://boripropdeals.github.io/breaking-visuals/trump-iran-no-ataque-petroleo-2026-10-26.webp",
-   "https://boripropdeals.github.io/breaking-visuals/trump-iran-no-ataque-bolsa-verde-2026-10-26.webp",
-   "https://boripropdeals.github.io/breaking-visuals/trump-iran-no-ataque-casa-blanca-2026-10-26.webp"
-  ]
- }
+ "ultima_hora": null
 }
