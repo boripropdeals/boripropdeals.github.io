@@ -1,51 +1,61 @@
 {
- "updated_at": "2026-10-26T17:02:49.682822+00:00",
+ "updated_at": "2026-10-26T17:03:16.284759+00:00",
  "nq": {
-  "price": 29431.25,
-  "change_points": 313.5,
-  "percent_change": 1.08
+  "price": 29433.75,
+  "change_points": 316.0,
+  "percent_change": 1.09
  },
  "gold": {
-  "price": 4031.6,
-  "change_points": 23.7,
+  "price": 4031.7,
+  "change_points": 23.8,
   "percent_change": 0.59
  },
  "oil": {
-  "price": 102.91,
-  "change_points": -0.36,
-  "percent_change": -0.35
+  "price": 102.92,
+  "change_points": -0.35,
+  "percent_change": -0.34
  },
  "headlines": [
   {
-   "headline": "Wall Street sube al mediodía impulsada por el IPO de Anthropic y el enfriamiento del petróleo",
-   "headline_en": "Wall Street rallies midday as Anthropic IPO filing and cooling oil lift sentiment",
-   "source": "Motley Fool"
+   "headline": "La salida a bolsa de Anthropic impulsa a los fabricantes de chips de IA y Wall Street cierra al alza",
+   "headline_en": "Anthropic IPO Filing Lifts AI Chipmakers as Wall Street Rallies",
+   "source": "Schaeffer’s Investment Research"
   },
   {
-   "headline": "Futuros al alza antes de las ganancias de las Big Tech y la decisión de la Fed del miércoles",
-   "headline_en": "Futures rise ahead of big tech earnings and Wednesdays Fed rate decision",
+   "headline": "Los futuros suben antes de los resultados de las grandes tecnológicas y la decisión de la Fed del miércoles",
+   "headline_en": "Futures Rise Ahead of Big Tech Earnings and Wednesday’s Fed Rate Decision",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "Las acciones de neocloud caen tras la advertencia de Elon Musk sobre la deuda de infraestructura de IA",
+   "headline_en": "Neocloud Stocks Fall After Elon Musk Warns on AI Infrastructure Debt",
+   "source": "eOption"
+  },
+  {
+   "headline": "El petróleo cae cerca de 2% tras aliviarse las tensiones en Medio Oriente",
+   "headline_en": "Oil Falls Nearly 2% as Middle East Tensions Ease",
    "source": "TipRanks"
   },
   {
-   "headline": "El petróleo retrocede tras la pausa en la tensión con Irán durante el fin de semana",
-   "headline_en": "Oil pulls back as Iran tensions ease over the weekend",
-   "source": "TipRanks"
-  },
-  {
-   "headline": "Las acciones neocloud caen tras la advertencia de Musk sobre el crédito para infraestructura de IA",
-   "headline_en": "Neocloud stocks fall after Musk warning on AI infrastructure credit",
-   "source": "Reuters"
-  },
-  {
-   "headline": "Meta cae tras anunciar una oferta de acciones por 35,000 millones para financiar su gasto en IA",
-   "headline_en": "Meta falls after launching a 35 billion stock offering to fund AI spending",
-   "source": "Reuters"
+   "headline": "EQT comprará Range Resources en un acuerdo de gas natural por más de 50,000 millones de dólares",
+   "headline_en": "EQT to Acquire Range Resources in $50 Billion-Plus Natural Gas Deal",
+   "source": "eOption"
   },
   {
    "headline": "Las acciones brasileñas se desploman tras la victoria de Lula en la segunda vuelta",
-   "headline_en": "Brazilian stocks tumble after Lula runoff victory",
-   "source": "eOption"
+   "headline_en": "Brazilian Stocks Tumble After Lula’s Runoff Victory",
+   "source": "TickerRoast"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Trump descarta atacar Irán el domingo y el petróleo cae mientras Wall Street sube",
+  "headline_en": "Trump Rules Out Striking Iran on Sunday as Oil Falls and Wall Street Rallies",
+  "source": "TipRanks",
+  "image": "",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-26-trump-iran-no-strike-oil-refinery.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-26-trump-iran-no-strike-stock-rally.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-26-trump-iran-no-strike-oil-pumps.jpg"
+  ]
+ }
 }
