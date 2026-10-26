@@ -716,7 +716,13 @@ button.codechip{cursor:pointer}
     @media(max-width:640px){.hw-moon{width:76px;height:76px;top:150px;right:6%}.hw-pumpkin{width:42px;bottom:16px}.hw-web{width:140px;height:140px}}
     @media (prefers-reduced-motion:reduce){.hw-fx{display:none}}
   </style>
-<style>.pulse-card.poster-card{padding:16px 20px}.pulse-card.poster-card .pulse-poster{width:150px;flex:none}.pulse-card.poster-card .pulse-body{min-width:0}.pulse-poster img{display:block;width:100%;height:auto;border-radius:12px}@media(max-width:640px){.pulse-card.poster-card{grid-template-columns:1fr;padding:14px}.pulse-card.poster-card .pulse-poster{grid-column:auto;width:auto}.pulse-card.poster-card .pulse-body{grid-column:auto}}</style></head>
+<style>.pulse-card.poster-card{padding:16px 20px}.pulse-card.poster-card .pulse-poster{width:150px;flex:none}.pulse-card.poster-card .pulse-body{min-width:0}.pulse-poster img{display:block;width:100%;height:auto;border-radius:12px}@media(max-width:640px){.pulse-card.poster-card{grid-template-columns:1fr;padding:14px}.pulse-card.poster-card .pulse-poster{grid-column:auto;width:auto}.pulse-card.poster-card .pulse-body{grid-column:auto}}</style><style>
+/* Estabilidad móvil (2026-10-26): sin desplazamiento lateral, todo cabe en cada ancho de teléfono */
+html{overflow-x:hidden}
+.firm-directory,.firm-directory>*,.firm-ticket,.firm-ticket>.t-left,.firm-ticket>.t-right,.t-prow,.pulse-card,.news-strip,.market-pulse{min-width:0}
+.firm-ticket>.t-left,.disc-line,.t-name{overflow-wrap:break-word}
+@media(max-width:640px){.firm-ticket>.t-right{grid-template-columns:minmax(0,1fr)!important}}
+</style></head>
 <body>
   <!-- HALLOWEEN 2026: fondo temporal de octubre -->
   <div class="hw-sky" aria-hidden="true">
