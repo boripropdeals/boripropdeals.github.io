@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T21:32:35.631146+00:00",
+ "updated_at": "2026-10-26T21:32:45.747111+00:00",
  "nq": {
   "price": 29467.5,
   "change_points": 349.75,
@@ -17,34 +17,34 @@
  },
  "headlines": [
   {
-   "headline": "Anthropic presenta su IPO y dispara al sector tecnológico: Nasdaq sube más de 1%",
-   "headline_en": "Anthropic files for IPO, lifting tech stocks as Nasdaq jumps over 1%",
+   "headline": "El sector tecnológico repunta: Anthropic presenta su IPO y el Nasdaq sube 0.82%",
+   "headline_en": "Tech sector rallies as Anthropic files for IPO and Nasdaq rises 0.82%",
    "source": "The Motley Fool"
   },
   {
-   "headline": "Nasdaq cierra al alza y rompe racha de dos días en rojo",
-   "headline_en": "Nasdaq Composite rises 0.82%, snapping a two-day losing streak",
-   "source": "Morningstar / Dow Jones"
-  },
-  {
-   "headline": "Trump aplaza los ataques a Irán y el petróleo se enfría, aliviando a Wall Street",
-   "headline_en": "Trump delays Iran strikes as oil prices cool, easing pressure on Wall Street",
+   "headline": "Trump pausa los ataques a Irán y el petróleo baja, impulsando a las acciones",
+   "headline_en": "Trump holds off on Iran strikes as oil eases, lifting stocks",
    "source": "TipRanks"
   },
   {
-   "headline": "Meta anuncia captación de $95,000 millones para infraestructura de IA; Tesla sube tras mejora de Barclays",
-   "headline_en": "Meta announces $95 billion AI infrastructure fundraising; Tesla jumps on Barclays upgrade",
+   "headline": "Meta anuncia una recaudación de 95,000 millones de dólares para infraestructura de IA",
+   "headline_en": "Meta announces $95 billion fundraising effort for AI infrastructure",
    "source": "The Motley Fool"
   },
   {
-   "headline": "El mercado espera que la Fed mantenga las tasas esta semana, con 90% de probabilidad",
-   "headline_en": "Markets price 90% chance the Fed holds rates steady this week",
-   "source": "BeInSure"
+   "headline": "Tesla sube tras la mejora de Barclays a comprar con precio objetivo de 450 dólares",
+   "headline_en": "Tesla surges after Barclays upgrade to buy with $450 price target",
+   "source": "The Motley Fool"
   },
   {
-   "headline": "La victoria de Lula en Brasil hunde los activos brasileños; MercadoLibre cae casi 10%",
-   "headline_en": "Lula runoff win sinks Brazilian assets; MercadoLibre falls nearly 10%",
-   "source": "TickerRoast / The Motley Fool"
+   "headline": "Activos brasileños caen tras la victoria de Lula; Vale y MercadoLibre retroceden",
+   "headline_en": "Brazilian assets slide after Lula win; Vale and MercadoLibre fall",
+   "source": "The Motley Fool"
+  },
+  {
+   "headline": "Mercados atentos a la decisión de la Fed y a los resultados de Amazon esta semana",
+   "headline_en": "Markets eye Fed decision and Amazon earnings later this week",
+   "source": "The Motley Fool"
   }
  ],
  "ultima_hora": null
