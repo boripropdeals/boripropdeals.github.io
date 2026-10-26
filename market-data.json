@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-26T15:30:33.245921+00:00",
+ "updated_at": "2026-10-26T15:32:40.004258+00:00",
  "nq": {
-  "price": 29541.25,
-  "change_points": 423.5,
-  "percent_change": 1.45
+  "price": 29557.75,
+  "change_points": 440.0,
+  "percent_change": 1.51
  },
  "gold": {
-  "price": 4035.9,
-  "change_points": 28.0,
-  "percent_change": 0.7
+  "price": 4037.6,
+  "change_points": 29.7,
+  "percent_change": 0.74
  },
  "oil": {
-  "price": 101.61,
-  "change_points": -1.66,
-  "percent_change": -1.61
+  "price": 101.62,
+  "change_points": -1.65,
+  "percent_change": -1.6
  },
  "headlines": [
   {
-   "headline": "Los futuros suben antes de la semana de ganancias de las big tech y la decisión de la Fed",
-   "headline_en": "Futures rise ahead of big tech earnings week and the Fed rate decision",
+   "headline": "Los futuros de Wall Street suben antes de las ganancias de las Big Tech y la decisión de la Fed del miércoles",
+   "headline_en": "Stock futures rise ahead of Big Tech earnings and the Fed's Wednesday rate decision",
    "source": "TipRanks"
   },
   {
-   "headline": "La Fed decidiría el miércoles mantener las tasas sin cambios, con un 90% de probabilidad según el mercado",
-   "headline_en": "Fed widely expected to hold rates steady Wednesday, with a 90% market-implied chance",
-   "source": "Investopedia"
+   "headline": "Wall Street cerró en rojo el viernes: el Dow cayó 1.2% y el S&P 500 0.5% por el repunte del petróleo y las tensiones en Medio Oriente",
+   "headline_en": "Wall Street closed lower Friday: the Dow fell 1.2% and the S&P 500 0.5% as oil surged on Middle East tensions",
+   "source": "Zacks"
   },
   {
-   "headline": "El petróleo retrocede tras el repunte por las tensiones en Medio Oriente y los ataques a Arabia Saudita",
-   "headline_en": "Oil pulls back after Middle East tensions spiked prices, with Houthi attacks on Saudi facilities",
+   "headline": "El petróleo retrocede desde sus máximos: el Brent cae hacia $115 y el WTI a $101 tras el repunte del viernes por los ataques a Arabia Saudita",
+   "headline_en": "Oil pulls back from highs: Brent falls toward $115 and WTI to $101 after Friday's surge on Saudi Arabia attacks",
    "source": "TipRanks"
   },
   {
-   "headline": "Las acciones neocloud caen tras un post de Elon Musk que aviva dudas sobre su salud financiera",
-   "headline_en": "Neocloud stocks fall after an Elon Musk post fuels worries about their financial health",
-   "source": "Investopedia"
+   "headline": "Trump descartó un ataque a Irán el domingo y el alivio impulsa a los futuros y hace caer el petróleo",
+   "headline_en": "Trump ruled out a strike on Iran on Sunday, and the relief lifts futures and pulls oil lower",
+   "source": "TipRanks"
   },
   {
-   "headline": "Verizon eleva su proyección para todo el año y lidera las guías positivas de la jornada",
-   "headline_en": "Verizon lifts its full-year outlook",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "Los activos de Brasil se hunden tras la victoria de Lula en la segunda vuelta",
-   "headline_en": "Brazil assets sink after Lula runoff victory",
+   "headline": "Lula gana la segunda vuelta en Brasil y los activos brasileños se desploman",
+   "headline_en": "Lula wins Brazil's runoff and Brazilian assets sell off sharply",
    "source": "TickerRoast"
+  },
+  {
+   "headline": "El oro recupera los $4,000 y el bitcoin vuelve sobre $80,000 mientras el mercado espera la decisión de la Fed",
+   "headline_en": "Gold reclaims $4,000 and bitcoin moves back above $80,000 as markets await the Fed decision",
+   "source": "Investopedia"
   }
  ],
  "ultima_hora": null
