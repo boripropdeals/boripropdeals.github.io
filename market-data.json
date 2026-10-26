@@ -1,61 +1,56 @@
 {
- "updated_at": "2026-10-26T18:02:33.241033+00:00",
+ "updated_at": "2026-10-26T18:04:30.842907+00:00",
  "nq": {
-  "price": 29479.25,
-  "change_points": 361.5,
-  "percent_change": 1.24
+  "price": 29484.5,
+  "change_points": 366.75,
+  "percent_change": 1.26
  },
  "gold": {
-  "price": 4031.5,
-  "change_points": 23.6,
-  "percent_change": 0.59
+  "price": 4032.1,
+  "change_points": 24.2,
+  "percent_change": 0.6
  },
  "oil": {
-  "price": 102.18,
-  "change_points": -1.09,
-  "percent_change": -1.06
+  "price": 102.06,
+  "change_points": -1.21,
+  "percent_change": -1.17
  },
  "headlines": [
   {
-   "headline": "Los futuros suben antes de los resultados de las grandes tecnológicas y la decisión de la Fed del miércoles",
-   "headline_en": "Futures Rise Ahead of Big Tech Earnings and Wednesday’s Fed Rate Decision",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "Las acciones de neocloud caen tras la advertencia de Elon Musk sobre la deuda de infraestructura de IA",
-   "headline_en": "Neocloud Stocks Fall After Elon Musk Warns on AI Infrastructure Debt",
+   "headline": "Wall Street sube impulsada por la tecnología tras la solicitud de salida a bolsa de Anthropic",
+   "headline_en": "Wall Street rises on tech gains after Anthropic files for IPO",
    "source": "Reuters"
   },
   {
-   "headline": "El petróleo cae cerca de 2% tras aliviarse las tensiones en Medio Oriente",
-   "headline_en": "Oil Falls Nearly 2% as Middle East Tensions Ease",
-   "source": "TipRanks"
+   "headline": "Wall Street abre en verde mientras la BMV cae por tercera sesión consecutiva",
+   "headline_en": "Wall Street opens higher while Mexico's BMV falls for a third straight session",
+   "source": "El CEO"
   },
   {
-   "headline": "Meta cae en premarket tras lanzar una oferta de acciones por 35,000 millones de dólares",
-   "headline_en": "Meta Falls in Premarket After Launching $35 Billion Stock Offering",
-   "source": "Reuters"
+   "headline": "Activos brasileños se desploman tras la victoria de Lula en la segunda vuelta",
+   "headline_en": "Brazilian assets plunge after Lula's runoff victory",
+   "source": "TradingKey"
   },
   {
-   "headline": "Verizon eleva su pronóstico para todo el año",
-   "headline_en": "Verizon Lifts Its Full-Year Outlook",
-   "source": "Investopedia"
+   "headline": "El petróleo retrocede desde sus máximos recientes mientras cede la prima de riesgo por Irán",
+   "headline_en": "Oil pulls back from recent highs as Iran risk premium fades",
+   "source": "TradingKey"
   },
   {
-   "headline": "La Fed decidirá el miércoles con 90% de probabilidad de mantener las tasas sin cambios",
-   "headline_en": "Fed to Decide Wednesday With 90% Odds of Holding Rates Steady",
+   "headline": "Semana clave: decisión de la Fed el miércoles y resultados de Microsoft, Alphabet y Amazon",
+   "headline_en": "Key week ahead: Fed decision Wednesday plus Microsoft, Alphabet and Amazon earnings",
    "source": "Reuters"
   }
  ],
  "ultima_hora": {
-  "headline": "Trump descarta atacar Irán el domingo y el petróleo cae mientras Wall Street sube",
-  "headline_en": "Trump Rules Out Striking Iran on Sunday as Oil Falls and Wall Street Rallies",
+  "headline": "Trump descarta atacar a Irán el domingo y el petróleo cae mientras Wall Street sube",
+  "headline_en": "Trump rules out striking Iran on Sunday as oil falls and Wall Street rises",
   "source": "TipRanks",
   "image": "",
   "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-26-trump-iran-no-strike-oil-refinery.jpg",
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-26-trump-iran-no-strike-stock-rally.jpg",
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-26-trump-iran-no-strike-oil-pumps.jpg"
+   "https://boripropdeals.github.io/breaking-visuals/trump-iran-no-ataque-petroleo-2026-10-26.webp",
+   "https://boripropdeals.github.io/breaking-visuals/trump-iran-no-ataque-bolsa-verde-2026-10-26.webp",
+   "https://boripropdeals.github.io/breaking-visuals/trump-iran-no-ataque-casa-blanca-2026-10-26.webp"
   ]
  }
 }
