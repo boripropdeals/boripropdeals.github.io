@@ -1,45 +1,50 @@
 {
- "updated_at": "2026-10-27T17:00:32.275119+00:00",
+ "updated_at": "2026-10-27T17:02:19.540590+00:00",
  "nq": {
-  "price": 29784.25,
-  "change_points": 347.0,
-  "percent_change": 1.18
+  "price": 29786.25,
+  "change_points": 349.0,
+  "percent_change": 1.19
  },
  "gold": {
-  "price": 4074.9,
-  "change_points": 36.5,
-  "percent_change": 0.9
+  "price": 4074.1,
+  "change_points": 35.7,
+  "percent_change": 0.88
  },
  "oil": {
-  "price": 100.04,
-  "change_points": -1.72,
-  "percent_change": -1.69
+  "price": 100.06,
+  "change_points": -1.7,
+  "percent_change": -1.67
  },
  "headlines": [
   {
-   "headline": "Futuros de Wall Street suben antes de la reunión de la Fed",
-   "headline_en": "US stock futures rise ahead of Fed meeting",
+   "headline": "Los futuros suben antes de la decisión de la Fed y una avalancha de ganancias",
+   "headline_en": "Futures edge higher ahead of the Fed decision and a wave of earnings",
+   "source": "Reuters / Kitco"
+  },
+  {
+   "headline": "Nvidia invertirá $3,000 millones en Meta y amplía su alianza en IA",
+   "headline_en": "Nvidia to invest $3 billion in Meta, expanding their AI partnership",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "Celestica lidera el rally de la IA tras resultados mejores de lo esperado",
+   "headline_en": "Celestica leads the AI trade higher after better-than-expected results",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "El petróleo cae por esperanzas de diálogo sobre Irán y alivia a los mercados",
+   "headline_en": "Oil pulls back on hopes of Iran diplomacy, lifting stocks",
+   "source": "Barron’s"
+  },
+  {
+   "headline": "La Fed inicia su reunión de dos días; se espera que mantenga las tasas el miércoles",
+   "headline_en": "Fed kicks off two-day meeting; rates expected to hold on Wednesday",
    "source": "Reuters"
   },
   {
-   "headline": "Nvidia invertirá $3,000 millones en Meta en plena expansión de la IA",
-   "headline_en": "Nvidia to invest $3 billion in Meta as AI spending expands",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "Anthropic presenta su salida a bolsa y da impulso al sector tecnológico",
-   "headline_en": "Anthropic files for IPO, boosting tech shares",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "Coca-Cola, Boeing y UPS superan expectativas; Visa reporta al cierre",
-   "headline_en": "Coca-Cola, Boeing and UPS beat expectations; Visa reports after the bell",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "El petróleo cae, el oro ronda los $4,000 y Bitcoin baja de $80,000",
-   "headline_en": "Oil pulls back, gold hovers near $4,000 and Bitcoin drops below $80,000",
-   "source": "Reuters"
+   "headline": "Anthropic presenta su documentación para salir a bolsa e impulsa a las acciones de IA",
+   "headline_en": "Anthropic files IPO paperwork, boosting AI stocks",
+   "source": "TipRanks"
   }
  ],
  "ultima_hora": null
