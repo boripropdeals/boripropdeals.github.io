@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T21:32:37.401061+00:00",
+ "updated_at": "2026-10-27T21:32:53.560921+00:00",
  "nq": {
   "price": 29803.0,
   "change_points": 365.75,
@@ -17,34 +17,29 @@
  },
  "headlines": [
   {
-   "headline": "S&P 500 y Nasdaq suben con fuerza antes de la decisión de la Fed",
-   "headline_en": "S&P 500, Nasdaq advance ahead of Fed decision",
+   "headline": "Nasdaq y S&P 500 cierran al alza impulsados por las tecnológicas antes de la decisión de la Fed",
+   "headline_en": "Nasdaq and S&P 500 end higher as tech leads ahead of Fed decision",
    "source": "Investopedia"
   },
   {
-   "headline": "Alphabet y Microsoft reportan ganancias mañana tras el cierre; Amazon lo hace el jueves",
-   "headline_en": "Alphabet and Microsoft report earnings tomorrow after the close; Amazon follows Thursday",
-   "source": "Investopedia"
+   "headline": "Las acciones de chips e IA repuntan tras la solicitud de salida a bolsa de Anthropic y el financiamiento de $63,000 millones para Broadcom",
+   "headline_en": "Chip and AI stocks rally after Anthropic IPO filing and $63 billion Broadcom financing",
+   "source": "CNBC TV18"
   },
   {
-   "headline": "Tesla extiende su repunte tras mejora de Barclays, mientras Meta cae por su oferta de acciones de $97,500 millones",
-   "headline_en": "Tesla extends gains after Barclays upgrade as Meta falls on $97.5B share offering",
-   "source": "Reuters"
+   "headline": "El petróleo cae por segundo día consecutivo ante esperanzas de desescalada en Medio Oriente",
+   "headline_en": "Oil falls for a second straight session on Middle East de-escalation hopes",
+   "source": "Kitco / Reuters"
   },
   {
-   "headline": "SoFi se dispara 15% tras superar expectativas de ganancias del tercer trimestre",
-   "headline_en": "SoFi surges 15% after third-quarter earnings beat",
+   "headline": "SoFi se dispara 15% tras superar expectativas en el tercer trimestre; Royal Caribbean sube 7.6% con guía al alza",
+   "headline_en": "SoFi surges 15% on Q3 earnings beat; Royal Caribbean jumps 7.6% on raised guidance",
    "source": "Motley Fool"
   },
   {
-   "headline": "El petróleo baja mientras crecen las esperanzas de desescalada en el conflicto con Irán",
-   "headline_en": "Oil eases as hopes grow for de-escalation in the Iran conflict",
-   "source": "Reuters"
-  },
-  {
-   "headline": "Anthropic presenta papeles para salir a bolsa y revive el apetito por acciones de IA",
-   "headline_en": "Anthropic files to go public, reviving appetite for AI stocks",
-   "source": "Zacks"
+   "headline": "La Fed decide mañana miércoles y Alphabet y Microsoft reportan tras el cierre; Amazon lo hará el jueves",
+   "headline_en": "Fed decision due Wednesday, with Alphabet and Microsoft reporting after the close; Amazon follows Thursday",
+   "source": "Investopedia"
   }
  ],
  "ultima_hora": null
