@@ -1,50 +1,45 @@
 {
- "updated_at": "2026-10-27T12:30:33.166078+00:00",
+ "updated_at": "2026-10-27T12:32:25.816958+00:00",
  "nq": {
-  "price": 29571.5,
-  "change_points": 134.25,
-  "percent_change": 0.46
+  "price": 29574.25,
+  "change_points": 137.0,
+  "percent_change": 0.47
  },
  "gold": {
-  "price": 4030.0,
-  "change_points": -8.4,
-  "percent_change": -0.21
+  "price": 4029.1,
+  "change_points": -9.3,
+  "percent_change": -0.23
  },
  "oil": {
-  "price": 101.07,
-  "change_points": -0.69,
-  "percent_change": -0.68
+  "price": 100.99,
+  "change_points": -0.77,
+  "percent_change": -0.76
  },
  "headlines": [
   {
-   "headline": "Wall Street cierra al alza el lunes impulsada por la presentación de la IPO de Anthropic; el Nasdaq sube 0.8% a 26,169",
-   "headline_en": "Wall Street closes higher Monday on Anthropic IPO filing; Nasdaq rises 0.8% to 26,169",
-   "source": "Zacks"
+   "headline": "Los futuros suben tras el repunte tecnológico impulsado por la salida a bolsa de Anthropic",
+   "headline_en": "Futures rise after tech-led rally on Anthropic IPO filing",
+   "source": "Investopedia"
   },
   {
-   "headline": "La Fed inicia su reunión de dos días; la decisión llega el miércoles y se espera que mantenga las tasas",
-   "headline_en": "Fed kicks off two-day policy meeting; decision due Wednesday with a hold widely expected",
+   "headline": "La Fed inicia su reunión de dos días; se espera que mantenga las tasas el miércoles",
+   "headline_en": "Fed kicks off two-day policy meeting; rates expected to hold on Wednesday",
    "source": "TipRanks"
   },
   {
-   "headline": "Los futuros suben levemente antes de una avalancha de ganancias con Alphabet y Robinhood al cierre",
-   "headline_en": "Futures edge higher ahead of key earnings with Alphabet and Robinhood reporting after the close",
-   "source": "TipRanks"
+   "headline": "El petróleo rebota por encima de $116 ante esperanzas diplomáticas entre EE. UU. e Irán",
+   "headline_en": "Oil rebounds above $116 as U.S.-Iran diplomacy hopes ease tensions",
+   "source": "Stocktwits"
   },
   {
-   "headline": "El rendimiento del bono a 10 años se mantiene en 5.00% mientras el mercado espera a la Fed",
-   "headline_en": "10-year Treasury yield holds at 5.00% as markets await the Fed decision",
-   "source": "FinancialAdvsr"
+   "headline": "Semana clave de resultados: Coca-Cola, Robinhood y Boeing hoy; Microsoft, Alphabet y Amazon en los próximos días",
+   "headline_en": "Big earnings week: Coca-Cola, Robinhood and Boeing today; Microsoft, Alphabet and Amazon ahead",
+   "source": "Investopedia"
   },
   {
-   "headline": "El petróleo se mantiene volátil por las tensiones en Medio Oriente; el WTI ronda los 102 dólares",
-   "headline_en": "Oil stays volatile on Middle East tensions; WTI hovers near $102",
-   "source": "TipRanks"
-  },
-  {
-   "headline": "La confianza del consumidor de hoy a las 10:00 ET, el catalizador clave para las expectativas de tasas",
-   "headline_en": "Consumer confidence at 10:00 ET is the key catalyst for rate expectations today",
-   "source": "DataForge Studio"
+   "headline": "Los futuros del Nasdaq se enfrían tras el repunte de Anthropic; el oro roza los $4,000",
+   "headline_en": "Nasdaq futures cool as Anthropic rally stalls; gold nears $4,000",
+   "source": "The Wall Street Journal"
   }
  ],
  "ultima_hora": null
