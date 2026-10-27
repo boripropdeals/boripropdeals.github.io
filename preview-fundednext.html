@@ -1033,6 +1033,7 @@ html{overflow-x:hidden}
   <div class="signup-modal" id="signupModal" role="dialog" aria-modal="true" aria-labelledby="signupTitle">
     <div class="signup-panel">
       <button class="signup-close" id="signupClose" type="button" aria-label="Cerrar">×</button>
+      <div id="fnSignupBanner" style="margin:0 0 14px;padding:10px 14px;border:1.5px dashed #34d399;border-radius:12px;background:rgba(52,245,165,.08);text-align:center;"><span style="color:#34f5a5;font-weight:800;font-size:13px;letter-spacing:.5px;">🔥 ÚLTIMA HORA: ¡Llega FundedNext a BoriProp Deals!</span></div>
       <div class="signup-top">
         <img class="signup-toro" src="https://boripropdeals.github.io/assets/toro-email-vidrio.png" alt="BoriProp Deals">
         <div class="eyebrow"><span class="dot"></span><span id="signupEyebrow">Radar de oportunidades</span></div>
@@ -1404,7 +1405,7 @@ const c=info.querySelector('[data-radar-firm]');if(c)c.addEventListener('click',
     function openSignup(){signupModal.classList.add('open');document.body.style.overflow='hidden';setTimeout(()=>document.getElementById('signupEmail').focus(),40)}
     function closeSignup(){signupModal.classList.remove('open');if(!els.modal.classList.contains('open'))document.body.style.overflow=''}
     signupClose.addEventListener('click',closeSignup);signupModal.addEventListener('click',e=>{if(e.target===signupModal)closeSignup()});document.getElementById('signupLang').addEventListener('change',e=>setLang(e.target.value==='English'?'en':'es'));document.getElementById('successClose').addEventListener('click',()=>successToast.classList.remove('show'));document.addEventListener('keydown',e=>{if(e.key==='Escape'&&signupModal.classList.contains('open'))closeSignup()});
-    const params=new URLSearchParams(window.location.search),returnedLang=params.get('lang');setLang(returnedLang==='en'?'en':'es');if(params.get('registered')==='1'){successToast.classList.add('show')}else{setTimeout(openSignup,1800)}
+    const params=new URLSearchParams(window.location.search),returnedLang=params.get('lang');setLang(returnedLang==='en'?'en':'es');if(params.get('registered')==='1'){successToast.classList.add('show')}else{setTimeout(function(){var a=document.getElementById("fnLaunchPop");if(a&&a.style.display!=="none")return;openSignup();},1800)}
   </script>
   <script>
     (function(){
@@ -2365,7 +2366,7 @@ const c=info.querySelector('[data-radar-firm]');if(c)c.addEventListener('click',
   setInterval(check,60000);
 })();
 </script>
-<script>(function(){var m=document.getElementById("signupModal");if(!m)return;var p=new URLSearchParams(window.location.search);if(p.get("registered")==="1")return;setTimeout(function(){m.classList.add("open");document.body.style.overflow="hidden";},1800);})();</script>
+<script>(function(){var m=document.getElementById("signupModal");if(!m)return;var p=new URLSearchParams(window.location.search);if(p.get("registered")==="1")return;setTimeout(function(){var a=document.getElementById("fnLaunchPop");if(a&&a.style.display!=="none")return;m.classList.add("open");document.body.style.overflow="hidden";},1800);})();</script>
 <div id="fnLaunchPop" style="position:fixed;inset:0;z-index:99999;display:flex;align-items:center;justify-content:center;padding:20px;background:rgba(0,0,0,.65);">
   <div style="position:relative;width:min(430px,calc(100vw - 40px));background:#0b0f1e;border:2px solid #8b5cf6;border-radius:22px;box-shadow:0 0 0 1px rgba(52,245,165,.35),0 24px 60px rgba(0,0,0,.6);padding:30px 26px 26px;text-align:center;color:#fff;font-family:inherit;">
     <button id="fnLaunchClose" aria-label="Cerrar" style="position:absolute;right:14px;top:12px;background:none;border:0;color:#d8c9f5;font-size:22px;cursor:pointer;line-height:1;">×</button>
@@ -2377,6 +2378,6 @@ const c=info.querySelector('[data-radar-firm]');if(c)c.addEventListener('click',
     <button id="fnLaunchCta" style="margin-top:18px;width:100%;padding:13px;border:0;border-radius:12px;background:linear-gradient(90deg,#8b5cf6,#34f5a5);color:#0b0f1e;font-weight:800;font-size:16px;cursor:pointer;">Ver la oferta →</button>
   </div>
 </div>
-<script>(function(){var p=document.getElementById("fnLaunchPop");if(!p)return;function close(){p.style.display="none";document.body.style.overflow="";}document.getElementById("fnLaunchClose").onclick=close;p.addEventListener("click",function(e){if(e.target===p)close();});document.getElementById("fnLaunchCta").onclick=function(){close();var t=document.getElementById("results");if(t)t.scrollIntoView({behavior:"smooth"});};document.body.style.overflow="hidden";})();</script>
+<script>(function(){var EXP=new Date('2026-11-01T00:00:00-05:00');var p=document.getElementById("fnLaunchPop");var b=document.getElementById("fnSignupBanner");if(Date.now()>=EXP.getTime()){if(p)p.remove();if(b)b.remove();return;}if(!p)return;function openSignup(){var m=document.getElementById("signupModal");if(!m)return;if(new URLSearchParams(window.location.search).get("registered")==="1")return;m.classList.add("open");document.body.style.overflow="hidden";}function close(){p.style.display="none";document.body.style.overflow="";openSignup();}document.getElementById("fnLaunchClose").onclick=close;p.addEventListener("click",function(e){if(e.target===p)close();});document.getElementById("fnLaunchCta").onclick=function(){close();var t=document.getElementById("results");if(t)t.scrollIntoView({behavior:"smooth"});};document.body.style.overflow="hidden";})();</script>
 </body>
 </html>
