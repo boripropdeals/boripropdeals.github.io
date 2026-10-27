@@ -1,50 +1,45 @@
 {
- "updated_at": "2026-10-27T11:02:35.190008+00:00",
+ "updated_at": "2026-10-27T11:02:47.881296+00:00",
  "nq": {
-  "price": 29511.75,
-  "change_points": 74.5,
-  "percent_change": 0.25
+  "price": 29516.25,
+  "change_points": 79.0,
+  "percent_change": 0.27
  },
  "gold": {
-  "price": 4021.1,
-  "change_points": -17.3,
-  "percent_change": -0.43
+  "price": 4022.0,
+  "change_points": -16.4,
+  "percent_change": -0.41
  },
  "oil": {
-  "price": 101.31,
-  "change_points": -0.45,
-  "percent_change": -0.44
+  "price": 101.29,
+  "change_points": -0.47,
+  "percent_change": -0.46
  },
  "headlines": [
   {
-   "headline": "El sector tecnológico repunta: Anthropic presenta su IPO y el Nasdaq sube 0.82%",
-   "headline_en": "Tech sector rallies as Anthropic files for IPO and Nasdaq rises 0.82%",
-   "source": "The Motley Fool"
+   "headline": "Futuros de EE. UU. planos mientras el petróleo se acerca a máximos de abril antes de la decisión de la Fed",
+   "headline_en": "US stock futures muted as oil holds near April highs ahead of Fed decision",
+   "source": "Reuters"
   },
   {
-   "headline": "Trump pausa los ataques a Irán y el petróleo baja, impulsando a las acciones",
-   "headline_en": "Trump holds off on Iran strikes as oil eases, lifting stocks",
-   "source": "TipRanks"
+   "headline": "Meta eleva su mayor captación de capital a $97.5 mil millones para financiar su expansión en IA",
+   "headline_en": "Meta raises largest-ever equity fundraising to $97.5 billion to fund AI expansion",
+   "source": "Reuters"
   },
   {
-   "headline": "Meta anuncia una recaudación de 95,000 millones de dólares para infraestructura de IA",
-   "headline_en": "Meta announces $95 billion fundraising effort for AI infrastructure",
-   "source": "The Motley Fool"
+   "headline": "Tesla sube en premercado tras saltar más de 5%; Whirlpool cae 8.8% tras reportar pérdida trimestral",
+   "headline_en": "Tesla climbs in premarket after jumping over 5%; Whirlpool drops 8.8% after quarterly loss",
+   "source": "Reuters"
   },
   {
-   "headline": "Tesla sube tras la mejora de Barclays a comprar con precio objetivo de 450 dólares",
-   "headline_en": "Tesla surges after Barclays upgrade to buy with $450 price target",
-   "source": "The Motley Fool"
+   "headline": "Coca-Cola, Boeing y PayPal reportan resultados hoy; Alphabet, Microsoft y Amazon lo harán esta semana",
+   "headline_en": "Coca-Cola, Boeing and PayPal report earnings today; Alphabet, Microsoft and Amazon report later this week",
+   "source": "Reuters"
   },
   {
-   "headline": "Activos brasileños caen tras la victoria de Lula; Vale y MercadoLibre retroceden",
-   "headline_en": "Brazilian assets slide after Lula win; Vale and MercadoLibre fall",
-   "source": "The Motley Fool"
-  },
-  {
-   "headline": "Mercados atentos a la decisión de la Fed y a los resultados de Amazon esta semana",
-   "headline_en": "Markets eye Fed decision and Amazon earnings later this week",
-   "source": "The Motley Fool"
+   "headline": "JetBlue sube tras sus resultados del tercer trimestre; DoorDash negocia comprar Instacart por unos $17 mil millones",
+   "headline_en": "JetBlue rises after third-quarter results; DoorDash in advanced talks to acquire Instacart for about $17 billion",
+   "source": "The Wall Street Journal"
   }
  ],
  "ultima_hora": null
