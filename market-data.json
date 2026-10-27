@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-27T11:32:34.205440+00:00",
+ "updated_at": "2026-10-27T11:32:37.827277+00:00",
  "nq": {
-  "price": 29571.75,
-  "change_points": 134.5,
+  "price": 29572.25,
+  "change_points": 135.0,
   "percent_change": 0.46
  },
  "gold": {
@@ -17,29 +17,29 @@
  },
  "headlines": [
   {
-   "headline": "Futuros de EE. UU. planos mientras el petróleo se acerca a máximos de abril antes de la decisión de la Fed",
-   "headline_en": "US stock futures muted as oil holds near April highs ahead of Fed decision",
+   "headline": "Futuros de EE. UU. planos antes de la decisión de la Fed del miércoles",
+   "headline_en": "US stock futures muted ahead of Wednesday Fed decision",
    "source": "Reuters"
   },
   {
-   "headline": "Meta eleva su mayor captación de capital a $97.5 mil millones para financiar su expansión en IA",
-   "headline_en": "Meta raises largest-ever equity fundraising to $97.5 billion to fund AI expansion",
+   "headline": "El petróleo se mantiene cerca de máximos de seis semanas por el conflicto con Irán",
+   "headline_en": "Oil holds near six-week highs amid ongoing US-Iran conflict",
    "source": "Reuters"
   },
   {
-   "headline": "Tesla sube en premercado tras saltar más de 5%; Whirlpool cae 8.8% tras reportar pérdida trimestral",
-   "headline_en": "Tesla climbs in premarket after jumping over 5%; Whirlpool drops 8.8% after quarterly loss",
+   "headline": "Semana clave de resultados: Coca-Cola, Boeing y PayPal reportan hoy; Alphabet, Microsoft y Amazon esta semana",
+   "headline_en": "Key earnings week: Coca-Cola, Boeing and PayPal report today; Alphabet, Microsoft and Amazon later this week",
    "source": "Reuters"
   },
   {
-   "headline": "Coca-Cola, Boeing y PayPal reportan resultados hoy; Alphabet, Microsoft y Amazon lo harán esta semana",
-   "headline_en": "Coca-Cola, Boeing and PayPal report earnings today; Alphabet, Microsoft and Amazon report later this week",
+   "headline": "Tesla sube en premarket tras saltar más de 5% en la sesión anterior",
+   "headline_en": "Tesla climbs in premarket after jumping over 5% last session",
    "source": "Reuters"
   },
   {
-   "headline": "JetBlue sube tras sus resultados del tercer trimestre; DoorDash negocia comprar Instacart por unos $17 mil millones",
-   "headline_en": "JetBlue rises after third-quarter results; DoorDash in advanced talks to acquire Instacart for about $17 billion",
-   "source": "The Wall Street Journal"
+   "headline": "Whirlpool cae 8.8% tras reportar pérdida trimestral y no cumplir estimados",
+   "headline_en": "Whirlpool drops 8.8% after reporting quarterly loss and missing estimates",
+   "source": "Reuters"
   }
  ],
  "ultima_hora": null
