@@ -2365,5 +2365,18 @@ const c=info.querySelector('[data-radar-firm]');if(c)c.addEventListener('click',
   setInterval(check,60000);
 })();
 </script>
-<script>(function(){var m=document.getElementById("signupModal");if(!m)return;var p=new URLSearchParams(window.location.search);if(p.get("registered")==="1")return;setTimeout(function(){m.classList.add("open");document.body.style.overflow="hidden";},1800);})();</script></body>
+<script>(function(){var m=document.getElementById("signupModal");if(!m)return;var p=new URLSearchParams(window.location.search);if(p.get("registered")==="1")return;setTimeout(function(){m.classList.add("open");document.body.style.overflow="hidden";},1800);})();</script>
+<div id="fnLaunchPop" style="position:fixed;inset:0;z-index:99999;display:flex;align-items:center;justify-content:center;padding:20px;background:rgba(0,0,0,.65);">
+  <div style="position:relative;width:min(430px,calc(100vw - 40px));background:#0b0f1e;border:2px solid #8b5cf6;border-radius:22px;box-shadow:0 0 0 1px rgba(52,245,165,.35),0 24px 60px rgba(0,0,0,.6);padding:30px 26px 26px;text-align:center;color:#fff;font-family:inherit;">
+    <button id="fnLaunchClose" aria-label="Cerrar" style="position:absolute;right:14px;top:12px;background:none;border:0;color:#d8c9f5;font-size:22px;cursor:pointer;line-height:1;">×</button>
+    <p style="margin:0;color:#34f5a5;font-size:12px;font-weight:800;letter-spacing:3px;">🔥 ÚLTIMA HORA</p>
+    <img src="https://boripropdeals.github.io/firm-logos-app/fundednext-icon.png" width="84" alt="FundedNext" style="display:block;width:84px;height:84px;margin:16px auto 0;border-radius:14px;">
+    <h2 style="margin:14px 0 0;font-size:26px;line-height:1.2;letter-spacing:-.5px;">¡Llega FundedNext<br>a BoriProp Deals!</h2>
+    <p style="margin:10px 0 0;color:#d8c9f5;font-size:15px;line-height:1.6;">Nuevo partner con código BORI: hasta 50% OFF en sus evaluaciones de futuros.</p>
+    <p style="margin:14px 0 0;"><span style="display:inline-block;border:1.5px dashed #34d399;border-radius:999px;padding:6px 18px;color:#fff;font-weight:800;letter-spacing:2px;">BORI</span></p>
+    <button id="fnLaunchCta" style="margin-top:18px;width:100%;padding:13px;border:0;border-radius:12px;background:linear-gradient(90deg,#8b5cf6,#34f5a5);color:#0b0f1e;font-weight:800;font-size:16px;cursor:pointer;">Ver la oferta →</button>
+  </div>
+</div>
+<script>(function(){var p=document.getElementById("fnLaunchPop");if(!p)return;function close(){p.style.display="none";document.body.style.overflow="";}document.getElementById("fnLaunchClose").onclick=close;p.addEventListener("click",function(e){if(e.target===p)close();});document.getElementById("fnLaunchCta").onclick=function(){close();var t=document.getElementById("results");if(t)t.scrollIntoView({behavior:"smooth"});};document.body.style.overflow="hidden";})();</script>
+</body>
 </html>
