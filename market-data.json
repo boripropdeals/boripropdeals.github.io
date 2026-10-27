@@ -1,44 +1,49 @@
 {
- "updated_at": "2026-10-27T15:30:31.863907+00:00",
+ "updated_at": "2026-10-27T15:32:22.970828+00:00",
  "nq": {
-  "price": 29755.0,
-  "change_points": 317.75,
-  "percent_change": 1.08
+  "price": 29760.75,
+  "change_points": 323.5,
+  "percent_change": 1.1
  },
  "gold": {
-  "price": 4071.4,
-  "change_points": 33.0,
-  "percent_change": 0.82
+  "price": 4070.6,
+  "change_points": 32.2,
+  "percent_change": 0.8
  },
  "oil": {
-  "price": 100.0,
-  "change_points": -1.76,
-  "percent_change": -1.73
+  "price": 100.21,
+  "change_points": -1.55,
+  "percent_change": -1.52
  },
  "headlines": [
   {
-   "headline": "Nasdaq y S&P 500 suben en un día cargado de resultados tras el repunte tecnológico",
-   "headline_en": "Nasdaq, S&P 500 Rise on Busy Earnings Day After Tech-Led Rally",
+   "headline": "Nasdaq y S&P 500 suben en un día intenso de resultados mientras las tecnológicas extienden su rally",
+   "headline_en": "Nasdaq, S&P 500 Rise on Busy Earnings Day as Tech Stocks Extend Rally",
    "source": "Investopedia"
   },
   {
-   "headline": "La Fed inicia su reunión de dos días; se espera que mantenga las tasas sin cambios",
-   "headline_en": "Fed Kicks Off Two-Day Policy Meeting; Rates Expected to Hold",
+   "headline": "Las tecnológicas extienden sus ganancias tras el rally de Anthropic",
+   "headline_en": "Tech Stocks Extend Gains After Yesterday's Anthropic Rally",
+   "source": "The Wall Street Journal"
+  },
+  {
+   "headline": "Los pedidos de bienes duraderos suben 1.8% en septiembre, por encima de lo esperado",
+   "headline_en": "Durable Goods Orders Jump 1.8% in September, Above Estimates",
    "source": "Investor's Business Daily"
   },
   {
-   "headline": "Los pedidos de bienes duraderos subieron 1.8% en septiembre, por encima de lo esperado",
-   "headline_en": "Durable Goods Orders Rose 1.8% in September, Above Views",
+   "headline": "Boeing arrastra al Dow tras un informe de resultados mixto",
+   "headline_en": "Boeing Drags Down the Dow After Mixed Earnings Report",
    "source": "Investor's Business Daily"
   },
   {
-   "headline": "El petróleo baja y las acciones suben ante esperanzas diplomáticas sobre Irán",
-   "headline_en": "Stocks Perk Higher After Oil Prices Ease on Iran Diplomacy Hopes",
+   "headline": "El petróleo baja y las acciones suben mientras inicia la reunión de dos días de la Fed",
+   "headline_en": "Stocks Perk Higher After Oil Prices Ease as Fed's Two-Day Meeting Begins",
    "source": "Barron's"
   },
   {
-   "headline": "La solicitud de salida a bolsa de Anthropic impulsa el repunte de los chips de IA",
-   "headline_en": "Anthropic IPO Filing Fuels AI Chip Rally",
+   "headline": "Las acciones de memoria e IA suben con fuerza lideradas por Micron y Samsung",
+   "headline_en": "Memory and AI-Tied Stocks Surge, Led by Micron and Samsung",
    "source": "Investopedia"
   }
  ],
