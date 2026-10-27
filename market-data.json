@@ -1,45 +1,50 @@
 {
- "updated_at": "2026-10-27T13:30:33.359042+00:00",
+ "updated_at": "2026-10-27T13:32:25.220006+00:00",
  "nq": {
-  "price": 29559.5,
-  "change_points": 122.25,
-  "percent_change": 0.42
+  "price": 29547.0,
+  "change_points": 109.75,
+  "percent_change": 0.37
  },
  "gold": {
-  "price": 4039.5,
-  "change_points": 1.1,
+  "price": 4039.6,
+  "change_points": 1.2,
   "percent_change": 0.03
  },
  "oil": {
-  "price": 101.14,
-  "change_points": -0.62,
-  "percent_change": -0.61
+  "price": 101.09,
+  "change_points": -0.67,
+  "percent_change": -0.66
  },
  "headlines": [
   {
-   "headline": "Futuros de EE. UU. suben mientras el petróleo retrocede antes de la decisión de la Fed",
+   "headline": "La Fed inicia su reunión de dos días; se espera que mantenga las tasas el miércoles",
+   "headline_en": "Fed kicks off two-day meeting; rates expected to hold on Wednesday",
+   "source": "Reuters"
+  },
+  {
+   "headline": "Los futuros de EE. UU. suben mientras el petróleo retrocede antes de la decisión de la Fed",
    "headline_en": "US stock futures gain as oil pulls back ahead of Fed decision",
    "source": "Reuters"
   },
   {
-   "headline": "Wall Street cerró al alza el lunes impulsada por la IA tras la presentación de salida a bolsa de Anthropic",
-   "headline_en": "Wall Street closed higher on Monday as AI trade was rejuvenated by Anthropic IPO filing",
-   "source": "Zacks"
+   "headline": "Celestica lidera el repunte de la IA tras resultados mejores de lo esperado; Nvidia invertirá 3,000 millones de dólares en Meta",
+   "headline_en": "Celestica leads AI trade higher after better-than-expected results; Nvidia to invest $3 billion in Meta",
+   "source": "Investopedia"
   },
   {
-   "headline": "Nvidia planea invertir 3,000 millones de dólares en Meta mientras el gasto en IA se acelera",
-   "headline_en": "Nvidia plans a $3 billion investment in Meta equity offering as AI spending expands",
-   "source": "Invezz"
+   "headline": "JetBlue rebota desde un mínimo histórico tras adelantar resultados; Visa reporta al cierre",
+   "headline_en": "JetBlue rebounds from record low after releasing results early; Visa reports after the bell",
+   "source": "Investopedia"
   },
   {
-   "headline": "Alphabet, Microsoft y Amazon reportan esta semana y el mercado vigilará si la inversión en IA da frutos",
-   "headline_en": "Alphabet, Microsoft and Amazon report later this week; results will be parsed for signs AI investments are translating into growth",
+   "headline": "Alphabet, Microsoft y Amazon reportan esta semana; el foco estará en el gasto en IA",
+   "headline_en": "Alphabet, Microsoft and Amazon report later this week; AI spending in focus",
    "source": "Reuters"
   },
   {
-   "headline": "El petróleo se mantiene volátil mientras la diplomacia en Medio Oriente compite con el riesgo de oferta",
-   "headline_en": "Oil prices remain volatile as Middle East diplomacy competes with supply disruption risks",
-   "source": "TipRanks"
+   "headline": "El petróleo baja a 101 dólares, el oro cae a 4,025 dólares y el bitcoin baja de 80,000 dólares",
+   "headline_en": "Oil slips to $101, gold falls to $4,025 and bitcoin drops below $80,000",
+   "source": "Investopedia"
   }
  ],
  "ultima_hora": null
