@@ -1312,6 +1312,7 @@ const c=info.querySelector('[data-radar-firm]');if(c)c.addEventListener('click',
         return {firm:firm,title:pinnedOffer(firm),meta:lang==='es'?'Código afiliado de BoriProp Deals':'BoriProp Deals affiliate code',code:d.code||'BORI',affiliate:true,date:null,pinned:true};
       });
       const items=pinnedItems;
+      items.unshift({firm:'FundedNext Futures',title:lang==='es'?'¡Nuevo partner! FundedNext Futures — lanzamiento en BoriProp Deals':'New partner! FundedNext Futures — launch on BoriProp Deals',meta:lang==='es'?'Nuevo partner de BoriProp Deals':'New BoriProp Deals partner',code:'BORI',affiliate:true,date:null,pinned:false,isLaunch:true});
       // Sello de la sección: fecha de la novedad más reciente (las fijas BORI no llevan fecha)
       var headStamp=document.querySelector('[data-t="tickerDate"]');
       if(headStamp && newsItems.length && newsItems[0].date) headStamp.textContent=(lang==='es'?'VERIFICADO · ':'VERIFIED · ')+fmtDate(newsItems[0].date);
@@ -1325,6 +1326,7 @@ const c=info.querySelector('[data-radar-firm]');if(c)c.addEventListener('click',
       track.innerHTML='';
       const official=lang==='es'?'✓ Anuncio oficial':'✓ Official announcement';
       function promoType(x){
+        if(x.isLaunch) return 'launch';
         var t=(x.title+' '+(x.discount||'')).toLowerCase();
         var isLaunch=/lanzamiento|nueva cuenta|nuevo plan|nuevo programa|nueva ruta|new account|new plan|new path|launch|recién lanzado|acaba de lanzar/.test(t);
         var isPromo=/%\s*off|descuento|discount|código|code|promo|oferta|sale/.test(t);
@@ -1348,6 +1350,7 @@ const c=info.querySelector('[data-radar-firm]');if(c)c.addEventListener('click',
         s.style.cssText='position:absolute;top:0;left:0;right:0;opacity:0;transition:opacity .6s ease;pointer-events:none;';
         var h=promoHero(x.title,x.firm);
         if(x.pinned && !h[1]) h=['BORI',''];
+        if(x.isLaunch) h=[lang==='es'?'NUEVO':'NEW',''];
         var topRow=x.pinned
           ? '<span class="pulse-pinned">'+(lang==='es'?'⭐ SIEMPRE · CÓDIGO BORI':'⭐ ALWAYS · BORI CODE')+'</span><span class="pulse-official">'+official+'</span>'
           : '<span class="pulse-badge '+pt+'">'+typeBadgeText(pt)+'</span><span class="pulse-official">'+official+'</span><span class="pulse-date">'+(lang==='es'?'NUEVO':'NEW')+(x.date?' · '+fmtDate(x.date):'')+'</span>';
