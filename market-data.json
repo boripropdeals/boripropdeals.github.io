@@ -1,50 +1,45 @@
 {
- "updated_at": "2026-10-27T19:30:31.827854+00:00",
+ "updated_at": "2026-10-27T19:32:31.794721+00:00",
  "nq": {
-  "price": 29828.5,
-  "change_points": 391.25,
-  "percent_change": 1.33
+  "price": 29831.25,
+  "change_points": 394.0,
+  "percent_change": 1.34
  },
  "gold": {
-  "price": 4074.6,
-  "change_points": 36.2,
+  "price": 4074.8,
+  "change_points": 36.4,
   "percent_change": 0.9
  },
  "oil": {
-  "price": 99.77,
-  "change_points": -1.99,
-  "percent_change": -1.96
+  "price": 99.69,
+  "change_points": -2.07,
+  "percent_change": -2.03
  },
  "headlines": [
   {
-   "headline": "S&P 500 y Nasdaq avanzan con el petróleo a la baja antes de la decisión de la Fed",
-   "headline_en": "S&P 500, Nasdaq advance as oil eases ahead of Fed decision",
-   "source": "Reuters vía Kitco"
+   "headline": "Nasdaq y S&P 500 suben con fuerza impulsados por la tecnología en plena jornada de resultados",
+   "headline_en": "Nasdaq and S&P 500 jump as tech leads on a busy earnings day",
+   "source": "Investopedia"
   },
   {
-   "headline": "Nasdaq sube más de 1% impulsado por Broadcom y el rally de IA tras la salida a bolsa de Anthropic",
-   "headline_en": "Nasdaq climbs over 1% as Broadcom leads AI rally after Anthropic IPO filing",
-   "source": "CNBC"
+   "headline": "La Fed inicia su reunión de dos días; el mercado espera que mantenga las tasas el miércoles",
+   "headline_en": "Fed begins two-day policy meeting; markets expect rates to hold on Wednesday",
+   "source": "TradingView"
   },
   {
-   "headline": "SoFi se dispara 15% tras superar expectativas en el tercer trimestre",
-   "headline_en": "SoFi surges 15% after third-quarter earnings beat",
+   "headline": "La confianza del consumidor salta a 91.7 y los pedidos de bienes duraderos superan lo esperado",
+   "headline_en": "Consumer confidence jumps to 91.7 and durable goods orders beat forecasts",
+   "source": "TradingView"
+  },
+  {
+   "headline": "Boeing se desploma cerca de 10% y frena al Dow tras retrasar su meta de producción del 737",
+   "headline_en": "Boeing sinks about 10%, dragging the Dow after delaying its 737 production target",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "SoFi se dispara 15% tras superar resultados y Tesla extiende su racha alcista",
+   "headline_en": "SoFi surges 15% on earnings beat as Tesla extends gains",
    "source": "The Motley Fool"
-  },
-  {
-   "headline": "Meta cae tras ampliar su recaudación para IA a 97,500 millones de dólares",
-   "headline_en": "Meta falls after expanding AI fundraising to $97.5 billion",
-   "source": "Reuters"
-  },
-  {
-   "headline": "El petróleo WTI cae por debajo de 100 dólares ante esperanzas de desescalada en Irán",
-   "headline_en": "WTI crude falls below $100 on hopes of Iran de-escalation",
-   "source": "CNBC TV18"
-  },
-  {
-   "headline": "Nikkei sube 1.7% y el Nasdaq 100 alcanza 29,514 en la víspera de la Fed",
-   "headline_en": "Nikkei jumps 1.7%, Nasdaq 100 climbs to 29,514 on the eve of the Fed",
-   "source": "Capital Street FX"
   }
  ],
  "ultima_hora": null
