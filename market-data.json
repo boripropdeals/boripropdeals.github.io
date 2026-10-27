@@ -1,44 +1,49 @@
 {
- "updated_at": "2026-10-27T19:00:31.596120+00:00",
+ "updated_at": "2026-10-27T19:02:24.077281+00:00",
  "nq": {
-  "price": 29795.0,
-  "change_points": 357.75,
-  "percent_change": 1.22
+  "price": 29790.5,
+  "change_points": 353.25,
+  "percent_change": 1.2
  },
  "gold": {
-  "price": 4070.0,
-  "change_points": 31.6,
-  "percent_change": 0.78
+  "price": 4069.1,
+  "change_points": 30.7,
+  "percent_change": 0.76
  },
  "oil": {
-  "price": 99.88,
-  "change_points": -1.88,
-  "percent_change": -1.85
+  "price": 100.02,
+  "change_points": -1.74,
+  "percent_change": -1.71
  },
  "headlines": [
   {
-   "headline": "S&P 500 y Nasdaq avanzan antes de la decisión de la Fed, con el petróleo a la baja",
+   "headline": "S&P 500 y Nasdaq avanzan con el petróleo a la baja antes de la decisión de la Fed",
    "headline_en": "S&P 500, Nasdaq advance as oil eases ahead of Fed decision",
-   "source": "Reuters / Kitco"
+   "source": "Reuters vía Kitco"
   },
   {
-   "headline": "Broadcom lidera el rally de IA con financiamiento de $63,000 millones para Anthropic",
-   "headline_en": "Broadcom leads afternoon AI rally with $63 billion Anthropic financing",
+   "headline": "Nasdaq sube más de 1% impulsado por Broadcom y el rally de IA tras la salida a bolsa de Anthropic",
+   "headline_en": "Nasdaq climbs over 1% as Broadcom leads AI rally after Anthropic IPO filing",
    "source": "CNBC"
   },
   {
-   "headline": "SoFi se dispara 15% tras superar las expectativas del tercer trimestre",
+   "headline": "SoFi se dispara 15% tras superar expectativas en el tercer trimestre",
    "headline_en": "SoFi surges 15% after third-quarter earnings beat",
    "source": "The Motley Fool"
   },
   {
-   "headline": "El crudo WTI cae por debajo de $100 por esperanzas de desescalada",
-   "headline_en": "WTI crude oil falls below $100 per barrel",
-   "source": "TradingView"
+   "headline": "Meta cae tras ampliar su recaudación para IA a 97,500 millones de dólares",
+   "headline_en": "Meta falls after expanding AI fundraising to $97.5 billion",
+   "source": "Reuters"
   },
   {
-   "headline": "El Nikkei sube 1.7% y el Nasdaq 100 llega a 29,514 en víspera de la Fed",
-   "headline_en": "Nikkei jumps 1.7%, Nasdaq 100 climbs to 29,514 on eve of Fed decision",
+   "headline": "El petróleo WTI cae por debajo de 100 dólares ante esperanzas de desescalada en Irán",
+   "headline_en": "WTI crude falls below $100 on hopes of Iran de-escalation",
+   "source": "CNBC TV18"
+  },
+  {
+   "headline": "Nikkei sube 1.7% y el Nasdaq 100 alcanza 29,514 en la víspera de la Fed",
+   "headline_en": "Nikkei jumps 1.7%, Nasdaq 100 climbs to 29,514 on the eve of the Fed",
    "source": "Capital Street FX"
   }
  ],
