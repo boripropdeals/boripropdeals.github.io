@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-27T16:00:35.765847+00:00",
+ "updated_at": "2026-10-27T16:02:16.968169+00:00",
  "nq": {
-  "price": 29816.5,
-  "change_points": 379.25,
-  "percent_change": 1.29
+  "price": 29830.5,
+  "change_points": 393.25,
+  "percent_change": 1.34
  },
  "gold": {
-  "price": 4076.2,
-  "change_points": 37.8,
+  "price": 4076.4,
+  "change_points": 38.0,
   "percent_change": 0.94
  },
  "oil": {
-  "price": 100.11,
-  "change_points": -1.65,
-  "percent_change": -1.62
+  "price": 100.14,
+  "change_points": -1.62,
+  "percent_change": -1.59
  },
  "headlines": [
   {
-   "headline": "Nasdaq y S&P 500 suben en un día intenso de resultados mientras las tecnológicas extienden su rally",
-   "headline_en": "Nasdaq, S&P 500 Rise on Busy Earnings Day as Tech Stocks Extend Rally",
-   "source": "Investopedia"
+   "headline": "S&P 500 y Nasdaq avanzan mientras el petróleo baja antes de la decisión de la Fed",
+   "headline_en": "S&P 500, Nasdaq advance as oil eases ahead of Fed decision",
+   "source": "Reuters / Kitco"
   },
   {
-   "headline": "Las tecnológicas extienden sus ganancias tras el rally de Anthropic",
-   "headline_en": "Tech Stocks Extend Gains After Yesterday's Anthropic Rally",
-   "source": "The Wall Street Journal"
+   "headline": "Anthropic presenta su salida a bolsa y levanta a las acciones de chips e inteligencia artificial",
+   "headline_en": "Anthropic IPO filing lifts chip and AI stocks",
+   "source": "CNBC TV18"
   },
   {
-   "headline": "Los pedidos de bienes duraderos suben 1.8% en septiembre, por encima de lo esperado",
-   "headline_en": "Durable Goods Orders Jump 1.8% in September, Above Estimates",
-   "source": "Investor's Business Daily"
+   "headline": "Nvidia invertirá 3,000 millones en Meta mientras la tecnológica recauda hasta 95,000 millones para centros de datos",
+   "headline_en": "Nvidia to invest $3 billion in Meta as it raises up to $95 billion for data centers",
+   "source": "TechDefused"
   },
   {
-   "headline": "Boeing arrastra al Dow tras un informe de resultados mixto",
-   "headline_en": "Boeing Drags Down the Dow After Mixed Earnings Report",
-   "source": "Investor's Business Daily"
+   "headline": "Broadcom sube más de 2% tras un financiamiento de 63,000 millones para tecnología de Anthropic",
+   "headline_en": "Broadcom rises over 2% after $63 billion financing for Anthropic technology",
+   "source": "CNBC TV18"
   },
   {
-   "headline": "El petróleo baja y las acciones suben mientras inicia la reunión de dos días de la Fed",
-   "headline_en": "Stocks Perk Higher After Oil Prices Ease as Fed's Two-Day Meeting Begins",
-   "source": "Barron's"
+   "headline": "La Fed inicia su reunión de dos días y se espera que mantenga las tasas el miércoles",
+   "headline_en": "Fed begins two-day meeting, widely expected to hold rates Wednesday",
+   "source": "Reuters"
   },
   {
-   "headline": "Las acciones de memoria e IA suben con fuerza lideradas por Micron y Samsung",
-   "headline_en": "Memory and AI-Tied Stocks Surge, Led by Micron and Samsung",
-   "source": "Investopedia"
+   "headline": "UPS supera expectativas y JetBlue sube más de 11% pese a una pérdida mayor a la esperada",
+   "headline_en": "UPS beats expectations and JetBlue jumps over 11% despite wider-than-expected loss",
+   "source": "CNBC TV18"
   }
  ],
  "ultima_hora": null
