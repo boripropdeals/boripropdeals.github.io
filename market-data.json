@@ -1,50 +1,45 @@
 {
- "updated_at": "2026-10-27T14:30:36.717907+00:00",
+ "updated_at": "2026-10-27T14:32:16.713261+00:00",
  "nq": {
-  "price": 29526.25,
-  "change_points": 89.0,
+  "price": 29525.0,
+  "change_points": 87.75,
   "percent_change": 0.3
  },
  "gold": {
-  "price": 4049.4,
-  "change_points": 11.0,
-  "percent_change": 0.27
+  "price": 4048.5,
+  "change_points": 10.1,
+  "percent_change": 0.25
  },
  "oil": {
-  "price": 101.04,
-  "change_points": -0.72,
-  "percent_change": -0.71
+  "price": 101.22,
+  "change_points": -0.54,
+  "percent_change": -0.53
  },
  "headlines": [
   {
-   "headline": "Futuros al alza antes de la decisión de la Fed y una avalancha de resultados",
-   "headline_en": "Futures edge higher ahead of the Fed decision and a wave of earnings",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "Nvidia invertirá $3,000 millones en Meta y aviva el rally de la IA",
-   "headline_en": "Nvidia to invest $3 billion in Meta, fueling the AI rally",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "La Fed inicia su reunión de dos días; se espera que mantenga las tasas el miércoles",
-   "headline_en": "Fed kicks off two-day meeting; rates expected to hold on Wednesday",
+   "headline": "La Fed inicia su reunión de dos días y los futuros suben a la espera de su decisión",
+   "headline_en": "Fed kicks off two-day meeting as stock futures rise ahead of rate decision",
    "source": "Reuters / Kitco"
   },
   {
-   "headline": "El petróleo cae por esperanzas diplomáticas en Medio Oriente tras los ataques hutíes",
-   "headline_en": "Oil falls on Middle East diplomacy hopes after Houthi attacks",
-   "source": "Barron’s"
-  },
-  {
-   "headline": "El archivo de IPO de Anthropic impulsa el rebote de las acciones de IA",
-   "headline_en": "Anthropic IPO filing powers rebound in AI stocks",
-   "source": "TipRanks"
-  },
-  {
-   "headline": "Coca-Cola, Boeing, UPS y Celestica superan expectativas; Visa reporta al cierre",
-   "headline_en": "Coca-Cola, Boeing, UPS and Celestica beat expectations; Visa reports after the bell",
+   "headline": "Celestica se dispara tras superar expectativas y Nvidia invertirá $3,000 millones en Meta",
+   "headline_en": "Celestica surges on strong results as Nvidia agrees to invest $3 billion in Meta",
    "source": "Investopedia"
+  },
+  {
+   "headline": "Coca-Cola, UPS y Boeing reportan resultados; Visa lo hará al cierre del mercado",
+   "headline_en": "Coca-Cola, UPS and Boeing report earnings; Visa due after the closing bell",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "El petróleo retrocede, el oro ronda los $4,000 y el bitcoin cae bajo los $80,000",
+   "headline_en": "Oil pulls back, gold holds near $4,000 and bitcoin slips below $80,000",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "La confianza en la IA regresa: la salida a bolsa de Anthropic reaviva el rally tecnológico",
+   "headline_en": "Renewed AI confidence drives market recovery as Anthropic's IPO filing revives tech rally",
+   "source": "XTB"
   }
  ],
  "ultima_hora": null
