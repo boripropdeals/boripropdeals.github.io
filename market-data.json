@@ -1,45 +1,45 @@
 {
- "updated_at": "2026-10-27T18:00:32.274214+00:00",
+ "updated_at": "2026-10-27T18:02:21.175011+00:00",
  "nq": {
-  "price": 29808.25,
-  "change_points": 371.0,
-  "percent_change": 1.26
+  "price": 29804.0,
+  "change_points": 366.75,
+  "percent_change": 1.25
  },
  "gold": {
-  "price": 4072.3,
-  "change_points": 33.9,
-  "percent_change": 0.84
+  "price": 4071.6,
+  "change_points": 33.2,
+  "percent_change": 0.82
  },
  "oil": {
-  "price": 99.78,
-  "change_points": -1.98,
-  "percent_change": -1.95
+  "price": 99.75,
+  "change_points": -2.01,
+  "percent_change": -1.98
  },
  "headlines": [
   {
-   "headline": "Futuros del Nasdaq y S&P 500 suben antes de la apertura mientras el petróleo retrocede por esperanzas diplomáticas con Irán",
-   "headline_en": "Nasdaq and S&P 500 futures rise premarket as oil pulls back on Iran diplomacy hopes",
-   "source": "Barron's"
+   "headline": "La Fed inicia su reunión de dos días y se espera que mantenga las tasas el miércoles",
+   "headline_en": "Fed kicks off two-day meeting, widely expected to hold rates steady on Wednesday",
+   "source": "Reuters"
   },
   {
-   "headline": "La Fed inicia su reunión de dos días; se espera que mantenga las tasas el miércoles",
-   "headline_en": "Fed begins two-day meeting; rates expected to hold on Wednesday",
-   "source": "Reuters vía Kitco"
+   "headline": "El Nasdaq lidera las ganancias impulsado por las acciones de chips y la IA",
+   "headline_en": "Nasdaq leads gains as chip and AI stocks rally",
+   "source": "Reuters"
   },
   {
-   "headline": "Wall Street cerró al alza el lunes impulsada por el optimismo en IA tras el filing de IPO de Anthropic",
-   "headline_en": "Wall Street closed higher Monday on AI optimism after Anthropic's IPO filing",
-   "source": "TradingView"
+   "headline": "El petróleo retrocede ante esperanzas de desescalada en el conflicto con Irán",
+   "headline_en": "Oil pulls back as investors hope for de-escalation in Iran conflict",
+   "source": "Reuters"
   },
   {
-   "headline": "Nvidia invertirá $3,000 millones en la oferta de acciones de Meta para impulsar su plataforma de IA",
-   "headline_en": "Nvidia to invest $3 billion in Meta's equity offering to boost its AI platform",
-   "source": "TradingView"
+   "headline": "Oleada de resultados: UPS, Coca-Cola y Royal Caribbean superan expectativas; Visa reporta al cierre",
+   "headline_en": "Earnings wave: UPS, Coca-Cola and Royal Caribbean beat expectations; Visa reports after the bell",
+   "source": "Investopedia"
   },
   {
-   "headline": "Hoy reportan Coca-Cola, Robinhood y Boeing; Microsoft, Alphabet y Amazon lo harán esta semana",
-   "headline_en": "Coca-Cola, Robinhood and Boeing report today; Microsoft, Alphabet and Amazon due this week",
-   "source": "TipRanks"
+   "headline": "Nvidia invertirá 3,000 millones en Meta, que eleva su recaudación para IA a 97,500 millones",
+   "headline_en": "Nvidia to invest $3 billion in Meta as Meta raises AI fundraising to $97.5 billion",
+   "source": "Reuters"
   }
  ],
  "ultima_hora": null
