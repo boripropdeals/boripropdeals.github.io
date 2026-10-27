@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-10-27T16:30:32.069314+00:00",
+ "updated_at": "2026-10-27T16:32:17.067291+00:00",
  "nq": {
-  "price": 29838.0,
-  "change_points": 400.75,
+  "price": 29838.25,
+  "change_points": 401.0,
   "percent_change": 1.36
  },
  "gold": {
-  "price": 4072.7,
-  "change_points": 34.3,
-  "percent_change": 0.85
+  "price": 4073.1,
+  "change_points": 34.7,
+  "percent_change": 0.86
  },
  "oil": {
   "price": 100.13,
@@ -17,34 +17,29 @@
  },
  "headlines": [
   {
-   "headline": "S&P 500 y Nasdaq avanzan mientras el petróleo baja antes de la decisión de la Fed",
-   "headline_en": "S&P 500, Nasdaq advance as oil eases ahead of Fed decision",
-   "source": "Reuters / Kitco"
-  },
-  {
-   "headline": "Anthropic presenta su salida a bolsa y levanta a las acciones de chips e inteligencia artificial",
-   "headline_en": "Anthropic IPO filing lifts chip and AI stocks",
-   "source": "CNBC TV18"
-  },
-  {
-   "headline": "Nvidia invertirá 3,000 millones en Meta mientras la tecnológica recauda hasta 95,000 millones para centros de datos",
-   "headline_en": "Nvidia to invest $3 billion in Meta as it raises up to $95 billion for data centers",
-   "source": "TechDefused"
-  },
-  {
-   "headline": "Broadcom sube más de 2% tras un financiamiento de 63,000 millones para tecnología de Anthropic",
-   "headline_en": "Broadcom rises over 2% after $63 billion financing for Anthropic technology",
-   "source": "CNBC TV18"
-  },
-  {
-   "headline": "La Fed inicia su reunión de dos días y se espera que mantenga las tasas el miércoles",
-   "headline_en": "Fed begins two-day meeting, widely expected to hold rates Wednesday",
+   "headline": "Futuros de Wall Street suben antes de la reunión de la Fed",
+   "headline_en": "US stock futures rise ahead of Fed meeting",
    "source": "Reuters"
   },
   {
-   "headline": "UPS supera expectativas y JetBlue sube más de 11% pese a una pérdida mayor a la esperada",
-   "headline_en": "UPS beats expectations and JetBlue jumps over 11% despite wider-than-expected loss",
-   "source": "CNBC TV18"
+   "headline": "Nvidia invertirá $3,000 millones en Meta en plena expansión de la IA",
+   "headline_en": "Nvidia to invest $3 billion in Meta as AI spending expands",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "Anthropic presenta su salida a bolsa y da impulso al sector tecnológico",
+   "headline_en": "Anthropic files for IPO, boosting tech shares",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "Coca-Cola, Boeing y UPS superan expectativas; Visa reporta al cierre",
+   "headline_en": "Coca-Cola, Boeing and UPS beat expectations; Visa reports after the bell",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "El petróleo cae, el oro ronda los $4,000 y Bitcoin baja de $80,000",
+   "headline_en": "Oil pulls back, gold hovers near $4,000 and Bitcoin drops below $80,000",
+   "source": "Reuters"
   }
  ],
  "ultima_hora": null
