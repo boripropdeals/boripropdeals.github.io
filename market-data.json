@@ -1,45 +1,45 @@
 {
- "updated_at": "2026-10-27T13:00:38.169758+00:00",
+ "updated_at": "2026-10-27T13:02:27.038417+00:00",
  "nq": {
-  "price": 29611.0,
-  "change_points": 173.75,
-  "percent_change": 0.59
+  "price": 29607.75,
+  "change_points": 170.5,
+  "percent_change": 0.58
  },
  "gold": {
-  "price": 4037.7,
-  "change_points": -0.7,
-  "percent_change": -0.02
+  "price": 4036.3,
+  "change_points": -2.1,
+  "percent_change": -0.05
  },
  "oil": {
-  "price": 101.02,
-  "change_points": -0.74,
-  "percent_change": -0.73
+  "price": 101.04,
+  "change_points": -0.72,
+  "percent_change": -0.71
  },
  "headlines": [
   {
-   "headline": "Los futuros suben tras el repunte tecnológico impulsado por la salida a bolsa de Anthropic",
-   "headline_en": "Futures rise after tech-led rally on Anthropic IPO filing",
-   "source": "Investopedia"
+   "headline": "Futuros de EE. UU. suben mientras el petróleo retrocede antes de la decisión de la Fed",
+   "headline_en": "US stock futures gain as oil pulls back ahead of Fed decision",
+   "source": "Reuters"
   },
   {
-   "headline": "La Fed inicia su reunión de dos días; se espera que mantenga las tasas el miércoles",
-   "headline_en": "Fed kicks off two-day policy meeting; rates expected to hold on Wednesday",
+   "headline": "Wall Street cerró al alza el lunes impulsada por la IA tras la presentación de salida a bolsa de Anthropic",
+   "headline_en": "Wall Street closed higher on Monday as AI trade was rejuvenated by Anthropic IPO filing",
+   "source": "Zacks"
+  },
+  {
+   "headline": "Nvidia planea invertir 3,000 millones de dólares en Meta mientras el gasto en IA se acelera",
+   "headline_en": "Nvidia plans a $3 billion investment in Meta equity offering as AI spending expands",
+   "source": "Invezz"
+  },
+  {
+   "headline": "Alphabet, Microsoft y Amazon reportan esta semana y el mercado vigilará si la inversión en IA da frutos",
+   "headline_en": "Alphabet, Microsoft and Amazon report later this week; results will be parsed for signs AI investments are translating into growth",
+   "source": "Reuters"
+  },
+  {
+   "headline": "El petróleo se mantiene volátil mientras la diplomacia en Medio Oriente compite con el riesgo de oferta",
+   "headline_en": "Oil prices remain volatile as Middle East diplomacy competes with supply disruption risks",
    "source": "TipRanks"
-  },
-  {
-   "headline": "El petróleo rebota por encima de $116 ante esperanzas diplomáticas entre EE. UU. e Irán",
-   "headline_en": "Oil rebounds above $116 as U.S.-Iran diplomacy hopes ease tensions",
-   "source": "Stocktwits"
-  },
-  {
-   "headline": "Semana clave de resultados: Coca-Cola, Robinhood y Boeing hoy; Microsoft, Alphabet y Amazon en los próximos días",
-   "headline_en": "Big earnings week: Coca-Cola, Robinhood and Boeing today; Microsoft, Alphabet and Amazon ahead",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "Los futuros del Nasdaq se enfrían tras el repunte de Anthropic; el oro roza los $4,000",
-   "headline_en": "Nasdaq futures cool as Anthropic rally stalls; gold nears $4,000",
-   "source": "The Wall Street Journal"
   }
  ],
  "ultima_hora": null
