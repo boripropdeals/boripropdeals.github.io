@@ -1,49 +1,44 @@
 {
- "updated_at": "2026-10-27T17:32:32.476751+00:00",
+ "updated_at": "2026-10-27T17:32:42.216166+00:00",
  "nq": {
-  "price": 29787.25,
-  "change_points": 350.0,
+  "price": 29788.25,
+  "change_points": 351.0,
   "percent_change": 1.19
  },
  "gold": {
-  "price": 4073.3,
-  "change_points": 34.9,
-  "percent_change": 0.86
+  "price": 4073.8,
+  "change_points": 35.4,
+  "percent_change": 0.88
  },
  "oil": {
-  "price": 100.06,
-  "change_points": -1.7,
-  "percent_change": -1.67
+  "price": 100.04,
+  "change_points": -1.72,
+  "percent_change": -1.69
  },
  "headlines": [
   {
-   "headline": "Los futuros suben antes de la decisión de la Fed y una avalancha de ganancias",
-   "headline_en": "Futures edge higher ahead of the Fed decision and a wave of earnings",
-   "source": "Reuters / Kitco"
-  },
-  {
-   "headline": "Nvidia invertirá $3,000 millones en Meta y amplía su alianza en IA",
-   "headline_en": "Nvidia to invest $3 billion in Meta, expanding their AI partnership",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "Celestica lidera el rally de la IA tras resultados mejores de lo esperado",
-   "headline_en": "Celestica leads the AI trade higher after better-than-expected results",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "El petróleo cae por esperanzas de diálogo sobre Irán y alivia a los mercados",
-   "headline_en": "Oil pulls back on hopes of Iran diplomacy, lifting stocks",
-   "source": "Barron’s"
+   "headline": "Futuros del Nasdaq y S&P 500 suben antes de la apertura mientras el petróleo retrocede por esperanzas diplomáticas con Irán",
+   "headline_en": "Nasdaq and S&P 500 futures rise premarket as oil pulls back on Iran diplomacy hopes",
+   "source": "Barron's"
   },
   {
    "headline": "La Fed inicia su reunión de dos días; se espera que mantenga las tasas el miércoles",
-   "headline_en": "Fed kicks off two-day meeting; rates expected to hold on Wednesday",
-   "source": "Reuters"
+   "headline_en": "Fed begins two-day meeting; rates expected to hold on Wednesday",
+   "source": "Reuters vía Kitco"
   },
   {
-   "headline": "Anthropic presenta su documentación para salir a bolsa e impulsa a las acciones de IA",
-   "headline_en": "Anthropic files IPO paperwork, boosting AI stocks",
+   "headline": "Wall Street cerró al alza el lunes impulsada por el optimismo en IA tras el filing de IPO de Anthropic",
+   "headline_en": "Wall Street closed higher Monday on AI optimism after Anthropic's IPO filing",
+   "source": "TradingView"
+  },
+  {
+   "headline": "Nvidia invertirá $3,000 millones en la oferta de acciones de Meta para impulsar su plataforma de IA",
+   "headline_en": "Nvidia to invest $3 billion in Meta's equity offering to boost its AI platform",
+   "source": "TradingView"
+  },
+  {
+   "headline": "Hoy reportan Coca-Cola, Robinhood y Boeing; Microsoft, Alphabet y Amazon lo harán esta semana",
+   "headline_en": "Coca-Cola, Robinhood and Boeing report today; Microsoft, Alphabet and Amazon due this week",
    "source": "TipRanks"
   }
  ],
