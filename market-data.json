@@ -1,45 +1,50 @@
 {
- "updated_at": "2026-10-27T20:32:37.052941+00:00",
+ "updated_at": "2026-10-27T20:32:49.746060+00:00",
  "nq": {
-  "price": 29800.25,
-  "change_points": 363.0,
+  "price": 29800.5,
+  "change_points": 363.25,
   "percent_change": 1.23
  },
  "gold": {
-  "price": 4073.7,
-  "change_points": 35.3,
+  "price": 4073.5,
+  "change_points": 35.1,
   "percent_change": 0.87
  },
  "oil": {
-  "price": 100.05,
-  "change_points": -1.71,
-  "percent_change": -1.68
+  "price": 100.04,
+  "change_points": -1.72,
+  "percent_change": -1.69
  },
  "headlines": [
   {
-   "headline": "S&P 500 y Nasdaq avanzan mientras el petróleo baja antes de la decisión de la Fed",
-   "headline_en": "S&P 500, Nasdaq advance as oil eases ahead of Fed decision",
-   "source": "Reuters"
+   "headline": "Las tecnológicas extienden el rally antes de la decisión de la Fed: Nasdaq +1.3% y S&P 500 +0.7%",
+   "headline_en": "Tech shares extend rally ahead of Fed decision: Nasdaq +1.3%, S&P 500 +0.7%",
+   "source": "Investopedia"
   },
   {
-   "headline": "Las tecnológicas lideran la sesión: el Nasdaq sube más de 1% y SoFi se dispara 15% tras superar expectativas",
-   "headline_en": "Tech stocks drive momentum as Nasdaq climbs over 1% and SoFi surges 15%",
-   "source": "The Motley Fool"
+   "headline": "La salida a bolsa de Anthropic reaviva el apetito por la IA y dispara a los fabricantes de chips",
+   "headline_en": "Anthropic IPO filing revives AI appetite and lifts chipmakers",
+   "source": "XTB"
   },
   {
-   "headline": "Broadcom sube tras asegurar 63,000 millones en financiamiento para tecnología de Anthropic e impulsa a los chips",
-   "headline_en": "Broadcom gains on $63 billion financing for Anthropic technology, lifting chip stocks",
-   "source": "CNBC"
+   "headline": "La Fed decide mañana: el mercado descuenta una pausa con ~90% de probabilidad",
+   "headline_en": "Fed decision tomorrow: markets price about a 90% chance of a hold",
+   "source": "NordFX"
   },
   {
-   "headline": "La Fed decide mañana miércoles y se espera que mantenga las tasas, con el bono a 10 años en 5.00%",
-   "headline_en": "Fed decision due Wednesday with a hold widely expected; 10-year yield holds at 5.00%",
-   "source": "Reuters"
+   "headline": "El petróleo baja: el Brent ronda $110 ante esperanzas de desescalada con Irán",
+   "headline_en": "Oil eases: Brent around $110 on hopes of Iran de-escalation",
+   "source": "NordFX"
   },
   {
-   "headline": "El rally de la IA se extiende por el mundo: el Nikkei salta 1.7% y el Nasdaq 100 sigue subiendo",
-   "headline_en": "AI rally lifts global stocks as Nikkei jumps 1.7% and Nasdaq 100 climbs",
-   "source": "XTB Research"
+   "headline": "Boeing se desploma ~11% y limita las ganancias del Dow",
+   "headline_en": "Boeing plunges about 11%, capping Dow gains",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "Asia lidera al alza: el Kospi sube ~3% y el Nikkei ~1.8% impulsados por los chips",
+   "headline_en": "Asia leads higher: Kospi up about 3%, Nikkei up about 1.8% on chip strength",
+   "source": "XTB"
   }
  ],
  "ultima_hora": null
