@@ -1,51 +1,61 @@
 {
- "updated_at": "2026-10-28T16:32:36.792788+00:00",
+ "updated_at": "2026-10-28T16:34:22.148296+00:00",
  "nq": {
-  "price": 29833.5,
-  "change_points": 21.5,
-  "percent_change": 0.07
+  "price": 29830.0,
+  "change_points": 18.0,
+  "percent_change": 0.06
  },
  "gold": {
-  "price": 4053.5,
-  "change_points": -21.1,
-  "percent_change": -0.52
+  "price": 4052.1,
+  "change_points": -22.5,
+  "percent_change": -0.55
  },
  "oil": {
-  "price": 103.35,
-  "change_points": 3.45,
-  "percent_change": 3.45
+  "price": 103.42,
+  "change_points": 3.52,
+  "percent_change": 3.52
  },
  "headlines": [
   {
    "headline": "La Fed decide hoy: el mercado espera que mantenga las tasas sin cambios",
-   "headline_en": "Fed decision due today: markets widely expect rates to hold steady",
+   "headline_en": "Fed decides today; markets expect rates to stay on hold",
    "source": "Reuters"
   },
   {
-   "headline": "El Nasdaq sube impulsado por los chips tras el beneficio récord de SK Hynix",
-   "headline_en": "Nasdaq gains on chip rally after SK Hynix’s record profit",
+   "headline": "El Nasdaq sube impulsado por los chips tras las ganancias récord de SK Hynix",
+   "headline_en": "Nasdaq climbs as chip stocks rally after SK Hynix record profit",
    "source": "Reuters"
   },
   {
-   "headline": "Microsoft y Alphabet presentan resultados hoy tras el cierre, la gran prueba del comercio de IA",
-   "headline_en": "Microsoft and Alphabet report earnings after the close today, the next test of the AI trade",
-   "source": "Reuters"
+   "headline": "Alphabet y Microsoft reportan resultados hoy tras el cierre",
+   "headline_en": "Alphabet and Microsoft report earnings after todays close",
+   "source": "Investopedia"
   },
   {
-   "headline": "Wall Street cerró al alza el martes: el Nasdaq ganó 1,2% y el S&P 500 0,6% por el repunte de la IA",
-   "headline_en": "Wall Street closed higher Tuesday: Nasdaq gained 1.2% and S&P 500 0.6% as AI trade revived",
-   "source": "Zacks"
+   "headline": "El petróleo repunta sobre los 115 dólares por el reporte de un posible ataque de EE. UU. a Irán",
+   "headline_en": "Oil rebounds above 115 dollars on report of possible renewed US strikes on Iran",
+   "source": "Bloomberg"
   },
   {
-   "headline": "EE.UU. sumó solo 29.000 empleos en septiembre y el desempleo subió a 4,2%",
-   "headline_en": "U.S. added just 29,000 jobs in September as unemployment ticked up to 4.2%",
+   "headline": "La inflación sigue caliente: el IPC subió 3.7% interanual en septiembre",
+   "headline_en": "Inflation still hot: CPI rose 3.7 percent year over year in September",
    "source": "USA Today"
   },
   {
-   "headline": "El petróleo sube cerca de 2% ante la preocupación por posibles nuevos ataques a Irán",
-   "headline_en": "Oil jumps about 2% amid concerns over potential new Iran strikes",
-   "source": "Investopedia"
+   "headline": "El entusiasmo por la IA revive tras la presentación de salida a bolsa de Anthropic",
+   "headline_en": "AI enthusiasm revives after Anthropic IPO filing",
+   "source": "Reuters"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Trump se inclina por un ataque mayor contra Irán tras las elecciones, según el WSJ; el petróleo repunta sobre 115 dólares",
+  "headline_en": "Trump leaning toward major post-election strike on Iran, WSJ reports; oil rebounds above 115 dollars",
+  "source": "The Wall Street Journal",
+  "image": "",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-28-trump-iran-refineria-petroleo.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-28-trump-iran-portaaviones-golfo.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-28-trump-iran-barriles-crudo-mercado.webp"
+  ]
+ }
 }
