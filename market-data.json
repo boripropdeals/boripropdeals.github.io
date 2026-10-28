@@ -1,50 +1,45 @@
 {
- "updated_at": "2026-10-28T12:00:33.820318+00:00",
+ "updated_at": "2026-10-28T12:02:23.194903+00:00",
  "nq": {
-  "price": 29955.25,
-  "change_points": 143.25,
-  "percent_change": 0.48
+  "price": 29948.25,
+  "change_points": 136.25,
+  "percent_change": 0.46
  },
  "gold": {
-  "price": 4059.0,
-  "change_points": -15.6,
-  "percent_change": -0.38
+  "price": 4059.8,
+  "change_points": -14.8,
+  "percent_change": -0.36
  },
  "oil": {
-  "price": 101.77,
-  "change_points": 1.87,
-  "percent_change": 1.87
+  "price": 101.83,
+  "change_points": 1.93,
+  "percent_change": 1.93
  },
  "headlines": [
   {
-   "headline": "Futuros del Nasdaq suben impulsados por SK Hynix antes de la decisión de la Fed y los resultados de las grandes tecnológicas",
-   "headline_en": "Nasdaq futures rise as SK Hynix boosts chips before Fed decision, earnings",
+   "headline": "Futuros del Nasdaq suben impulsados por SK Hynix antes de la decisión de la Fed",
+   "headline_en": "Nasdaq futures rise as SK Hynix boosts chips before Fed decision",
    "source": "Reuters"
   },
   {
-   "headline": "La Fed mantendría las tasas sin cambios hoy y el mercado espera la guía de Warsh sobre diciembre",
-   "headline_en": "Fed likely to go into wait-and-see mode on rates",
-   "source": "Reuters"
-  },
-  {
-   "headline": "Wall Street cerró al alza el martes liderado por la IA: el Nasdaq ganó 1.2% hasta 26,477.81",
-   "headline_en": "U.S. stock markets closed higher on Tuesday buoyed by rejuvenated AI trade",
+   "headline": "Wall Street cerró al alza el martes: el Nasdaq ganó 1.18% hasta 26,477 puntos",
+   "headline_en": "Wall Street closed higher Tuesday, with the Nasdaq up 1.18% to 26,477",
    "source": "Zacks"
   },
   {
-   "headline": "Microsoft y Alphabet reportan hoy al cierre: el mercado vigilará su gasto en IA",
-   "headline_en": "Microsoft and Alphabet report after Wall Street closes, with AI capex in focus",
+   "headline": "La Fed anunciará hoy su decisión: se espera que mantenga las tasas en 3.75%-4.00%",
+   "headline_en": "Fed to announce decision today, expected to hold rates at 3.75%-4.00%",
    "source": "Reuters"
   },
   {
-   "headline": "El petróleo vuelve sobre los $115 y el rendimiento del bono a 10 años supera el 5% antes de la Fed",
-   "headline_en": "Oil climbs back above $115 and the U.S. 10-year yield creeps over 5%",
-   "source": "Samuel and Co Trading"
+   "headline": "Microsoft y Alphabet reportan hoy tras el cierre: el foco está en la nube y el gasto en IA",
+   "headline_en": "Microsoft and Alphabet report after the close today, with focus on cloud growth and AI spending",
+   "source": "Reuters"
   },
   {
-   "headline": "Asia sube con fuerza: el KOSPI de Corea del Sur salta más de 6% tras los resultados récord de SK Hynix",
-   "headline_en": "South Korea’s KOSPI surges more than 6% after SK Hynix’s record results",
-   "source": "Samuel and Co Trading"
+   "headline": "Los mercados globales suben con la apuesta por la IA; el KOSPI de Corea del Sur saltó más de 6%",
+   "headline_en": "Global markets rise on the AI bet, with South Korea KOSPI jumping over 6%",
+   "source": "Independent Press"
   }
  ],
  "ultima_hora": null
