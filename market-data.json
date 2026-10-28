@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-28T13:34:36.251508+00:00",
+ "updated_at": "2026-10-28T13:34:44.909151+00:00",
  "nq": {
-  "price": 29907.5,
-  "change_points": 95.5,
+  "price": 29908.0,
+  "change_points": 96.0,
   "percent_change": 0.32
  },
  "gold": {
@@ -11,41 +11,51 @@
   "percent_change": -0.21
  },
  "oil": {
-  "price": 101.82,
-  "change_points": 1.92,
-  "percent_change": 1.92
+  "price": 101.81,
+  "change_points": 1.91,
+  "percent_change": 1.91
  },
  "headlines": [
   {
-   "headline": "La Fed decide hoy: se espera que mantenga las tasas en 3.75%-4.00% y el mercado espera la guía de Warsh",
-   "headline_en": "Fed decision today: rates expected to hold at 3.75%-4.00% as markets await Warsh guidance",
+   "headline": "La Fed decide hoy: se espera que mantenga las tasas, con el mercado atento al mensaje de Warsh sobre diciembre",
+   "headline_en": "Fed decision day: rates expected to hold, with markets watching Warsh’s guidance on December",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "Futuros del Nasdaq suben impulsados por SK Hynix tras ganancias récord por la demanda de memoria para IA",
+   "headline_en": "Nasdaq futures rise as SK Hynix posts record profit on AI memory demand",
    "source": "Reuters"
   },
   {
-   "headline": "Futuros del Nasdaq suben impulsados por SK Hynix: su ganancia trimestral se multiplicó por más de siete",
-   "headline_en": "Nasdaq futures rise as SK Hynix posts record results, with quarterly profit up more than sevenfold",
+   "headline": "Microsoft y Alphabet reportan hoy tras el cierre: la nube y el gasto en IA serán la prueba clave",
+   "headline_en": "Microsoft and Alphabet report after the close today: cloud growth and AI spending in focus",
    "source": "Reuters"
   },
   {
-   "headline": "Microsoft y Alphabet reportan ganancias al cierre: el mercado vigila el gasto en IA y el crecimiento de la nube",
-   "headline_en": "Microsoft and Alphabet report after the close, with markets watching AI spending and cloud growth",
-   "source": "TipRanks"
+   "headline": "El petróleo supera los $101 por temores de nuevos ataques de EE. UU. contra Irán",
+   "headline_en": "Oil tops $101 on fears of renewed U.S. strikes on Iran",
+   "source": "Investopedia"
   },
   {
-   "headline": "El KOSPI de Corea del Sur se dispara 6.6% tras los resultados récord de SK Hynix",
-   "headline_en": "South Korea KOSPI surges 6.6% after SK Hynix record results",
+   "headline": "Vertiv se dispara 16% antes de la apertura: la energía para centros de datos es la nueva jugada de la IA",
+   "headline_en": "Vertiv surges 16% premarket as AI data-center power demand booms",
    "source": "Samuel & Co Trading"
   },
   {
-   "headline": "El petróleo supera los $101 tras un ataque a una refinería en Arabia Saudita",
-   "headline_en": "Oil climbs above $101 after an attack on a Saudi refinery revives supply concerns",
-   "source": "TipRanks"
-  },
-  {
-   "headline": "Vertiv sube 16% antes de la apertura tras un trimestre excepcional impulsado por la demanda de centros de datos de IA",
-   "headline_en": "Vertiv jumps 16% premarket after a blowout quarter driven by AI data-center demand",
-   "source": "Samuel & Co Trading"
+   "headline": "La salida a bolsa de Anthropic reaviva el rally de la IA tras dos días de ganancias en el Nasdaq",
+   "headline_en": "Anthropic’s IPO filing revives the AI rally after two days of Nasdaq gains",
+   "source": "Investopedia"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "EE. UU. avisa a aliados del Golfo: posible ataque a Irán tras las elecciones del 3 de noviembre, según The Wall Street Journal",
+  "headline_en": "U.S. warns Gulf allies to prepare for possible post-midterm strike on Iran, The Wall Street Journal reports",
+  "source": "The Wall Street Journal",
+  "image": "",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-28-trump-iran-golfo-tanquero-hormuz.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-28-trump-iran-golfo-portaaviones.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-28-trump-iran-golfo-refineria-petroleo.webp"
+  ]
+ }
 }
