@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-10-28T20:32:56.915827+00:00",
+ "updated_at": "2026-10-28T20:33:02.593930+00:00",
  "nq": {
-  "price": 29856.5,
-  "change_points": 44.5,
-  "percent_change": 0.15
+  "price": 29853.25,
+  "change_points": 41.25,
+  "percent_change": 0.14
  },
  "gold": {
   "price": 4079.9,
@@ -11,40 +11,40 @@
   "percent_change": 0.13
  },
  "oil": {
-  "price": 101.57,
-  "change_points": 1.67,
-  "percent_change": 1.67
+  "price": 101.55,
+  "change_points": 1.65,
+  "percent_change": 1.65
  },
  "headlines": [
   {
-   "headline": "La Fed mantiene las tasas sin cambios en 3.75%-4.00% ante una inflación aún elevada",
-   "headline_en": "Fed holds rates steady at 3.75%-4.00% as inflation remains elevated",
+   "headline": "La Fed mantiene las tasas sin cambio en 3.75%-4% y señala que esperará más datos sobre la inflación",
+   "headline_en": "Fed holds rates steady at 3.75%-4%, says it will wait for more inflation data",
    "source": "Reuters"
   },
   {
    "headline": "El Nasdaq sube impulsado por las acciones de chips tras los resultados récord de SK Hynix",
-   "headline_en": "Nasdaq rises as chip stocks rally after SK Hynix record results",
+   "headline_en": "Nasdaq gains as chip stocks rally on SK Hynix record results",
    "source": "Reuters"
   },
   {
-   "headline": "Wall Street sube levemente a la espera de los resultados de Microsoft y Alphabet tras el cierre",
-   "headline_en": "Wall Street edges higher ahead of Microsoft and Alphabet earnings after the bell",
-   "source": "TradingView"
+   "headline": "Wall Street cierra al alza tras la pausa de la Fed: S&P 500 y Nasdaq suben cerca de 0.3%",
+   "headline_en": "Wall Street closes higher after Fed pause: S&P 500 and Nasdaq up about 0.3%",
+   "source": "USA Today"
   },
   {
-   "headline": "El déficit comercial de EE. UU. se amplía a $134,900 millones en septiembre, el mayor desde marzo de 2025",
+   "headline": "Microsoft y Alphabet reportan resultados tras el cierre, con el gasto en IA bajo la lupa",
+   "headline_en": "Microsoft and Alphabet report earnings after the bell, with AI spending in focus",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "El déficit comercial de EE.UU. se amplía a $134.9 mil millones en septiembre, el mayor desde marzo de 2025",
    "headline_en": "US trade deficit widens to $134.9 billion in September, largest since March 2025",
-   "source": "Departamento de Comercio / Bloomberg"
+   "source": "CNBC TV18"
   },
   {
-   "headline": "Empleadores en EE. UU. sumaron solo 29,000 empleos en septiembre y el desempleo subió a 4.2%",
-   "headline_en": "US employers added just 29,000 jobs in September as unemployment ticked up to 4.2%",
-   "source": "Departamento de Trabajo"
-  },
-  {
-   "headline": "El Nasdaq ganó 1.2% el martes impulsado por el renovado optimismo en la IA",
-   "headline_en": "Nasdaq gained 1.2% on Tuesday on renewed AI optimism",
-   "source": "Zacks"
+   "headline": "El petróleo sube cerca de 2% a $101.75, el oro ronda $4,060 y el bitcoin cotiza en $81,300",
+   "headline_en": "Oil rises about 2% to $101.75, gold near $4,060, bitcoin at $81,300",
+   "source": "Investopedia"
   }
  ],
  "ultima_hora": null
