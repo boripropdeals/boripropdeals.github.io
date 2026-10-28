@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-10-28T17:31:52.034847+00:00",
+ "updated_at": "2026-10-28T17:32:52.507837+00:00",
  "nq": {
-  "price": 29838.25,
-  "change_points": 26.25,
-  "percent_change": 0.09
+  "price": 29842.25,
+  "change_points": 30.25,
+  "percent_change": 0.1
  },
  "gold": {
   "price": 4052.4,
@@ -11,40 +11,40 @@
   "percent_change": -0.54
  },
  "oil": {
-  "price": 103.11,
-  "change_points": 3.21,
-  "percent_change": 3.21
+  "price": 102.99,
+  "change_points": 3.09,
+  "percent_change": 3.09
  },
  "headlines": [
   {
-   "headline": "La Fed decide hoy: se espera que mantenga las tasas en 3.75%-4.00% y el mercado espera pistas sobre diciembre",
-   "headline_en": "Fed decision day: rates expected to hold at 3.75%-4.00% as markets await December signals",
+   "headline": "La Fed decide hoy: se espera que mantenga las tasas en 3.75%-4% y el mercado espera la guía de Warsh",
+   "headline_en": "Fed decision day: rates expected to hold at 3.75%-4% as markets await Warsh guidance",
    "source": "Investopedia"
   },
   {
-   "headline": "Wall Street sube antes de la Fed tras dos días de rally tecnológico impulsado por la IA",
-   "headline_en": "Wall Street edges higher ahead of the Fed after a two-day tech rally fueled by AI",
-   "source": "Zacks"
+   "headline": "Los futuros del Nasdaq suben impulsados por las ganancias récord de SK Hynix y el rally de los chips",
+   "headline_en": "Nasdaq futures climb as SK Hynix record profit lifts chip stocks",
+   "source": "Reuters"
   },
   {
-   "headline": "Alphabet y Microsoft reportan resultados hoy tras el cierre en una jornada clave para las big tech",
-   "headline_en": "Alphabet and Microsoft report earnings after the close in a key day for big tech",
-   "source": "USA Today"
+   "headline": "Microsoft y Alphabet reportan al cierre: el foco está en el gasto en IA y la nube",
+   "headline_en": "Microsoft and Alphabet report after the close, with AI spending in focus",
+   "source": "Investopedia"
   },
   {
-   "headline": "Vertiv se dispara ~17% tras un trimestre sólido y arrastra al alza a las acciones de energía para IA",
-   "headline_en": "Vertiv surges ~17% on a blowout quarter, lifting AI power and cooling stocks",
-   "source": "PANews"
+   "headline": "Asia cierra al alza: el Kospi de Corea del Sur se dispara 6.6% tras SK Hynix",
+   "headline_en": "Asian markets advance as South Korea Kospi surges 6.6% on SK Hynix",
+   "source": "IC Markets"
   },
   {
-   "headline": "El petróleo sube cerca de 3% y el WTI ronda los $103 tras una caída de 1.9 millones de barriles en inventarios",
-   "headline_en": "Oil jumps nearly 3% with WTI near $103 after a 1.9-million-barrel inventory draw",
-   "source": "Curve Ahead Market Strategies"
+   "headline": "El petróleo sube cerca de 2% a $101.75 y el oro se mantiene cerca de $4,060",
+   "headline_en": "Oil climbs nearly 2% to $101.75 while gold holds near $4,060",
+   "source": "Investopedia"
   },
   {
-   "headline": "SK Hynix reporta un trimestre récord y dispara los semiconductores; el KOSPI de Corea del Sur sube 6.6%",
-   "headline_en": "SK Hynix posts a record quarter, lifting chip stocks; South Korea’s KOSPI jumps 6.6%",
-   "source": "Samuel & Co Trading"
+   "headline": "Robinhood cae tras reportar ganancias por debajo de lo esperado",
+   "headline_en": "Robinhood falls after earnings come in short of estimates",
+   "source": "Investopedia"
   }
  ],
  "ultima_hora": null
