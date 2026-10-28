@@ -1,50 +1,45 @@
 {
- "updated_at": "2026-10-28T18:32:22.762556+00:00",
+ "updated_at": "2026-10-28T18:32:49.926179+00:00",
  "nq": {
-  "price": 29809.25,
-  "change_points": -2.75,
-  "percent_change": -0.01
+  "price": 29830.5,
+  "change_points": 18.5,
+  "percent_change": 0.06
  },
  "gold": {
-  "price": 4046.1,
-  "change_points": -28.5,
-  "percent_change": -0.7
+  "price": 4047.4,
+  "change_points": -27.2,
+  "percent_change": -0.67
  },
  "oil": {
-  "price": 103.03,
-  "change_points": 3.13,
-  "percent_change": 3.13
+  "price": 103.0,
+  "change_points": 3.1,
+  "percent_change": 3.1
  },
  "headlines": [
   {
-   "headline": "La Fed decide hoy: se espera que mantenga las tasas en 3.75%-4% y el mercado espera la guía de Warsh",
-   "headline_en": "Fed decision day: rates expected to hold at 3.75%-4% as markets await Warsh guidance",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "Los futuros del Nasdaq suben impulsados por las ganancias récord de SK Hynix y el rally de los chips",
-   "headline_en": "Nasdaq futures climb as SK Hynix record profit lifts chip stocks",
+   "headline": "La Fed decide hoy: se espera que mantenga las tasas en 3.75%-4%",
+   "headline_en": "Fed decision today: rates expected to hold at 3.75%-4%",
    "source": "Reuters"
   },
   {
-   "headline": "Microsoft y Alphabet reportan al cierre: el foco está en el gasto en IA y la nube",
-   "headline_en": "Microsoft and Alphabet report after the close, with AI spending in focus",
+   "headline": "Futuros del Nasdaq suben impulsados por el rally de chips tras ganancias récord de SK Hynix",
+   "headline_en": "Nasdaq futures rise as chip stocks rally after SK Hynix record earnings",
+   "source": "Reuters"
+  },
+  {
+   "headline": "Alphabet y Microsoft reportan tras el cierre: el gasto en IA, bajo la lupa",
+   "headline_en": "Alphabet and Microsoft report after the close: AI spending in focus",
    "source": "Investopedia"
   },
   {
-   "headline": "Asia cierra al alza: el Kospi de Corea del Sur se dispara 6.6% tras SK Hynix",
-   "headline_en": "Asian markets advance as South Korea Kospi surges 6.6% on SK Hynix",
+   "headline": "El déficit comercial de EE.UU. se amplió a $134.9 mil millones en septiembre",
+   "headline_en": "US trade deficit widened to $134.9 billion in September",
+   "source": "Commerce Department / Bloomberg"
+  },
+  {
+   "headline": "Asia al alza: el KOSPI surcoreano se dispara 6.6% con el impulso de los chips",
+   "headline_en": "Asian markets advance: South Korea KOSPI surges 6.6% on chip rally",
    "source": "IC Markets"
-  },
-  {
-   "headline": "Vertiv se dispara cerca de 16% antes de la apertura y pone el foco en la energía para la IA",
-   "headline_en": "Vertiv jumps about 16% premarket, putting AI power demand in focus",
-   "source": "Samuel and Co"
-  },
-  {
-   "headline": "El petróleo sube cerca de 2% a $101.75 y el oro se mantiene cerca de $4,060",
-   "headline_en": "Oil climbs nearly 2% to $101.75 while gold holds near $4,060",
-   "source": "Investopedia"
   }
  ],
  "ultima_hora": null
