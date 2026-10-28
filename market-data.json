@@ -1,61 +1,61 @@
 {
- "updated_at": "2026-10-28T15:34:33.481756+00:00",
+ "updated_at": "2026-10-28T15:34:39.573099+00:00",
  "nq": {
-  "price": 29851.25,
-  "change_points": 39.25,
+  "price": 29851.5,
+  "change_points": 39.5,
   "percent_change": 0.13
  },
  "gold": {
-  "price": 4057.4,
-  "change_points": -17.2,
-  "percent_change": -0.42
+  "price": 4058.1,
+  "change_points": -16.5,
+  "percent_change": -0.4
  },
  "oil": {
-  "price": 102.37,
-  "change_points": 2.47,
-  "percent_change": 2.47
+  "price": 102.38,
+  "change_points": 2.48,
+  "percent_change": 2.48
  },
  "headlines": [
   {
-   "headline": "La Fed decide hoy: se espera que mantenga las tasas sin cambios y el mercado espera la guía de Warsh",
-   "headline_en": "Fed decision today: rates expected to hold steady as markets watch Warsh guidance",
-   "source": "TradingView"
+   "headline": "La Fed decide hoy: se espera que mantenga las tasas sin cambios",
+   "headline_en": "Fed decision due today, with a hold widely expected",
+   "source": "USA TODAY"
   },
   {
-   "headline": "El Nasdaq sube impulsado por los chips tras las ganancias récord de SK Hynix",
-   "headline_en": "Nasdaq climbs as chip stocks rally on SK Hynix record profits",
+   "headline": "Los futuros del Nasdaq suben impulsados por el rally de chips tras los resultados récord de SK Hynix",
+   "headline_en": "Nasdaq futures gain as SK Hynix lifts chips ahead of Fed decision",
    "source": "Reuters"
   },
   {
-   "headline": "Microsoft y Alphabet reportan hoy tras el cierre: el gasto en IA bajo la lupa",
-   "headline_en": "Microsoft and Alphabet report after the close today, AI spending in focus",
-   "source": "TipRanks"
+   "headline": "Alphabet y Microsoft presentan resultados hoy tras el cierre",
+   "headline_en": "Alphabet and Microsoft report earnings after the close today",
+   "source": "Investopedia"
   },
   {
-   "headline": "El petróleo sube cerca de 2% tras el ataque a una refinería saudí y temores en Medio Oriente",
-   "headline_en": "Oil rises nearly 2% after attack on Saudi refinery revives Middle East supply fears",
-   "source": "TipRanks"
+   "headline": "Wall Street cerró al alza el martes: el Nasdaq ganó 1.2% impulsado por la IA",
+   "headline_en": "Wall Street closed higher Tuesday, with the Nasdaq up 1.2% on AI strength",
+   "source": "Zacks"
   },
   {
-   "headline": "Venta masiva de fondos sistemáticos en Nasdaq: la mayor en más de un año",
-   "headline_en": "Nasdaq futures hit by heaviest CTA selling in over a year",
-   "source": "TradingView"
+   "headline": "La inflación sigue caliente: el IPC subió 3.7% interanual en septiembre",
+   "headline_en": "Inflation still running hot: CPI up 3.7% year over year in September",
+   "source": "USA TODAY"
   },
   {
-   "headline": "Wall Street cerró al alza el martes: el Nasdaq ganó 1.2% y el S&P 500 0.6%",
-   "headline_en": "Wall Street closed higher Tuesday: Nasdaq gained 1.2%, S&P 500 up 0.6%",
-   "source": "TradingView"
+   "headline": "El petróleo sube cerca de 2% ante el temor a una escalada con Irán",
+   "headline_en": "Oil rises nearly 2% on fears of escalation with Iran",
+   "source": "Reuters"
   }
  ],
  "ultima_hora": {
-  "headline": "Trump advierte a aliados del Golfo: prepárense para un nuevo ataque a Irán tras las elecciones",
-  "headline_en": "Trump warns Gulf allies to brace for fresh strikes on Iran after the midterm elections",
-  "source": "New York Post / Wall Street Journal",
+  "headline": "Trump se inclina por un nuevo ataque a Irán tras las elecciones, según el WSJ",
+  "headline_en": "Trump leaning toward a new strike on Iran after the midterms, WSJ reports",
+  "source": "The Wall Street Journal",
   "image": "",
   "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-28-trump-iran-golfo-refineria-llamas.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-28-trump-iran-golfo-flota-naval.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-28-trump-iran-golfo-mercado-petroleo.webp"
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-28-trump-iran-portaaviones.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-28-trump-iran-petrolero.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-28-trump-iran-casa-blanca.webp"
   ]
  }
 }
