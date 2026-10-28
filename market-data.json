@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T21:32:34.859343+00:00",
+ "updated_at": "2026-10-28T21:33:02.816135+00:00",
  "nq": {
   "price": 29756.25,
   "change_points": -55.75,
@@ -17,34 +17,29 @@
  },
  "headlines": [
   {
-   "headline": "La Fed mantiene las tasas sin cambios en 3.75%-4% y Wall Street cierra al alza",
-   "headline_en": "Fed holds rates steady at 3.75%-4% as stocks close higher",
-   "source": "USA Today"
+   "headline": "La Fed mantiene las tasas sin cambios en 3.75%-4% y deja la puerta abierta a más alzas",
+   "headline_en": "Fed holds rates steady at 3.75%-4%, hints further hikes may come",
+   "source": "Reuters"
   },
   {
-   "headline": "Las acciones de chips impulsan al Nasdaq tras la ganancia récord de SK Hynix",
-   "headline_en": "Chip stocks lift Nasdaq after SK Hynix record profit",
-   "source": "TradingView"
+   "headline": "Futuros del Nasdaq suben impulsados por los chips tras los resultados récord de SK Hynix",
+   "headline_en": "Nasdaq futures rise as chips rally after SK Hynix record results",
+   "source": "Reuters"
   },
   {
-   "headline": "Microsoft y Alphabet reportan ganancias tras el cierre, con el crecimiento de la nube en la mira",
-   "headline_en": "Microsoft and Alphabet report earnings after the close, with cloud growth in focus",
-   "source": "TradingView"
+   "headline": "Microsoft y Alphabet reportan tras el cierre con el foco en el gasto en IA",
+   "headline_en": "Microsoft and Alphabet report after the bell with focus on AI spending",
+   "source": "Investopedia"
   },
   {
-   "headline": "El déficit comercial de EE.UU. se amplía a 134,900 millones de dólares en septiembre, tercer mes consecutivo",
-   "headline_en": "U.S. trade deficit widens to $134.9 billion in September, third straight month",
-   "source": "CNBC"
+   "headline": "Asia cierra al alza: el KOSPI de Corea del Sur sube 6.6% por SK Hynix",
+   "headline_en": "Asia closes higher: South Korea KOSPI jumps 6.6% on SK Hynix",
+   "source": "IC Markets"
   },
   {
-   "headline": "El petróleo ronda los 110 dólares por barril ante el temor a nuevos ataques contra Irán",
-   "headline_en": "Oil hovers near $110 a barrel amid fears of new strikes on Iran",
-   "source": "XTB"
-  },
-  {
-   "headline": "El VIX cae a 17.52 mientras Wall Street sube impulsado por el comercio de IA",
-   "headline_en": "VIX falls to 17.52 as Wall Street rises on the AI trade",
-   "source": "Zacks"
+   "headline": "El petróleo WTI sube cerca de 2% hasta $101.75 mientras el oro ronda los $4,060",
+   "headline_en": "WTI crude rises nearly 2% to $101.75 while gold holds near $4,060",
+   "source": "Investopedia"
   }
  ],
  "ultima_hora": null
