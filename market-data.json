@@ -1,45 +1,50 @@
 {
- "updated_at": "2026-10-28T20:02:35.486095+00:00",
+ "updated_at": "2026-10-28T20:02:50.936163+00:00",
  "nq": {
-  "price": 29969.5,
-  "change_points": 157.5,
-  "percent_change": 0.53
+  "price": 29964.75,
+  "change_points": 152.75,
+  "percent_change": 0.51
  },
  "gold": {
-  "price": 4078.1,
-  "change_points": 3.5,
-  "percent_change": 0.09
+  "price": 4077.7,
+  "change_points": 3.1,
+  "percent_change": 0.08
  },
  "oil": {
-  "price": 102.58,
-  "change_points": 2.68,
-  "percent_change": 2.68
+  "price": 102.55,
+  "change_points": 2.65,
+  "percent_change": 2.65
  },
  "headlines": [
   {
-   "headline": "La Fed mantiene las tasas sin cambios en 3.75%-4%",
-   "headline_en": "Fed holds rates steady at 3.75%-4%",
+   "headline": "La Fed mantiene las tasas sin cambios en 3.75%-4.00% ante una inflación aún elevada",
+   "headline_en": "Fed holds rates steady at 3.75%-4.00% as inflation remains elevated",
    "source": "Reuters"
   },
   {
    "headline": "El Nasdaq sube impulsado por las acciones de chips tras los resultados récord de SK Hynix",
-   "headline_en": "Nasdaq rises on chip stocks after SK Hynix record results",
+   "headline_en": "Nasdaq rises as chip stocks rally after SK Hynix record results",
    "source": "Reuters"
   },
   {
-   "headline": "Alphabet y Microsoft presentan resultados hoy tras el cierre",
-   "headline_en": "Alphabet and Microsoft report earnings after the close today",
-   "source": "Reuters"
+   "headline": "Wall Street sube levemente a la espera de los resultados de Microsoft y Alphabet tras el cierre",
+   "headline_en": "Wall Street edges higher ahead of Microsoft and Alphabet earnings after the bell",
+   "source": "TradingView"
   },
   {
-   "headline": "El déficit comercial de EE. UU. se amplía a 134,900 millones de dólares en septiembre",
-   "headline_en": "US trade deficit widens to $134.9 billion in September",
-   "source": "Departamento de Comercio de EE. UU."
+   "headline": "El déficit comercial de EE. UU. se amplía a $134,900 millones en septiembre, el mayor desde marzo de 2025",
+   "headline_en": "US trade deficit widens to $134.9 billion in September, largest since March 2025",
+   "source": "Departamento de Comercio / Bloomberg"
   },
   {
-   "headline": "Empleo en septiembre: solo 29,000 nuevos puestos y el desempleo sube a 4.2%",
-   "headline_en": "September jobs: only 29,000 added as unemployment rises to 4.2%",
-   "source": "Departamento del Trabajo de EE. UU."
+   "headline": "Empleadores en EE. UU. sumaron solo 29,000 empleos en septiembre y el desempleo subió a 4.2%",
+   "headline_en": "US employers added just 29,000 jobs in September as unemployment ticked up to 4.2%",
+   "source": "Departamento de Trabajo"
+  },
+  {
+   "headline": "El Nasdaq ganó 1.2% el martes impulsado por el renovado optimismo en la IA",
+   "headline_en": "Nasdaq gained 1.2% on Tuesday on renewed AI optimism",
+   "source": "Zacks"
   }
  ],
  "ultima_hora": null
