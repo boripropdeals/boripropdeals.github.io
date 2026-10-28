@@ -1,45 +1,50 @@
 {
- "updated_at": "2026-10-28T11:02:37.077184+00:00",
+ "updated_at": "2026-10-28T11:02:58.012439+00:00",
  "nq": {
-  "price": 29955.75,
-  "change_points": 143.75,
-  "percent_change": 0.48
+  "price": 29957.25,
+  "change_points": 145.25,
+  "percent_change": 0.49
  },
  "gold": {
-  "price": 4060.1,
-  "change_points": -14.5,
+  "price": 4059.8,
+  "change_points": -14.8,
   "percent_change": -0.36
  },
  "oil": {
-  "price": 101.31,
-  "change_points": 1.41,
-  "percent_change": 1.41
+  "price": 101.39,
+  "change_points": 1.49,
+  "percent_change": 1.49
  },
  "headlines": [
   {
-   "headline": "Nasdaq y S&P 500 cierran al alza impulsados por las tecnológicas antes de la decisión de la Fed",
-   "headline_en": "Nasdaq and S&P 500 end higher as tech leads ahead of Fed decision",
-   "source": "Investopedia"
+   "headline": "Los futuros del Nasdaq suben impulsados por los chips tras los resultados de SK Hynix, antes de la decisión de la Fed",
+   "headline_en": "Nasdaq futures rise as SK Hynix boosts chips before Fed decision, earnings",
+   "source": "Reuters"
   },
   {
-   "headline": "Las acciones de chips e IA repuntan tras la solicitud de salida a bolsa de Anthropic y el financiamiento de $63,000 millones para Broadcom",
-   "headline_en": "Chip and AI stocks rally after Anthropic IPO filing and $63 billion Broadcom financing",
-   "source": "CNBC TV18"
+   "headline": "Wall Street cerró al alza el martes liderada por la tecnología: el Nasdaq subió 1.2% a 26,477.81",
+   "headline_en": "U.S. stocks closed higher Tuesday led by tech, Nasdaq up 1.2% to 26,477.81",
+   "source": "Zacks"
   },
   {
-   "headline": "El petróleo cae por segundo día consecutivo ante esperanzas de desescalada en Medio Oriente",
-   "headline_en": "Oil falls for a second straight session on Middle East de-escalation hopes",
-   "source": "Kitco / Reuters"
+   "headline": "Se espera que la Fed mantenga las tasas sin cambios este miércoles, con la decisión a las 2:00 pm ET",
+   "headline_en": "Fed likely to go into wait-and-see mode on rates, decision due Wednesday at 2 p.m. ET",
+   "source": "Reuters"
   },
   {
-   "headline": "SoFi se dispara 15% tras superar expectativas en el tercer trimestre; Royal Caribbean sube 7.6% con guía al alza",
-   "headline_en": "SoFi surges 15% on Q3 earnings beat; Royal Caribbean jumps 7.6% on raised guidance",
-   "source": "Motley Fool"
+   "headline": "Microsoft y Alphabet reportan tras el cierre este miércoles, con el gasto en IA bajo la lupa",
+   "headline_en": "Microsoft and Alphabet report after Wednesday close, with AI capex in focus",
+   "source": "Reuters"
   },
   {
-   "headline": "La Fed decide mañana miércoles y Alphabet y Microsoft reportan tras el cierre; Amazon lo hará el jueves",
-   "headline_en": "Fed decision due Wednesday, with Alphabet and Microsoft reporting after the close; Amazon follows Thursday",
-   "source": "Investopedia"
+   "headline": "Las bolsas globales suben por la apuesta a la IA: el KOSPI de Corea del Sur se dispara más de 6%",
+   "headline_en": "Global stock markets rise as investors continue to bet on artificial intelligence, South Korea KOSPI jumps over 6%",
+   "source": "Independent Press"
+  },
+  {
+   "headline": "El petróleo sube por encima de 115 dólares el Brent ante la tensión en Medio Oriente; el oro retrocede",
+   "headline_en": "Oil climbs back above $115 Brent amid Middle East tensions; gold slips",
+   "source": "Samuel & Co Trading"
   }
  ],
  "ultima_hora": null
