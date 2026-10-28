@@ -1807,6 +1807,7 @@ const c=info.querySelector('[data-radar-firm]');if(c)c.addEventListener('click',
 #boriChatLabel{position:fixed;bottom:32px;right:88px;z-index:9999;background:#0b211a;border:1px solid rgba(89,242,173,.5);color:#59f2ad;font-size:13px;font-weight:700;padding:6px 12px;border-radius:20px;pointer-events:none;box-shadow:0 2px 12px rgba(0,0,0,.4);white-space:nowrap}
 #boriChatWin{position:fixed;bottom:92px;right:20px;width:368px;max-width:calc(100vw - 32px);height:520px;max-height:calc(100vh - 120px);background:#0b211a;border:1px solid rgba(89,242,173,.5);border-radius:16px;z-index:9999;display:none;flex-direction:column;overflow:hidden;box-shadow:0 12px 48px rgba(0,0,0,.55);font-family:inherit}
 #boriChatWin.open{display:flex}
+@media(max-width:860px){body:has(.tray.show) #boriChatBtn{bottom:92px}body:has(.tray.show) #boriChatLabel{bottom:106px}body:has(.tray.show) #boriChatWin{bottom:164px}}
 .bori-chat-head{background:#020b09;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid rgba(89,242,173,.25)}
 .bori-chat-title{color:#f3fff9;font-weight:700;font-size:15px;display:flex;align-items:center;gap:8px}
 .bori-chat-title .dot{width:9px;height:9px;border-radius:50%;background:#59f2ad;box-shadow:0 0 8px #59f2ad}
