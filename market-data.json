@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-28T15:02:34.340211+00:00",
+ "updated_at": "2026-10-28T15:02:37.545064+00:00",
  "nq": {
-  "price": 29817.75,
-  "change_points": 5.75,
-  "percent_change": 0.02
+  "price": 29820.0,
+  "change_points": 8.0,
+  "percent_change": 0.03
  },
  "gold": {
-  "price": 4053.5,
-  "change_points": -21.1,
-  "percent_change": -0.52
+  "price": 4053.2,
+  "change_points": -21.4,
+  "percent_change": -0.53
  },
  "oil": {
-  "price": 102.54,
-  "change_points": 2.64,
-  "percent_change": 2.64
+  "price": 102.58,
+  "change_points": 2.68,
+  "percent_change": 2.68
  },
  "headlines": [
   {
-   "headline": "La Fed anunciaría hoy mantener las tasas sin cambios; el mercado espera la guía de Warsh sobre diciembre",
-   "headline_en": "Fed expected to hold rates steady today; markets await Warsh guidance on December",
-   "source": "USA TODAY"
+   "headline": "La Fed decide hoy: se espera que mantenga las tasas sin cambios y el mercado espera la guía de Warsh",
+   "headline_en": "Fed decision today: rates expected to hold steady as markets watch Warsh guidance",
+   "source": "TradingView"
   },
   {
    "headline": "El Nasdaq sube impulsado por los chips tras las ganancias récord de SK Hynix",
-   "headline_en": "Nasdaq climbs on chip rally after SK Hynix record profit",
+   "headline_en": "Nasdaq climbs as chip stocks rally on SK Hynix record profits",
    "source": "Reuters"
   },
   {
-   "headline": "Alphabet y Microsoft reportan hoy tras el cierre: el gasto en IA bajo la lupa",
-   "headline_en": "Alphabet and Microsoft report after the close today; AI spending in focus",
-   "source": "Investopedia"
+   "headline": "Microsoft y Alphabet reportan hoy tras el cierre: el gasto en IA bajo la lupa",
+   "headline_en": "Microsoft and Alphabet report after the close today, AI spending in focus",
+   "source": "TipRanks"
   },
   {
-   "headline": "EE.UU. añadió solo 29,000 empleos en septiembre y el desempleo subió a 4.2%",
-   "headline_en": "US added just 29,000 jobs in September; unemployment rose to 4.2%",
-   "source": "USA TODAY"
+   "headline": "El petróleo sube cerca de 2% tras el ataque a una refinería saudí y temores en Medio Oriente",
+   "headline_en": "Oil rises nearly 2% after attack on Saudi refinery revives Middle East supply fears",
+   "source": "TipRanks"
+  },
+  {
+   "headline": "Venta masiva de fondos sistemáticos en Nasdaq: la mayor en más de un año",
+   "headline_en": "Nasdaq futures hit by heaviest CTA selling in over a year",
+   "source": "TradingView"
   },
   {
    "headline": "Wall Street cerró al alza el martes: el Nasdaq ganó 1.2% y el S&P 500 0.6%",
-   "headline_en": "Wall Street closed higher Tuesday: Nasdaq gained 1.2%, S&P 500 0.6%",
-   "source": "Zacks"
-  },
-  {
-   "headline": "El petróleo sube cerca de 2% por temores de nuevos ataques a Irán",
-   "headline_en": "Oil jumps nearly 2% on fears of fresh strikes on Iran",
-   "source": "IC Markets"
+   "headline_en": "Wall Street closed higher Tuesday: Nasdaq gained 1.2%, S&P 500 up 0.6%",
+   "source": "TradingView"
   }
  ],
  "ultima_hora": {
