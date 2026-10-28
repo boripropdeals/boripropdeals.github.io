@@ -1,13 +1,13 @@
 {
- "updated_at": "2026-10-28T19:33:03.698846+00:00",
+ "updated_at": "2026-10-28T19:33:16.579243+00:00",
  "nq": {
-  "price": 29874.75,
-  "change_points": 62.75,
+  "price": 29873.5,
+  "change_points": 61.5,
   "percent_change": 0.21
  },
  "gold": {
-  "price": 4065.9,
-  "change_points": -8.7,
+  "price": 4066.2,
+  "change_points": -8.4,
   "percent_change": -0.21
  },
  "oil": {
@@ -17,34 +17,29 @@
  },
  "headlines": [
   {
-   "headline": "La Fed mantiene las tasas sin cambios en 3.75%-4.00% y espera más datos antes de moverlas",
-   "headline_en": "Fed holds rates steady at 3.75%-4.00%, awaiting more data before its next move",
+   "headline": "La Fed mantiene las tasas sin cambios en 3.75%-4%",
+   "headline_en": "Fed holds rates steady at 3.75%-4%",
    "source": "Reuters"
   },
   {
-   "headline": "Wall Street se mantiene estable a la espera de la decisión de la Fed, con el S&P 500 cerca de su máximo histórico",
-   "headline_en": "Wall Street holds steady ahead of Fed decision, with S&P 500 near its all-time high",
-   "source": "Associated Press"
+   "headline": "El Nasdaq sube impulsado por las acciones de chips tras los resultados récord de SK Hynix",
+   "headline_en": "Nasdaq rises on chip stocks after SK Hynix record results",
+   "source": "Reuters"
   },
   {
-   "headline": "Alphabet y Microsoft reportan resultados hoy tras el cierre en una jornada clave de ganancias tecnológicas",
-   "headline_en": "Alphabet and Microsoft report earnings after the close in a key tech earnings day",
-   "source": "Investopedia"
+   "headline": "Alphabet y Microsoft presentan resultados hoy tras el cierre",
+   "headline_en": "Alphabet and Microsoft report earnings after the close today",
+   "source": "Reuters"
   },
   {
-   "headline": "El Nasdaq repunta impulsado por la IA tras dos días de ganancias y la salida a bolsa de Anthropic",
-   "headline_en": "Nasdaq rallies on AI strength after two days of gains and Anthropic IPO filing",
-   "source": "Zacks"
+   "headline": "El déficit comercial de EE. UU. se amplía a 134,900 millones de dólares en septiembre",
+   "headline_en": "US trade deficit widens to $134.9 billion in September",
+   "source": "Departamento de Comercio de EE. UU."
   },
   {
-   "headline": "El petróleo sube cerca de 3% hasta unos $103 tras una caída de 1.9 millones de barriles en los inventarios de EE. UU.",
-   "headline_en": "Oil jumps nearly 3% to around $103 after a 1.9-million-barrel drop in U.S. crude inventories",
-   "source": "Curve Ahead Market Strategies"
-  },
-  {
-   "headline": "El déficit comercial de bienes de EE. UU. se amplía a $134,900 millones en septiembre, el mayor desde marzo de 2025",
-   "headline_en": "U.S. goods trade deficit widens to $134.9 billion in September, largest since March 2025",
-   "source": "CNBC-TV18"
+   "headline": "Empleo en septiembre: solo 29,000 nuevos puestos y el desempleo sube a 4.2%",
+   "headline_en": "September jobs: only 29,000 added as unemployment rises to 4.2%",
+   "source": "Departamento del Trabajo de EE. UU."
   }
  ],
  "ultima_hora": null
