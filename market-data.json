@@ -1,45 +1,50 @@
 {
- "updated_at": "2026-10-28T13:00:33.527887+00:00",
+ "updated_at": "2026-10-28T13:02:28.452102+00:00",
  "nq": {
-  "price": 29906.25,
-  "change_points": 94.25,
-  "percent_change": 0.32
+  "price": 29903.75,
+  "change_points": 91.75,
+  "percent_change": 0.31
  },
  "gold": {
-  "price": 4067.2,
-  "change_points": -7.4,
-  "percent_change": -0.18
+  "price": 4066.9,
+  "change_points": -7.7,
+  "percent_change": -0.19
  },
  "oil": {
-  "price": 102.06,
-  "change_points": 2.16,
-  "percent_change": 2.16
+  "price": 102.1,
+  "change_points": 2.2,
+  "percent_change": 2.2
  },
  "headlines": [
   {
-   "headline": "La Fed anuncia hoy su decisión de tasas a las 2:00pm ET; el mercado espera que las mantenga en 3.75%-4.00%",
-   "headline_en": "Fed announces rate decision today at 2:00pm ET; markets expect rates held at 3.75%-4.00%",
+   "headline": "La Fed decide hoy: se espera que mantenga las tasas en 3.75%-4.00% y el mercado espera la guía de Warsh",
+   "headline_en": "Fed decision today: rates expected to hold at 3.75%-4.00% as markets await Warsh guidance",
    "source": "Reuters"
   },
   {
-   "headline": "Los futuros del Nasdaq suben impulsados por los resultados récord de SK Hynix y el repunte de los chips",
-   "headline_en": "Nasdaq futures rise as SK Hynix record results lift chip stocks",
+   "headline": "Futuros del Nasdaq suben impulsados por SK Hynix: su ganancia trimestral se multiplicó por más de siete",
+   "headline_en": "Nasdaq futures rise as SK Hynix posts record results, with quarterly profit up more than sevenfold",
    "source": "Reuters"
   },
   {
-   "headline": "Microsoft y Alphabet reportan ganancias hoy al cierre, la próxima gran prueba para el comercio de IA",
-   "headline_en": "Microsoft and Alphabet report earnings after today close, the next big test for the AI trade",
-   "source": "Investopedia"
+   "headline": "Microsoft y Alphabet reportan ganancias al cierre: el mercado vigila el gasto en IA y el crecimiento de la nube",
+   "headline_en": "Microsoft and Alphabet report after the close, with markets watching AI spending and cloud growth",
+   "source": "TipRanks"
   },
   {
-   "headline": "El petróleo sube cerca de 2% tras el ataque hutí a la refinería saudí de Ras Tanura",
-   "headline_en": "Oil rises nearly 2% after Houthi attack on Saudi Arabia Ras Tanura refinery",
-   "source": "TradingView"
+   "headline": "El KOSPI de Corea del Sur se dispara 6.6% tras los resultados récord de SK Hynix",
+   "headline_en": "South Korea KOSPI surges 6.6% after SK Hynix record results",
+   "source": "Samuel & Co Trading"
   },
   {
-   "headline": "Wall Street cerró al alza el martes por segunda sesión consecutiva, liderada por las tecnológicas",
-   "headline_en": "Wall Street closed higher Tuesday for a second straight session, led by tech stocks",
-   "source": "TradingView"
+   "headline": "El petróleo supera los $101 tras un ataque a una refinería en Arabia Saudita",
+   "headline_en": "Oil climbs above $101 after an attack on a Saudi refinery revives supply concerns",
+   "source": "TipRanks"
+  },
+  {
+   "headline": "Vertiv sube 16% antes de la apertura tras un trimestre excepcional impulsado por la demanda de centros de datos de IA",
+   "headline_en": "Vertiv jumps 16% premarket after a blowout quarter driven by AI data-center demand",
+   "source": "Samuel & Co Trading"
   }
  ],
  "ultima_hora": null
