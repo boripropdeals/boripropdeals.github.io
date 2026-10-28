@@ -1,19 +1,19 @@
 {
- "updated_at": "2026-10-28T18:02:37.313824+00:00",
+ "updated_at": "2026-10-28T18:03:15.931927+00:00",
  "nq": {
   "price": 29864.25,
   "change_points": 52.25,
   "percent_change": 0.18
  },
  "gold": {
-  "price": 4052.4,
-  "change_points": -22.2,
+  "price": 4052.8,
+  "change_points": -21.8,
   "percent_change": -0.54
  },
  "oil": {
-  "price": 102.68,
-  "change_points": 2.78,
-  "percent_change": 2.78
+  "price": 102.67,
+  "change_points": 2.77,
+  "percent_change": 2.77
  },
  "headlines": [
   {
@@ -37,13 +37,13 @@
    "source": "IC Markets"
   },
   {
-   "headline": "El petróleo sube cerca de 2% a $101.75 y el oro se mantiene cerca de $4,060",
-   "headline_en": "Oil climbs nearly 2% to $101.75 while gold holds near $4,060",
-   "source": "Investopedia"
+   "headline": "Vertiv se dispara cerca de 16% antes de la apertura y pone el foco en la energía para la IA",
+   "headline_en": "Vertiv jumps about 16% premarket, putting AI power demand in focus",
+   "source": "Samuel and Co"
   },
   {
-   "headline": "Robinhood cae tras reportar ganancias por debajo de lo esperado",
-   "headline_en": "Robinhood falls after earnings come in short of estimates",
+   "headline": "El petróleo sube cerca de 2% a $101.75 y el oro se mantiene cerca de $4,060",
+   "headline_en": "Oil climbs nearly 2% to $101.75 while gold holds near $4,060",
    "source": "Investopedia"
   }
  ],
