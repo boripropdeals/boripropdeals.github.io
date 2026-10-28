@@ -1,45 +1,45 @@
 {
- "updated_at": "2026-10-28T12:30:33.121991+00:00",
+ "updated_at": "2026-10-28T12:32:32.299741+00:00",
  "nq": {
-  "price": 29935.25,
-  "change_points": 123.25,
-  "percent_change": 0.41
+  "price": 29938.0,
+  "change_points": 126.0,
+  "percent_change": 0.42
  },
  "gold": {
-  "price": 4070.7,
-  "change_points": -3.9,
+  "price": 4070.5,
+  "change_points": -4.1,
   "percent_change": -0.1
  },
  "oil": {
-  "price": 101.79,
-  "change_points": 1.89,
-  "percent_change": 1.89
+  "price": 101.77,
+  "change_points": 1.87,
+  "percent_change": 1.87
  },
  "headlines": [
   {
-   "headline": "Futuros del Nasdaq suben impulsados por SK Hynix antes de la decisión de la Fed",
-   "headline_en": "Nasdaq futures rise as SK Hynix boosts chips before Fed decision",
+   "headline": "La Fed anuncia hoy su decisión de tasas a las 2:00pm ET; el mercado espera que las mantenga en 3.75%-4.00%",
+   "headline_en": "Fed announces rate decision today at 2:00pm ET; markets expect rates held at 3.75%-4.00%",
    "source": "Reuters"
   },
   {
-   "headline": "Wall Street cerró al alza el martes: el Nasdaq ganó 1.18% hasta 26,477 puntos",
-   "headline_en": "Wall Street closed higher Tuesday, with the Nasdaq up 1.18% to 26,477",
-   "source": "Zacks"
-  },
-  {
-   "headline": "La Fed anunciará hoy su decisión: se espera que mantenga las tasas en 3.75%-4.00%",
-   "headline_en": "Fed to announce decision today, expected to hold rates at 3.75%-4.00%",
+   "headline": "Los futuros del Nasdaq suben impulsados por los resultados récord de SK Hynix y el repunte de los chips",
+   "headline_en": "Nasdaq futures rise as SK Hynix record results lift chip stocks",
    "source": "Reuters"
   },
   {
-   "headline": "Microsoft y Alphabet reportan hoy tras el cierre: el foco está en la nube y el gasto en IA",
-   "headline_en": "Microsoft and Alphabet report after the close today, with focus on cloud growth and AI spending",
-   "source": "Reuters"
+   "headline": "Microsoft y Alphabet reportan ganancias hoy al cierre, la próxima gran prueba para el comercio de IA",
+   "headline_en": "Microsoft and Alphabet report earnings after today close, the next big test for the AI trade",
+   "source": "Investopedia"
   },
   {
-   "headline": "Los mercados globales suben con la apuesta por la IA; el KOSPI de Corea del Sur saltó más de 6%",
-   "headline_en": "Global markets rise on the AI bet, with South Korea KOSPI jumping over 6%",
-   "source": "Independent Press"
+   "headline": "El petróleo sube cerca de 2% tras el ataque hutí a la refinería saudí de Ras Tanura",
+   "headline_en": "Oil rises nearly 2% after Houthi attack on Saudi Arabia Ras Tanura refinery",
+   "source": "TradingView"
+  },
+  {
+   "headline": "Wall Street cerró al alza el martes por segunda sesión consecutiva, liderada por las tecnológicas",
+   "headline_en": "Wall Street closed higher Tuesday for a second straight session, led by tech stocks",
+   "source": "TradingView"
   }
  ],
  "ultima_hora": null
