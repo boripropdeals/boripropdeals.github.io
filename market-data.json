@@ -1,45 +1,50 @@
 {
- "updated_at": "2026-10-28T19:02:45.689370+00:00",
+ "updated_at": "2026-10-28T19:02:50.412923+00:00",
  "nq": {
-  "price": 29908.0,
-  "change_points": 96.0,
-  "percent_change": 0.32
+  "price": 29896.0,
+  "change_points": 84.0,
+  "percent_change": 0.28
  },
  "gold": {
-  "price": 4061.0,
-  "change_points": -13.6,
-  "percent_change": -0.33
+  "price": 4060.5,
+  "change_points": -14.1,
+  "percent_change": -0.35
  },
  "oil": {
-  "price": 102.68,
-  "change_points": 2.78,
-  "percent_change": 2.78
+  "price": 102.66,
+  "change_points": 2.76,
+  "percent_change": 2.76
  },
  "headlines": [
   {
-   "headline": "La Fed decide hoy: se espera que mantenga las tasas en 3.75%-4%",
-   "headline_en": "Fed decision today: rates expected to hold at 3.75%-4%",
+   "headline": "La Fed mantiene las tasas sin cambios en 3.75%-4.00% y espera más datos antes de moverlas",
+   "headline_en": "Fed holds rates steady at 3.75%-4.00%, awaiting more data before its next move",
    "source": "Reuters"
   },
   {
-   "headline": "Futuros del Nasdaq suben impulsados por el rally de chips tras ganancias récord de SK Hynix",
-   "headline_en": "Nasdaq futures rise as chip stocks rally after SK Hynix record earnings",
-   "source": "Reuters"
+   "headline": "Wall Street se mantiene estable a la espera de la decisión de la Fed, con el S&P 500 cerca de su máximo histórico",
+   "headline_en": "Wall Street holds steady ahead of Fed decision, with S&P 500 near its all-time high",
+   "source": "Associated Press"
   },
   {
-   "headline": "Alphabet y Microsoft reportan tras el cierre: el gasto en IA, bajo la lupa",
-   "headline_en": "Alphabet and Microsoft report after the close: AI spending in focus",
+   "headline": "Alphabet y Microsoft reportan resultados hoy tras el cierre en una jornada clave de ganancias tecnológicas",
+   "headline_en": "Alphabet and Microsoft report earnings after the close in a key tech earnings day",
    "source": "Investopedia"
   },
   {
-   "headline": "El déficit comercial de EE.UU. se amplió a $134.9 mil millones en septiembre",
-   "headline_en": "US trade deficit widened to $134.9 billion in September",
-   "source": "Commerce Department / Bloomberg"
+   "headline": "El Nasdaq repunta impulsado por la IA tras dos días de ganancias y la salida a bolsa de Anthropic",
+   "headline_en": "Nasdaq rallies on AI strength after two days of gains and Anthropic IPO filing",
+   "source": "Zacks"
   },
   {
-   "headline": "Asia al alza: el KOSPI surcoreano se dispara 6.6% con el impulso de los chips",
-   "headline_en": "Asian markets advance: South Korea KOSPI surges 6.6% on chip rally",
-   "source": "IC Markets"
+   "headline": "El petróleo sube cerca de 3% hasta unos $103 tras una caída de 1.9 millones de barriles en los inventarios de EE. UU.",
+   "headline_en": "Oil jumps nearly 3% to around $103 after a 1.9-million-barrel drop in U.S. crude inventories",
+   "source": "Curve Ahead Market Strategies"
+  },
+  {
+   "headline": "El déficit comercial de bienes de EE. UU. se amplía a $134,900 millones en septiembre, el mayor desde marzo de 2025",
+   "headline_en": "U.S. goods trade deficit widens to $134.9 billion in September, largest since March 2025",
+   "source": "CNBC-TV18"
   }
  ],
  "ultima_hora": null
