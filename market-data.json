@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-28T11:30:34.440535+00:00",
+ "updated_at": "2026-10-28T11:32:33.489622+00:00",
  "nq": {
-  "price": 29918.0,
-  "change_points": 106.0,
-  "percent_change": 0.36
+  "price": 29927.25,
+  "change_points": 115.25,
+  "percent_change": 0.39
  },
  "gold": {
-  "price": 4058.9,
-  "change_points": -15.7,
-  "percent_change": -0.39
+  "price": 4060.0,
+  "change_points": -14.6,
+  "percent_change": -0.36
  },
  "oil": {
-  "price": 101.53,
-  "change_points": 1.63,
-  "percent_change": 1.63
+  "price": 101.57,
+  "change_points": 1.67,
+  "percent_change": 1.67
  },
  "headlines": [
   {
-   "headline": "Los futuros del Nasdaq suben impulsados por los chips tras los resultados de SK Hynix, antes de la decisión de la Fed",
+   "headline": "Futuros del Nasdaq suben impulsados por SK Hynix antes de la decisión de la Fed y los resultados de las grandes tecnológicas",
    "headline_en": "Nasdaq futures rise as SK Hynix boosts chips before Fed decision, earnings",
    "source": "Reuters"
   },
   {
-   "headline": "Wall Street cerró al alza el martes liderada por la tecnología: el Nasdaq subió 1.2% a 26,477.81",
-   "headline_en": "U.S. stocks closed higher Tuesday led by tech, Nasdaq up 1.2% to 26,477.81",
+   "headline": "La Fed mantendría las tasas sin cambios hoy y el mercado espera la guía de Warsh sobre diciembre",
+   "headline_en": "Fed likely to go into wait-and-see mode on rates",
+   "source": "Reuters"
+  },
+  {
+   "headline": "Wall Street cerró al alza el martes liderado por la IA: el Nasdaq ganó 1.2% hasta 26,477.81",
+   "headline_en": "U.S. stock markets closed higher on Tuesday buoyed by rejuvenated AI trade",
    "source": "Zacks"
   },
   {
-   "headline": "Se espera que la Fed mantenga las tasas sin cambios este miércoles, con la decisión a las 2:00 pm ET",
-   "headline_en": "Fed likely to go into wait-and-see mode on rates, decision due Wednesday at 2 p.m. ET",
+   "headline": "Microsoft y Alphabet reportan hoy al cierre: el mercado vigilará su gasto en IA",
+   "headline_en": "Microsoft and Alphabet report after Wall Street closes, with AI capex in focus",
    "source": "Reuters"
   },
   {
-   "headline": "Microsoft y Alphabet reportan tras el cierre este miércoles, con el gasto en IA bajo la lupa",
-   "headline_en": "Microsoft and Alphabet report after Wednesday close, with AI capex in focus",
-   "source": "Reuters"
+   "headline": "El petróleo vuelve sobre los $115 y el rendimiento del bono a 10 años supera el 5% antes de la Fed",
+   "headline_en": "Oil climbs back above $115 and the U.S. 10-year yield creeps over 5%",
+   "source": "Samuel and Co Trading"
   },
   {
-   "headline": "Las bolsas globales suben por la apuesta a la IA: el KOSPI de Corea del Sur se dispara más de 6%",
-   "headline_en": "Global stock markets rise as investors continue to bet on artificial intelligence, South Korea KOSPI jumps over 6%",
-   "source": "Independent Press"
-  },
-  {
-   "headline": "El petróleo sube por encima de 115 dólares el Brent ante la tensión en Medio Oriente; el oro retrocede",
-   "headline_en": "Oil climbs back above $115 Brent amid Middle East tensions; gold slips",
-   "source": "Samuel & Co Trading"
+   "headline": "Asia sube con fuerza: el KOSPI de Corea del Sur salta más de 6% tras los resultados récord de SK Hynix",
+   "headline_en": "South Korea’s KOSPI surges more than 6% after SK Hynix’s record results",
+   "source": "Samuel and Co Trading"
   }
  ],
  "ultima_hora": null
