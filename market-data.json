@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T17:02:41.118538+00:00",
+ "updated_at": "2026-10-28T17:03:04.502710+00:00",
  "nq": {
   "price": 29837.5,
   "change_points": 25.5,
@@ -17,45 +17,35 @@
  },
  "headlines": [
   {
-   "headline": "La Fed decide hoy: el mercado espera que mantenga las tasas sin cambios",
-   "headline_en": "Fed decides today; markets expect rates to stay on hold",
-   "source": "Reuters"
-  },
-  {
-   "headline": "El Nasdaq sube impulsado por los chips tras las ganancias récord de SK Hynix",
-   "headline_en": "Nasdaq climbs as chip stocks rally after SK Hynix record profit",
-   "source": "Reuters"
-  },
-  {
-   "headline": "Alphabet y Microsoft reportan resultados hoy tras el cierre",
-   "headline_en": "Alphabet and Microsoft report earnings after todays close",
+   "headline": "La Fed decide hoy: se espera que mantenga las tasas en 3.75%-4.00% y el mercado espera pistas sobre diciembre",
+   "headline_en": "Fed decision day: rates expected to hold at 3.75%-4.00% as markets await December signals",
    "source": "Investopedia"
   },
   {
-   "headline": "El petróleo repunta sobre los 115 dólares por el reporte de un posible ataque de EE. UU. a Irán",
-   "headline_en": "Oil rebounds above 115 dollars on report of possible renewed US strikes on Iran",
-   "source": "Bloomberg"
+   "headline": "Wall Street sube antes de la Fed tras dos días de rally tecnológico impulsado por la IA",
+   "headline_en": "Wall Street edges higher ahead of the Fed after a two-day tech rally fueled by AI",
+   "source": "Zacks"
   },
   {
-   "headline": "La inflación sigue caliente: el IPC subió 3.7% interanual en septiembre",
-   "headline_en": "Inflation still hot: CPI rose 3.7 percent year over year in September",
+   "headline": "Alphabet y Microsoft reportan resultados hoy tras el cierre en una jornada clave para las big tech",
+   "headline_en": "Alphabet and Microsoft report earnings after the close in a key day for big tech",
    "source": "USA Today"
   },
   {
-   "headline": "El entusiasmo por la IA revive tras la presentación de salida a bolsa de Anthropic",
-   "headline_en": "AI enthusiasm revives after Anthropic IPO filing",
-   "source": "Reuters"
+   "headline": "Vertiv se dispara ~17% tras un trimestre sólido y arrastra al alza a las acciones de energía para IA",
+   "headline_en": "Vertiv surges ~17% on a blowout quarter, lifting AI power and cooling stocks",
+   "source": "PANews"
+  },
+  {
+   "headline": "El petróleo sube cerca de 3% y el WTI ronda los $103 tras una caída de 1.9 millones de barriles en inventarios",
+   "headline_en": "Oil jumps nearly 3% with WTI near $103 after a 1.9-million-barrel inventory draw",
+   "source": "Curve Ahead Market Strategies"
+  },
+  {
+   "headline": "SK Hynix reporta un trimestre récord y dispara los semiconductores; el KOSPI de Corea del Sur sube 6.6%",
+   "headline_en": "SK Hynix posts a record quarter, lifting chip stocks; South Korea’s KOSPI jumps 6.6%",
+   "source": "Samuel & Co Trading"
   }
  ],
- "ultima_hora": {
-  "headline": "Trump se inclina por un ataque mayor contra Irán tras las elecciones, según el WSJ; el petróleo repunta sobre 115 dólares",
-  "headline_en": "Trump leaning toward major post-election strike on Iran, WSJ reports; oil rebounds above 115 dollars",
-  "source": "The Wall Street Journal",
-  "image": "",
-  "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-28-trump-iran-refineria-petroleo.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-28-trump-iran-portaaviones-golfo.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-28-trump-iran-barriles-crudo-mercado.webp"
-  ]
- }
+ "ultima_hora": null
 }
