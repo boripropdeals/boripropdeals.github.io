@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-29T16:00:46.208837+00:00",
+ "updated_at": "2026-10-29T16:02:32.863745+00:00",
  "nq": {
-  "price": 29599.75,
-  "change_points": -379.75,
-  "percent_change": -1.27
+  "price": 29586.0,
+  "change_points": -393.5,
+  "percent_change": -1.31
  },
  "gold": {
-  "price": 4032.4,
-  "change_points": -19.2,
-  "percent_change": -0.47
+  "price": 4034.8,
+  "change_points": -16.8,
+  "percent_change": -0.41
  },
  "oil": {
-  "price": 100.6,
-  "change_points": -2.18,
-  "percent_change": -2.12
+  "price": 100.58,
+  "change_points": -2.2,
+  "percent_change": -2.14
  },
  "headlines": [
   {
-   "headline": "La Fed mantiene las tasas en 3.75%-4% y Wall Street cierra al alza por tercera sesión consecutiva",
-   "headline_en": "Fed holds rates steady at 3.75%-4% as stocks close higher for a third straight session",
-   "source": "Zacks"
-  },
-  {
-   "headline": "Alphabet se desploma tras decepcionar con sus resultados y revive el temor por el gasto en IA",
-   "headline_en": "Alphabet plunges after disappointing earnings, reviving fears over AI spending",
-   "source": "TheStreet"
-  },
-  {
-   "headline": "Microsoft supera expectativas impulsada por Azure y sus acciones suben",
-   "headline_en": "Microsoft beats forecasts on Azure growth and shares rise",
+   "headline": "El Nasdaq lidera las caídas tras el desplome de Alphabet por resultados decepcionantes",
+   "headline_en": "Nasdaq Leads Indexes Lower as Alphabet Stock Slips on Disappointing Results",
    "source": "Investopedia"
   },
   {
-   "headline": "La economía de EE.UU. crece 3.4% en el tercer trimestre y la inflación PCE sale en línea con lo esperado",
-   "headline_en": "US economy grows 3.4% in Q3 as PCE inflation comes in line with estimates",
-   "source": "Reuters"
-  },
-  {
-   "headline": "Amazon reporta esta noche y Marvell y Lumentum suben tras reportes de conversaciones de acuerdo",
-   "headline_en": "Amazon reports tonight as Marvell and Lumentum jump on deal-talk reports",
+   "headline": "La Fed mantuvo las tasas sin cambios, pero el mercado ya descuenta un alza en diciembre",
+   "headline_en": "Fed Holds Rates Steady, but Traders Now See a December Hike as Likely",
    "source": "Investopedia"
   },
   {
-   "headline": "El oro ronda los $4,040, el petróleo cerca de $101.90 y el bono a 10 años se mantiene sobre 5%",
-   "headline_en": "Gold near $4,040, oil around $101.90 and the 10-year yield holds above 5%",
-   "source": "Investopedia"
+   "headline": "Eli Lilly se dispara tras superar estimaciones con sus medicamentos para la obesidad",
+   "headline_en": "Eli Lilly Soars on Earnings Beat Driven by Obesity Drugs",
+   "source": "Investors.com"
+  },
+  {
+   "headline": "El Nasdaq cae por debajo de su media de 100 días y el control bajista aumenta",
+   "headline_en": "Nasdaq Falls Below Its 100-Day Moving Average, Increasing Bearish Control",
+   "source": "InvestingLive"
+  },
+  {
+   "headline": "El petróleo cae más de 2% por esperanzas de desescalada en el Golfo Pérsico",
+   "headline_en": "Oil Prices Fall More Than 2% on Hopes of De-escalation in the Persian Gulf",
+   "source": "WSJ"
+  },
+  {
+   "headline": "Amazon reporta resultados esta tarde; el mercado vigila su nube y su gasto en IA",
+   "headline_en": "Amazon Reports After the Bell; Investors Eye Cloud and AI Spending",
+   "source": "Barron's"
   }
  ],
  "ultima_hora": null
