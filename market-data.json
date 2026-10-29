@@ -1,50 +1,45 @@
 {
- "updated_at": "2026-10-29T19:02:38.131473+00:00",
+ "updated_at": "2026-10-29T19:03:41.677592+00:00",
  "nq": {
-  "price": 29475.25,
-  "change_points": -504.25,
-  "percent_change": -1.68
+  "price": 29477.5,
+  "change_points": -502.0,
+  "percent_change": -1.67
  },
  "gold": {
-  "price": 4022.4,
-  "change_points": -29.2,
-  "percent_change": -0.72
+  "price": 4022.1,
+  "change_points": -29.5,
+  "percent_change": -0.73
  },
  "oil": {
-  "price": 102.2,
-  "change_points": -0.58,
-  "percent_change": -0.56
+  "price": 102.15,
+  "change_points": -0.63,
+  "percent_change": -0.61
  },
  "headlines": [
   {
-   "headline": "El Nasdaq cae con fuerza tras el desplome de Alphabet: la matriz de Google se hunde cerca de 12% tras decepcionar en resultados y reportar flujo de caja negativo de 9,000 millones de dólares",
-   "headline_en": "Nasdaq tumbles as Alphabet plunges about 12% after missing earnings and reporting $9 billion in negative free cash flow",
-   "source": "Upstox"
+   "headline": "Alphabet se desploma ~12% tras fallar en resultados y reportar flujo de caja negativo, y arrastra al Nasdaq a la baja",
+   "headline_en": "Alphabet plunges ~12% after earnings miss and negative free cash flow, dragging Nasdaq lower",
+   "source": "CNBC"
   },
   {
-   "headline": "La Fed mantiene las tasas en 3.75%-4.00% con votación 10-2; dos miembros querían subirlas y la inflación sigue elevada",
-   "headline_en": "Fed holds rates at 3.75%-4.00% in a 10-2 vote; two members wanted a hike as inflation remains elevated",
-   "source": "Saxo Bank"
-  },
-  {
-   "headline": "Wall Street cerró el miércoles al alza por tercer día seguido: S&P 500 en 7,744, Nasdaq en 26,550 y Dow en 52,475",
-   "headline_en": "Wall Street closed higher Wednesday for a third straight day: S&P 500 at 7,744, Nasdaq at 26,550 and Dow at 52,475",
+   "headline": "La Fed mantiene las tasas en 3.75%-4.00% con voto 10-2 y Wall Street cerró el miércoles al alza por tercer día consecutivo",
+   "headline_en": "Fed holds rates at 3.75%-4.00% in 10-2 vote; Wall Street closed higher Wednesday for a third straight day",
    "source": "Zacks"
   },
   {
-   "headline": "La inflación PCE de septiembre sube 3.6% anual y el PIB del tercer trimestre crece 3.4%, por encima de lo esperado, lo que aviva las apuestas a una subida en diciembre",
-   "headline_en": "September PCE inflation rises 3.6% year over year and Q3 GDP grows 3.4%, beating expectations, fueling bets on a December hike",
-   "source": "Upstox"
-  },
-  {
    "headline": "Microsoft supera expectativas con Azure creciendo 48% y sube tras el cierre, en contraste con Alphabet",
-   "headline_en": "Microsoft beats expectations as Azure grows 48% and rises after hours, in contrast to Alphabet",
+   "headline_en": "Microsoft beats expectations as Azure grows 48% and rises after hours, contrasting with Alphabet",
    "source": "Saxo Bank"
   },
   {
-   "headline": "Amazon presenta resultados esta noche y Marvell y Lumentum se mueven con fuerza por reportes de negociaciones de acuerdo",
-   "headline_en": "Amazon reports tonight while Marvell and Lumentum move sharply on deal-talk reports",
-   "source": "Investopedia"
+   "headline": "La inflación PCE de septiembre llega a 3.6% anual y el PIB del tercer trimestre crece 3.4%, reforzando apuestas de alza en diciembre",
+   "headline_en": "September PCE inflation hits 3.6% year over year and Q3 GDP grows 3.4%, boosting December hike bets",
+   "source": "Reuters"
+  },
+  {
+   "headline": "Bajo la superficie, las small caps suben: el Russell 2000 avanza ~1% mientras el Nasdaq cae, señal de rotación y no de venta generalizada",
+   "headline_en": "Beneath the surface, small caps rise: Russell 2000 up ~1% while Nasdaq falls, signaling rotation not broad selling",
+   "source": "TickerRoast"
   }
  ],
  "ultima_hora": null
