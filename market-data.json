@@ -1,46 +1,61 @@
 {
- "updated_at": "2026-10-29T13:32:36.121364+00:00",
+ "updated_at": "2026-10-29T13:34:02.940369+00:00",
  "nq": {
-  "price": 29670.5,
-  "change_points": -309.0,
-  "percent_change": -1.03
+  "price": 29657.5,
+  "change_points": -322.0,
+  "percent_change": -1.07
  },
  "gold": {
-  "price": 4036.1,
-  "change_points": -15.5,
-  "percent_change": -0.38
+  "price": 4038.0,
+  "change_points": -13.6,
+  "percent_change": -0.34
  },
  "oil": {
-  "price": 100.52,
-  "change_points": -2.26,
-  "percent_change": -2.2
+  "price": 100.38,
+  "change_points": -2.4,
+  "percent_change": -2.34
  },
  "headlines": [
   {
-   "headline": "Futuros del Nasdaq caen ~1% tras los resultados de Alphabet, que se desploma más de 10% en premercado por el gasto en IA",
-   "headline_en": "Nasdaq futures slide ~1% as Alphabet plunges over 10% premarket after earnings reignite AI spending fears",
+   "headline": "Alphabet se desploma cerca de 10% tras resultados y arrastra los futuros del Nasdaq ~1% por dudas sobre el gasto en IA",
+   "headline_en": "Alphabet tumbles nearly 10% after earnings, dragging Nasdaq futures ~1% lower as AI spending worries grow",
    "source": "Reuters"
   },
   {
-   "headline": "Microsoft sube 3.5% tras superar estimaciones y pronosticar un fuerte crecimiento en la nube",
-   "headline_en": "Microsoft climbs 3.5% after beating estimates and forecasting strong cloud growth",
+   "headline": "Microsoft sube ~4% impulsada por Azure, que creció 48% hasta $33,200 millones",
+   "headline_en": "Microsoft rises ~4% as Azure grows 48% to $33.2 billion",
+   "source": "DiarioBitcoin"
+  },
+  {
+   "headline": "La Fed mantuvo las tasas en 3.75%-4.00% con dos disidencias que pedían una subida; el mercado descuenta 85% de alza en diciembre",
+   "headline_en": "Fed held rates at 3.75%-4.00% with two dissents favoring a hike; markets price an 85% chance of a December increase",
+   "source": "Euribor"
+  },
+  {
+   "headline": "El PIB de EE.UU. creció 3.4% anualizado en el tercer trimestre, por encima de lo esperado",
+   "headline_en": "US GDP grew at a 3.4% annualized rate in Q3, beating expectations",
    "source": "Reuters"
   },
   {
-   "headline": "La Fed mantuvo las tasas en 3.75%-4.00% con dos disensos a favor de subir; crecen las apuestas de un alza en diciembre",
-   "headline_en": "Fed held rates at 3.75%-4.00% with two hawkish dissents; December hike odds climb",
-   "source": "Investopedia"
+   "headline": "El DAX sube ~0.86% a máximos de casi dos meses; el BCE decide hoy y se esperan tasas sin cambios",
+   "headline_en": "DAX rises ~0.86% to near two-month highs; ECB decides today with rates expected unchanged",
+   "source": "XTB"
   },
   {
-   "headline": "Hoy: PIB del tercer trimestre de EE. UU. y PCE de septiembre a las 8:30 ET, más la decisión del BCE",
-   "headline_en": "Today: US Q3 GDP and September PCE at 8:30 ET, plus the ECB rate decision",
-   "source": "NordFX"
-  },
-  {
-   "headline": "Amazon y Apple reportan tras el cierre de hoy; Marvell cae ~9% tras reportes de que negocia comprar Lumentum",
-   "headline_en": "Amazon and Apple report after the close today; Marvell drops ~9% on reports it is in talks to buy Lumentum",
+   "headline": "Asia cierra mixta: Samsung cae ~4% pese a un beneficio récord y el KOSPI retrocede 2.6%",
+   "headline_en": "Asia closes mixed: Samsung falls ~4% despite record profit as KOSPI drops 2.6%",
    "source": "Reuters"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Truth Social vende acceso anticipado a los posts de Trump a Bloomberg y dos firmas de trading por hasta $100,000 al mes",
+  "headline_en": "Truth Social sells faster access to Trumps posts to Bloomberg and two trading firms for up to $100,000 a month",
+  "source": "Reuters",
+  "image": "",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-29-trump-truth-feed-phone-charts.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-29-trump-truth-feed-trading-floor.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-29-trump-truth-feed-capitol-markets.jpg"
+  ]
+ }
 }
