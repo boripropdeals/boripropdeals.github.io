@@ -1,45 +1,50 @@
 {
- "updated_at": "2026-10-29T18:02:38.374085+00:00",
+ "updated_at": "2026-10-29T18:03:13.448870+00:00",
  "nq": {
-  "price": 29467.25,
-  "change_points": -512.25,
-  "percent_change": -1.71
+  "price": 29469.0,
+  "change_points": -510.5,
+  "percent_change": -1.7
  },
  "gold": {
-  "price": 4019.8,
-  "change_points": -31.8,
-  "percent_change": -0.78
+  "price": 4020.6,
+  "change_points": -31.0,
+  "percent_change": -0.77
  },
  "oil": {
-  "price": 102.0,
-  "change_points": -0.78,
-  "percent_change": -0.76
+  "price": 101.87,
+  "change_points": -0.91,
+  "percent_change": -0.89
  },
  "headlines": [
   {
-   "headline": "Alphabet se desploma ~10% tras decepcionar con sus resultados y arrastra los futuros del Nasdaq",
-   "headline_en": "Alphabet plunges ~10% after disappointing earnings, dragging Nasdaq futures lower",
-   "source": "Reuters"
+   "headline": "Futuros del Nasdaq caen más de 1% tras el tropiezo de Alphabet en resultados, mientras Microsoft sube gracias a Azure",
+   "headline_en": "Nasdaq futures drop over 1% as Alphabet stumbles on earnings while Microsoft rises on Azure",
+   "source": "Investopedia"
   },
   {
-   "headline": "Microsoft sube tras superar estimados: Azure crece 48% y su flujo de caja bate expectativas",
-   "headline_en": "Microsoft rises after beating estimates as Azure grows 48% and cash flow tops expectations",
-   "source": "Reuters"
+   "headline": "Alphabet se desploma cerca de 10% en preapertura tras flujo de caja libre negativo de 9,100 millones de dólares por el gasto en IA",
+   "headline_en": "Alphabet plunges nearly 10% premarket after negative free cash flow of $9.1 billion on AI spending",
+   "source": "Analytics Insight"
   },
   {
-   "headline": "La Fed mantiene las tasas en 3.75%-4.00% tras una tercera sesión consecutiva al alza en Wall Street",
-   "headline_en": "Fed holds rates at 3.75%-4.00% after Wall Street posts a third straight session of gains",
+   "headline": "La Fed mantiene las tasas en 3.75%-4.00% con voto 10-2 y advierte que la inflación sigue elevada",
+   "headline_en": "Fed holds rates at 3.75%-4.00% in a 10-2 vote, warning inflation remains elevated",
    "source": "Saxo Bank"
   },
   {
-   "headline": "El PIB de EE.UU. crece 3.4% en el tercer trimestre, por encima del 3.2% esperado, impulsado por el consumo y la inversión en IA",
-   "headline_en": "US GDP grows 3.4% in Q3, beating the 3.2% forecast, driven by consumer spending and AI investment",
-   "source": "BEA / Reuters"
+   "headline": "El PIB de EE. UU. creció 3.4% anual en el tercer trimestre y el PCE de septiembre subió 3.6% interanual",
+   "headline_en": "US GDP grew 3.4% annualized in Q3 and September PCE rose 3.6% year over year",
+   "source": "Swingfolio"
   },
   {
-   "headline": "Amazon reporta esta noche; Eli Lilly sube tras elevar su guía anual y Caterpillar cae tras sus resultados",
-   "headline_en": "Amazon reports tonight; Eli Lilly rises after raising full-year guidance while Caterpillar falls on earnings",
+   "headline": "Amazon reporta esta noche: el mercado vigila si el gasto en IA se convierte en efectivo",
+   "headline_en": "Amazon reports tonight as the market watches whether AI spending turns into cash",
    "source": "Investopedia"
+  },
+  {
+   "headline": "El BCE anuncia que Christine Lagarde dejará la presidencia el 7 de febrero de 2027",
+   "headline_en": "ECB announces Christine Lagarde will step down as president on February 7, 2027",
+   "source": "Longbridge"
   }
  ],
  "ultima_hora": null
