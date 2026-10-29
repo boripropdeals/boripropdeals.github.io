@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-29T17:02:35.039806+00:00",
+ "updated_at": "2026-10-29T17:03:09.344507+00:00",
  "nq": {
-  "price": 29558.5,
-  "change_points": -421.0,
+  "price": 29559.0,
+  "change_points": -420.5,
   "percent_change": -1.4
  },
  "gold": {
-  "price": 4026.5,
-  "change_points": -25.1,
-  "percent_change": -0.62
+  "price": 4025.3,
+  "change_points": -26.3,
+  "percent_change": -0.65
  },
  "oil": {
-  "price": 101.16,
-  "change_points": -1.62,
-  "percent_change": -1.58
+  "price": 101.18,
+  "change_points": -1.6,
+  "percent_change": -1.56
  },
  "headlines": [
   {
-   "headline": "Nasdaq cae más de 1% tras resultados de Alphabet que reavivan temores sobre el gasto en IA",
-   "headline_en": "Nasdaq slides over 1% as Alphabet results revive AI spending fears",
-   "source": "Reuters"
-  },
-  {
-   "headline": "Datos de inflación PCE elevan las apuestas a una subida de tasas de la Fed en diciembre",
-   "headline_en": "Hot PCE inflation data boosts bets for a December Fed rate hike",
-   "source": "Reuters"
-  },
-  {
-   "headline": "La Fed mantiene las tasas sin cambios y Wall Street cierra al alza por tercera sesión consecutiva",
-   "headline_en": "Fed holds rates steady as Wall Street closes higher for a third straight session",
+   "headline": "La Fed mantiene las tasas sin cambios y Wall Street cierra al alza por tercer día consecutivo",
+   "headline_en": "Fed holds rates steady and Wall Street closes higher for a third straight session",
    "source": "Zacks"
   },
   {
-   "headline": "Economía de EE. UU. crece 3.4% en el tercer trimestre, por encima de lo esperado",
-   "headline_en": "US economy grows 3.4% in Q3, beating expectations",
-   "source": "The Guardian"
+   "headline": "Futuros del Nasdaq caen: Alphabet se desploma tras decepcionar en resultados y reportar flujo de caja libre negativo de $9,070 millones",
+   "headline_en": "Nasdaq futures fall as Alphabet plunges after missing estimates and reporting negative $9.07B free cash flow",
+   "source": "TipRanks"
   },
   {
-   "headline": "Microsoft supera expectativas impulsada por Azure mientras el gasto en IA divide a las big tech",
-   "headline_en": "Microsoft tops expectations on Azure strength as AI spending splits big tech",
-   "source": "CNBC"
+   "headline": "Microsoft supera las estimaciones gracias a Azure (+48%) y sus acciones suben",
+   "headline_en": "Microsoft beats estimates on Azure (+48%) growth and shares rise",
+   "source": "TheStreet"
   },
   {
-   "headline": "Amazon presenta resultados esta noche tras un día de ventas en el sector tecnológico",
-   "headline_en": "Amazon reports tonight after a tech sell-off day",
+   "headline": "Amazon presenta sus resultados del tercer trimestre esta noche tras el cierre",
+   "headline_en": "Amazon reports third-quarter results tonight after the bell",
    "source": "Investopedia"
+  },
+  {
+   "headline": "El PIB de EE.UU. creció 3.4% en el tercer trimestre y la inflación PCE de septiembre fue 3.6% interanual",
+   "headline_en": "U.S. GDP grew 3.4% in Q3 and September PCE inflation was 3.6% year over year",
+   "source": "Swingfolio"
+  },
+  {
+   "headline": "El petróleo baja ante las esperanzas de nuevas conversaciones de paz con Irán",
+   "headline_en": "Oil falls on renewed hopes of peace talks with Iran",
+   "source": "TipRanks"
   }
  ],
  "ultima_hora": null
