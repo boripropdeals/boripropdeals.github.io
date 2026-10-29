@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-29T16:30:33.334394+00:00",
+ "updated_at": "2026-10-29T16:32:32.476391+00:00",
  "nq": {
-  "price": 29568.25,
-  "change_points": -411.25,
-  "percent_change": -1.37
+  "price": 29578.0,
+  "change_points": -401.5,
+  "percent_change": -1.34
  },
  "gold": {
-  "price": 4026.4,
-  "change_points": -25.2,
-  "percent_change": -0.62
+  "price": 4028.1,
+  "change_points": -23.5,
+  "percent_change": -0.58
  },
  "oil": {
-  "price": 100.98,
-  "change_points": -1.8,
-  "percent_change": -1.75
+  "price": 100.83,
+  "change_points": -1.95,
+  "percent_change": -1.9
  },
  "headlines": [
   {
-   "headline": "El Nasdaq lidera las caídas tras el desplome de Alphabet por resultados decepcionantes",
-   "headline_en": "Nasdaq Leads Indexes Lower as Alphabet Stock Slips on Disappointing Results",
+   "headline": "Nasdaq cae más de 1% tras resultados de Alphabet que reavivan temores sobre el gasto en IA",
+   "headline_en": "Nasdaq slides over 1% as Alphabet results revive AI spending fears",
+   "source": "Reuters"
+  },
+  {
+   "headline": "Datos de inflación PCE elevan las apuestas a una subida de tasas de la Fed en diciembre",
+   "headline_en": "Hot PCE inflation data boosts bets for a December Fed rate hike",
+   "source": "Reuters"
+  },
+  {
+   "headline": "La Fed mantiene las tasas sin cambios y Wall Street cierra al alza por tercera sesión consecutiva",
+   "headline_en": "Fed holds rates steady as Wall Street closes higher for a third straight session",
+   "source": "Zacks"
+  },
+  {
+   "headline": "Economía de EE. UU. crece 3.4% en el tercer trimestre, por encima de lo esperado",
+   "headline_en": "US economy grows 3.4% in Q3, beating expectations",
+   "source": "The Guardian"
+  },
+  {
+   "headline": "Microsoft supera expectativas impulsada por Azure mientras el gasto en IA divide a las big tech",
+   "headline_en": "Microsoft tops expectations on Azure strength as AI spending splits big tech",
+   "source": "CNBC"
+  },
+  {
+   "headline": "Amazon presenta resultados esta noche tras un día de ventas en el sector tecnológico",
+   "headline_en": "Amazon reports tonight after a tech sell-off day",
    "source": "Investopedia"
-  },
-  {
-   "headline": "La Fed mantuvo las tasas sin cambios, pero el mercado ya descuenta un alza en diciembre",
-   "headline_en": "Fed Holds Rates Steady, but Traders Now See a December Hike as Likely",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "Eli Lilly se dispara tras superar estimaciones con sus medicamentos para la obesidad",
-   "headline_en": "Eli Lilly Soars on Earnings Beat Driven by Obesity Drugs",
-   "source": "Investors.com"
-  },
-  {
-   "headline": "El Nasdaq cae por debajo de su media de 100 días y el control bajista aumenta",
-   "headline_en": "Nasdaq Falls Below Its 100-Day Moving Average, Increasing Bearish Control",
-   "source": "InvestingLive"
-  },
-  {
-   "headline": "El petróleo cae más de 2% por esperanzas de desescalada en el Golfo Pérsico",
-   "headline_en": "Oil Prices Fall More Than 2% on Hopes of De-escalation in the Persian Gulf",
-   "source": "WSJ"
-  },
-  {
-   "headline": "Amazon reporta resultados esta tarde; el mercado vigila su nube y su gasto en IA",
-   "headline_en": "Amazon Reports After the Bell; Investors Eye Cloud and AI Spending",
-   "source": "Barron's"
   }
  ],
  "ultima_hora": null
