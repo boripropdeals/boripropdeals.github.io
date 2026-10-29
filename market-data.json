@@ -1,49 +1,49 @@
 {
- "updated_at": "2026-10-29T20:32:35.441969+00:00",
+ "updated_at": "2026-10-29T20:34:32.558696+00:00",
  "nq": {
-  "price": 29225.5,
-  "change_points": -754.0,
-  "percent_change": -2.52
+  "price": 29244.0,
+  "change_points": -735.5,
+  "percent_change": -2.45
  },
  "gold": {
-  "price": 4037.1,
-  "change_points": -14.5,
-  "percent_change": -0.36
+  "price": 4037.5,
+  "change_points": -14.1,
+  "percent_change": -0.35
  },
  "oil": {
-  "price": 102.91,
-  "change_points": 0.13,
-  "percent_change": 0.13
+  "price": 102.93,
+  "change_points": 0.15,
+  "percent_change": 0.15
  },
  "headlines": [
   {
-   "headline": "Los futuros del Nasdaq caen tras los resultados mixtos de Alphabet y Microsoft",
-   "headline_en": "Nasdaq futures fall after mixed Alphabet and Microsoft earnings",
-   "source": "Investopedia"
+   "headline": "El Nasdaq cierra con una caída de 1.38% tras el decepcionante reporte de Alphabet",
+   "headline_en": "Nasdaq closes 1.38% lower after Alphabet’s disappointing earnings report",
+   "source": "Invezz"
   },
   {
-   "headline": "La Fed mantiene las tasas en 3.75%-4.00% con una votación de 10-2",
-   "headline_en": "Fed holds rates at 3.75%-4.00% in a 10-2 vote",
-   "source": "Saxo Bank"
+   "headline": "Alphabet se desploma cerca de 12% tras incumplir expectativas y reportar flujo de caja libre negativo de $9,000 millones",
+   "headline_en": "Alphabet plunges about 12% after missing estimates and posting negative $9 billion free cash flow",
+   "source": "Reuters"
   },
   {
-   "headline": "La economía de EE. UU. creció 3.4% en el tercer trimestre",
-   "headline_en": "US economy grew 3.4% in Q3",
-   "source": "Swingfolio"
+   "headline": "La inflación PCE de septiembre sube a 3.6% anual y refuerza las apuestas de un alza de tasas en diciembre",
+   "headline_en": "September PCE inflation rises to 3.6% annually, boosting bets on a December rate hike",
+   "source": "Upstox"
   },
   {
-   "headline": "Amazon presenta sus resultados del tercer trimestre esta noche",
-   "headline_en": "Amazon reports third-quarter earnings tonight",
-   "source": "Investopedia"
+   "headline": "ServiceNow se hunde cerca de 25% pese a crecer sus ingresos 20% interanual",
+   "headline_en": "ServiceNow plunges about 25% despite 20% year-over-year revenue growth",
+   "source": "XTB"
   },
   {
-   "headline": "El petróleo cae ante nuevas esperanzas de negociaciones de paz",
-   "headline_en": "Oil falls on renewed hopes of peace talks",
-   "source": "TipRanks"
+   "headline": "Microsoft supera las expectativas y Azure reafirma la monetización de la inteligencia artificial",
+   "headline_en": "Microsoft beats estimates as Azure growth reaffirms AI monetization",
+   "source": "XTB"
   },
   {
-   "headline": "Marvell y Lumentum suben tras reportes de conversaciones de acuerdo",
-   "headline_en": "Marvell and Lumentum jump on deal-talk reports",
+   "headline": "Amazon e Intel presentan sus resultados del tercer trimestre tras el cierre del mercado",
+   "headline_en": "Amazon and Intel report third-quarter earnings after the closing bell",
    "source": "Investopedia"
   }
  ],
