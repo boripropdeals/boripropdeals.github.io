@@ -1,19 +1,19 @@
 {
- "updated_at": "2026-10-29T12:30:34.215975+00:00",
+ "updated_at": "2026-10-29T12:32:26.631741+00:00",
  "nq": {
-  "price": 29616.25,
-  "change_points": -363.25,
-  "percent_change": -1.21
+  "price": 29622.0,
+  "change_points": -357.5,
+  "percent_change": -1.19
  },
  "gold": {
-  "price": 4037.2,
-  "change_points": -14.4,
-  "percent_change": -0.36
+  "price": 4035.9,
+  "change_points": -15.7,
+  "percent_change": -0.39
  },
  "oil": {
-  "price": 101.9,
-  "change_points": -0.88,
-  "percent_change": -0.86
+  "price": 101.82,
+  "change_points": -0.96,
+  "percent_change": -0.93
  },
  "headlines": [
   {
@@ -22,8 +22,8 @@
    "source": "Reuters"
   },
   {
-   "headline": "Microsoft supera expectativas y sube tras el cierre, mientras Alphabet decepciona y cae más de 10%",
-   "headline_en": "Microsoft beats expectations and jumps after hours while Alphabet disappoints and drops over 10%",
+   "headline": "Microsoft sube 3.5% tras superar expectativas, mientras Alphabet cae 10.5% y pone en duda el gasto en IA",
+   "headline_en": "Microsoft climbs 3.5% after beating expectations while Alphabet drops 10.5%, raising doubts over AI spending",
    "source": "Reuters"
   },
   {
@@ -37,14 +37,14 @@
    "source": "Reuters"
   },
   {
-   "headline": "Eli Lilly supera expectativas con ingresos de $24,400 millones y eleva su pronóstico anual",
-   "headline_en": "Eli Lilly beats expectations with $24.4 billion in revenue and raises its full-year outlook",
-   "source": "MarketFlux"
-  },
-  {
    "headline": "Amazon e Intel reportan tras el cierre de hoy, la próxima prueba del gasto en inteligencia artificial",
    "headline_en": "Amazon and Intel report after the close today, the next test of AI spending",
-   "source": "TheStreet"
+   "source": "Reuters"
+  },
+  {
+   "headline": "Marvell cae 9.4% por conversaciones para comprar Lumentum, que sube 4.3%",
+   "headline_en": "Marvell falls 9.4% on talks to buy Lumentum, which rises 4.3%",
+   "source": "Reuters"
   }
  ],
  "ultima_hora": null
