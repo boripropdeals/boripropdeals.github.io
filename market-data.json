@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-29T18:32:37.677716+00:00",
+ "updated_at": "2026-10-29T18:33:09.712025+00:00",
  "nq": {
-  "price": 29487.0,
-  "change_points": -492.5,
-  "percent_change": -1.64
+  "price": 29483.0,
+  "change_points": -496.5,
+  "percent_change": -1.66
  },
  "gold": {
-  "price": 4019.3,
-  "change_points": -32.3,
-  "percent_change": -0.8
+  "price": 4018.4,
+  "change_points": -33.2,
+  "percent_change": -0.82
  },
  "oil": {
-  "price": 101.92,
-  "change_points": -0.86,
-  "percent_change": -0.84
+  "price": 101.93,
+  "change_points": -0.85,
+  "percent_change": -0.83
  },
  "headlines": [
   {
-   "headline": "Futuros del Nasdaq caen más de 1% tras el tropiezo de Alphabet en resultados, mientras Microsoft sube gracias a Azure",
-   "headline_en": "Nasdaq futures drop over 1% as Alphabet stumbles on earnings while Microsoft rises on Azure",
-   "source": "Investopedia"
+   "headline": "El Nasdaq cae con fuerza tras el desplome de Alphabet: la matriz de Google se hunde cerca de 12% tras decepcionar en resultados y reportar flujo de caja negativo de 9,000 millones de dólares",
+   "headline_en": "Nasdaq tumbles as Alphabet plunges about 12% after missing earnings and reporting $9 billion in negative free cash flow",
+   "source": "Upstox"
   },
   {
-   "headline": "Alphabet se desploma cerca de 10% en preapertura tras flujo de caja libre negativo de 9,100 millones de dólares por el gasto en IA",
-   "headline_en": "Alphabet plunges nearly 10% premarket after negative free cash flow of $9.1 billion on AI spending",
-   "source": "Analytics Insight"
-  },
-  {
-   "headline": "La Fed mantiene las tasas en 3.75%-4.00% con voto 10-2 y advierte que la inflación sigue elevada",
-   "headline_en": "Fed holds rates at 3.75%-4.00% in a 10-2 vote, warning inflation remains elevated",
+   "headline": "La Fed mantiene las tasas en 3.75%-4.00% con votación 10-2; dos miembros querían subirlas y la inflación sigue elevada",
+   "headline_en": "Fed holds rates at 3.75%-4.00% in a 10-2 vote; two members wanted a hike as inflation remains elevated",
    "source": "Saxo Bank"
   },
   {
-   "headline": "El PIB de EE. UU. creció 3.4% anual en el tercer trimestre y el PCE de septiembre subió 3.6% interanual",
-   "headline_en": "US GDP grew 3.4% annualized in Q3 and September PCE rose 3.6% year over year",
-   "source": "Swingfolio"
+   "headline": "Wall Street cerró el miércoles al alza por tercer día seguido: S&P 500 en 7,744, Nasdaq en 26,550 y Dow en 52,475",
+   "headline_en": "Wall Street closed higher Wednesday for a third straight day: S&P 500 at 7,744, Nasdaq at 26,550 and Dow at 52,475",
+   "source": "Zacks"
   },
   {
-   "headline": "Amazon reporta esta noche: el mercado vigila si el gasto en IA se convierte en efectivo",
-   "headline_en": "Amazon reports tonight as the market watches whether AI spending turns into cash",
+   "headline": "La inflación PCE de septiembre sube 3.6% anual y el PIB del tercer trimestre crece 3.4%, por encima de lo esperado, lo que aviva las apuestas a una subida en diciembre",
+   "headline_en": "September PCE inflation rises 3.6% year over year and Q3 GDP grows 3.4%, beating expectations, fueling bets on a December hike",
+   "source": "Upstox"
+  },
+  {
+   "headline": "Microsoft supera expectativas con Azure creciendo 48% y sube tras el cierre, en contraste con Alphabet",
+   "headline_en": "Microsoft beats expectations as Azure grows 48% and rises after hours, in contrast to Alphabet",
+   "source": "Saxo Bank"
+  },
+  {
+   "headline": "Amazon presenta resultados esta noche y Marvell y Lumentum se mueven con fuerza por reportes de negociaciones de acuerdo",
+   "headline_en": "Amazon reports tonight while Marvell and Lumentum move sharply on deal-talk reports",
    "source": "Investopedia"
-  },
-  {
-   "headline": "El BCE anuncia que Christine Lagarde dejará la presidencia el 7 de febrero de 2027",
-   "headline_en": "ECB announces Christine Lagarde will step down as president on February 7, 2027",
-   "source": "Longbridge"
   }
  ],
  "ultima_hora": null
