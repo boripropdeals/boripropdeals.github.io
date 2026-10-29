@@ -1,45 +1,50 @@
 {
- "updated_at": "2026-10-29T15:00:34.730588+00:00",
+ "updated_at": "2026-10-29T15:02:27.865803+00:00",
  "nq": {
-  "price": 29493.0,
-  "change_points": -486.5,
-  "percent_change": -1.62
+  "price": 29476.75,
+  "change_points": -502.75,
+  "percent_change": -1.68
  },
  "gold": {
-  "price": 4044.4,
-  "change_points": -7.2,
-  "percent_change": -0.18
+  "price": 4044.9,
+  "change_points": -6.7,
+  "percent_change": -0.17
  },
  "oil": {
-  "price": 100.3,
-  "change_points": -2.48,
-  "percent_change": -2.41
+  "price": 100.34,
+  "change_points": -2.44,
+  "percent_change": -2.37
  },
  "headlines": [
   {
-   "headline": "La Fed mantiene las tasas sin cambios en 3.75%-4% y Wall Street encadena su tercera sesión al alza",
-   "headline_en": "Fed holds rates steady at 3.75%-4% as Wall Street posts a third straight winning session",
-   "source": "Zacks"
-  },
-  {
-   "headline": "Los futuros del Nasdaq caen mientras Alphabet se desploma tras decepcionar en resultados y reavivar dudas sobre el gasto en IA",
-   "headline_en": "Nasdaq futures sink as Alphabet plunges after disappointing earnings, reviving AI spending fears",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "La inflación PCE de septiembre queda en línea con lo esperado: 0.5% mensual y 3.6% anual",
-   "headline_en": "September PCE inflation comes in line with expectations: up 0.5% monthly, 3.6% annually",
+   "headline": "Futuros del Nasdaq caen tras resultados mixtos de las grandes tecnológicas: Alphabet decepciona y Microsoft brilla",
+   "headline_en": "Nasdaq futures slide as mixed Big Tech results test the AI trade",
    "source": "Reuters"
   },
   {
-   "headline": "La economía de EE. UU. creció 3.4% en el tercer trimestre, por encima del 3.2% previsto",
-   "headline_en": "US economy grew 3.4% in the third quarter, above the 3.2% forecast",
+   "headline": "La economía de EE.UU. creció 3.4% en el tercer trimestre y la inflación PCE se mantuvo en 3.6% anual",
+   "headline_en": "US economy grows 3.4% in Q3 as PCE inflation holds at 3.6% year over year",
    "source": "Reuters"
   },
   {
-   "headline": "Microsoft sube tras un fuerte crecimiento de Azure; Amazon reporta esta noche",
-   "headline_en": "Microsoft rises on strong Azure growth; Amazon reports tonight",
+   "headline": "La Fed mantiene las tasas sin cambios en votación 10-2, con dos disidentes que pedían una subida inmediata",
+   "headline_en": "Fed holds rates steady in 10-2 vote as December hike odds climb",
    "source": "Investopedia"
+  },
+  {
+   "headline": "El BCE decide hoy: se espera que mantenga las tasas en 2.50% tras una inflación de 3.8% en septiembre",
+   "headline_en": "ECB decision due today, with a hold at 2.50% expected",
+   "source": "NordFX"
+  },
+  {
+   "headline": "Amazon reporta esta noche y Marvell negocia comprar Lumentum, moviendo ambas acciones",
+   "headline_en": "Amazon reports tonight as Marvell-Lumentum deal talks move shares",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "Petróleo y oro retroceden mientras el dólar se mantiene firme cerca de 102.2",
+   "headline_en": "Oil and gold slip as the dollar holds firm near 102.2",
+   "source": "NordFX"
   }
  ],
  "ultima_hora": null
