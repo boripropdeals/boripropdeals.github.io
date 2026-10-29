@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-29T12:02:33.262501+00:00",
+ "updated_at": "2026-10-29T12:02:58.723488+00:00",
  "nq": {
-  "price": 29645.5,
-  "change_points": -334.0,
-  "percent_change": -1.11
+  "price": 29637.5,
+  "change_points": -342.0,
+  "percent_change": -1.14
  },
  "gold": {
-  "price": 4038.3,
-  "change_points": -13.3,
-  "percent_change": -0.33
+  "price": 4037.7,
+  "change_points": -13.9,
+  "percent_change": -0.34
  },
  "oil": {
-  "price": 101.98,
-  "change_points": -0.8,
-  "percent_change": -0.78
+  "price": 102.04,
+  "change_points": -0.74,
+  "percent_change": -0.72
  },
  "headlines": [
   {
-   "headline": "La Fed mantiene las tasas sin cambios en 3.75%-4% y Wall Street cierra al alza por tercer día consecutivo",
-   "headline_en": "Fed holds rates steady at 3.75%-4% as Wall Street closes higher for a third straight day",
-   "source": "Zacks"
-  },
-  {
-   "headline": "Microsoft supera expectativas y sube tras el cierre; Alphabet decepciona y se desploma en el premercado",
-   "headline_en": "Microsoft beats expectations and jumps after hours; Alphabet disappoints and plunges in premarket",
-   "source": "TipRanks"
-  },
-  {
-   "headline": "Los futuros del Nasdaq caen cerca de 1% por el tropiezo de Alphabet y el gasto en inteligencia artificial",
-   "headline_en": "Nasdaq futures fall nearly 1% as Alphabet stumble puts AI spending under scrutiny",
-   "source": "TipRanks"
-  },
-  {
-   "headline": "El PIB de EE. UU. del tercer trimestre se publica hoy y se espera un crecimiento de 3.2% anualizado",
-   "headline_en": "US third-quarter GDP lands today, with 3.2% annualized growth expected",
+   "headline": "Los futuros del Nasdaq caen cerca de 1% tras el desplome de Alphabet en el premercado por su gasto en inteligencia artificial",
+   "headline_en": "Nasdaq futures fall nearly 1% as Alphabet plunges in premarket on AI spending concerns",
    "source": "Reuters"
   },
   {
-   "headline": "El petróleo cae ante la esperanza de nuevas conversaciones de paz con Irán",
-   "headline_en": "Oil falls on renewed hopes for peace talks with Iran",
-   "source": "TipRanks"
+   "headline": "Microsoft supera expectativas y sube tras el cierre, mientras Alphabet decepciona y cae más de 10%",
+   "headline_en": "Microsoft beats expectations and jumps after hours while Alphabet disappoints and drops over 10%",
+   "source": "Reuters"
   },
   {
-   "headline": "Los mercados asiáticos suben tras la pausa de la Fed; el Nikkei gana 0.42%",
-   "headline_en": "Asian markets rise after the Fed hold; Nikkei gains 0.42%",
-   "source": "Mettis Global"
+   "headline": "La Fed mantiene las tasas sin cambios en 3.75%-4% en votación 10-2 y el mercado mira a diciembre",
+   "headline_en": "Fed holds rates steady at 3.75%-4% in a 10-2 vote as markets look to December",
+   "source": "Reuters"
+  },
+  {
+   "headline": "El PIB del tercer trimestre y el PCE de septiembre se publican hoy a las 7:30am CT",
+   "headline_en": "Third-quarter GDP and September PCE inflation land today at 7:30am CT",
+   "source": "Reuters"
+  },
+  {
+   "headline": "Eli Lilly supera expectativas con ingresos de $24,400 millones y eleva su pronóstico anual",
+   "headline_en": "Eli Lilly beats expectations with $24.4 billion in revenue and raises its full-year outlook",
+   "source": "MarketFlux"
+  },
+  {
+   "headline": "Amazon e Intel reportan tras el cierre de hoy, la próxima prueba del gasto en inteligencia artificial",
+   "headline_en": "Amazon and Intel report after the close today, the next test of AI spending",
+   "source": "TheStreet"
   }
  ],
  "ultima_hora": null
