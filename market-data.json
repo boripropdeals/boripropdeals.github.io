@@ -1,56 +1,51 @@
 {
- "updated_at": "2026-10-29T11:32:32.130615+00:00",
+ "updated_at": "2026-10-29T11:32:57.178293+00:00",
  "nq": {
-  "price": 29705.0,
-  "change_points": -274.5,
-  "percent_change": -0.92
+  "price": 29709.25,
+  "change_points": -270.25,
+  "percent_change": -0.9
  },
  "gold": {
-  "price": 4047.7,
-  "change_points": -3.9,
-  "percent_change": -0.1
+  "price": 4047.0,
+  "change_points": -4.6,
+  "percent_change": -0.11
  },
  "oil": {
-  "price": 101.3,
-  "change_points": -1.48,
-  "percent_change": -1.44
+  "price": 101.34,
+  "change_points": -1.44,
+  "percent_change": -1.4
  },
  "headlines": [
   {
-   "headline": "Futuros del Nasdaq caen tras resultados mixtos de las Big Tech: Alphabet se desploma y Microsoft sube",
-   "headline_en": "Nasdaq futures slide as mixed Big Tech results test AI trade",
+   "headline": "La Fed mantiene las tasas sin cambios en 3.75%-4% y Wall Street cierra al alza por tercer día consecutivo",
+   "headline_en": "Fed holds rates steady at 3.75%-4% as Wall Street closes higher for a third straight day",
+   "source": "Zacks"
+  },
+  {
+   "headline": "Microsoft supera expectativas y sube tras el cierre; Alphabet decepciona y se desploma en el premercado",
+   "headline_en": "Microsoft beats expectations and jumps after hours; Alphabet disappoints and plunges in premarket",
+   "source": "TipRanks"
+  },
+  {
+   "headline": "Los futuros del Nasdaq caen cerca de 1% por el tropiezo de Alphabet y el gasto en inteligencia artificial",
+   "headline_en": "Nasdaq futures fall nearly 1% as Alphabet stumble puts AI spending under scrutiny",
+   "source": "TipRanks"
+  },
+  {
+   "headline": "El PIB de EE. UU. del tercer trimestre se publica hoy y se espera un crecimiento de 3.2% anualizado",
+   "headline_en": "US third-quarter GDP lands today, with 3.2% annualized growth expected",
    "source": "Reuters"
   },
   {
-   "headline": "La Fed mantuvo las tasas sin cambios y el mercado espera hoy el informe de inflación PCE",
-   "headline_en": "Fed left rates unchanged; markets await today PCE inflation reading",
-   "source": "Reuters"
+   "headline": "El petróleo cae ante la esperanza de nuevas conversaciones de paz con Irán",
+   "headline_en": "Oil falls on renewed hopes for peace talks with Iran",
+   "source": "TipRanks"
   },
   {
-   "headline": "El PIB de EE.UU. habría acelerado a 3.2% en el tercer trimestre gracias a la IA y el consumo",
-   "headline_en": "AI investment, consumers likely boosted US economic growth in third quarter",
-   "source": "Reuters"
-  },
-  {
-   "headline": "Asia mixta: el Nikkei sube mientras el Kospi cae 2.44%",
-   "headline_en": "Asian markets mixed: Nikkei gains, Kospi drops 2.44%",
-   "source": "IC Markets"
-  },
-  {
-   "headline": "Amazon e Intel reportan tras el cierre; Caterpillar, Eli Lilly y Merck lo hacen antes de la apertura",
-   "headline_en": "Amazon and Intel report after the close; Caterpillar, Eli Lilly and Merck before the bell",
-   "source": "Reuters"
+   "headline": "Los mercados asiáticos suben tras la pausa de la Fed; el Nikkei gana 0.42%",
+   "headline_en": "Asian markets rise after the Fed hold; Nikkei gains 0.42%",
+   "source": "Mettis Global"
   }
  ],
- "ultima_hora": {
-  "headline": "Truth Social vende acceso rápido a los posts de Trump a Bloomberg y firmas de trading por hasta 100,000 dólares al mes",
-  "headline_en": "Truth Social sells faster access to Trump posts to Bloomberg and trading firms for up to 100,000 dollars a month",
-  "source": "Reuters",
-  "image": "",
-  "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-29-trump-truth-api-trading-floor.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-29-trump-truth-api-phone-feed.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-29-trump-truth-api-whitehouse-markets.webp"
-  ]
- }
+ "ultima_hora": null
 }
