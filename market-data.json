@@ -1,50 +1,45 @@
 {
- "updated_at": "2026-10-29T17:32:35.847706+00:00",
+ "updated_at": "2026-10-29T17:32:48.365220+00:00",
  "nq": {
-  "price": 29513.75,
-  "change_points": -465.75,
-  "percent_change": -1.55
+  "price": 29518.75,
+  "change_points": -460.75,
+  "percent_change": -1.54
  },
  "gold": {
-  "price": 4032.6,
-  "change_points": -19.0,
-  "percent_change": -0.47
+  "price": 4032.8,
+  "change_points": -18.8,
+  "percent_change": -0.46
  },
  "oil": {
-  "price": 101.37,
-  "change_points": -1.41,
-  "percent_change": -1.37
+  "price": 101.42,
+  "change_points": -1.36,
+  "percent_change": -1.32
  },
  "headlines": [
   {
-   "headline": "La Fed mantiene las tasas sin cambios y Wall Street cierra al alza por tercer día consecutivo",
-   "headline_en": "Fed holds rates steady and Wall Street closes higher for a third straight session",
-   "source": "Zacks"
+   "headline": "Alphabet se desploma ~10% tras decepcionar con sus resultados y arrastra los futuros del Nasdaq",
+   "headline_en": "Alphabet plunges ~10% after disappointing earnings, dragging Nasdaq futures lower",
+   "source": "Reuters"
   },
   {
-   "headline": "Futuros del Nasdaq caen: Alphabet se desploma tras decepcionar en resultados y reportar flujo de caja libre negativo de $9,070 millones",
-   "headline_en": "Nasdaq futures fall as Alphabet plunges after missing estimates and reporting negative $9.07B free cash flow",
-   "source": "TipRanks"
+   "headline": "Microsoft sube tras superar estimados: Azure crece 48% y su flujo de caja bate expectativas",
+   "headline_en": "Microsoft rises after beating estimates as Azure grows 48% and cash flow tops expectations",
+   "source": "Reuters"
   },
   {
-   "headline": "Microsoft supera las estimaciones gracias a Azure (+48%) y sus acciones suben",
-   "headline_en": "Microsoft beats estimates on Azure (+48%) growth and shares rise",
-   "source": "TheStreet"
+   "headline": "La Fed mantiene las tasas en 3.75%-4.00% tras una tercera sesión consecutiva al alza en Wall Street",
+   "headline_en": "Fed holds rates at 3.75%-4.00% after Wall Street posts a third straight session of gains",
+   "source": "Saxo Bank"
   },
   {
-   "headline": "Amazon presenta sus resultados del tercer trimestre esta noche tras el cierre",
-   "headline_en": "Amazon reports third-quarter results tonight after the bell",
+   "headline": "El PIB de EE.UU. crece 3.4% en el tercer trimestre, por encima del 3.2% esperado, impulsado por el consumo y la inversión en IA",
+   "headline_en": "US GDP grows 3.4% in Q3, beating the 3.2% forecast, driven by consumer spending and AI investment",
+   "source": "BEA / Reuters"
+  },
+  {
+   "headline": "Amazon reporta esta noche; Eli Lilly sube tras elevar su guía anual y Caterpillar cae tras sus resultados",
+   "headline_en": "Amazon reports tonight; Eli Lilly rises after raising full-year guidance while Caterpillar falls on earnings",
    "source": "Investopedia"
-  },
-  {
-   "headline": "El PIB de EE.UU. creció 3.4% en el tercer trimestre y la inflación PCE de septiembre fue 3.6% interanual",
-   "headline_en": "U.S. GDP grew 3.4% in Q3 and September PCE inflation was 3.6% year over year",
-   "source": "Swingfolio"
-  },
-  {
-   "headline": "El petróleo baja ante las esperanzas de nuevas conversaciones de paz con Irán",
-   "headline_en": "Oil falls on renewed hopes of peace talks with Iran",
-   "source": "TipRanks"
   }
  ],
  "ultima_hora": null
