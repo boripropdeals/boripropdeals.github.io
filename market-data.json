@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-29T15:32:32.165848+00:00",
+ "updated_at": "2026-10-29T15:33:03.429020+00:00",
  "nq": {
-  "price": 29602.0,
-  "change_points": -377.5,
-  "percent_change": -1.26
+  "price": 29597.75,
+  "change_points": -381.75,
+  "percent_change": -1.27
  },
  "gold": {
-  "price": 4033.5,
-  "change_points": -18.1,
-  "percent_change": -0.45
+  "price": 4033.0,
+  "change_points": -18.6,
+  "percent_change": -0.46
  },
  "oil": {
-  "price": 100.19,
-  "change_points": -2.59,
-  "percent_change": -2.52
+  "price": 100.2,
+  "change_points": -2.58,
+  "percent_change": -2.51
  },
  "headlines": [
   {
-   "headline": "Futuros del Nasdaq caen tras resultados mixtos de las grandes tecnológicas: Alphabet decepciona y Microsoft brilla",
-   "headline_en": "Nasdaq futures slide as mixed Big Tech results test the AI trade",
-   "source": "Reuters"
+   "headline": "La Fed mantiene las tasas en 3.75%-4% y Wall Street cierra al alza por tercera sesión consecutiva",
+   "headline_en": "Fed holds rates steady at 3.75%-4% as stocks close higher for a third straight session",
+   "source": "Zacks"
   },
   {
-   "headline": "La economía de EE.UU. creció 3.4% en el tercer trimestre y la inflación PCE se mantuvo en 3.6% anual",
-   "headline_en": "US economy grows 3.4% in Q3 as PCE inflation holds at 3.6% year over year",
-   "source": "Reuters"
+   "headline": "Alphabet se desploma tras decepcionar con sus resultados y revive el temor por el gasto en IA",
+   "headline_en": "Alphabet plunges after disappointing earnings, reviving fears over AI spending",
+   "source": "TheStreet"
   },
   {
-   "headline": "La Fed mantiene las tasas sin cambios en votación 10-2, con dos disidentes que pedían una subida inmediata",
-   "headline_en": "Fed holds rates steady in 10-2 vote as December hike odds climb",
+   "headline": "Microsoft supera expectativas impulsada por Azure y sus acciones suben",
+   "headline_en": "Microsoft beats forecasts on Azure growth and shares rise",
    "source": "Investopedia"
   },
   {
-   "headline": "El BCE decide hoy: se espera que mantenga las tasas en 2.50% tras una inflación de 3.8% en septiembre",
-   "headline_en": "ECB decision due today, with a hold at 2.50% expected",
-   "source": "NordFX"
+   "headline": "La economía de EE.UU. crece 3.4% en el tercer trimestre y la inflación PCE sale en línea con lo esperado",
+   "headline_en": "US economy grows 3.4% in Q3 as PCE inflation comes in line with estimates",
+   "source": "Reuters"
   },
   {
-   "headline": "Amazon reporta esta noche y Marvell negocia comprar Lumentum, moviendo ambas acciones",
-   "headline_en": "Amazon reports tonight as Marvell-Lumentum deal talks move shares",
+   "headline": "Amazon reporta esta noche y Marvell y Lumentum suben tras reportes de conversaciones de acuerdo",
+   "headline_en": "Amazon reports tonight as Marvell and Lumentum jump on deal-talk reports",
    "source": "Investopedia"
   },
   {
-   "headline": "Petróleo y oro retroceden mientras el dólar se mantiene firme cerca de 102.2",
-   "headline_en": "Oil and gold slip as the dollar holds firm near 102.2",
-   "source": "NordFX"
+   "headline": "El oro ronda los $4,040, el petróleo cerca de $101.90 y el bono a 10 años se mantiene sobre 5%",
+   "headline_en": "Gold near $4,040, oil around $101.90 and the 10-year yield holds above 5%",
+   "source": "Investopedia"
   }
  ],
  "ultima_hora": null
