@@ -1,44 +1,44 @@
 {
- "updated_at": "2026-10-29T14:30:33.790960+00:00",
+ "updated_at": "2026-10-29T14:32:28.412256+00:00",
  "nq": {
-  "price": 29593.5,
-  "change_points": -386.0,
-  "percent_change": -1.29
+  "price": 29569.0,
+  "change_points": -410.5,
+  "percent_change": -1.37
  },
  "gold": {
-  "price": 4037.6,
-  "change_points": -14.0,
-  "percent_change": -0.35
+  "price": 4039.9,
+  "change_points": -11.7,
+  "percent_change": -0.29
  },
  "oil": {
-  "price": 100.86,
-  "change_points": -1.92,
-  "percent_change": -1.87
+  "price": 100.79,
+  "change_points": -1.99,
+  "percent_change": -1.94
  },
  "headlines": [
   {
-   "headline": "La Fed mantiene las tasas en 3.75%-4% y Wall Street sube por tercera sesión consecutiva",
-   "headline_en": "Fed holds rates steady at 3.75%-4% as Wall Street rises for a third straight session",
+   "headline": "La Fed mantiene las tasas sin cambios en 3.75%-4% y Wall Street encadena su tercera sesión al alza",
+   "headline_en": "Fed holds rates steady at 3.75%-4% as Wall Street posts a third straight winning session",
    "source": "Zacks"
   },
   {
-   "headline": "Alphabet se desploma tras decepcionar en resultados mientras Microsoft sube; los futuros del Nasdaq caen más de 1%",
-   "headline_en": "Alphabet plunges on disappointing earnings while Microsoft rises; Nasdaq futures fall over 1%",
+   "headline": "Los futuros del Nasdaq caen mientras Alphabet se desploma tras decepcionar en resultados y reavivar dudas sobre el gasto en IA",
+   "headline_en": "Nasdaq futures sink as Alphabet plunges after disappointing earnings, reviving AI spending fears",
    "source": "Investopedia"
   },
   {
-   "headline": "La economía de EE. UU. creció 3.4% en el tercer trimestre, por encima de lo esperado y a su ritmo más rápido en un año",
-   "headline_en": "U.S. economy grew 3.4% in Q3, beating expectations at its fastest pace in a year",
-   "source": "USA Today"
+   "headline": "La inflación PCE de septiembre queda en línea con lo esperado: 0.5% mensual y 3.6% anual",
+   "headline_en": "September PCE inflation comes in line with expectations: up 0.5% monthly, 3.6% annually",
+   "source": "Reuters"
   },
   {
-   "headline": "La inflación PCE sube a 3.6% anual en septiembre y la subyacente a 3.1%, por encima de la meta de la Fed",
-   "headline_en": "PCE inflation rises to 3.6% annually in September, core to 3.1%, above the Fed target",
-   "source": "CNN"
+   "headline": "La economía de EE. UU. creció 3.4% en el tercer trimestre, por encima del 3.2% previsto",
+   "headline_en": "US economy grew 3.4% in the third quarter, above the 3.2% forecast",
+   "source": "Reuters"
   },
   {
-   "headline": "Amazon y Apple reportan esta noche tras el cierre en una de las jornadas de resultados más pesadas de la temporada",
-   "headline_en": "Amazon and Apple report tonight after the close in one of the heaviest earnings sessions of the season",
+   "headline": "Microsoft sube tras un fuerte crecimiento de Azure; Amazon reporta esta noche",
+   "headline_en": "Microsoft rises on strong Azure growth; Amazon reports tonight",
    "source": "Investopedia"
   }
  ],
