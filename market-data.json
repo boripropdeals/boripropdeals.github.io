@@ -1,46 +1,56 @@
 {
- "updated_at": "2026-10-29T11:02:37.858800+00:00",
+ "updated_at": "2026-10-29T11:03:29.624634+00:00",
  "nq": {
-  "price": 29716.0,
-  "change_points": -263.5,
-  "percent_change": -0.88
+  "price": 29714.0,
+  "change_points": -265.5,
+  "percent_change": -0.89
  },
  "gold": {
-  "price": 4038.7,
-  "change_points": -12.9,
-  "percent_change": -0.32
+  "price": 4039.1,
+  "change_points": -12.5,
+  "percent_change": -0.31
  },
  "oil": {
-  "price": 101.38,
-  "change_points": -1.4,
-  "percent_change": -1.36
+  "price": 101.36,
+  "change_points": -1.42,
+  "percent_change": -1.38
  },
  "headlines": [
   {
-   "headline": "La Fed mantiene las tasas sin cambios en 3.75%-4% y deja la puerta abierta a más alzas",
-   "headline_en": "Fed holds rates steady at 3.75%-4%, hints further hikes may come",
+   "headline": "Futuros del Nasdaq caen tras resultados mixtos de las Big Tech: Alphabet se desploma y Microsoft sube",
+   "headline_en": "Nasdaq futures slide as mixed Big Tech results test AI trade",
    "source": "Reuters"
   },
   {
-   "headline": "Futuros del Nasdaq suben impulsados por los chips tras los resultados récord de SK Hynix",
-   "headline_en": "Nasdaq futures rise as chips rally after SK Hynix record results",
+   "headline": "La Fed mantuvo las tasas sin cambios y el mercado espera hoy el informe de inflación PCE",
+   "headline_en": "Fed left rates unchanged; markets await today PCE inflation reading",
    "source": "Reuters"
   },
   {
-   "headline": "Microsoft y Alphabet reportan tras el cierre con el foco en el gasto en IA",
-   "headline_en": "Microsoft and Alphabet report after the bell with focus on AI spending",
-   "source": "Investopedia"
+   "headline": "El PIB de EE.UU. habría acelerado a 3.2% en el tercer trimestre gracias a la IA y el consumo",
+   "headline_en": "AI investment, consumers likely boosted US economic growth in third quarter",
+   "source": "Reuters"
   },
   {
-   "headline": "Asia cierra al alza: el KOSPI de Corea del Sur sube 6.6% por SK Hynix",
-   "headline_en": "Asia closes higher: South Korea KOSPI jumps 6.6% on SK Hynix",
+   "headline": "Asia mixta: el Nikkei sube mientras el Kospi cae 2.44%",
+   "headline_en": "Asian markets mixed: Nikkei gains, Kospi drops 2.44%",
    "source": "IC Markets"
   },
   {
-   "headline": "El petróleo WTI sube cerca de 2% hasta $101.75 mientras el oro ronda los $4,060",
-   "headline_en": "WTI crude rises nearly 2% to $101.75 while gold holds near $4,060",
-   "source": "Investopedia"
+   "headline": "Amazon e Intel reportan tras el cierre; Caterpillar, Eli Lilly y Merck lo hacen antes de la apertura",
+   "headline_en": "Amazon and Intel report after the close; Caterpillar, Eli Lilly and Merck before the bell",
+   "source": "Reuters"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Truth Social vende acceso rápido a los posts de Trump a Bloomberg y firmas de trading por hasta 100,000 dólares al mes",
+  "headline_en": "Truth Social sells faster access to Trump posts to Bloomberg and trading firms for up to 100,000 dollars a month",
+  "source": "Reuters",
+  "image": "",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-29-trump-truth-api-trading-floor.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-29-trump-truth-api-phone-feed.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-10-29-trump-truth-api-whitehouse-markets.webp"
+  ]
+ }
 }
