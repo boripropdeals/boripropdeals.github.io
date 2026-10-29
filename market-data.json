@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T21:32:34.854444+00:00",
+ "updated_at": "2026-10-29T21:33:12.048754+00:00",
  "nq": {
   "price": 29218.25,
   "change_points": -761.25,
@@ -17,34 +17,34 @@
  },
  "headlines": [
   {
-   "headline": "El Nasdaq lidera la venta masiva en Wall Street tras el decepcionante reporte de Alphabet",
-   "headline_en": "Nasdaq Leads Wall Street Sell-Off After Alphabet’s Disappointing Earnings Report",
+   "headline": "Jueves sangriento en Wall Street: el Nasdaq lidera la caída tras los resultados de Alphabet",
+   "headline_en": "Bloody Thursday on Wall Street: Nasdaq leads the sell-off after Alphabet earnings",
    "source": "Investopedia"
   },
   {
-   "headline": "Alphabet se desploma cerca de 12% tras incumplir expectativas y reportar flujo de caja libre negativo de $9,000 millones",
-   "headline_en": "Alphabet Plunges About 12% After Missing Expectations and Reporting Negative $9 Billion Free Cash Flow",
+   "headline": "Alphabet se desploma más de 12% pese a ingresos récord: el gasto en IA y el flujo de caja decepcionan",
+   "headline_en": "Alphabet plunges over 12% despite record revenue as AI spending and cash flow disappoint",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "La Fed mantuvo las tasas sin cambios, pero el mercado ya descuenta una subida en diciembre",
+   "headline_en": "Fed left rates unchanged, but traders now price a December hike",
+   "source": "Saxo Bank"
+  },
+  {
+   "headline": "ServiceNow se hunde casi 25% tras sus resultados pese a crecer 20% en ingresos",
+   "headline_en": "ServiceNow tumbles nearly 25% after earnings despite 20% revenue growth",
    "source": "XTB"
   },
   {
-   "headline": "La inflación PCE de septiembre sube a 3.6% anual y el PIB del tercer trimestre supera lo esperado, reforzando las apuestas de un alza de tasas en diciembre",
-   "headline_en": "September PCE Inflation Rises to 3.6% Annually and Q3 GDP Beats Forecasts, Fueling December Rate-Hike Bets",
-   "source": "Investopedia"
+   "headline": "ADT se dispara 33% tras anunciar su adquisición por 10 dólares por acción en efectivo",
+   "headline_en": "ADT surges 33% on $10-per-share all-cash acquisition deal",
+   "source": "The Motley Fool"
   },
   {
-   "headline": "ServiceNow se hunde cerca de 25% pese a crecer sus ingresos 20% interanual",
-   "headline_en": "ServiceNow Plunges About 25% Despite 20% Year-Over-Year Revenue Growth",
-   "source": "XTB"
-  },
-  {
-   "headline": "Microsoft supera las expectativas gracias a Azure, mientras Amazon e Intel reportan tras el cierre",
-   "headline_en": "Microsoft Beats Expectations on Azure Strength, While Amazon and Intel Report After the Close",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "La Fed mantuvo las tasas sin cambios, pero el mercado ya descuenta cerca de 80% de probabilidad de un alza en diciembre",
-   "headline_en": "Fed Held Rates Steady, but Markets Now Price About an 80% Chance of a December Hike",
-   "source": "Investopedia"
+   "headline": "Norwegian Cruise sube 13% tras superar estimaciones y elevar su guía para todo el año",
+   "headline_en": "Norwegian Cruise jumps 13% after beating estimates and raising full-year guidance",
+   "source": "The Motley Fool"
   }
  ],
  "ultima_hora": null
