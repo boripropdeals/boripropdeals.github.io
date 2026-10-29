@@ -1,49 +1,44 @@
 {
- "updated_at": "2026-10-29T13:02:32.902514+00:00",
+ "updated_at": "2026-10-29T13:03:11.169906+00:00",
  "nq": {
-  "price": 29627.0,
-  "change_points": -352.5,
-  "percent_change": -1.18
+  "price": 29633.75,
+  "change_points": -345.75,
+  "percent_change": -1.15
  },
  "gold": {
-  "price": 4032.2,
-  "change_points": -19.4,
-  "percent_change": -0.48
+  "price": 4032.6,
+  "change_points": -19.0,
+  "percent_change": -0.47
  },
  "oil": {
-  "price": 101.37,
-  "change_points": -1.41,
-  "percent_change": -1.37
+  "price": 101.39,
+  "change_points": -1.39,
+  "percent_change": -1.35
  },
  "headlines": [
   {
-   "headline": "Los futuros del Nasdaq caen cerca de 1% tras el desplome de Alphabet en el premercado por su gasto en inteligencia artificial",
-   "headline_en": "Nasdaq futures fall nearly 1% as Alphabet plunges in premarket on AI spending concerns",
+   "headline": "Futuros del Nasdaq caen ~1% tras los resultados de Alphabet, que se desploma más de 10% en premercado por el gasto en IA",
+   "headline_en": "Nasdaq futures slide ~1% as Alphabet plunges over 10% premarket after earnings reignite AI spending fears",
    "source": "Reuters"
   },
   {
-   "headline": "Microsoft sube 3.5% tras superar expectativas, mientras Alphabet cae 10.5% y pone en duda el gasto en IA",
-   "headline_en": "Microsoft climbs 3.5% after beating expectations while Alphabet drops 10.5%, raising doubts over AI spending",
+   "headline": "Microsoft sube 3.5% tras superar estimaciones y pronosticar un fuerte crecimiento en la nube",
+   "headline_en": "Microsoft climbs 3.5% after beating estimates and forecasting strong cloud growth",
    "source": "Reuters"
   },
   {
-   "headline": "La Fed mantiene las tasas sin cambios en 3.75%-4% en votación 10-2 y el mercado mira a diciembre",
-   "headline_en": "Fed holds rates steady at 3.75%-4% in a 10-2 vote as markets look to December",
-   "source": "Reuters"
+   "headline": "La Fed mantuvo las tasas en 3.75%-4.00% con dos disensos a favor de subir; crecen las apuestas de un alza en diciembre",
+   "headline_en": "Fed held rates at 3.75%-4.00% with two hawkish dissents; December hike odds climb",
+   "source": "Investopedia"
   },
   {
-   "headline": "El PIB del tercer trimestre y el PCE de septiembre se publican hoy a las 7:30am CT",
-   "headline_en": "Third-quarter GDP and September PCE inflation land today at 7:30am CT",
-   "source": "Reuters"
+   "headline": "Hoy: PIB del tercer trimestre de EE. UU. y PCE de septiembre a las 8:30 ET, más la decisión del BCE",
+   "headline_en": "Today: US Q3 GDP and September PCE at 8:30 ET, plus the ECB rate decision",
+   "source": "NordFX"
   },
   {
-   "headline": "Amazon e Intel reportan tras el cierre de hoy, la próxima prueba del gasto en inteligencia artificial",
-   "headline_en": "Amazon and Intel report after the close today, the next test of AI spending",
-   "source": "Reuters"
-  },
-  {
-   "headline": "Marvell cae 9.4% por conversaciones para comprar Lumentum, que sube 4.3%",
-   "headline_en": "Marvell falls 9.4% on talks to buy Lumentum, which rises 4.3%",
+   "headline": "Amazon y Apple reportan tras el cierre de hoy; Marvell cae ~9% tras reportes de que negocia comprar Lumentum",
+   "headline_en": "Amazon and Apple report after the close today; Marvell drops ~9% on reports it is in talks to buy Lumentum",
    "source": "Reuters"
   }
  ],
