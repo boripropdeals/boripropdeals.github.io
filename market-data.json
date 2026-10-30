@@ -1,61 +1,46 @@
 {
- "updated_at": "2026-10-30T15:30:33.808812+00:00",
+ "updated_at": "2026-10-30T15:32:18.544340+00:00",
  "nq": {
-  "price": 28702.25,
-  "change_points": -859.75,
+  "price": 28701.0,
+  "change_points": -861.0,
   "percent_change": -2.91
  },
  "gold": {
-  "price": 3918.0,
-  "change_points": -113.4,
-  "percent_change": -2.81
+  "price": 3917.0,
+  "change_points": -114.4,
+  "percent_change": -2.84
  },
  "oil": {
-  "price": 104.18,
-  "change_points": 2.18,
-  "percent_change": 2.14
+  "price": 104.2,
+  "change_points": 2.2,
+  "percent_change": 2.16
  },
  "headlines": [
   {
-   "headline": "Futuros del Nasdaq caen más de 2% tras resultados de Amazon e Intel que avivan el temor al gasto en IA",
-   "headline_en": "Nasdaq futures sink more than 2% as Amazon, Intel results deepen AI spending fears",
-   "source": "Reuters"
-  },
-  {
-   "headline": "El petróleo se dispara: Brent cerca de $117 y WTI sobre $104 por tensiones en Ormuz y temor a una escalada con Irán",
-   "headline_en": "Oil jumps as Brent nears $117 and WTI tops $104 on Hormuz tensions and Iran escalation fears",
-   "source": "Reuters"
-  },
-  {
-   "headline": "Alphabet se desploma tras decepcionar en publicidad de búsqueda y reportar flujo de caja negativo",
-   "headline_en": "Alphabet tumbles after disappointing search-ad results and negative free cash flow",
+   "headline": "Futuros del Nasdaq caen 2.2% tras los resultados de Amazon e Intel",
+   "headline_en": "Nasdaq futures fall 2.2% after Amazon and Intel earnings deepen tech selloff",
    "source": "TipRanks"
   },
   {
-   "headline": "La economía de EE.UU. creció 3.4% anualizado en el tercer trimestre",
-   "headline_en": "U.S. economy grew at a 3.4% annualized rate in the third quarter",
-   "source": "U.S. Bureau of Economic Analysis"
+   "headline": "Alphabet, Fortinet y ServiceNow se desploman tras resultados débiles del tercer trimestre",
+   "headline_en": "Alphabet, Fortinet and ServiceNow plunge on weak third-quarter results",
+   "source": "Zacks"
   },
   {
-   "headline": "Binance sufre el mayor robo cripto de la historia: $6,300 millones; Bitcoin cae bajo $78,000",
-   "headline_en": "Binance suffers largest crypto heist in history at $6.3 billion; Bitcoin falls below $78,000",
+   "headline": "La inflación de EE.UU. se mantiene alta: el PCE sube a 3.6% y la Fed mantiene tasas en 3.75%-4%",
+   "headline_en": "US inflation stays high: PCE rises to 3.6% as Fed holds rates at 3.75%-4%",
+   "source": "Invezz"
+  },
+  {
+   "headline": "El petróleo sube con fuerza tras ataques hutíes a refinerías saudíes",
+   "headline_en": "Oil jumps after Houthi attacks on Saudi refineries",
+   "source": "TipRanks"
+  },
+  {
+   "headline": "Bitcoin cae bajo $78,000 tras el hackeo de $6,300 millones a Binance",
+   "headline_en": "Bitcoin falls below $78,000 after $6.3 billion Binance hack",
    "source": "Morningstar"
-  },
-  {
-   "headline": "El costo laboral de EE.UU. subió 0.8% en el tercer trimestre, en línea con lo esperado",
-   "headline_en": "U.S. employment cost index rose 0.8% in Q3, in line with expectations",
-   "source": "Dow Jones"
   }
  ],
- "ultima_hora": {
-  "headline": "Trump: la guerra con Irán 'se va a resolver pronto'",
-  "headline_en": "Trump: Iran war 'is going to get wrapped up soon'",
-  "source": "Reuters",
-  "image": "",
-  "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-30-trump-iran-war-end-hormuz-tanker.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-30-trump-iran-war-end-oil-pumpjacks.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-30-trump-iran-war-end-white-house.webp"
-  ]
- }
+ "ultima_hora": null
 }
