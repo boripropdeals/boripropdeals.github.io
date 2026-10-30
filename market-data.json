@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-30T21:02:39.296434+00:00",
+ "updated_at": "2026-10-30T21:03:24.935863+00:00",
  "nq": {
-  "price": 28532.25,
-  "change_points": -1029.75,
-  "percent_change": -3.48
+  "price": 28535.75,
+  "change_points": -1026.25,
+  "percent_change": -3.47
  },
  "gold": {
-  "price": 3882.8,
-  "change_points": -148.6,
-  "percent_change": -3.69
+  "price": 3883.8,
+  "change_points": -147.6,
+  "percent_change": -3.66
  },
  "oil": {
-  "price": 102.86,
-  "change_points": 0.86,
-  "percent_change": 0.84
+  "price": 102.82,
+  "change_points": 0.82,
+  "percent_change": 0.8
  },
  "headlines": [
   {
-   "headline": "El Nasdaq se desploma por la venta masiva tecnológica ante dudas sobre el costo de la IA",
-   "headline_en": "Nasdaq tumbles as tech sell-off deepens on AI spending concerns",
-   "source": "Associated Press"
+   "headline": "Nasdaq se desploma casi 3% por la venta masiva tras los resultados de Intel y Amazon",
+   "headline_en": "Nasdaq plunges nearly 3% as Intel and Amazon results deepen AI sell-off",
+   "source": "Invezz"
   },
   {
-   "headline": "Intel se hunde casi 30% en su peor día desde 1974 tras un pronóstico débil",
-   "headline_en": "Intel plunges nearly 30% in worst day since 1974 on weak outlook",
-   "source": "Associated Press"
-  },
-  {
-   "headline": "Amazon cae tras decepcionar en el tercer trimestre y elevar su gasto en infraestructura de IA",
-   "headline_en": "Amazon falls after Q3 miss and heavy AI infrastructure spending",
-   "source": "TipRanks"
-  },
-  {
-   "headline": "El petróleo sube más de 2% tras ataques hutíes a refinerías saudíes",
-   "headline_en": "Oil jumps over 2% after Houthi attacks on Saudi refineries",
-   "source": "Reuters"
-  },
-  {
-   "headline": "Bitcoin cae por debajo de $77,000 tras el hackeo de $6,300 millones a Binance",
-   "headline_en": "Bitcoin slides below $77,000 after $6.3 billion Binance hack",
+   "headline": "Intel se hunde 29% en su peor día desde 1974 tras una guía débil para el cuarto trimestre",
+   "headline_en": "Intel plunges 29% in its worst day since 1974 after weak fourth-quarter guidance",
    "source": "Investopedia"
   },
   {
-   "headline": "Alphabet se desplomó 12.6% el jueves tras fallar en resultados y flujo de caja",
-   "headline_en": "Alphabet plunged 12.6% Thursday after earnings and cash-flow miss",
-   "source": "Zacks"
+   "headline": "Nasdaq cierra octubre con su mayor caída mensual desde marzo de 2025, un -5.3%",
+   "headline_en": "Nasdaq ends October with its biggest monthly decline since March 2025, down 5.3%",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "El petróleo sube: el Brent ronda $116 y el WTI $104 tras ataques hutíes y un incidente en Ormuz",
+   "headline_en": "Oil rises: Brent near $116 and WTI near $104 after Houthi attacks and a Hormuz incident",
+   "source": "Reuters"
+  },
+  {
+   "headline": "Bitcoin cae por debajo de $77,000 tras el hackeo de $6,300 millones a Binance, el mayor de la historia",
+   "headline_en": "Bitcoin falls below $77,000 after the $6.3 billion Binance hack, the largest ever",
+   "source": "CoinDesk"
+  },
+  {
+   "headline": "El oro cae a su mínimo en un año y el rendimiento del bono a 10 años baja a 4.93% en busca de refugio",
+   "headline_en": "Gold hits one-year low and the 10-year Treasury yield falls to 4.93% as investors seek safety",
+   "source": "Investopedia"
   }
  ],
  "ultima_hora": null
