@@ -1,61 +1,51 @@
 {
- "updated_at": "2026-10-30T20:00:41.769374+00:00",
+ "updated_at": "2026-10-30T20:02:30.358721+00:00",
  "nq": {
-  "price": 28528.5,
-  "change_points": -1033.5,
-  "percent_change": -3.5
+  "price": 28390.25,
+  "change_points": -1171.75,
+  "percent_change": -3.96
  },
  "gold": {
-  "price": 3888.7,
-  "change_points": -142.7,
-  "percent_change": -3.54
+  "price": 3885.1,
+  "change_points": -146.3,
+  "percent_change": -3.63
  },
  "oil": {
-  "price": 103.17,
-  "change_points": 1.17,
-  "percent_change": 1.15
+  "price": 104.31,
+  "change_points": 2.31,
+  "percent_change": 2.26
  },
  "headlines": [
   {
-   "headline": "El Nasdaq cae 3.1% el viernes por los resultados de Amazon e Intel y las dudas sobre el gasto en IA",
-   "headline_en": "Nasdaq falls 3.1% Friday as Amazon and Intel results reignite AI spending fears",
-   "source": "Associated Press"
+   "headline": "El Nasdaq se desploma por Amazon e Intel y tambalea el comercio de IA",
+   "headline_en": "Nasdaq sinks as Amazon and Intel earnings shake the AI trade",
+   "source": "TipRanks"
   },
   {
-   "headline": "Amazon cae ~7% tras incumplir expectativas en el tercer trimestre y anunciar $220,000 millones de inversión para 2026",
-   "headline_en": "Amazon drops ~7% after Q3 miss; plans $220B capex for 2026",
-   "source": "Associated Press"
+   "headline": "Intel se hunde cerca de 30% en su peor día tras una guía desastrosa",
+   "headline_en": "Intel plunges nearly 30% in its worst day ever on dismal guidance",
+   "source": "WSJ"
   },
   {
-   "headline": "Intel se desploma ~29%, su peor sesión desde 1974, por una guía débil",
-   "headline_en": "Intel plunges ~29%, worst session since 1974, on weak guidance",
-   "source": "Associated Press"
+   "headline": "El petróleo sube tras ataques hutíes a refinerías saudíes",
+   "headline_en": "Oil jumps as Houthi attacks hit Saudi refineries",
+   "source": "TipRanks"
   },
   {
-   "headline": "Alphabet sufrió el jueves su mayor caída diaria registrada tras decepcionar en el tercer trimestre",
-   "headline_en": "Alphabet suffers biggest one-day drop on record after Q3 miss",
-   "source": "Reuters"
+   "headline": "Wall Street cierra octubre en rojo con su peor mes tecnológico desde 2025",
+   "headline_en": "Wall Street ends October in the red with techs worst month since 2025",
+   "source": "WSJ"
   },
   {
-   "headline": "El petróleo sube con el Brent cerca de $116.70 por los ataques hutíes a instalaciones saudíes",
-   "headline_en": "Oil jumps as Houthi attacks on Saudi sites stoke supply fears; Brent near $116.70",
-   "source": "Reuters"
+   "headline": "La inflación PCE sube a 3.6% y el dato salarial del viernes cobra peso para la Fed",
+   "headline_en": "PCE inflation rises to 3.6% as Fridays wage data gains weight for the Fed",
+   "source": "Invezz"
   },
   {
-   "headline": "El Nasdaq 100 rumbo a perder más de $2 billones en valor de mercado durante octubre",
-   "headline_en": "Nasdaq 100 set to lose over $2 trillion in market value in October",
-   "source": "Reuters"
+   "headline": "Amazon cae pese a un salto de 39% en su nube por el gasto en IA",
+   "headline_en": "Amazon falls despite 39% cloud jump as AI spending spooks investors",
+   "source": "Invezz"
   }
  ],
- "ultima_hora": {
-  "headline": "Trump recibe informe militar sobre opciones de ataque contra Irán",
-  "headline_en": "Trump briefed on military options for Iran in rare White House meeting",
-  "source": "The Wall Street Journal",
-  "image": "",
-  "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-30-trump-iran-white-house.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-30-trump-iran-oil-refinery.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-10-30-trump-iran-gulf-carrier.webp"
-  ]
- }
+ "ultima_hora": null
 }
