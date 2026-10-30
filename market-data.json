@@ -1,45 +1,50 @@
 {
- "updated_at": "2026-10-30T16:02:32.183591+00:00",
+ "updated_at": "2026-10-30T16:02:38.554771+00:00",
  "nq": {
-  "price": 28662.75,
-  "change_points": -899.25,
-  "percent_change": -3.04
+  "price": 28659.5,
+  "change_points": -902.5,
+  "percent_change": -3.05
  },
  "gold": {
-  "price": 3907.2,
-  "change_points": -124.2,
+  "price": 3907.3,
+  "change_points": -124.1,
   "percent_change": -3.08
  },
  "oil": {
-  "price": 103.94,
-  "change_points": 1.94,
-  "percent_change": 1.9
+  "price": 103.92,
+  "change_points": 1.92,
+  "percent_change": 1.88
  },
  "headlines": [
   {
-   "headline": "Futuros del Nasdaq caen 2.2% tras los resultados de Amazon e Intel",
-   "headline_en": "Nasdaq futures fall 2.2% after Amazon and Intel earnings deepen tech selloff",
-   "source": "TipRanks"
+   "headline": "Futuros del Nasdaq caen más de 2% tras los resultados de Amazon e Intel",
+   "headline_en": "Nasdaq futures tumble more than 2% after Amazon and Intel results",
+   "source": "Reuters"
   },
   {
-   "headline": "Alphabet, Fortinet y ServiceNow se desploman tras resultados débiles del tercer trimestre",
-   "headline_en": "Alphabet, Fortinet and ServiceNow plunge on weak third-quarter results",
-   "source": "Zacks"
+   "headline": "Intel se desploma cerca de 29% al advertir que quemará efectivo este año",
+   "headline_en": "Intel plunges nearly 29% after warning it will burn cash this year",
+   "source": "Associated Press"
   },
   {
-   "headline": "La inflación de EE.UU. se mantiene alta: el PCE sube a 3.6% y la Fed mantiene tasas en 3.75%-4%",
-   "headline_en": "US inflation stays high: PCE rises to 3.6% as Fed holds rates at 3.75%-4%",
-   "source": "Invezz"
+   "headline": "Amazon cae 7% pese a que AWS creció 39%: el gasto en IA preocupa al mercado",
+   "headline_en": "Amazon falls 7% despite AWS growing 39% as AI spending worries markets",
+   "source": "Reuters"
   },
   {
-   "headline": "El petróleo sube con fuerza tras ataques hutíes a refinerías saudíes",
-   "headline_en": "Oil jumps after Houthi attacks on Saudi refineries",
-   "source": "TipRanks"
+   "headline": "El petróleo Brent sube a unos $117 por incidentes con petroleros en Ormuz",
+   "headline_en": "Brent crude rises to about $117 after tanker incidents in the Strait of Hormuz",
+   "source": "Reuters"
   },
   {
-   "headline": "Bitcoin cae bajo $78,000 tras el hackeo de $6,300 millones a Binance",
-   "headline_en": "Bitcoin falls below $78,000 after $6.3 billion Binance hack",
-   "source": "Morningstar"
+   "headline": "El PIB de EE. UU. creció 3.4% en el tercer trimestre, por encima de lo esperado",
+   "headline_en": "U.S. GDP grew 3.4% in the third quarter, above expectations",
+   "source": "Bureau of Economic Analysis"
+  },
+  {
+   "headline": "Alphabet sufrió su peor día desde su salida a bolsa tras decepcionar en resultados",
+   "headline_en": "Alphabet suffered its worst day since listing after disappointing results",
+   "source": "Reuters"
   }
  ],
  "ultima_hora": null
