@@ -1,50 +1,45 @@
 {
- "updated_at": "2026-10-30T16:30:33.564734+00:00",
+ "updated_at": "2026-10-30T16:32:24.234419+00:00",
  "nq": {
-  "price": 28602.25,
-  "change_points": -959.75,
-  "percent_change": -3.25
+  "price": 28580.0,
+  "change_points": -982.0,
+  "percent_change": -3.32
  },
  "gold": {
-  "price": 3906.5,
-  "change_points": -124.9,
-  "percent_change": -3.1
+  "price": 3905.7,
+  "change_points": -125.7,
+  "percent_change": -3.12
  },
  "oil": {
-  "price": 104.43,
-  "change_points": 2.43,
-  "percent_change": 2.38
+  "price": 104.36,
+  "change_points": 2.36,
+  "percent_change": 2.31
  },
  "headlines": [
   {
-   "headline": "Futuros del Nasdaq caen más de 2% tras los resultados de Amazon e Intel",
-   "headline_en": "Nasdaq futures tumble more than 2% after Amazon and Intel results",
-   "source": "Reuters"
+   "headline": "Nasdaq se desploma: Amazon e Intel avivan el temor por el gasto en IA",
+   "headline_en": "Nasdaq plunges as Amazon and Intel reignite AI spending fears",
+   "source": "TipRanks"
   },
   {
-   "headline": "Intel se desploma cerca de 29% al advertir que quemará efectivo este año",
-   "headline_en": "Intel plunges nearly 29% after warning it will burn cash this year",
-   "source": "Associated Press"
+   "headline": "Alphabet sufre su peor día en la historia tras fallar en resultados del tercer trimestre",
+   "headline_en": "Alphabet suffers worst day ever after missing Q3 earnings",
+   "source": "Zacks"
   },
   {
-   "headline": "Amazon cae 7% pese a que AWS creció 39%: el gasto en IA preocupa al mercado",
-   "headline_en": "Amazon falls 7% despite AWS growing 39% as AI spending worries markets",
-   "source": "Reuters"
+   "headline": "El petróleo salta por encima de $116 tras ataques hutíes a refinerías sauditas",
+   "headline_en": "Oil jumps above $116 after Houthi attacks on Saudi refineries",
+   "source": "TipRanks"
   },
   {
-   "headline": "El petróleo Brent sube a unos $117 por incidentes con petroleros en Ormuz",
-   "headline_en": "Brent crude rises to about $117 after tanker incidents in the Strait of Hormuz",
-   "source": "Reuters"
+   "headline": "La inflación PCE sube a 3.6% y la Fed mantiene las tasas en 3.75%-4%",
+   "headline_en": "PCE inflation rises to 3.6% as Fed holds rates at 3.75%-4%",
+   "source": "Invezz"
   },
   {
-   "headline": "El PIB de EE. UU. creció 3.4% en el tercer trimestre, por encima de lo esperado",
-   "headline_en": "U.S. GDP grew 3.4% in the third quarter, above expectations",
-   "source": "Bureau of Economic Analysis"
-  },
-  {
-   "headline": "Alphabet sufrió su peor día desde su salida a bolsa tras decepcionar en resultados",
-   "headline_en": "Alphabet suffered its worst day since listing after disappointing results",
-   "source": "Reuters"
+   "headline": "Bitcoin cae por debajo de $78,000 tras el hackeo de $6,300 millones a Binance",
+   "headline_en": "Bitcoin falls below $78,000 after $6.3B Binance hack",
+   "source": "Morningstar"
   }
  ],
  "ultima_hora": null
