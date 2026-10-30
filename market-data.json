@@ -1,45 +1,50 @@
 {
- "updated_at": "2026-10-30T19:02:40.974997+00:00",
+ "updated_at": "2026-10-30T19:04:03.019641+00:00",
  "nq": {
-  "price": 28270.75,
-  "change_points": -1291.25,
-  "percent_change": -4.37
+  "price": 28261.0,
+  "change_points": -1301.0,
+  "percent_change": -4.4
  },
  "gold": {
-  "price": 3888.5,
-  "change_points": -142.9,
-  "percent_change": -3.54
+  "price": 3888.1,
+  "change_points": -143.3,
+  "percent_change": -3.55
  },
  "oil": {
-  "price": 104.67,
-  "change_points": 2.67,
-  "percent_change": 2.62
+  "price": 104.69,
+  "change_points": 2.69,
+  "percent_change": 2.64
  },
  "headlines": [
   {
-   "headline": "Nasdaq cae más de 2% tras los resultados de Amazon e Intel, que avivan dudas sobre el gasto en IA",
-   "headline_en": "Nasdaq falls over 2% after Amazon and Intel results deepen AI spending worries",
-   "source": "Reuters"
-  },
-  {
-   "headline": "El petróleo sube tras ataques hutíes contra refinerías de Arabia Saudita",
-   "headline_en": "Oil rises after Houthi attacks on Saudi refineries",
-   "source": "Reuters"
-  },
-  {
-   "headline": "Alphabet prolonga su caída tras decepcionar con sus resultados del tercer trimestre",
-   "headline_en": "Alphabet extends its slide after disappointing third-quarter results",
+   "headline": "El Nasdaq se desploma por los resultados de Amazon e Intel y las dudas sobre el gasto en IA",
+   "headline_en": "Nasdaq tumbles on Amazon and Intel earnings as AI spending worries grow",
    "source": "TipRanks"
   },
   {
-   "headline": "La inflación PCE de septiembre sube a 3.6% anual mientras la Fed mantiene las tasas",
-   "headline_en": "September PCE inflation rises to 3.6% annually as the Fed holds rates steady",
-   "source": "Invezz"
+   "headline": "Intel se desploma casi 30% tras un débil panorama, cerca de su peor día desde 1974",
+   "headline_en": "Intel plunges nearly 30% on weak outlook, near its worst session since 1974",
+   "source": "TipRanks"
   },
   {
-   "headline": "El Nasdaq apunta a cerrar octubre en rojo pese a las ganancias semanales, mientras S&P y Dow se mantienen en positivo",
-   "headline_en": "Nasdaq heads for a down October despite weekly gains, while S&P and Dow stay positive",
-   "source": "Reuters"
+   "headline": "Amazon cae pese al salto de AWS: su plan de gasto de 220,000 millones en IA inquieta al mercado",
+   "headline_en": "Amazon falls despite AWS surge as its $220 billion AI spending plan rattles investors",
+   "source": "TipRanks"
+  },
+  {
+   "headline": "Los semiconductores se desploman y el VIX sube mientras Wall Street entra en modo aversión al riesgo",
+   "headline_en": "Semiconductors plunge and VIX jumps as Wall Street turns risk-off",
+   "source": "NarrativeFlow"
+  },
+  {
+   "headline": "El petróleo sube tras los ataques hutíes contra instalaciones sauditas",
+   "headline_en": "Oil rises after Houthi attacks on Saudi facilities",
+   "source": "TipRanks"
+  },
+  {
+   "headline": "Wall Street cerró el jueves en rojo tras los resultados de Alphabet y un dato de inflación elevado",
+   "headline_en": "Wall Street closed lower Thursday after Alphabet miss and a hot inflation reading",
+   "source": "Zacks"
   }
  ],
  "ultima_hora": null
