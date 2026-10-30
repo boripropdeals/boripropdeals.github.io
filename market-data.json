@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-30T13:02:40.944004+00:00",
+ "updated_at": "2026-10-30T13:03:06.324888+00:00",
  "nq": {
-  "price": 28796.25,
-  "change_points": -765.75,
+  "price": 28796.75,
+  "change_points": -765.25,
   "percent_change": -2.59
  },
  "gold": {
-  "price": 3965.5,
-  "change_points": -65.9,
-  "percent_change": -1.63
+  "price": 3965.2,
+  "change_points": -66.2,
+  "percent_change": -1.64
  },
  "oil": {
-  "price": 104.15,
-  "change_points": 2.15,
-  "percent_change": 2.11
+  "price": 104.18,
+  "change_points": 2.18,
+  "percent_change": 2.14
  },
  "headlines": [
   {
-   "headline": "Futuros del Nasdaq caen más de 2% tras los resultados de Amazon e Intel y la preocupación por el gasto en IA",
-   "headline_en": "Nasdaq futures fall over 2% as Amazon and Intel earnings raise AI spending concerns",
+   "headline": "Los futuros del Nasdaq caen más de 2% tras los resultados de Amazon e Intel que sacuden el comercio de IA",
+   "headline_en": "Nasdaq futures fall over 2% as Amazon and Intel earnings rattle the AI trade",
    "source": "TipRanks"
   },
   {
-   "headline": "Alphabet arrastra al Nasdaq: cae 1.38% el jueves tras desplomarse 12.6%, su peor día en más de 20 años",
-   "headline_en": "Alphabet slide drags Nasdaq 1.38% lower Thursday, down 12.6% in its worst day in over 20 years",
-   "source": "Ultima Markets"
+   "headline": "Amazon cae cerca de 7% tras incumplir estimaciones y registrar una salida de efectivo de $42,400 millones por gasto en IA",
+   "headline_en": "Amazon drops about 7% after Q3 miss and $42.4B cash outflow tied to AI spending",
+   "source": "TheStreet"
   },
   {
-   "headline": "La Fed mantiene las tasas en 3.75%-4% con dos votos a favor de subirlas un cuarto de punto",
-   "headline_en": "Fed holds rates at 3.75%-4% with two dissents in favor of a quarter-point hike",
-   "source": "Reuters"
+   "headline": "Intel se desploma más de 25% por una débil previsión para el cuarto trimestre",
+   "headline_en": "Intel plunges over 25% on a weak fourth-quarter outlook",
+   "source": "FXStreet"
   },
   {
-   "headline": "El PIB de EE. UU. crece 3.4% en el tercer trimestre, impulsado por el consumo y la inversión empresarial",
-   "headline_en": "US GDP grows 3.4% in Q3, driven by consumer spending and business investment",
-   "source": "Reuters"
+   "headline": "El petróleo sube por los ataques hutíes a Arabia Saudita y el temor a interrupciones de suministro",
+   "headline_en": "Oil jumps as Houthi attacks on Saudi Arabia stoke supply disruption fears",
+   "source": "TipRanks"
   },
   {
-   "headline": "El petróleo sube con el Brent cerca de 116 dólares tras el ataque a un tanquero en Ormuz y los ataques hutíes a refinerías saudíes",
-   "headline_en": "Oil rises with Brent near 116 dollars after Hormuz tanker attack and Houthi strikes on Saudi refineries",
-   "source": "Reuters"
+   "headline": "La Fed mantuvo las tasas y el mercado ya descuenta cerca de 75% de probabilidad de un alza en diciembre",
+   "headline_en": "Fed held rates steady; traders now price about 75% odds of a December hike",
+   "source": "TalkMarkets"
   },
   {
-   "headline": "La inflación PCE de septiembre sube a 3.6% anual y el mercado espera hoy el índice de costos laborales",
-   "headline_en": "September PCE inflation rises to 3.6% year over year as markets await the employment cost index due today",
-   "source": "Invezz"
+   "headline": "El Nasdaq cayó 1.38% el jueves tras el tropiezo de Alphabet; hoy se esperan el índice de costos laborales y el PMI de Chicago",
+   "headline_en": "Nasdaq fell 1.38% Thursday after Alphabet miss; employment cost index and Chicago PMI due today",
+   "source": "Finimize"
   }
  ],
  "ultima_hora": null
