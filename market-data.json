@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T21:32:35.828015+00:00",
+ "updated_at": "2026-10-30T21:32:53.496105+00:00",
  "nq": {
   "price": 28543.0,
   "change_points": -1019.0,
@@ -17,34 +17,34 @@
  },
  "headlines": [
   {
-   "headline": "Nasdaq se desploma casi 3% por la venta masiva tras los resultados de Intel y Amazon",
-   "headline_en": "Nasdaq plunges nearly 3% as Intel and Amazon results deepen AI sell-off",
+   "headline": "Nasdaq se desploma 2.9% por los resultados de Intel y Amazon y el temor al gasto en IA",
+   "headline_en": "Nasdaq plunges 2.9% as Intel and Amazon results deepen AI stock sell-off",
    "source": "Invezz"
   },
   {
-   "headline": "Intel se hunde 29% en su peor día desde 1974 tras una guía débil para el cuarto trimestre",
-   "headline_en": "Intel plunges 29% in its worst day since 1974 after weak fourth-quarter guidance",
-   "source": "Investopedia"
+   "headline": "Intel cae cerca de 29%, su peor día desde 1974, tras una guía débil para el cuarto trimestre",
+   "headline_en": "Intel plunges nearly 29% in its worst day since 1974 on weak Q4 guidance",
+   "source": "The Edge"
   },
   {
-   "headline": "Nasdaq cierra octubre con su mayor caída mensual desde marzo de 2025, un -5.3%",
-   "headline_en": "Nasdaq ends October with its biggest monthly decline since March 2025, down 5.3%",
-   "source": "Investopedia"
+   "headline": "Alphabet decepciona en el tercer trimestre y arrastra al Nasdaq el jueves",
+   "headline_en": "Alphabet Q3 miss drags Nasdaq lower on Thursday",
+   "source": "Zacks"
   },
   {
-   "headline": "El petróleo sube: el Brent ronda $116 y el WTI $104 tras ataques hutíes y un incidente en Ormuz",
-   "headline_en": "Oil rises: Brent near $116 and WTI near $104 after Houthi attacks and a Hormuz incident",
-   "source": "Reuters"
+   "headline": "El petróleo sube tras los ataques hutíes a refinerías de Arabia Saudita",
+   "headline_en": "Oil rises as Houthi attacks on Saudi refineries stoke supply fears",
+   "source": "TipRanks"
   },
   {
-   "headline": "Bitcoin cae por debajo de $77,000 tras el hackeo de $6,300 millones a Binance, el mayor de la historia",
-   "headline_en": "Bitcoin falls below $77,000 after the $6.3 billion Binance hack, the largest ever",
-   "source": "CoinDesk"
+   "headline": "Hackeo récord de $6,300 millones sacude a Binance y presiona a los activos digitales",
+   "headline_en": "Record $6.3B hack rocks Binance and pressures digital assets",
+   "source": "TipRanks"
   },
   {
-   "headline": "El oro cae a su mínimo en un año y el rendimiento del bono a 10 años baja a 4.93% en busca de refugio",
-   "headline_en": "Gold hits one-year low and the 10-year Treasury yield falls to 4.93% as investors seek safety",
-   "source": "Investopedia"
+   "headline": "La Fed mantuvo la tasa en 3.90% tras su reunión del 27 y 28 de octubre",
+   "headline_en": "Fed held rate at 3.90% after October 27-28 meeting",
+   "source": "EL7"
   }
  ],
  "ultima_hora": null
