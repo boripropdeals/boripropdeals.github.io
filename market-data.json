@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-30T11:02:34.309862+00:00",
+ "updated_at": "2026-10-30T11:02:36.810376+00:00",
  "nq": {
-  "price": 28841.25,
-  "change_points": -720.75,
-  "percent_change": -2.44
+  "price": 28842.75,
+  "change_points": -719.25,
+  "percent_change": -2.43
  },
  "gold": {
-  "price": 3985.1,
-  "change_points": -46.3,
+  "price": 3985.0,
+  "change_points": -46.4,
   "percent_change": -1.15
  },
  "oil": {
-  "price": 104.28,
-  "change_points": 2.28,
-  "percent_change": 2.24
+  "price": 104.27,
+  "change_points": 2.27,
+  "percent_change": 2.23
  },
  "headlines": [
   {
-   "headline": "Jueves sangriento en Wall Street: el Nasdaq lidera la caída tras los resultados de Alphabet",
-   "headline_en": "Bloody Thursday on Wall Street: Nasdaq leads the sell-off after Alphabet earnings",
-   "source": "Investopedia"
+   "headline": "Futuros del Nasdaq caen más de 2% tras los resultados de Amazon e Intel, que reavivan las dudas sobre el gasto en IA",
+   "headline_en": "Nasdaq futures tumble over 2% after Amazon and Intel results deepen AI spending concerns",
+   "source": "Reuters"
   },
   {
-   "headline": "Alphabet se desploma más de 12% pese a ingresos récord: el gasto en IA y el flujo de caja decepcionan",
-   "headline_en": "Alphabet plunges over 12% despite record revenue as AI spending and cash flow disappoint",
-   "source": "Investopedia"
+   "headline": "Amazon cae más de 7% en premercado tras una salida de caja de $42,400 millones por su gasto en IA",
+   "headline_en": "Amazon falls over 7% premarket after a $42.4B cash outflow tied to AI spending",
+   "source": "Reuters"
   },
   {
-   "headline": "La Fed mantuvo las tasas sin cambios, pero el mercado ya descuenta una subida en diciembre",
-   "headline_en": "Fed left rates unchanged, but traders now price a December hike",
-   "source": "Saxo Bank"
+   "headline": "Intel se desploma cerca de 25% tras advertir que quemará efectivo este año por la debilidad del mercado de PC",
+   "headline_en": "Intel plunges nearly 25% after warning it will burn cash this year on weak PC demand",
+   "source": "Reuters"
   },
   {
-   "headline": "ServiceNow se hunde casi 25% tras sus resultados pese a crecer 20% en ingresos",
-   "headline_en": "ServiceNow tumbles nearly 25% after earnings despite 20% revenue growth",
-   "source": "XTB"
+   "headline": "El PIB de EE. UU. creció 3.4% anualizado en el tercer trimestre, tras el 2.2% del segundo",
+   "headline_en": "U.S. GDP grew at a 3.4% annualized rate in Q3, up from 2.2% in Q2",
+   "source": "Bureau of Economic Analysis"
   },
   {
-   "headline": "ADT se dispara 33% tras anunciar su adquisición por 10 dólares por acción en efectivo",
-   "headline_en": "ADT surges 33% on $10-per-share all-cash acquisition deal",
-   "source": "The Motley Fool"
+   "headline": "El petróleo sube más de 1.5% por temores de interrupción del suministro tras ataques hutíes contra Arabia Saudita",
+   "headline_en": "Oil rises over 1.5% on supply disruption fears after Houthi attacks on Saudi Arabia",
+   "source": "TipRanks"
   },
   {
-   "headline": "Norwegian Cruise sube 13% tras superar estimaciones y elevar su guía para todo el año",
-   "headline_en": "Norwegian Cruise jumps 13% after beating estimates and raising full-year guidance",
-   "source": "The Motley Fool"
+   "headline": "El mercado descuenta cerca de 75% de probabilidad de una subida de la Fed en diciembre, tras mantener las tasas esta semana",
+   "headline_en": "Traders price roughly 75% odds of a December Fed hike after the Fed held rates steady this week",
+   "source": "FXStreet / CME FedWatch"
   }
  ],
  "ultima_hora": null
