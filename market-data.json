@@ -1,45 +1,50 @@
 {
- "updated_at": "2026-10-30T17:02:33.795090+00:00",
+ "updated_at": "2026-10-30T17:02:53.254451+00:00",
  "nq": {
-  "price": 28513.75,
-  "change_points": -1048.25,
-  "percent_change": -3.55
+  "price": 28503.75,
+  "change_points": -1058.25,
+  "percent_change": -3.58
  },
  "gold": {
-  "price": 3903.5,
-  "change_points": -127.9,
-  "percent_change": -3.17
+  "price": 3904.8,
+  "change_points": -126.6,
+  "percent_change": -3.14
  },
  "oil": {
-  "price": 104.58,
-  "change_points": 2.58,
-  "percent_change": 2.53
+  "price": 104.19,
+  "change_points": 2.19,
+  "percent_change": 2.15
  },
  "headlines": [
   {
-   "headline": "Nasdaq se desploma: Amazon e Intel avivan el temor por el gasto en IA",
-   "headline_en": "Nasdaq plunges as Amazon and Intel reignite AI spending fears",
-   "source": "TipRanks"
-  },
-  {
-   "headline": "Alphabet sufre su peor día en la historia tras fallar en resultados del tercer trimestre",
-   "headline_en": "Alphabet suffers worst day ever after missing Q3 earnings",
-   "source": "Zacks"
-  },
-  {
-   "headline": "El petróleo salta por encima de $116 tras ataques hutíes a refinerías sauditas",
-   "headline_en": "Oil jumps above $116 after Houthi attacks on Saudi refineries",
-   "source": "TipRanks"
-  },
-  {
-   "headline": "La inflación PCE sube a 3.6% y la Fed mantiene las tasas en 3.75%-4%",
-   "headline_en": "PCE inflation rises to 3.6% as Fed holds rates at 3.75%-4%",
+   "headline": "Nasdaq cae más de 2% tras los resultados de Amazon e Intel: el gasto en IA asusta al mercado",
+   "headline_en": "Nasdaq drops over 2% after Amazon and Intel earnings as AI spending spooks markets",
    "source": "Invezz"
   },
   {
-   "headline": "Bitcoin cae por debajo de $78,000 tras el hackeo de $6,300 millones a Binance",
-   "headline_en": "Bitcoin falls below $78,000 after $6.3B Binance hack",
-   "source": "Morningstar"
+   "headline": "Petróleo al alza: el WTI toca $104 por las tensiones entre EE.UU. e Irán y el cierre del estrecho de Ormuz",
+   "headline_en": "Oil climbs: WTI hits $104 on rising U.S.–Iran tensions and the Strait of Hormuz shutdown",
+   "source": "TradingView / Zacks"
+  },
+  {
+   "headline": "La inflación sigue alta: el PCE anual sube a 3.6% y el núcleo a 3.1%; la Fed mantuvo tasas en 3.75%–4%",
+   "headline_en": "Inflation stays hot: annual PCE rises to 3.6% and core to 3.1%; Fed held rates at 3.75%–4%",
+   "source": "Invezz"
+  },
+  {
+   "headline": "El oro cae por debajo de $4,000 por liquidaciones forzadas mientras el bono a 10 años baja a 4.91%",
+   "headline_en": "Gold falls below $4,000 on forced liquidations as the 10-year yield drops to 4.91%",
+   "source": "InvestingLive"
+  },
+  {
+   "headline": "Alphabet y ServiceNow se desploman tras resultados decepcionantes del tercer trimestre",
+   "headline_en": "Alphabet and ServiceNow plunge after disappointing third-quarter results",
+   "source": "Zacks"
+  },
+  {
+   "headline": "El costo del empleo de octubre sube 0.8%, en línea con lo esperado",
+   "headline_en": "October Employment Cost Index rises 0.8%, in line with expectations",
+   "source": "TradingView / Zacks"
   }
  ],
  "ultima_hora": null
