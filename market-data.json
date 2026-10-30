@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-10-30T17:32:36.390874+00:00",
+ "updated_at": "2026-10-30T17:33:00.798731+00:00",
  "nq": {
-  "price": 28520.0,
-  "change_points": -1042.0,
-  "percent_change": -3.52
+  "price": 28511.25,
+  "change_points": -1050.75,
+  "percent_change": -3.55
  },
  "gold": {
   "price": 3900.0,
@@ -11,40 +11,40 @@
   "percent_change": -3.26
  },
  "oil": {
-  "price": 104.34,
-  "change_points": 2.34,
-  "percent_change": 2.29
+  "price": 104.33,
+  "change_points": 2.33,
+  "percent_change": 2.28
  },
  "headlines": [
   {
-   "headline": "Nasdaq cae más de 2% tras los resultados de Amazon e Intel: el gasto en IA asusta al mercado",
-   "headline_en": "Nasdaq drops over 2% after Amazon and Intel earnings as AI spending spooks markets",
-   "source": "Invezz"
+   "headline": "Nasdaq se desploma: Intel se hunde cerca de 29% tras su guía débil y Amazon cae por su gasto en IA",
+   "headline_en": "Nasdaq plunges as Intel sinks nearly 29% on weak guidance and Amazon drops on AI spending",
+   "source": "Associated Press"
   },
   {
-   "headline": "Petróleo al alza: el WTI toca $104 por las tensiones entre EE.UU. e Irán y el cierre del estrecho de Ormuz",
-   "headline_en": "Oil climbs: WTI hits $104 on rising U.S.–Iran tensions and the Strait of Hormuz shutdown",
-   "source": "TradingView / Zacks"
+   "headline": "Amazon e Intel ponen en duda el rally de la IA y amenazan con borrar casi $1 billón del Nasdaq 100",
+   "headline_en": "Amazon and Intel cast doubt on the AI rally, threatening nearly $1 trillion in Nasdaq 100 value",
+   "source": "Reuters"
   },
   {
-   "headline": "La inflación sigue alta: el PCE anual sube a 3.6% y el núcleo a 3.1%; la Fed mantuvo tasas en 3.75%–4%",
-   "headline_en": "Inflation stays hot: annual PCE rises to 3.6% and core to 3.1%; Fed held rates at 3.75%–4%",
-   "source": "Invezz"
-  },
-  {
-   "headline": "El oro cae por debajo de $4,000 por liquidaciones forzadas mientras el bono a 10 años baja a 4.91%",
-   "headline_en": "Gold falls below $4,000 on forced liquidations as the 10-year yield drops to 4.91%",
-   "source": "InvestingLive"
-  },
-  {
-   "headline": "Alphabet y ServiceNow se desploman tras resultados decepcionantes del tercer trimestre",
-   "headline_en": "Alphabet and ServiceNow plunge after disappointing third-quarter results",
+   "headline": "Wall Street cerró el jueves en rojo: Alphabet decepcionó y el Nasdaq cayó 1.4%",
+   "headline_en": "Wall Street closed Thursday in the red as Alphabet disappointed and the Nasdaq fell 1.4%",
    "source": "Zacks"
   },
   {
-   "headline": "El costo del empleo de octubre sube 0.8%, en línea con lo esperado",
-   "headline_en": "October Employment Cost Index rises 0.8%, in line with expectations",
-   "source": "TradingView / Zacks"
+   "headline": "El petróleo sube con fuerza: ataques hutíes en Arabia Saudita y cuatro petroleros en llamas en Ormuz",
+   "headline_en": "Oil jumps as Houthi attacks hit Saudi Arabia and four tankers burn in the Strait of Hormuz",
+   "source": "Associated Press"
+  },
+  {
+   "headline": "Inflación caliente: el IPC anual sube a 3.7% y el IPP mensual salta 1.3%, y vuelve a hablarse de una subida de la Fed",
+   "headline_en": "Hot inflation: annual CPI rises to 3.7% and monthly PPI jumps 1.3%, reviving Fed hike bets",
+   "source": "U.S. Bureau of Labor Statistics"
+  },
+  {
+   "headline": "Bitcoin cae por el temor tras el hack de $6,300 millones en Binance",
+   "headline_en": "Bitcoin falls on fears after the $6.3 billion Binance hack",
+   "source": "TipRanks"
   }
  ],
  "ultima_hora": null
