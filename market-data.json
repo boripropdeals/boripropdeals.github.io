@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-30T12:00:32.585735+00:00",
+ "updated_at": "2026-10-30T12:02:26.512263+00:00",
  "nq": {
-  "price": 28768.0,
-  "change_points": -794.0,
-  "percent_change": -2.69
+  "price": 28790.5,
+  "change_points": -771.5,
+  "percent_change": -2.61
  },
  "gold": {
-  "price": 3978.1,
-  "change_points": -53.3,
-  "percent_change": -1.32
+  "price": 3977.6,
+  "change_points": -53.8,
+  "percent_change": -1.33
  },
  "oil": {
-  "price": 104.47,
-  "change_points": 2.47,
-  "percent_change": 2.42
+  "price": 104.15,
+  "change_points": 2.15,
+  "percent_change": 2.11
  },
  "headlines": [
   {
-   "headline": "Futuros del Nasdaq caen más de 2% tras los resultados de Amazon e Intel y la preocupación por el gasto en IA",
-   "headline_en": "Nasdaq futures tumble more than 2% as Amazon and Intel results deepen AI spending worries",
-   "source": "Reuters"
+   "headline": "Futuros del Nasdaq caen cerca de 2% tras los resultados de Amazon e Intel, que avivan dudas sobre el gasto en IA",
+   "headline_en": "Nasdaq futures fall nearly 2% after Amazon and Intel earnings raise doubts over AI spending",
+   "source": "TipRanks"
   },
   {
-   "headline": "Amazon cae cerca de 7% en premercado tras una salida de efectivo de $42,400 millones y más gasto en IA",
-   "headline_en": "Amazon drops about 7% premarket after a $42.4 billion cash outflow and higher AI spending",
-   "source": "Reuters"
+   "headline": "Amazon cae cerca de 7% en premercado tras decepcionar en el tercer trimestre pese al salto de su nube AWS",
+   "headline_en": "Amazon drops nearly 7% premarket after disappointing Q3 results despite AWS jump",
+   "source": "Invezz"
   },
   {
-   "headline": "Intel se desploma cerca de 25% en premercado por un pronóstico débil y advertencia de quema de efectivo",
-   "headline_en": "Intel tanks about 25% premarket on a weak outlook and cash-burn warning",
-   "source": "Reuters"
-  },
-  {
-   "headline": "La economía de EE. UU. creció 3.4% en el tercer trimestre, por encima de lo esperado, impulsada por el consumo y la inversión en IA",
-   "headline_en": "US economy grew 3.4% in Q3, beating forecasts, powered by consumer spending and AI investment",
-   "source": "Reuters"
-  },
-  {
-   "headline": "La Fed mantuvo tasas en 3.75%-4% y el mercado descuenta una subida en diciembre; hoy se publican el Índice de Costo de Empleo y el PMI de Chicago",
-   "headline_en": "Fed held rates at 3.75%-4% as markets price a December hike; Employment Cost Index and Chicago PMI due today",
+   "headline": "Intel se desploma más de 23% por una guía débil y la debilidad del mercado de PC",
+   "headline_en": "Intel plunges over 23% on weak guidance and soft PC market",
    "source": "FXStreet"
   },
   {
-   "headline": "El petróleo WTI sube más de 2% y roza $104 ante la tensión con Irán",
-   "headline_en": "WTI crude climbs more than 2% toward $104 amid Iran tensions",
-   "source": "Barchart"
+   "headline": "El petróleo sube cerca de 1.5% por tensiones en Medio Oriente tras ataques hutíes contra Arabia Saudita",
+   "headline_en": "Oil rises nearly 1.5% on Middle East tensions after Houthi attacks on Saudi Arabia",
+   "source": "TipRanks"
+  },
+  {
+   "headline": "El PIB de EE. UU. creció 3.4% anualizado en el tercer trimestre, mostrando una economía resiliente",
+   "headline_en": "US GDP grew 3.4% annualized in Q3, showing a resilient economy",
+   "source": "FXStreet"
+  },
+  {
+   "headline": "El mercado descuenta cerca de 75% de probabilidad de una subida de la Fed en diciembre tras mantener las tasas sin cambios",
+   "headline_en": "Market prices nearly 75% chance of a December Fed hike after the Fed held rates steady",
+   "source": "FXStreet"
   }
  ],
  "ultima_hora": null
