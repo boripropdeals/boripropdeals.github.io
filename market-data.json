@@ -1,19 +1,19 @@
 {
- "updated_at": "2026-10-30T11:52:32.286073+00:00",
+ "updated_at": "2026-10-30T11:54:32.533256+00:00",
  "nq": {
-  "price": 28797.0,
-  "change_points": -765.0,
-  "percent_change": -2.59
+  "price": 28783.25,
+  "change_points": -778.75,
+  "percent_change": -2.63
  },
  "gold": {
-  "price": 3983.2,
-  "change_points": -48.2,
-  "percent_change": -1.2
+  "price": 3980.6,
+  "change_points": -50.8,
+  "percent_change": -1.26
  },
  "oil": {
-  "price": 104.3,
-  "change_points": 2.3,
-  "percent_change": 2.25
+  "price": 104.24,
+  "change_points": 2.24,
+  "percent_change": 2.2
  },
  "headlines": [
   {
