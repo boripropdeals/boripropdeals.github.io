@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-10-30T11:30:34.444139+00:00",
+ "updated_at": "2026-10-30T11:32:33.533354+00:00",
  "nq": {
-  "price": 28836.75,
-  "change_points": -725.25,
-  "percent_change": -2.45
+  "price": 28834.5,
+  "change_points": -727.5,
+  "percent_change": -2.46
  },
  "gold": {
-  "price": 3982.6,
-  "change_points": -48.8,
-  "percent_change": -1.21
+  "price": 3979.8,
+  "change_points": -51.6,
+  "percent_change": -1.28
  },
  "oil": {
-  "price": 104.17,
-  "change_points": 2.17,
-  "percent_change": 2.13
+  "price": 104.27,
+  "change_points": 2.27,
+  "percent_change": 2.23
  },
  "headlines": [
   {
-   "headline": "Futuros del Nasdaq caen más de 2% tras los resultados de Amazon e Intel, que reavivan las dudas sobre el gasto en IA",
-   "headline_en": "Nasdaq futures tumble over 2% after Amazon and Intel results deepen AI spending concerns",
+   "headline": "Futuros del Nasdaq caen más de 2% tras los resultados de Amazon e Intel y la preocupación por el gasto en IA",
+   "headline_en": "Nasdaq futures tumble more than 2% as Amazon and Intel results deepen AI spending worries",
    "source": "Reuters"
   },
   {
-   "headline": "Amazon cae más de 7% en premercado tras una salida de caja de $42,400 millones por su gasto en IA",
-   "headline_en": "Amazon falls over 7% premarket after a $42.4B cash outflow tied to AI spending",
+   "headline": "Amazon cae cerca de 7% en premercado tras una salida de efectivo de $42,400 millones y más gasto en IA",
+   "headline_en": "Amazon drops about 7% premarket after a $42.4 billion cash outflow and higher AI spending",
    "source": "Reuters"
   },
   {
-   "headline": "Intel se desploma cerca de 25% tras advertir que quemará efectivo este año por la debilidad del mercado de PC",
-   "headline_en": "Intel plunges nearly 25% after warning it will burn cash this year on weak PC demand",
+   "headline": "Intel se desploma cerca de 25% en premercado por un pronóstico débil y advertencia de quema de efectivo",
+   "headline_en": "Intel tanks about 25% premarket on a weak outlook and cash-burn warning",
    "source": "Reuters"
   },
   {
-   "headline": "El PIB de EE. UU. creció 3.4% anualizado en el tercer trimestre, tras el 2.2% del segundo",
-   "headline_en": "U.S. GDP grew at a 3.4% annualized rate in Q3, up from 2.2% in Q2",
-   "source": "Bureau of Economic Analysis"
+   "headline": "La economía de EE. UU. creció 3.4% en el tercer trimestre, por encima de lo esperado, impulsada por el consumo y la inversión en IA",
+   "headline_en": "US economy grew 3.4% in Q3, beating forecasts, powered by consumer spending and AI investment",
+   "source": "Reuters"
   },
   {
-   "headline": "El petróleo sube más de 1.5% por temores de interrupción del suministro tras ataques hutíes contra Arabia Saudita",
-   "headline_en": "Oil rises over 1.5% on supply disruption fears after Houthi attacks on Saudi Arabia",
-   "source": "TipRanks"
+   "headline": "La Fed mantuvo tasas en 3.75%-4% y el mercado descuenta una subida en diciembre; hoy se publican el Índice de Costo de Empleo y el PMI de Chicago",
+   "headline_en": "Fed held rates at 3.75%-4% as markets price a December hike; Employment Cost Index and Chicago PMI due today",
+   "source": "FXStreet"
   },
   {
-   "headline": "El mercado descuenta cerca de 75% de probabilidad de una subida de la Fed en diciembre, tras mantener las tasas esta semana",
-   "headline_en": "Traders price roughly 75% odds of a December Fed hike after the Fed held rates steady this week",
-   "source": "FXStreet / CME FedWatch"
+   "headline": "El petróleo WTI sube más de 2% y roza $104 ante la tensión con Irán",
+   "headline_en": "WTI crude climbs more than 2% toward $104 amid Iran tensions",
+   "source": "Barchart"
   }
  ],
  "ultima_hora": null
