@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-11-02T21:02:50.479738+00:00",
+ "updated_at": "2026-11-02T21:03:20.260915+00:00",
  "nq": {
-  "price": 28150.5,
-  "change_points": -383.5,
-  "percent_change": -1.34
+  "price": 28163.25,
+  "change_points": -370.75,
+  "percent_change": -1.3
  },
  "gold": {
-  "price": 3953.2,
-  "change_points": 54.3,
-  "percent_change": 1.39
+  "price": 3955.6,
+  "change_points": 56.7,
+  "percent_change": 1.45
  },
  "oil": {
-  "price": 95.82,
-  "change_points": -8.3,
-  "percent_change": -7.97
+  "price": 95.83,
+  "change_points": -8.29,
+  "percent_change": -7.96
  },
  "headlines": [
   {
-   "headline": "Los futuros rebotan tras el desplome tecnológico del viernes; el Nasdaq lidera la recuperación",
-   "headline_en": "Futures rebound after Friday tech sell-off; Nasdaq leads the recovery",
+   "headline": "Wall Street rebota al mediodía: el petróleo se desploma más de 7% por esperanzas diplomáticas con Irán",
+   "headline_en": "Stocks rally at midday as oil tumbles over 7% on Iran diplomatic hopes",
+   "source": "Motley Fool"
+  },
+  {
+   "headline": "Amazon sube más de 4% y Oracle cae 6.2% tras anunciar 20,000 millones de dólares en financiamiento para IA",
+   "headline_en": "Amazon jumps over 4% while Oracle drops 6.2% after a $20 billion AI fundraising plan",
+   "source": "Motley Fool"
+  },
+  {
+   "headline": "El Nasdaq se recupera tras su peor día en casi cinco meses: cayó 2.9% el viernes por la venta de acciones de IA",
+   "headline_en": "Nasdaq rebounds after its worst day in nearly five months, falling 2.9% Friday on the AI sell-off",
+   "source": "Zacks"
+  },
+  {
+   "headline": "Apple reporta hoy tras el cierre y Palantir también: la semana de resultados marca el rumbo",
+   "headline_en": "Apple reports after the bell today, with Palantir also due, in a pivotal earnings week",
    "source": "Investopedia"
   },
   {
-   "headline": "El petróleo cae por debajo de 100 dólares ante esperanzas de diplomacia entre EE. UU. e Irán",
-   "headline_en": "Oil falls below $100 as U.S.-Iran diplomacy hopes rise",
+   "headline": "Elecciones midterm mañana y reporte de empleo del viernes: los dos grandes catalizadores de la semana",
+   "headline_en": "Tomorrows midterms and Fridays jobs report are the weeks two big catalysts",
    "source": "TipRanks"
   },
   {
-   "headline": "Apple y Palantir reportan resultados hoy tras el cierre",
-   "headline_en": "Apple and Palantir report earnings after the bell today",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "El Nasdaq cerró octubre con su peor mes desde marzo de 2025, con una caída de 5.3%",
-   "headline_en": "Nasdaq posts worst month since March 2025, down 5.3% in October",
-   "source": "Saxo Bank"
-  },
-  {
-   "headline": "Elecciones de medio término mañana y el reporte de empleo del viernes, en la mira de los inversionistas",
-   "headline_en": "Midterm elections Tuesday and Fridays jobs report in focus for investors",
-   "source": "TipRanks"
-  },
-  {
-   "headline": "El ISM manufacturero de octubre se publica hoy a las 9:00am CT",
-   "headline_en": "October ISM Manufacturing PMI due today at 9:00am CT",
-   "source": "Newsquawk"
+   "headline": "El oro sube casi 2% a 3,975 dólares y el rendimiento del Tesoro a 10 años baja a 4.94%",
+   "headline_en": "Gold rises nearly 2% to $3,975 as the 10-year Treasury yield slips to 4.94%",
+   "source": "Motley Fool"
   }
  ],
  "ultima_hora": null
