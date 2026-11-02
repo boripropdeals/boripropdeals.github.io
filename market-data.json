@@ -1,51 +1,61 @@
 {
- "updated_at": "2026-11-02T21:34:54.600504+00:00",
+ "updated_at": "2026-11-02T21:35:48.075268+00:00",
  "nq": {
-  "price": 28236.0,
-  "change_points": -298.0,
-  "percent_change": -1.04
+  "price": 28246.25,
+  "change_points": -287.75,
+  "percent_change": -1.01
  },
  "gold": {
-  "price": 3955.9,
-  "change_points": 57.0,
-  "percent_change": 1.46
+  "price": 3956.2,
+  "change_points": 57.3,
+  "percent_change": 1.47
  },
  "oil": {
-  "price": 96.03,
-  "change_points": -8.09,
-  "percent_change": -7.77
+  "price": 96.07,
+  "change_points": -8.05,
+  "percent_change": -7.73
  },
  "headlines": [
   {
-   "headline": "Wall Street rebota al mediodía: el petróleo se desploma más de 7% por esperanzas diplomáticas con Irán",
-   "headline_en": "Stocks rally at midday as oil tumbles over 7% on Iran diplomatic hopes",
-   "source": "Motley Fool"
+   "headline": "Wall Street rebota: el petróleo se desploma cerca de 7% por esperanzas de diplomacia entre EE.UU. e Irán",
+   "headline_en": "Wall Street rallies as oil plunges nearly 7% on hopes of U.S.-Iran diplomacy",
+   "source": "The Motley Fool"
   },
   {
-   "headline": "Amazon sube más de 4% y Oracle cae 6.2% tras anunciar 20,000 millones de dólares en financiamiento para IA",
-   "headline_en": "Amazon jumps over 4% while Oracle drops 6.2% after a $20 billion AI fundraising plan",
-   "source": "Motley Fool"
-  },
-  {
-   "headline": "El Nasdaq se recupera tras su peor día en casi cinco meses: cayó 2.9% el viernes por la venta de acciones de IA",
-   "headline_en": "Nasdaq rebounds after its worst day in nearly five months, falling 2.9% Friday on the AI sell-off",
+   "headline": "El Nasdaq se recupera tras su peor día en casi cinco meses y su peor mes desde marzo de 2025",
+   "headline_en": "Nasdaq rebounds after its worst day in nearly five months and its worst month since March 2025",
    "source": "Zacks"
   },
   {
-   "headline": "Apple reporta hoy tras el cierre y Palantir también: la semana de resultados marca el rumbo",
-   "headline_en": "Apple reports after the bell today, with Palantir also due, in a pivotal earnings week",
+   "headline": "Apple reporta resultados hoy tras el cierre, el primero con John Ternus como CEO; también reporta Palantir",
+   "headline_en": "Apple reports earnings after the bell, the first with John Ternus as CEO; Palantir also reports",
    "source": "Investopedia"
   },
   {
-   "headline": "Elecciones midterm mañana y reporte de empleo del viernes: los dos grandes catalizadores de la semana",
-   "headline_en": "Tomorrows midterms and Fridays jobs report are the weeks two big catalysts",
+   "headline": "La semana trae las elecciones de medio término del martes y el reporte de empleo de octubre el viernes",
+   "headline_en": "Week ahead: Tuesday midterm elections and Friday October jobs report in focus",
    "source": "TipRanks"
   },
   {
-   "headline": "El oro sube casi 2% a 3,975 dólares y el rendimiento del Tesoro a 10 años baja a 4.94%",
-   "headline_en": "Gold rises nearly 2% to $3,975 as the 10-year Treasury yield slips to 4.94%",
-   "source": "Motley Fool"
+   "headline": "Oracle cae más de 6% tras anunciar una recaudación de 20,000 millones de dólares para infraestructura de IA",
+   "headline_en": "Oracle falls over 6% after announcing a $20 billion raise for AI infrastructure",
+   "source": "The Motley Fool"
+  },
+  {
+   "headline": "El ISM manufacturero de EE.UU. de octubre se publica hoy; funcionarios de la Fed mantienen tono restrictivo",
+   "headline_en": "U.S. October ISM Manufacturing PMI due today; Fed officials keep a hawkish tone",
+   "source": "Saxo Bank"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Trump prefiere negociar con Irán antes que reanudar los ataques tras las elecciones, según Axios; el petróleo se desploma",
+  "headline_en": "Trump prefers negotiations with Iran over resuming strikes after the midterms, Axios reports; oil plunges",
+  "source": "Axios",
+  "image": "",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-02-trump-iran-diplomacia-mesa.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-02-trump-iran-petroleo-tanquero.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-02-trump-iran-mercado-alza.webp"
+  ]
+ }
 }
