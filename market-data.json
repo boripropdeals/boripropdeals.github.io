@@ -1,45 +1,50 @@
 {
- "updated_at": "2026-11-02T17:02:32.257076+00:00",
+ "updated_at": "2026-11-02T17:02:46.489970+00:00",
  "nq": {
-  "price": 28651.25,
-  "change_points": 117.25,
-  "percent_change": 0.41
+  "price": 28660.25,
+  "change_points": 126.25,
+  "percent_change": 0.44
  },
  "gold": {
-  "price": 3978.5,
-  "change_points": 79.6,
-  "percent_change": 2.04
+  "price": 3979.1,
+  "change_points": 80.2,
+  "percent_change": 2.06
  },
  "oil": {
-  "price": 96.56,
-  "change_points": -7.56,
-  "percent_change": -7.26
+  "price": 96.55,
+  "change_points": -7.57,
+  "percent_change": -7.27
  },
  "headlines": [
   {
-   "headline": "Futuros al alza tras el desplome del viernes: el Nasdaq busca rebotar tras su peor mes desde marzo de 2025",
-   "headline_en": "Futures rise after Friday sell-off as Nasdaq looks to rebound from its worst month since March 2025",
-   "source": "TipRanks"
+   "headline": "Las acciones repuntan mientras el petróleo se desploma por esperanzas diplomáticas con Irán",
+   "headline_en": "Stocks rally as oil prices plunge on hopes of a diplomatic deal with Iran",
+   "source": "The Motley Fool"
   },
   {
-   "headline": "El petróleo cae más de 4% ante esperanzas de una salida diplomática entre EE.UU. e Irán",
-   "headline_en": "Oil falls over 4% on hopes of a diplomatic resolution between the U.S. and Iran",
-   "source": "TipRanks"
+   "headline": "Wall Street cerró el viernes con una fuerte caída: el Nasdaq tuvo su peor día en casi cinco meses",
+   "headline_en": "Wall Street tumbled Friday as the Nasdaq suffered its worst day in nearly five months",
+   "source": "Zacks"
   },
   {
-   "headline": "Apple y Palantir reportan hoy tras el cierre, en una semana cargada de resultados tecnológicos",
-   "headline_en": "Apple and Palantir report after the close in a heavy week of tech earnings",
+   "headline": "Apple y Palantir presentan resultados esta noche tras el cierre del mercado",
+   "headline_en": "Apple and Palantir report earnings tonight after the market close",
    "source": "Investopedia"
   },
   {
-   "headline": "Wall Street mira a las elecciones intermedias de mañana, con encuestas que anticipan un giro demócrata",
-   "headline_en": "Wall Street looks ahead to tomorrow midterm elections, with polls pointing to a Democratic swing",
+   "headline": "Las elecciones de medio término de mañana centran la atención de los inversionistas",
+   "headline_en": "Tomorrows midterm elections take center stage for investors",
    "source": "Sharecast"
   },
   {
-   "headline": "El informe de empleo de octubre llega el viernes y hoy se publica el PMI manufacturero de EE.UU.",
-   "headline_en": "October jobs report due Friday, with U.S. manufacturing PMI out today",
-   "source": "Upstox"
+   "headline": "El informe de empleo de octubre del viernes y el anuncio del Tesoro, en la mira esta semana",
+   "headline_en": "Fridays October jobs report and the Treasury refunding announcement in focus this week",
+   "source": "TradingView"
+  },
+  {
+   "headline": "Oracle cae tras anunciar una recaudación de 20,000 millones para infraestructura de IA; Amazon repunta por su nube",
+   "headline_en": "Oracle falls on a $20 billion AI fundraising plan; Amazon rallies on cloud strength",
+   "source": "The Motley Fool"
   }
  ],
  "ultima_hora": null
