@@ -1,35 +1,35 @@
 {
- "updated_at": "2026-11-02T15:32:32.884978+00:00",
+ "updated_at": "2026-11-02T15:33:16.306335+00:00",
  "nq": {
-  "price": 28741.25,
-  "change_points": 207.25,
-  "percent_change": 0.73
+  "price": 28747.25,
+  "change_points": 213.25,
+  "percent_change": 0.75
  },
  "gold": {
-  "price": 3971.9,
-  "change_points": 73.0,
-  "percent_change": 1.87
+  "price": 3969.9,
+  "change_points": 71.0,
+  "percent_change": 1.82
  },
  "oil": {
-  "price": 96.89,
-  "change_points": -7.23,
-  "percent_change": -6.94
+  "price": 96.96,
+  "change_points": -7.16,
+  "percent_change": -6.88
  },
  "headlines": [
   {
    "headline": "Los futuros de Wall Street suben antes de las elecciones de medio término y una semana cargada de resultados",
    "headline_en": "Wall Street futures rise ahead of midterm elections and a busy earnings week",
-   "source": "Reuters"
-  },
-  {
-   "headline": "El petróleo cae más de 4% y el WTI baja de $100 por esperanzas de una salida diplomática entre EE. UU. e Irán",
-   "headline_en": "Oil falls more than 4% as WTI drops below $100 on hopes of a U.S.-Iran diplomatic solution",
    "source": "TipRanks"
   },
   {
-   "headline": "Las acciones de IA toman un respiro tras un octubre brutal: el Nasdaq cayó 5.3%, su peor mes desde marzo de 2025",
-   "headline_en": "AI stocks catch their breath after a brutal October: Nasdaq fell 5.3%, its worst month since March 2025",
-   "source": "Reuters"
+   "headline": "El petróleo cae bajo $100 por esperanzas de una salida diplomática entre EE. UU. e Irán",
+   "headline_en": "Oil falls below $100 on hopes of a U.S.-Iran diplomatic solution",
+   "source": "TipRanks"
+  },
+  {
+   "headline": "El Nasdaq cierra su peor mes desde marzo de 2025 tras la venta masiva de acciones de IA del viernes",
+   "headline_en": "Nasdaq posts worst month since March 2025 after Friday's AI sell-off",
+   "source": "Zacks"
   },
   {
    "headline": "Apple y Palantir reportan hoy tras el cierre en una semana clave de resultados tecnológicos",
@@ -37,8 +37,8 @@
    "source": "Investopedia"
   },
   {
-   "headline": "La semana mira al informe de empleo de octubre el viernes y al anuncio de refinanciamiento del Tesoro",
-   "headline_en": "Week ahead focuses on Fridays October jobs report and the Treasury refunding announcement",
+   "headline": "La semana mira al informe de empleo de octubre el viernes y al anuncio de refinanciamiento del Tesoro el miércoles",
+   "headline_en": "Week ahead focuses on Friday's October jobs report and Wednesday's Treasury refunding announcement",
    "source": "TradingView"
   },
   {
