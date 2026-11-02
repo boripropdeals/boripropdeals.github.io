@@ -1,51 +1,61 @@
 {
- "updated_at": "2026-11-02T20:02:35.134009+00:00",
+ "updated_at": "2026-11-02T20:04:26.709352+00:00",
  "nq": {
-  "price": 28267.25,
-  "change_points": -266.75,
-  "percent_change": -0.93
+  "price": 28258.25,
+  "change_points": -275.75,
+  "percent_change": -0.97
  },
  "gold": {
-  "price": 3954.4,
-  "change_points": 55.5,
-  "percent_change": 1.42
+  "price": 3952.4,
+  "change_points": 53.5,
+  "percent_change": 1.37
  },
  "oil": {
-  "price": 96.5,
-  "change_points": -7.62,
-  "percent_change": -7.32
+  "price": 96.74,
+  "change_points": -7.38,
+  "percent_change": -7.09
  },
  "headlines": [
   {
-   "headline": "Los futuros repuntan tras la venta tecnológica del viernes: el Nasdaq cerró octubre con su peor mes desde marzo de 2025",
-   "headline_en": "Futures rebound after Friday tech sell-off: Nasdaq ends October with worst month since March 2025",
-   "source": "Investopedia"
+   "headline": "Las acciones repuntan mientras el petróleo se desploma cerca de 7% por esperanzas de diplomacia entre EE. UU. e Irán",
+   "headline_en": "Stocks rally as oil plunges nearly 7% on hopes of U.S.-Iran diplomacy",
+   "source": "The Motley Fool"
   },
   {
-   "headline": "El petróleo cae por debajo de $100: Trump prefiere negociar con Irán antes que reanudar ataques tras las elecciones",
-   "headline_en": "Oil falls below $100 as Trump prefers Iran negotiations over resuming strikes after midterms",
-   "source": "TipRanks"
+   "headline": "El Nasdaq rebota tras su peor mes desde marzo de 2025 y la caída de 2.9% del viernes",
+   "headline_en": "Nasdaq rebounds after its worst month since March 2025 and Friday’s 2.9% drop",
+   "source": "Zacks"
   },
   {
-   "headline": "Apple reporta ganancias hoy al cierre, las primeras con John Ternus como CEO, junto a Palantir",
-   "headline_en": "Apple reports earnings after the close today, the first with John Ternus as CEO, alongside Palantir",
+   "headline": "Apple reporta resultados hoy tras el cierre y acapara el foco de la jornada",
+   "headline_en": "Apple reports after the bell in today’s earnings spotlight",
    "source": "Saxo Bank"
   },
   {
-   "headline": "Elecciones intermedias este martes 3 de noviembre: los mercados se preparan para un posible giro demócrata",
-   "headline_en": "Midterm elections this Tuesday, November 3: markets brace for a possible Democratic swing",
-   "source": "Sharecast"
+   "headline": "Oracle cae cerca de 6% tras anunciar una recaudación de $20,000 millones para infraestructura de IA",
+   "headline_en": "Oracle drops about 6% after unveiling $20 billion fundraising for AI infrastructure",
+   "source": "The Motley Fool"
   },
   {
-   "headline": "Semana clave de datos: JOLTS el martes, anuncio de refinanciamiento del Tesoro el miércoles y nóminas de octubre el viernes",
-   "headline_en": "Key data week: JOLTS on Tuesday, Treasury refunding announcement Wednesday and October payrolls Friday",
-   "source": "TradingView"
+   "headline": "La mirada puesta en las elecciones de medio término del martes y el reporte de empleo de octubre del viernes",
+   "headline_en": "Focus turns to Tuesday’s midterm elections and Friday’s October jobs report",
+   "source": "TradingView News"
   },
   {
-   "headline": "Bitcoin se estabiliza cerca de $78,000 tras el hackeo a Binance de la semana pasada",
-   "headline_en": "Bitcoin stabilizes near $78,000 after last week’s Binance hack",
-   "source": "Investopedia"
+   "headline": "Intel se desplomó 28.6% tras un pronóstico débil pese a superar las estimaciones",
+   "headline_en": "Intel plunged 28.6% on a weak forecast despite beating estimates",
+   "source": "Zacks"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Trump prefiere la negociación con Irán antes que nuevos ataques y el petróleo se desploma",
+  "headline_en": "Trump prefers negotiations with Iran over renewed strikes as oil plunges",
+  "source": "TipRanks",
+  "image": "",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/trump-iran-diplomacia-petroleo-caida-2026-11-02.webp",
+   "https://boripropdeals.github.io/breaking-visuals/trump-iran-negociacion-mercados-alza-2026-11-02.webp",
+   "https://boripropdeals.github.io/breaking-visuals/trump-casa-blanca-diplomacia-iran-2026-11-02.webp"
+  ]
+ }
 }
