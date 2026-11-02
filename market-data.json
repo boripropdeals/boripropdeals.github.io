@@ -1,51 +1,56 @@
 {
- "updated_at": "2026-11-02T16:02:36.843506+00:00",
+ "updated_at": "2026-11-02T16:03:03.742058+00:00",
  "nq": {
-  "price": 28769.0,
-  "change_points": 235.0,
-  "percent_change": 0.82
+  "price": 28755.5,
+  "change_points": 221.5,
+  "percent_change": 0.78
  },
  "gold": {
-  "price": 3970.2,
-  "change_points": 71.3,
-  "percent_change": 1.83
+  "price": 3967.8,
+  "change_points": 68.9,
+  "percent_change": 1.77
  },
  "oil": {
-  "price": 97.31,
-  "change_points": -6.81,
-  "percent_change": -6.54
+  "price": 97.36,
+  "change_points": -6.76,
+  "percent_change": -6.49
  },
  "headlines": [
   {
-   "headline": "Los futuros de Wall Street suben antes de las elecciones de medio término y una semana cargada de resultados",
-   "headline_en": "Wall Street futures rise ahead of midterm elections and a busy earnings week",
+   "headline": "Futuros de Wall Street suben antes de una semana cargada de ganancias y las elecciones de medio término",
+   "headline_en": "Wall Street futures rise ahead of a busy earnings week and the midterm elections",
    "source": "TipRanks"
   },
   {
-   "headline": "El petróleo cae bajo $100 por esperanzas de una salida diplomática entre EE. UU. e Irán",
-   "headline_en": "Oil falls below $100 on hopes of a U.S.-Iran diplomatic solution",
-   "source": "TipRanks"
-  },
-  {
-   "headline": "El Nasdaq cierra su peor mes desde marzo de 2025 tras la venta masiva de acciones de IA del viernes",
-   "headline_en": "Nasdaq posts worst month since March 2025 after Friday's AI sell-off",
+   "headline": "El Nasdaq se desplomó 2.9% el viernes, su peor día en casi cinco meses, por la venta de acciones de IA",
+   "headline_en": "Nasdaq tumbled 2.9% on Friday, its worst day in nearly five months, on AI stock selling",
    "source": "Zacks"
   },
   {
-   "headline": "Apple y Palantir reportan hoy tras el cierre en una semana clave de resultados tecnológicos",
-   "headline_en": "Apple and Palantir report after the close in a key week for tech earnings",
+   "headline": "El petróleo cae por debajo de $100 ante esperanzas de una solución diplomática entre EE.UU. e Irán",
+   "headline_en": "Oil falls below $100 on hopes of a diplomatic solution between the U.S. and Iran",
+   "source": "TipRanks"
+  },
+  {
+   "headline": "Apple y Palantir reportan resultados hoy tras el cierre del mercado",
+   "headline_en": "Apple and Palantir report earnings today after the market close",
    "source": "Investopedia"
   },
   {
-   "headline": "La semana mira al informe de empleo de octubre el viernes y al anuncio de refinanciamiento del Tesoro el miércoles",
-   "headline_en": "Week ahead focuses on Friday's October jobs report and Wednesday's Treasury refunding announcement",
+   "headline": "El informe de empleo de octubre llega el viernes y el Tesoro anuncia su refinanciamiento el miércoles",
+   "headline_en": "October jobs report arrives Friday and the Treasury announces its refunding on Wednesday",
    "source": "TradingView"
-  },
-  {
-   "headline": "El cripto se estabiliza tras el hack a Binance y el bitcoin ronda los $78,000",
-   "headline_en": "Crypto stabilizes after the Binance hack with bitcoin around $78,000",
-   "source": "Investopedia"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Trump prefiere negociar con Irán antes que reanudar ataques tras las elecciones, según Axios; el petróleo cae bajo $100",
+  "headline_en": "Trump prefers negotiations with Iran over resuming strikes after the elections, Axios reports; oil falls below $100",
+  "source": "Axios",
+  "image": "",
+  "images": [
+   "https://raw.githubusercontent.com/boripropdeals/boripropdeals.github.io/main/breaking-visuals/2026-11-02-trump-iran-petroleo-refineria.webp",
+   "https://raw.githubusercontent.com/boripropdeals/boripropdeals.github.io/main/breaking-visuals/2026-11-02-trump-iran-mesa-negociacion.webp",
+   "https://raw.githubusercontent.com/boripropdeals/boripropdeals.github.io/main/breaking-visuals/2026-11-02-trump-iran-petroleros-mar.webp"
+  ]
+ }
 }
