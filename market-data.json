@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-11-02T20:32:43.329926+00:00",
+ "updated_at": "2026-11-02T20:32:50.224969+00:00",
  "nq": {
-  "price": 28294.75,
-  "change_points": -239.25,
-  "percent_change": -0.84
+  "price": 28292.75,
+  "change_points": -241.25,
+  "percent_change": -0.85
  },
  "gold": {
   "price": 3949.8,
@@ -17,45 +17,35 @@
  },
  "headlines": [
   {
-   "headline": "Las acciones repuntan mientras el petróleo se desploma cerca de 7% por esperanzas de diplomacia entre EE. UU. e Irán",
-   "headline_en": "Stocks rally as oil plunges nearly 7% on hopes of U.S.-Iran diplomacy",
-   "source": "The Motley Fool"
+   "headline": "Los futuros rebotan tras el desplome tecnológico del viernes; el Nasdaq lidera la recuperación",
+   "headline_en": "Futures rebound after Friday tech sell-off; Nasdaq leads the recovery",
+   "source": "Investopedia"
   },
   {
-   "headline": "El Nasdaq rebota tras su peor mes desde marzo de 2025 y la caída de 2.9% del viernes",
-   "headline_en": "Nasdaq rebounds after its worst month since March 2025 and Friday’s 2.9% drop",
-   "source": "Zacks"
+   "headline": "El petróleo cae por debajo de 100 dólares ante esperanzas de diplomacia entre EE. UU. e Irán",
+   "headline_en": "Oil falls below $100 as U.S.-Iran diplomacy hopes rise",
+   "source": "TipRanks"
   },
   {
-   "headline": "Apple reporta resultados hoy tras el cierre y acapara el foco de la jornada",
-   "headline_en": "Apple reports after the bell in today’s earnings spotlight",
+   "headline": "Apple y Palantir reportan resultados hoy tras el cierre",
+   "headline_en": "Apple and Palantir report earnings after the bell today",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "El Nasdaq cerró octubre con su peor mes desde marzo de 2025, con una caída de 5.3%",
+   "headline_en": "Nasdaq posts worst month since March 2025, down 5.3% in October",
    "source": "Saxo Bank"
   },
   {
-   "headline": "Oracle cae cerca de 6% tras anunciar una recaudación de $20,000 millones para infraestructura de IA",
-   "headline_en": "Oracle drops about 6% after unveiling $20 billion fundraising for AI infrastructure",
-   "source": "The Motley Fool"
+   "headline": "Elecciones de medio término mañana y el reporte de empleo del viernes, en la mira de los inversionistas",
+   "headline_en": "Midterm elections Tuesday and Fridays jobs report in focus for investors",
+   "source": "TipRanks"
   },
   {
-   "headline": "La mirada puesta en las elecciones de medio término del martes y el reporte de empleo de octubre del viernes",
-   "headline_en": "Focus turns to Tuesday’s midterm elections and Friday’s October jobs report",
-   "source": "TradingView News"
-  },
-  {
-   "headline": "Intel se desplomó 28.6% tras un pronóstico débil pese a superar las estimaciones",
-   "headline_en": "Intel plunged 28.6% on a weak forecast despite beating estimates",
-   "source": "Zacks"
+   "headline": "El ISM manufacturero de octubre se publica hoy a las 9:00am CT",
+   "headline_en": "October ISM Manufacturing PMI due today at 9:00am CT",
+   "source": "Newsquawk"
   }
  ],
- "ultima_hora": {
-  "headline": "Trump prefiere la negociación con Irán antes que nuevos ataques y el petróleo se desploma",
-  "headline_en": "Trump prefers negotiations with Iran over renewed strikes as oil plunges",
-  "source": "TipRanks",
-  "image": "",
-  "images": [
-   "https://boripropdeals.github.io/breaking-visuals/trump-iran-diplomacia-petroleo-caida-2026-11-02.webp",
-   "https://boripropdeals.github.io/breaking-visuals/trump-iran-negociacion-mercados-alza-2026-11-02.webp",
-   "https://boripropdeals.github.io/breaking-visuals/trump-casa-blanca-diplomacia-iran-2026-11-02.webp"
-  ]
- }
+ "ultima_hora": null
 }
