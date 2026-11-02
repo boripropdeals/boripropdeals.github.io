@@ -1,61 +1,56 @@
 {
- "updated_at": "2026-11-02T18:02:32.676904+00:00",
+ "updated_at": "2026-11-02T18:03:54.318296+00:00",
  "nq": {
-  "price": 28532.75,
-  "change_points": -1.25,
-  "percent_change": -0.0
+  "price": 28520.25,
+  "change_points": -13.75,
+  "percent_change": -0.05
  },
  "gold": {
-  "price": 3966.4,
-  "change_points": 67.5,
-  "percent_change": 1.73
+  "price": 3967.1,
+  "change_points": 68.2,
+  "percent_change": 1.75
  },
  "oil": {
-  "price": 96.3,
-  "change_points": -7.82,
-  "percent_change": -7.51
+  "price": 96.21,
+  "change_points": -7.91,
+  "percent_change": -7.6
  },
  "headlines": [
   {
-   "headline": "Wall Street rebota: las acciones suben mientras el petróleo se desploma por esperanzas diplomáticas con Irán",
-   "headline_en": "Stocks rally as oil prices tumble on diplomatic hopes with Iran",
+   "headline": "Wall Street rebota: Dow, S&P 500 y Nasdaq suben mientras el petróleo se desploma ~7% por esperanzas diplomáticas con Irán",
+   "headline_en": "Wall Street rebounds: Dow, S&P 500 and Nasdaq rise as oil plunges ~7% on Iran diplomacy hopes",
    "source": "The Motley Fool"
   },
   {
-   "headline": "El Nasdaq sufrió el viernes su peor caída diaria en casi cinco meses por el desplome de las acciones de IA",
-   "headline_en": "Nasdaq suffered its worst single-day drop in nearly five months on Friday as AI stocks sold off",
-   "source": "Zacks"
+   "headline": "El petróleo cae por debajo de $100 por informes de que Trump dará más tiempo a la diplomacia con Irán",
+   "headline_en": "Oil slides below $100 on reports Trump will give Iran diplomacy more time",
+   "source": "Barron's"
   },
   {
-   "headline": "Apple y Palantir presentan resultados hoy tras el cierre en una semana clave de ganancias",
-   "headline_en": "Apple and Palantir report earnings after the bell in a pivotal earnings week",
+   "headline": "Apple reporta resultados hoy tras el cierre, en el foco tras la venta masiva de las tecnológicas",
+   "headline_en": "Apple reports earnings after today's close, in focus after the tech sell-off",
    "source": "Saxo Bank"
   },
   {
-   "headline": "El petróleo cae por debajo de $100 por barril ante señales de solución diplomática entre EE. UU. e Irán",
-   "headline_en": "Oil falls below $100 a barrel amid signs of a diplomatic solution between the U.S. and Iran",
+   "headline": "Oracle cae 6% tras anunciar una recaudación de $20,000 millones para su infraestructura de IA",
+   "headline_en": "Oracle falls 6% after announcing a $20 billion raise for its AI infrastructure",
+   "source": "The Motley Fool"
+  },
+  {
+   "headline": "Los futuros suben antes de las elecciones intermedias del martes y el reporte de empleos de octubre del viernes",
+   "headline_en": "Futures rise ahead of Tuesday's midterm elections and Friday's October jobs report",
    "source": "TipRanks"
-  },
-  {
-   "headline": "La semana trae elecciones de medio término, el informe de empleo de octubre y el anuncio de refinanciamiento del Tesoro",
-   "headline_en": "Week ahead brings midterm elections, October jobs report and Treasury refunding announcement",
-   "source": "TradingView"
-  },
-  {
-   "headline": "Intel se desplomó 28.6% tras un pronóstico débil pese a superar las estimaciones",
-   "headline_en": "Intel plunged 28.6% after a weak forecast despite beating estimates",
-   "source": "Zacks"
   }
  ],
  "ultima_hora": {
-  "headline": "Trump prefiere negociar con Irán antes que reanudar ataques, y el petróleo se desploma cerca de 7%",
-  "headline_en": "Trump prefers negotiations with Iran over resuming strikes, sending oil down nearly 7%",
-  "source": "Axios",
+  "headline": "Trump da más tiempo a la diplomacia con Irán antes de nuevos ataques, según Axios; el petróleo se desploma y Wall Street rebota",
+  "headline_en": "Trump gives diplomacy with Iran more time before new strikes, Axios reports; oil plunges and Wall Street rebounds",
+  "source": "Axios / Barron's",
   "image": "",
   "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-02-trump-iran-oil-tankers.jpg",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-02-trump-iran-diplomacy-handshake.jpg",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-02-trump-iran-oil-market-rally.jpg"
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-02-trump-iran-diplomacy-oil-rigs.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-02-trump-iran-diplomacy-stock-rally.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-02-trump-iran-diplomacy-negotiation.webp"
   ]
  }
 }
