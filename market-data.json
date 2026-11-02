@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-11-02T19:32:37.697053+00:00",
+ "updated_at": "2026-11-02T19:32:58.130683+00:00",
  "nq": {
-  "price": 28324.25,
-  "change_points": -209.75,
-  "percent_change": -0.74
+  "price": 28328.25,
+  "change_points": -205.75,
+  "percent_change": -0.72
  },
  "gold": {
   "price": 3959.6,
@@ -11,51 +11,41 @@
   "percent_change": 1.56
  },
  "oil": {
-  "price": 96.49,
-  "change_points": -7.63,
-  "percent_change": -7.33
+  "price": 96.46,
+  "change_points": -7.66,
+  "percent_change": -7.36
  },
  "headlines": [
   {
-   "headline": "Wall Street rebota: el petróleo se desploma ~7% por esperanzas de diplomacia entre EE. UU. e Irán",
-   "headline_en": "Stocks rally as oil tumbles ~7% on hopes of U.S.-Iran diplomacy",
-   "source": "The Motley Fool"
+   "headline": "Los futuros repuntan tras la venta tecnológica del viernes: el Nasdaq cerró octubre con su peor mes desde marzo de 2025",
+   "headline_en": "Futures rebound after Friday tech sell-off: Nasdaq ends October with worst month since March 2025",
+   "source": "Investopedia"
   },
   {
-   "headline": "El Nasdaq se recupera tras su peor día en meses por la venta masiva en tecnología",
-   "headline_en": "Nasdaq rebounds after its worst single-day drop in nearly five months",
-   "source": "Zacks"
-  },
-  {
-   "headline": "El crudo cae por debajo de $100 ante señales de negociación con Irán",
-   "headline_en": "Crude falls below $100 as U.S.-Iran talks show signs of progress",
+   "headline": "El petróleo cae por debajo de $100: Trump prefiere negociar con Irán antes que reanudar ataques tras las elecciones",
+   "headline_en": "Oil falls below $100 as Trump prefers Iran negotiations over resuming strikes after midterms",
    "source": "TipRanks"
   },
   {
-   "headline": "Apple reporta ganancias hoy tras el cierre, en la mira de los inversionistas",
-   "headline_en": "Apple earnings after the close in focus for investors",
+   "headline": "Apple reporta ganancias hoy al cierre, las primeras con John Ternus como CEO, junto a Palantir",
+   "headline_en": "Apple reports earnings after the close today, the first with John Ternus as CEO, alongside Palantir",
    "source": "Saxo Bank"
   },
   {
-   "headline": "La manufactura de EE. UU. se expande por décimo mes consecutivo y los rendimientos caen",
-   "headline_en": "U.S. manufacturing expands for a 10th straight month as yields fall",
-   "source": "The Wall Street Journal"
+   "headline": "Elecciones intermedias este martes 3 de noviembre: los mercados se preparan para un posible giro demócrata",
+   "headline_en": "Midterm elections this Tuesday, November 3: markets brace for a possible Democratic swing",
+   "source": "Sharecast"
   },
   {
-   "headline": "La semana mira a las elecciones de medio término del martes y al reporte de empleo del viernes",
-   "headline_en": "Week ahead: Tuesday midterms and Friday jobs report in focus",
+   "headline": "Semana clave de datos: JOLTS el martes, anuncio de refinanciamiento del Tesoro el miércoles y nóminas de octubre el viernes",
+   "headline_en": "Key data week: JOLTS on Tuesday, Treasury refunding announcement Wednesday and October payrolls Friday",
    "source": "TradingView"
+  },
+  {
+   "headline": "Bitcoin se estabiliza cerca de $78,000 tras el hackeo a Binance de la semana pasada",
+   "headline_en": "Bitcoin stabilizes near $78,000 after last week’s Binance hack",
+   "source": "Investopedia"
   }
  ],
- "ultima_hora": {
-  "headline": "Trump apuesta por la diplomacia con Irán y el petróleo se desploma",
-  "headline_en": "Trump favors diplomacy with Iran as oil plunges",
-  "source": "Axios",
-  "image": "",
-  "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-02-trump-iran-diplomacia-petroleo.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-02-trump-iran-mesa-negociacion.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-02-trump-iran-mercado-alza.webp"
-  ]
- }
+ "ultima_hora": null
 }
