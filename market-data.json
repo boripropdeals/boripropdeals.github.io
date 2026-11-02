@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T22:33:12.481851+00:00",
+ "updated_at": "2026-11-02T22:33:18.773546+00:00",
  "nq": {
   "price": 28223.75,
   "change_points": -310.25,
@@ -17,45 +17,35 @@
  },
  "headlines": [
   {
-   "headline": "Wall Street repunta mientras el petróleo cae bajo los $100 por esperanzas diplomáticas con Irán",
-   "headline_en": "Stocks Rally as Oil Tumbles Below $100 on Iran Diplomacy Hopes",
-   "source": "The Motley Fool"
-  },
-  {
-   "headline": "Futuros al alza antes de las ganancias y las elecciones de medio término del 3 de noviembre",
-   "headline_en": "Futures Rise Ahead of Earnings and Midterm Elections",
-   "source": "TipRanks"
-  },
-  {
-   "headline": "Apple y Palantir reportan hoy tras el cierre en una semana clave de resultados",
-   "headline_en": "Apple, Palantir to Report After the Close in Key Earnings Week",
+   "headline": "El petróleo se desploma cerca de 8% por esperanzas de una solución diplomática con Irán y Wall Street rebota al inicio de noviembre",
+   "headline_en": "Oil plunges nearly 8% on hopes of a diplomatic resolution with Iran as Wall Street rebounds to start November",
    "source": "Investopedia"
   },
   {
-   "headline": "El Nasdaq sufrió el viernes su peor día en casi cinco meses por la venta de acciones de IA",
-   "headline_en": "Nasdaq Suffered Its Worst Single-Day Drop in Nearly Five Months on AI Selloff",
-   "source": "Zacks"
+   "headline": "El Nasdaq cae 1.1% al cierre mientras la venta de tecnológicas se reanuda; el Dow sube 0.4%",
+   "headline_en": "Nasdaq closes 1.1% lower as the tech sell-off resumes; the Dow adds 0.4%",
+   "source": "Investopedia"
   },
   {
-   "headline": "La manufactura de EE.UU. se expande por décimo mes consecutivo y los rendimientos bajan",
-   "headline_en": "U.S. Manufacturing Expands for a 10th Straight Month as Yields Fall",
-   "source": "The Wall Street Journal"
+   "headline": "Intel cae otro 9% tras desplomarse casi 30% el viernes y Marvell retrocede 13% por su compra de Lumentum",
+   "headline_en": "Intel falls another 9% after plunging nearly 30% on Friday, and Marvell drops 13% on its Lumentum deal",
+   "source": "Investopedia"
   },
   {
-   "headline": "El oro sube cerca de 2% hasta $3,976 mientras regresa el apetito por riesgo",
-   "headline_en": "Gold Rises Nearly 2% to $3,976 as Risk Appetite Returns",
-   "source": "The Motley Fool"
+   "headline": "Apple y Palantir reportan resultados esta tarde tras el cierre, en una semana cargada de ganancias",
+   "headline_en": "Apple and Palantir report results this evening after the close in a heavy earnings week",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "La semana mira a las elecciones intermedias del martes y al reporte de empleo de octubre el viernes",
+   "headline_en": "The week ahead looks to Tuesday midterm elections and Friday October jobs report",
+   "source": "TradingView"
+  },
+  {
+   "headline": "El oro sube cerca de 1.5% a unos 3,955 dólares y el bono a 10 años rinde alrededor de 4.92%",
+   "headline_en": "Gold rises about 1.5% to around $3,955 and the 10-year Treasury yields about 4.92%",
+   "source": "Investopedia"
   }
  ],
- "ultima_hora": {
-  "headline": "Trump apuesta por la diplomacia con Irán y el petróleo se desploma bajo los $100",
-  "headline_en": "Trump Favors Diplomacy With Iran, Sending Oil Tumbling Below $100",
-  "source": "Axios / The Wall Street Journal",
-  "image": "",
-  "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-02-trump-iran-diplomacia-petroleo.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-02-trump-iran-mesa-negociacion.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-02-trump-iran-mercado-alza.webp"
-  ]
- }
+ "ultima_hora": null
 }
