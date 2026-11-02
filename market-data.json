@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-11-02T14:02:32.706174+00:00",
+ "updated_at": "2026-11-02T14:03:14.411952+00:00",
  "nq": {
-  "price": 28773.25,
-  "change_points": 239.25,
+  "price": 28773.0,
+  "change_points": 239.0,
   "percent_change": 0.84
  },
  "gold": {
-  "price": 3954.0,
-  "change_points": 55.1,
-  "percent_change": 1.41
+  "price": 3952.3,
+  "change_points": 53.4,
+  "percent_change": 1.37
  },
  "oil": {
-  "price": 97.75,
-  "change_points": -6.37,
-  "percent_change": -6.12
+  "price": 97.72,
+  "change_points": -6.4,
+  "percent_change": -6.15
  },
  "headlines": [
   {
-   "headline": "Futuros al alza antes de las ganancias y las elecciones de medio término; el petróleo cae por debajo de $100 ante esperanzas diplomáticas con Irán",
-   "headline_en": "Futures rise ahead of earnings and midterm elections; oil falls below $100 on Iran diplomacy hopes",
+   "headline": "Futuros al alza tras el desplome del viernes: semana clave con las elecciones midterm y los resultados de Apple y Palantir",
+   "headline_en": "Futures rise after Friday sell-off: key week with midterm elections and Apple and Palantir earnings",
    "source": "TipRanks"
   },
   {
-   "headline": "Apple y Palantir reportan hoy tras el cierre en una semana cargada de ganancias tecnológicas",
+   "headline": "El petróleo cae más de 4% y el WTI baja de 100 dólares por esperanzas de una salida diplomática en la guerra con Irán",
+   "headline_en": "Oil falls more than 4% and WTI drops below 100 dollars on hopes of a diplomatic end to the Iran war",
+   "source": "TipRanks"
+  },
+  {
+   "headline": "El Nasdaq 100 se desplomó 3.5% el viernes, su peor día desde junio, con los semiconductores cayendo 7.2%",
+   "headline_en": "Nasdaq 100 tumbled 3.5% on Friday, its worst session since June, as semiconductors plunged 7.2%",
+   "source": "CNBC TV18"
+  },
+  {
+   "headline": "Apple y Palantir reportan hoy tras el cierre en una semana cargada de resultados tecnológicos",
    "headline_en": "Apple and Palantir report after the close in a heavy tech earnings week",
    "source": "Investopedia"
   },
   {
-   "headline": "El Nasdaq cerró octubre con su peor mes desde marzo de 2025 tras perder más de $2.5 billones en valor",
-   "headline_en": "Nasdaq posts worst month since March 2025 after shedding over $2.5 trillion in value",
-   "source": "Reuters"
-  },
-  {
-   "headline": "Intel se desplomó cerca de 29% el viernes, su peor caída en un día desde los años 80",
-   "headline_en": "Intel plunged about 29% on Friday, its worst one-day fall since the 1980s",
-   "source": "Reuters"
-  },
-  {
-   "headline": "Bitcoin se estabiliza cerca de $78,000 tras el hackeo a Binance, el mayor de la historia cripto",
-   "headline_en": "Bitcoin stabilizes near $78,000 after the Binance hack, the largest in crypto history",
+   "headline": "El cripto se estabiliza tras el hack de Binance por 6,300 millones de dólares; Bitcoin ronda los 78,000 dólares",
+   "headline_en": "Crypto stabilizes after the 6.3 billion dollar Binance hack; Bitcoin hovers near 78,000 dollars",
    "source": "Investopedia"
   },
   {
-   "headline": "Hoy se publica el PMI manufacturero ISM y el viernes llega el informe de empleo de octubre",
-   "headline_en": "ISM manufacturing PMI due today, October jobs report due Friday",
-   "source": "Morningstar"
+   "headline": "Las elecciones midterm del martes son el gran catalizador de la semana, con encuestas que apuntan a una barrida demócrata",
+   "headline_en": "Tuesday midterm elections are the biggest catalyst of the week, with polls pointing to a Democratic sweep",
+   "source": "CNBC TV18"
   }
  ],
  "ultima_hora": null
