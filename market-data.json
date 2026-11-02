@@ -1,51 +1,56 @@
 {
- "updated_at": "2026-11-02T12:04:36.341713+00:00",
+ "updated_at": "2026-11-02T12:04:53.528484+00:00",
  "nq": {
-  "price": 28751.0,
-  "change_points": 217.0,
+  "price": 28752.25,
+  "change_points": 218.25,
   "percent_change": 0.76
  },
  "gold": {
-  "price": 3913.0,
-  "change_points": 14.1,
+  "price": 3912.9,
+  "change_points": 14.0,
   "percent_change": 0.36
  },
  "oil": {
-  "price": 99.45,
-  "change_points": -4.67,
-  "percent_change": -4.49
+  "price": 99.46,
+  "change_points": -4.66,
+  "percent_change": -4.48
  },
  "headlines": [
   {
-   "headline": "Nasdaq se desploma 2.9% por los resultados de Intel y Amazon y el temor al gasto en IA",
-   "headline_en": "Nasdaq plunges 2.9% as Intel and Amazon results deepen AI stock sell-off",
-   "source": "Invezz"
-  },
-  {
-   "headline": "Intel cae cerca de 29%, su peor día desde 1974, tras una guía débil para el cuarto trimestre",
-   "headline_en": "Intel plunges nearly 29% in its worst day since 1974 on weak Q4 guidance",
-   "source": "The Edge"
-  },
-  {
-   "headline": "Alphabet decepciona en el tercer trimestre y arrastra al Nasdaq el jueves",
-   "headline_en": "Alphabet Q3 miss drags Nasdaq lower on Thursday",
-   "source": "Zacks"
-  },
-  {
-   "headline": "El petróleo sube tras los ataques hutíes a refinerías de Arabia Saudita",
-   "headline_en": "Oil rises as Houthi attacks on Saudi refineries stoke supply fears",
+   "headline": "Futuros de EE.UU. suben antes de las elecciones de medio término y una semana cargada de resultados",
+   "headline_en": "U.S. futures rise ahead of midterm elections and a busy earnings week",
    "source": "TipRanks"
   },
   {
-   "headline": "Hackeo récord de $6,300 millones sacude a Binance y presiona a los activos digitales",
-   "headline_en": "Record $6.3B hack rocks Binance and pressures digital assets",
-   "source": "TipRanks"
+   "headline": "Deutsche Bank vuelve a apostar por la tecnología tras el desplome del Nasdaq en octubre",
+   "headline_en": "Deutsche Bank turns bullish on U.S. tech again after the Nasdaq October sell-off",
+   "source": "DiarioBitcoin (Reuters)"
   },
   {
-   "headline": "La Fed mantuvo la tasa en 3.90% tras su reunión del 27 y 28 de octubre",
-   "headline_en": "Fed held rate at 3.90% after October 27-28 meeting",
-   "source": "EL7"
+   "headline": "Europa arranca noviembre con cautela tras el difícil cierre de octubre",
+   "headline_en": "Europe starts November cautiously after a tough end to October",
+   "source": "InvestingLive"
+  },
+  {
+   "headline": "EE.UU. cambia de horario: Wall Street abre una hora más tarde para América Latina",
+   "headline_en": "U.S. clocks fall back: Wall Street opens an hour later for Latin America",
+   "source": "Bloomberg Línea"
+  },
+  {
+   "headline": "Votantes en ánimo agrio por la economía en víspera de las elecciones de medio término",
+   "headline_en": "Voters in a sour economic mood heading into midterm elections",
+   "source": "Reuters"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Trump prefiere negociar con Irán y el petróleo se desploma más de 4% tras avances en Doha",
+  "headline_en": "Trump prefers negotiations with Iran as oil plunges over 4% on Doha talks progress",
+  "source": "TipRanks",
+  "image": "",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-02-trump-iran-doha-oil-pumpjacks.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-02-trump-iran-doha-negotiation.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-02-trump-iran-doha-oil-tanker.jpg"
+  ]
+ }
 }
