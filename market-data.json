@@ -1,51 +1,61 @@
 {
- "updated_at": "2026-11-02T17:32:31.813012+00:00",
+ "updated_at": "2026-11-02T17:33:42.794114+00:00",
  "nq": {
-  "price": 28620.75,
-  "change_points": 86.75,
-  "percent_change": 0.3
+  "price": 28617.25,
+  "change_points": 83.25,
+  "percent_change": 0.29
  },
  "gold": {
-  "price": 3973.9,
-  "change_points": 75.0,
-  "percent_change": 1.92
+  "price": 3973.4,
+  "change_points": 74.5,
+  "percent_change": 1.91
  },
  "oil": {
-  "price": 96.68,
-  "change_points": -7.44,
-  "percent_change": -7.15
+  "price": 96.63,
+  "change_points": -7.49,
+  "percent_change": -7.19
  },
  "headlines": [
   {
-   "headline": "Las acciones repuntan mientras el petróleo se desploma por esperanzas diplomáticas con Irán",
-   "headline_en": "Stocks rally as oil prices plunge on hopes of a diplomatic deal with Iran",
+   "headline": "Wall Street rebota: las acciones suben mientras el petróleo se desploma por esperanzas diplomáticas con Irán",
+   "headline_en": "Stocks rally as oil prices tumble on diplomatic hopes with Iran",
    "source": "The Motley Fool"
   },
   {
-   "headline": "Wall Street cerró el viernes con una fuerte caída: el Nasdaq tuvo su peor día en casi cinco meses",
-   "headline_en": "Wall Street tumbled Friday as the Nasdaq suffered its worst day in nearly five months",
+   "headline": "El Nasdaq sufrió el viernes su peor caída diaria en casi cinco meses por el desplome de las acciones de IA",
+   "headline_en": "Nasdaq suffered its worst single-day drop in nearly five months on Friday as AI stocks sold off",
    "source": "Zacks"
   },
   {
-   "headline": "Apple y Palantir presentan resultados esta noche tras el cierre del mercado",
-   "headline_en": "Apple and Palantir report earnings tonight after the market close",
-   "source": "Investopedia"
+   "headline": "Apple y Palantir presentan resultados hoy tras el cierre en una semana clave de ganancias",
+   "headline_en": "Apple and Palantir report earnings after the bell in a pivotal earnings week",
+   "source": "Saxo Bank"
   },
   {
-   "headline": "Las elecciones de medio término de mañana centran la atención de los inversionistas",
-   "headline_en": "Tomorrows midterm elections take center stage for investors",
-   "source": "Sharecast"
+   "headline": "El petróleo cae por debajo de $100 por barril ante señales de solución diplomática entre EE. UU. e Irán",
+   "headline_en": "Oil falls below $100 a barrel amid signs of a diplomatic solution between the U.S. and Iran",
+   "source": "TipRanks"
   },
   {
-   "headline": "El informe de empleo de octubre del viernes y el anuncio del Tesoro, en la mira esta semana",
-   "headline_en": "Fridays October jobs report and the Treasury refunding announcement in focus this week",
+   "headline": "La semana trae elecciones de medio término, el informe de empleo de octubre y el anuncio de refinanciamiento del Tesoro",
+   "headline_en": "Week ahead brings midterm elections, October jobs report and Treasury refunding announcement",
    "source": "TradingView"
   },
   {
-   "headline": "Oracle cae tras anunciar una recaudación de 20,000 millones para infraestructura de IA; Amazon repunta por su nube",
-   "headline_en": "Oracle falls on a $20 billion AI fundraising plan; Amazon rallies on cloud strength",
-   "source": "The Motley Fool"
+   "headline": "Intel se desplomó 28.6% tras un pronóstico débil pese a superar las estimaciones",
+   "headline_en": "Intel plunged 28.6% after a weak forecast despite beating estimates",
+   "source": "Zacks"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Trump prefiere negociar con Irán antes que reanudar ataques, y el petróleo se desploma cerca de 7%",
+  "headline_en": "Trump prefers negotiations with Iran over resuming strikes, sending oil down nearly 7%",
+  "source": "Axios",
+  "image": "",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-02-trump-iran-oil-tankers.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-02-trump-iran-diplomacy-handshake.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-02-trump-iran-oil-market-rally.jpg"
+  ]
+ }
 }
