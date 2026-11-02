@@ -1,56 +1,51 @@
 {
- "updated_at": "2026-11-02T12:30:32.307662+00:00",
+ "updated_at": "2026-11-02T12:32:29.033457+00:00",
  "nq": {
-  "price": 28749.0,
-  "change_points": 215.0,
-  "percent_change": 0.75
+  "price": 28753.5,
+  "change_points": 219.5,
+  "percent_change": 0.77
  },
  "gold": {
-  "price": 3915.3,
-  "change_points": 16.4,
-  "percent_change": 0.42
+  "price": 3913.9,
+  "change_points": 15.0,
+  "percent_change": 0.38
  },
  "oil": {
-  "price": 99.79,
-  "change_points": -4.33,
-  "percent_change": -4.16
+  "price": 99.9,
+  "change_points": -4.22,
+  "percent_change": -4.05
  },
  "headlines": [
   {
-   "headline": "Futuros de EE.UU. suben antes de las elecciones de medio término y una semana cargada de resultados",
-   "headline_en": "U.S. futures rise ahead of midterm elections and a busy earnings week",
+   "headline": "Futuros al alza antes de las ganancias y las elecciones de medio término; el petróleo cae por debajo de $100 ante esperanzas diplomáticas con Irán",
+   "headline_en": "Futures rise ahead of earnings and midterm elections; oil falls below $100 on Iran diplomacy hopes",
    "source": "TipRanks"
   },
   {
-   "headline": "Deutsche Bank vuelve a apostar por la tecnología tras el desplome del Nasdaq en octubre",
-   "headline_en": "Deutsche Bank turns bullish on U.S. tech again after the Nasdaq October sell-off",
-   "source": "DiarioBitcoin (Reuters)"
+   "headline": "Apple y Palantir reportan hoy tras el cierre en una semana cargada de ganancias tecnológicas",
+   "headline_en": "Apple and Palantir report after the close in a heavy tech earnings week",
+   "source": "Investopedia"
   },
   {
-   "headline": "Europa arranca noviembre con cautela tras el difícil cierre de octubre",
-   "headline_en": "Europe starts November cautiously after a tough end to October",
-   "source": "InvestingLive"
-  },
-  {
-   "headline": "EE.UU. cambia de horario: Wall Street abre una hora más tarde para América Latina",
-   "headline_en": "U.S. clocks fall back: Wall Street opens an hour later for Latin America",
-   "source": "Bloomberg Línea"
-  },
-  {
-   "headline": "Votantes en ánimo agrio por la economía en víspera de las elecciones de medio término",
-   "headline_en": "Voters in a sour economic mood heading into midterm elections",
+   "headline": "El Nasdaq cerró octubre con su peor mes desde marzo de 2025 tras perder más de $2.5 billones en valor",
+   "headline_en": "Nasdaq posts worst month since March 2025 after shedding over $2.5 trillion in value",
    "source": "Reuters"
+  },
+  {
+   "headline": "Intel se desplomó cerca de 29% el viernes, su peor caída en un día desde los años 80",
+   "headline_en": "Intel plunged about 29% on Friday, its worst one-day fall since the 1980s",
+   "source": "Reuters"
+  },
+  {
+   "headline": "Bitcoin se estabiliza cerca de $78,000 tras el hackeo a Binance, el mayor de la historia cripto",
+   "headline_en": "Bitcoin stabilizes near $78,000 after the Binance hack, the largest in crypto history",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "Hoy se publica el PMI manufacturero ISM y el viernes llega el informe de empleo de octubre",
+   "headline_en": "ISM manufacturing PMI due today, October jobs report due Friday",
+   "source": "Morningstar"
   }
  ],
- "ultima_hora": {
-  "headline": "Trump prefiere negociar con Irán y el petróleo se desploma más de 4% tras avances en Doha",
-  "headline_en": "Trump prefers negotiations with Iran as oil plunges over 4% on Doha talks progress",
-  "source": "TipRanks",
-  "image": "",
-  "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-02-trump-iran-doha-oil-pumpjacks.jpg",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-02-trump-iran-doha-negotiation.jpg",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-02-trump-iran-doha-oil-tanker.jpg"
-  ]
- }
+ "ultima_hora": null
 }
