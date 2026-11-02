@@ -1,56 +1,61 @@
 {
- "updated_at": "2026-11-02T19:02:59.036175+00:00",
+ "updated_at": "2026-11-02T19:04:23.723575+00:00",
  "nq": {
-  "price": 28461.75,
-  "change_points": -72.25,
-  "percent_change": -0.25
+  "price": 28471.25,
+  "change_points": -62.75,
+  "percent_change": -0.22
  },
  "gold": {
-  "price": 3963.5,
-  "change_points": 64.6,
-  "percent_change": 1.66
+  "price": 3964.4,
+  "change_points": 65.5,
+  "percent_change": 1.68
  },
  "oil": {
-  "price": 96.21,
-  "change_points": -7.91,
-  "percent_change": -7.6
+  "price": 95.94,
+  "change_points": -8.18,
+  "percent_change": -7.86
  },
  "headlines": [
   {
-   "headline": "Wall Street rebota: Dow, S&P 500 y Nasdaq suben mientras el petróleo se desploma ~7% por esperanzas diplomáticas con Irán",
-   "headline_en": "Wall Street rebounds: Dow, S&P 500 and Nasdaq rise as oil plunges ~7% on Iran diplomacy hopes",
+   "headline": "Wall Street rebota: el petróleo se desploma ~7% por esperanzas de diplomacia entre EE. UU. e Irán",
+   "headline_en": "Stocks rally as oil tumbles ~7% on hopes of U.S.-Iran diplomacy",
    "source": "The Motley Fool"
   },
   {
-   "headline": "El petróleo cae por debajo de $100 por informes de que Trump dará más tiempo a la diplomacia con Irán",
-   "headline_en": "Oil slides below $100 on reports Trump will give Iran diplomacy more time",
-   "source": "Barron's"
+   "headline": "El Nasdaq se recupera tras su peor día en meses por la venta masiva en tecnología",
+   "headline_en": "Nasdaq rebounds after its worst single-day drop in nearly five months",
+   "source": "Zacks"
   },
   {
-   "headline": "Apple reporta resultados hoy tras el cierre, en el foco tras la venta masiva de las tecnológicas",
-   "headline_en": "Apple reports earnings after today's close, in focus after the tech sell-off",
+   "headline": "El crudo cae por debajo de $100 ante señales de negociación con Irán",
+   "headline_en": "Crude falls below $100 as U.S.-Iran talks show signs of progress",
+   "source": "TipRanks"
+  },
+  {
+   "headline": "Apple reporta ganancias hoy tras el cierre, en la mira de los inversionistas",
+   "headline_en": "Apple earnings after the close in focus for investors",
    "source": "Saxo Bank"
   },
   {
-   "headline": "Oracle cae 6% tras anunciar una recaudación de $20,000 millones para su infraestructura de IA",
-   "headline_en": "Oracle falls 6% after announcing a $20 billion raise for its AI infrastructure",
-   "source": "The Motley Fool"
+   "headline": "La manufactura de EE. UU. se expande por décimo mes consecutivo y los rendimientos caen",
+   "headline_en": "U.S. manufacturing expands for a 10th straight month as yields fall",
+   "source": "The Wall Street Journal"
   },
   {
-   "headline": "Los futuros suben antes de las elecciones intermedias del martes y el reporte de empleos de octubre del viernes",
-   "headline_en": "Futures rise ahead of Tuesday's midterm elections and Friday's October jobs report",
-   "source": "TipRanks"
+   "headline": "La semana mira a las elecciones de medio término del martes y al reporte de empleo del viernes",
+   "headline_en": "Week ahead: Tuesday midterms and Friday jobs report in focus",
+   "source": "TradingView"
   }
  ],
  "ultima_hora": {
-  "headline": "Trump da más tiempo a la diplomacia con Irán antes de nuevos ataques, según Axios; el petróleo se desploma y Wall Street rebota",
-  "headline_en": "Trump gives diplomacy with Iran more time before new strikes, Axios reports; oil plunges and Wall Street rebounds",
-  "source": "Axios / Barron's",
+  "headline": "Trump apuesta por la diplomacia con Irán y el petróleo se desploma",
+  "headline_en": "Trump favors diplomacy with Iran as oil plunges",
+  "source": "Axios",
   "image": "",
   "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-02-trump-iran-diplomacy-oil-rigs.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-02-trump-iran-diplomacy-stock-rally.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-02-trump-iran-diplomacy-negotiation.webp"
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-02-trump-iran-diplomacia-petroleo.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-02-trump-iran-mesa-negociacion.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-02-trump-iran-mercado-alza.webp"
   ]
  }
 }
