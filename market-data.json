@@ -1,56 +1,46 @@
 {
- "updated_at": "2026-11-02T16:30:32.382324+00:00",
+ "updated_at": "2026-11-02T16:32:19.670974+00:00",
  "nq": {
-  "price": 28690.25,
-  "change_points": 156.25,
+  "price": 28689.75,
+  "change_points": 155.75,
   "percent_change": 0.55
  },
  "gold": {
-  "price": 3973.4,
-  "change_points": 74.5,
-  "percent_change": 1.91
+  "price": 3975.1,
+  "change_points": 76.2,
+  "percent_change": 1.95
  },
  "oil": {
-  "price": 97.07,
-  "change_points": -7.05,
-  "percent_change": -6.77
+  "price": 96.87,
+  "change_points": -7.25,
+  "percent_change": -6.96
  },
  "headlines": [
   {
-   "headline": "Futuros de Wall Street suben antes de una semana cargada de ganancias y las elecciones de medio término",
-   "headline_en": "Wall Street futures rise ahead of a busy earnings week and the midterm elections",
+   "headline": "Futuros al alza tras el desplome del viernes: el Nasdaq busca rebotar tras su peor mes desde marzo de 2025",
+   "headline_en": "Futures rise after Friday sell-off as Nasdaq looks to rebound from its worst month since March 2025",
    "source": "TipRanks"
   },
   {
-   "headline": "El Nasdaq se desplomó 2.9% el viernes, su peor día en casi cinco meses, por la venta de acciones de IA",
-   "headline_en": "Nasdaq tumbled 2.9% on Friday, its worst day in nearly five months, on AI stock selling",
-   "source": "Zacks"
-  },
-  {
-   "headline": "El petróleo cae por debajo de $100 ante esperanzas de una solución diplomática entre EE.UU. e Irán",
-   "headline_en": "Oil falls below $100 on hopes of a diplomatic solution between the U.S. and Iran",
+   "headline": "El petróleo cae más de 4% ante esperanzas de una salida diplomática entre EE.UU. e Irán",
+   "headline_en": "Oil falls over 4% on hopes of a diplomatic resolution between the U.S. and Iran",
    "source": "TipRanks"
   },
   {
-   "headline": "Apple y Palantir reportan resultados hoy tras el cierre del mercado",
-   "headline_en": "Apple and Palantir report earnings today after the market close",
+   "headline": "Apple y Palantir reportan hoy tras el cierre, en una semana cargada de resultados tecnológicos",
+   "headline_en": "Apple and Palantir report after the close in a heavy week of tech earnings",
    "source": "Investopedia"
   },
   {
-   "headline": "El informe de empleo de octubre llega el viernes y el Tesoro anuncia su refinanciamiento el miércoles",
-   "headline_en": "October jobs report arrives Friday and the Treasury announces its refunding on Wednesday",
-   "source": "TradingView"
+   "headline": "Wall Street mira a las elecciones intermedias de mañana, con encuestas que anticipan un giro demócrata",
+   "headline_en": "Wall Street looks ahead to tomorrow midterm elections, with polls pointing to a Democratic swing",
+   "source": "Sharecast"
+  },
+  {
+   "headline": "El informe de empleo de octubre llega el viernes y hoy se publica el PMI manufacturero de EE.UU.",
+   "headline_en": "October jobs report due Friday, with U.S. manufacturing PMI out today",
+   "source": "Upstox"
   }
  ],
- "ultima_hora": {
-  "headline": "Trump prefiere negociar con Irán antes que reanudar ataques tras las elecciones, según Axios; el petróleo cae bajo $100",
-  "headline_en": "Trump prefers negotiations with Iran over resuming strikes after the elections, Axios reports; oil falls below $100",
-  "source": "Axios",
-  "image": "",
-  "images": [
-   "https://raw.githubusercontent.com/boripropdeals/boripropdeals.github.io/main/breaking-visuals/2026-11-02-trump-iran-petroleo-refineria.webp",
-   "https://raw.githubusercontent.com/boripropdeals/boripropdeals.github.io/main/breaking-visuals/2026-11-02-trump-iran-mesa-negociacion.webp",
-   "https://raw.githubusercontent.com/boripropdeals/boripropdeals.github.io/main/breaking-visuals/2026-11-02-trump-iran-petroleros-mar.webp"
-  ]
- }
+ "ultima_hora": null
 }
