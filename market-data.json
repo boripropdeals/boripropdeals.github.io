@@ -1,51 +1,56 @@
 {
- "updated_at": "2026-11-03T12:02:35.612782+00:00",
+ "updated_at": "2026-11-03T12:03:41.423909+00:00",
  "nq": {
-  "price": 28185.0,
-  "change_points": 57.5,
-  "percent_change": 0.2
+  "price": 28179.0,
+  "change_points": 51.5,
+  "percent_change": 0.18
  },
  "gold": {
-  "price": 3915.0,
-  "change_points": -54.6,
-  "percent_change": -1.38
+  "price": 3915.8,
+  "change_points": -53.8,
+  "percent_change": -1.36
  },
  "oil": {
-  "price": 98.53,
-  "change_points": 2.07,
-  "percent_change": 2.15
+  "price": 98.5,
+  "change_points": 2.04,
+  "percent_change": 2.11
  },
  "headlines": [
   {
-   "headline": "El petróleo se desploma cerca de 8% por esperanzas de una solución diplomática con Irán y Wall Street rebota al inicio de noviembre",
-   "headline_en": "Oil plunges nearly 8% on hopes of a diplomatic resolution with Iran as Wall Street rebounds to start November",
-   "source": "Investopedia"
+   "headline": "Futuros mixtos en día de elecciones intermedias: Apple y Palantir caen tras sus resultados",
+   "headline_en": "Futures mixed on midterm election day as Apple and Palantir slide after earnings",
+   "source": "Reuters"
   },
   {
-   "headline": "El Nasdaq cae 1.1% al cierre mientras la venta de tecnológicas se reanuda; el Dow sube 0.4%",
-   "headline_en": "Nasdaq closes 1.1% lower as the tech sell-off resumes; the Dow adds 0.4%",
-   "source": "Investopedia"
+   "headline": "El Nasdaq 100 entra en corrección: cae más de 10% desde su máximo histórico",
+   "headline_en": "Nasdaq 100 slips into correction, down over 10% from its all-time high",
+   "source": "XTB"
   },
   {
-   "headline": "Intel cae otro 9% tras desplomarse casi 30% el viernes y Marvell retrocede 13% por su compra de Lumentum",
-   "headline_en": "Intel falls another 9% after plunging nearly 30% on Friday, and Marvell drops 13% on its Lumentum deal",
-   "source": "Investopedia"
+   "headline": "El petróleo rebota tras el ataque de EE.UU. a la isla Qeshm de Irán",
+   "headline_en": "Oil rebounds after U.S. strike on Iran's Qeshm Island",
+   "source": "Reuters"
   },
   {
-   "headline": "Apple y Palantir reportan resultados esta tarde tras el cierre, en una semana cargada de ganancias",
-   "headline_en": "Apple and Palantir report results this evening after the close in a heavy earnings week",
-   "source": "Investopedia"
+   "headline": "Semiconductores bajo presión: el sector pierde cerca de 12% en tres sesiones",
+   "headline_en": "Semiconductors under pressure, sector down nearly 12% in three sessions",
+   "source": "XTB"
   },
   {
-   "headline": "La semana mira a las elecciones intermedias del martes y al reporte de empleo de octubre el viernes",
-   "headline_en": "The week ahead looks to Tuesday midterm elections and Friday October jobs report",
-   "source": "TradingView"
-  },
-  {
-   "headline": "El oro sube cerca de 1.5% a unos 3,955 dólares y el bono a 10 años rinde alrededor de 4.92%",
-   "headline_en": "Gold rises about 1.5% to around $3,955 and the 10-year Treasury yields about 4.92%",
-   "source": "Investopedia"
+   "headline": "Hoy reportan AMD, Super Micro, Pfizer y Amgen; el bono a 10 años rinde 4.91%",
+   "headline_en": "AMD, Super Micro, Pfizer and Amgen report today; 10-year yield at 4.91%",
+   "source": "TipRanks"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Trump: Irán quiere un acuerdo lo antes posible, mientras EE.UU. ataca objetivos en la isla Qeshm",
+  "headline_en": "Trump: Iran wants a deal as soon as possible, as U.S. strikes targets on Qeshm Island",
+  "source": "TradingView News",
+  "image": "",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-03-trump-iran-oil-tanker-strait.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-03-trump-iran-oil-price-chart.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-03-trump-iran-diplomacy-table.webp"
+  ]
+ }
 }
