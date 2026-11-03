@@ -1,61 +1,61 @@
 {
- "updated_at": "2026-11-03T14:32:31.924892+00:00",
+ "updated_at": "2026-11-03T14:33:44.129885+00:00",
  "nq": {
-  "price": 28300.0,
-  "change_points": 172.5,
-  "percent_change": 0.61
+  "price": 28290.75,
+  "change_points": 163.25,
+  "percent_change": 0.58
  },
  "gold": {
-  "price": 3957.3,
-  "change_points": -12.3,
-  "percent_change": -0.31
+  "price": 3956.4,
+  "change_points": -13.2,
+  "percent_change": -0.33
  },
  "oil": {
-  "price": 95.54,
-  "change_points": -0.92,
-  "percent_change": -0.95
+  "price": 95.47,
+  "change_points": -0.99,
+  "percent_change": -1.03
  },
  "headlines": [
   {
-   "headline": "Nasdaq 100 entra en corrección tras la caída del lunes; los semiconductores lideran las ventas",
-   "headline_en": "Nasdaq 100 slips into correction after Monday drop; semiconductors lead the sell-off",
+   "headline": "Futuros mixtos en día de elecciones intermedias: Apple y Palantir caen tras sus resultados",
+   "headline_en": "Futures mixed on midterm Election Day as Apple and Palantir slide after earnings",
+   "source": "TipRanks"
+  },
+  {
+   "headline": "Nasdaq 100 entra en corrección: cae 10% desde su máximo de octubre por la venta de chips",
+   "headline_en": "Nasdaq 100 slips into correction, down 10% from October peak as chip selloff deepens",
    "source": "XTB"
   },
   {
-   "headline": "Futuros mixtos antes de la apertura mientras EE.UU. vota en las elecciones de medio término",
-   "headline_en": "Futures mixed into the open as the US votes in midterm elections",
-   "source": "Wall Street Journal"
+   "headline": "El petróleo repunta tras el ataque de EE. UU. a la isla Qeshm de Irán; el Brent supera $105",
+   "headline_en": "Oil rebounds after U.S. strike on Iran’s Qeshm Island; Brent tops $105",
+   "source": "Reuters / Kitco"
   },
   {
-   "headline": "Apple cae en premercado por una guía de márgenes más débil pese a superar estimados",
-   "headline_en": "Apple slips premarket on weaker margin guidance despite beating estimates",
-   "source": "Sharecast"
+   "headline": "Asia mixta: el Kospi de Corea del Sur cae más de 3% por la venta masiva de semiconductores",
+   "headline_en": "Asia mixed as South Korea’s Kospi drops over 3% on semiconductor selloff",
+   "source": "CNBC TV18"
   },
   {
-   "headline": "El petróleo repunta tras el ataque de EE.UU. a la isla Qeshm de Irán",
-   "headline_en": "Oil rebounds after US strike on Iran’s Qeshm Island",
-   "source": "MarketWatch"
+   "headline": "AMD reporta hoy tras el cierre; Wall Street espera $13,100 millones en ingresos",
+   "headline_en": "AMD reports after the bell today; Wall Street expects $13.1B in revenue",
+   "source": "Investopedia"
   },
   {
-   "headline": "AMD reporta hoy tras el cierre en medio de dudas sobre el gasto en IA",
-   "headline_en": "AMD reports after the bell amid doubts over AI spending",
-   "source": "Stocktwits"
-  },
-  {
-   "headline": "El rendimiento del bono a 10 años sube a ~4.93% antes de los resultados electorales",
-   "headline_en": "10-year Treasury yield rises to ~4.93% ahead of election results",
-   "source": "Wall Street Journal"
+   "headline": "Hoy en EE. UU.: reporte JOLTS de vacantes y pedidos de fábrica",
+   "headline_en": "Today in the U.S.: JOLTS job openings and factory orders data",
+   "source": "Investopedia"
   }
  ],
  "ultima_hora": {
-  "headline": "Trump: Irán quiere un acuerdo lo antes posible y el petróleo cae como una roca",
-  "headline_en": "Trump: Iran wants a settlement as soon as possible as oil drops like a rock",
-  "source": "TradingView / Reuters",
+  "headline": "Trump: Irán busca un acuerdo “lo antes posible” y el petróleo cae como una roca",
+  "headline_en": "Trump: Iran wants a deal “as soon as possible” as oil drops “like a rock”",
+  "source": "Benzinga / TradingView",
   "image": "",
   "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-03-trump-iran-estrecho-hormuz-petrolero.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-03-trump-iran-negociacion-diplomatica.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-03-trump-iran-mercado-petroleo-bolsa.webp"
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-03-trump-iran-acuerdo-petroleo-pumpjack.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-03-trump-iran-acuerdo-petroleo-tanquero.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-03-trump-iran-acuerdo-petroleo-negociacion.webp"
   ]
  }
 }
