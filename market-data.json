@@ -1,61 +1,61 @@
 {
- "updated_at": "2026-11-03T19:02:41.277523+00:00",
+ "updated_at": "2026-11-03T19:04:21.904957+00:00",
  "nq": {
-  "price": 28382.25,
-  "change_points": 254.75,
-  "percent_change": 0.91
+  "price": 28369.0,
+  "change_points": 241.5,
+  "percent_change": 0.86
  },
  "gold": {
-  "price": 3937.9,
-  "change_points": -31.7,
-  "percent_change": -0.8
+  "price": 3937.2,
+  "change_points": -32.4,
+  "percent_change": -0.82
  },
  "oil": {
-  "price": 95.9,
-  "change_points": -0.56,
-  "percent_change": -0.58
+  "price": 95.94,
+  "change_points": -0.52,
+  "percent_change": -0.54
  },
  "headlines": [
   {
-   "headline": "Nasdaq 100 entra en corrección tras caer más de 10% desde su máximo histórico",
-   "headline_en": "Nasdaq 100 slips into correction, down over 10% from its record high",
+   "headline": "Nasdaq 100 entra en corrección tras caer más de 10% desde su máximo",
+   "headline_en": "Nasdaq 100 slips into correction, down over 10% from its high",
    "source": "XTB"
   },
   {
-   "headline": "Apple cae tras advertir que el costo de los chips de memoria presionará sus márgenes",
-   "headline_en": "Apple slides after warning memory chip costs will pressure margins",
+   "headline": "Nasdaq rebota en día de elecciones intermedias, con las tecnológicas al frente",
+   "headline_en": "Nasdaq rebounds on midterm Election Day, led by tech stocks",
+   "source": "AD HOC NEWS"
+  },
+  {
+   "headline": "Apple cae tras advertir que el costo de los chips seguirá presionando su margen",
+   "headline_en": "Apple falls after warning chip costs will keep pressuring its margin",
    "source": "Reuters"
   },
   {
-   "headline": "Wall Street opera con cautela en el día de las elecciones intermedias en EE.UU.",
-   "headline_en": "Wall Street trades cautiously on US midterm election day",
-   "source": "Reuters"
-  },
-  {
-   "headline": "El petróleo cae por esperanzas de un acuerdo con Irán, pero rebota tras el ataque a la isla Qeshm",
-   "headline_en": "Oil drops on Iran deal hopes, then rebounds after strike on Qeshm Island",
+   "headline": "El petróleo cae por esperanzas de un acuerdo con Irán",
+   "headline_en": "Oil falls on hopes of a deal with Iran",
    "source": "XTB"
   },
   {
-   "headline": "Los semiconductores lideran el rebote: Nvidia y AMD suben antes de los resultados de AMD",
-   "headline_en": "Chip stocks lead the rebound as Nvidia and AMD rise ahead of AMD earnings",
-   "source": "CNBC"
+   "headline": "Mercados a la espera de los resultados de las elecciones intermedias en EE. UU.",
+   "headline_en": "Markets await U.S. midterm election results",
+   "source": "Reuters"
   },
   {
-   "headline": "El bono del Tesoro a 10 años sube a 4.91% antes del reporte JOLTS",
-   "headline_en": "10-year Treasury yield rises to 4.91% ahead of JOLTS report",
-   "source": "TipRanks"
+   "headline": "Los semiconductores rebotan 3.4% tras perder cerca de 10% en tres días; AMD reporta al cierre",
+   "headline_en": "Semiconductors rebound 3.4% after losing nearly 10% in three days; AMD reports after the bell",
+   "source": "XTB"
   }
  ],
  "ultima_hora": {
-  "headline": "Trump: Irán quiere un acuerdo «lo antes posible» y el petróleo «cae como una roca»",
-  "headline_en": "Trump: Iran wants a settlement «as soon as possible» as oil «drops like a rock»",
+  "headline": "Trump: Irán quiere un acuerdo y el petróleo cae con fuerza en día de elecciones",
+  "headline_en": "Trump: Iran wants a deal as oil drops sharply on Election Day",
   "source": "Reuters",
   "image": "",
   "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-03-trump-iran-oil-prices.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-03-trump-iran-diplomacy.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-03-trump-iran-stock-market.webp"
+   "https://raw.githubusercontent.com/boripropdeals/boripropdeals.github.io/main/breaking-visuals/2026-11-03-trump-iran-deal-oil-refinery.webp",
+   "https://raw.githubusercontent.com/boripropdeals/boripropdeals.github.io/main/breaking-visuals/2026-11-03-trump-iran-deal-oil-tankers.webp",
+   "https://raw.githubusercontent.com/boripropdeals/boripropdeals.github.io/main/breaking-visuals/2026-11-03-trump-iran-deal-diplomacy.webp"
   ]
  }
 }
