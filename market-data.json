@@ -1,19 +1,19 @@
 {
- "updated_at": "2026-11-03T20:02:40.458971+00:00",
+ "updated_at": "2026-11-03T20:04:02.878808+00:00",
  "nq": {
-  "price": 28292.0,
-  "change_points": 164.5,
-  "percent_change": 0.58
+  "price": 28275.75,
+  "change_points": 148.25,
+  "percent_change": 0.53
  },
  "gold": {
-  "price": 3935.0,
-  "change_points": -34.6,
-  "percent_change": -0.87
+  "price": 3933.7,
+  "change_points": -35.9,
+  "percent_change": -0.9
  },
  "oil": {
-  "price": 96.37,
-  "change_points": -0.09,
-  "percent_change": -0.09
+  "price": 96.54,
+  "change_points": 0.08,
+  "percent_change": 0.08
  },
  "headlines": [
   {
@@ -42,9 +42,9 @@
    "source": "XTB"
   },
   {
-   "headline": "El rendimiento del bono a 10 años sube a 4.91% mientras el mercado descuenta un alza de la Fed en diciembre",
-   "headline_en": "10-year Treasury yield rises to 4.91% as markets price a December Fed hike",
-   "source": "TipRanks"
+   "headline": "Las vacantes JOLTS suben a 7.52 millones en septiembre, superando lo esperado",
+   "headline_en": "JOLTS job openings rise to 7.52 million in September, beating expectations",
+   "source": "XTB"
   }
  ],
  "ultima_hora": {
