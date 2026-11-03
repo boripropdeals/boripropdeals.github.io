@@ -1,19 +1,19 @@
 {
- "updated_at": "2026-11-03T15:32:32.162290+00:00",
+ "updated_at": "2026-11-03T15:33:01.015974+00:00",
  "nq": {
-  "price": 28345.75,
-  "change_points": 218.25,
-  "percent_change": 0.78
+  "price": 28328.25,
+  "change_points": 200.75,
+  "percent_change": 0.71
  },
  "gold": {
-  "price": 3939.0,
-  "change_points": -30.6,
-  "percent_change": -0.77
+  "price": 3938.0,
+  "change_points": -31.6,
+  "percent_change": -0.8
  },
  "oil": {
-  "price": 96.36,
-  "change_points": -0.1,
-  "percent_change": -0.1
+  "price": 96.53,
+  "change_points": 0.07,
+  "percent_change": 0.07
  },
  "headlines": [
   {
@@ -22,28 +22,28 @@
    "source": "Reuters"
   },
   {
-   "headline": "Apple cae en preapertura tras advertir que el costo de los chips presionará su margen navideño",
-   "headline_en": "Apple slides premarket after warning chip costs will pressure holiday-quarter margin",
-   "source": "Reuters"
-  },
-  {
-   "headline": "El petróleo cae con fuerza por esperanzas de un acuerdo entre EE.UU. e Irán, tras desplomarse más de 7% el lunes",
-   "headline_en": "Oil slides on hopes of a U.S.-Iran deal after plunging more than 7% on Monday",
-   "source": "Reuters"
-  },
-  {
    "headline": "Futuros mixtos en el día de las elecciones de medio término, con el mercado atento al control del Congreso",
    "headline_en": "Futures mixed on midterm election day as markets await control of Congress",
+   "source": "Reuters"
+  },
+  {
+   "headline": "Apple cae en preapertura tras advertir que el costo de los chips de memoria presionará su margen navideño",
+   "headline_en": "Apple slides premarket after warning memory chip costs will pressure holiday-quarter margin",
+   "source": "Reuters"
+  },
+  {
+   "headline": "Petróleo volátil: tras desplomarse más de 7% el lunes por esperanzas diplomáticas con Irán, rebota tras el ataque de EE.UU. a la isla Qeshm",
+   "headline_en": "Oil swings: after plunging over 7% Monday on Iran diplomacy hopes, it rebounds following the US strike on Iran’s Qeshm Island",
+   "source": "Morningstar"
+  },
+  {
+   "headline": "Palantir cae pese a superar estimados; los chips rebotan tras la caída del lunes y AMD reporta hoy tras el cierre",
+   "headline_en": "Palantir falls despite beating estimates; chip stocks rebound after Monday’s rout as AMD reports after the bell",
    "source": "TipRanks"
   },
   {
-   "headline": "Palantir cae pese a superar estimados; AMD reporta hoy tras el cierre y Nvidia rebota",
-   "headline_en": "Palantir falls despite beating estimates; AMD reports after the bell as Nvidia rebounds",
-   "source": "TipRanks"
-  },
-  {
-   "headline": "Hoy se publican el informe JOLTS de empleo y los pedidos de fábrica en EE.UU.",
-   "headline_en": "U.S. JOLTS job openings and factory orders due today",
+   "headline": "Hoy se publican el informe JOLTS de empleo y los pedidos de fábrica; el bono a 10 años ronda 4.91%",
+   "headline_en": "US JOLTS job openings and factory orders due today; 10-year yield around 4.91%",
    "source": "TipRanks"
   }
  ],
