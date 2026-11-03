@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-11-03T17:04:33.071067+00:00",
+ "updated_at": "2026-11-03T17:04:47.729030+00:00",
  "nq": {
-  "price": 28346.0,
-  "change_points": 218.5,
-  "percent_change": 0.78
+  "price": 28349.75,
+  "change_points": 222.25,
+  "percent_change": 0.79
  },
  "gold": {
   "price": 3937.9,
@@ -11,41 +11,46 @@
   "percent_change": -0.8
  },
  "oil": {
-  "price": 95.85,
-  "change_points": -0.61,
-  "percent_change": -0.63
+  "price": 95.92,
+  "change_points": -0.54,
+  "percent_change": -0.56
  },
  "headlines": [
   {
-   "headline": "JOLTS sorprende al alza: 7.523 millones de vacantes en septiembre, muy por encima de los 7.13 millones esperados",
-   "headline_en": "JOLTS job openings surge to 7.523 million in September, far above the 7.13 million expected",
-   "source": "CoinDesk"
-  },
-  {
-   "headline": "Nasdaq 100 en corrección: cae más de 10% desde su máximo, arrastrado por chips e IA",
-   "headline_en": "Nasdaq 100 slips into correction, down over 10% from its peak, dragged by chip and AI stocks",
-   "source": "Reuters"
-  },
-  {
-   "headline": "Mercados mixtos en el día de elecciones intermedias en EE. UU., con el control de la Cámara en juego",
-   "headline_en": "Markets mixed on U.S. midterm Election Day, with House control at stake",
-   "source": "TipRanks"
+   "headline": "Nasdaq 100 en corrección: cae más de 10% desde su máximo, pero los chips rebotan hoy",
+   "headline_en": "Nasdaq 100 in correction: down over 10% from its peak, but chips rebound today",
+   "source": "XTB"
   },
   {
    "headline": "Apple cae tras advertir que el costo de los chips de memoria presionará su margen navideño",
-   "headline_en": "Apple slides after warning rising memory-chip costs will pressure its holiday-quarter margin",
+   "headline_en": "Apple falls after warning memory chip costs will pressure its holiday-quarter margin",
    "source": "Reuters"
   },
   {
-   "headline": "El petróleo cae por las esperanzas de un acuerdo diplomático entre EE. UU. e Irán",
-   "headline_en": "Oil falls on hopes of a U.S.-Iran diplomatic deal",
+   "headline": "El petróleo cae por esperanzas de un acuerdo entre EE.UU. e Irán; Trump descarta nuevos ataques tras las elecciones",
+   "headline_en": "Oil falls on hopes of a US-Iran deal; Trump rules out new strikes after the elections",
    "source": "Reuters"
   },
   {
-   "headline": "AMD reporta tras el cierre; también reportan Super Micro, Pfizer y Amgen",
-   "headline_en": "AMD reports after the close; Super Micro, Pfizer and Amgen also report",
+   "headline": "Día de elecciones de medio término en EE.UU.: los mercados esperan los resultados con los demócratas favoritos para la Cámara",
+   "headline_en": "US midterm election day: markets await results with Democrats favored to take the House",
+   "source": "Reuters"
+  },
+  {
+   "headline": "AMD reporta hoy tras el cierre y Palantir cae por desaceleración en su crecimiento",
+   "headline_en": "AMD reports today after the bell and Palantir falls on slowing growth",
    "source": "TipRanks"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Trump anuncia que EE.UU. dejará de dar ayuda militar a Israel a fin de año tras acuerdo con Netanyahu",
+  "headline_en": "Trump announces the US will stop providing military aid to Israel at year-end after deal with Netanyahu",
+  "source": "Reuters",
+  "image": "",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-03-trump-israel-aid-oil-rigs.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-03-trump-israel-aid-whitehouse.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-03-trump-israel-aid-markets.webp"
+  ]
+ }
 }
