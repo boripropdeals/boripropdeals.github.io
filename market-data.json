@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-11-03T20:32:33.697472+00:00",
+ "updated_at": "2026-11-03T20:32:39.313622+00:00",
  "nq": {
-  "price": 28311.0,
-  "change_points": 183.5,
-  "percent_change": 0.65
+  "price": 28306.75,
+  "change_points": 179.25,
+  "percent_change": 0.64
  },
  "gold": {
   "price": 3931.7,
@@ -11,51 +11,36 @@
   "percent_change": -0.95
  },
  "oil": {
-  "price": 96.64,
-  "change_points": 0.18,
-  "percent_change": 0.19
+  "price": 96.63,
+  "change_points": 0.17,
+  "percent_change": 0.18
  },
  "headlines": [
   {
-   "headline": "Nasdaq 100 rebota en día de elecciones tras confirmar una corrección de más del 10%",
-   "headline_en": "Nasdaq 100 rebounds on Election Day after confirming a correction of more than 10%",
+   "headline": "Nasdaq rebota en el día de las elecciones intermedias tras confirmar su corrección",
+   "headline_en": "Nasdaq rebounds on midterm Election Day after confirming correction",
    "source": "Reuters"
   },
   {
-   "headline": "Apple y Palantir caen tras sus resultados pese a superar las estimaciones",
-   "headline_en": "Apple and Palantir fall after earnings despite beating estimates",
-   "source": "TipRanks"
-  },
-  {
-   "headline": "El petróleo cae por las esperanzas de un acuerdo con Irán y alivia a Wall Street",
-   "headline_en": "Oil falls on hopes of a deal with Iran, lifting Wall Street",
+   "headline": "Apple cae tras advertir que el costo de los chips de memoria presionará su margen navideño",
+   "headline_en": "Apple slides after warning memory chip costs will pressure holiday margins",
    "source": "Reuters"
   },
   {
-   "headline": "Los mercados esperan los resultados de las elecciones intermedias en EE. UU.",
-   "headline_en": "Markets await U.S. midterm election results",
-   "source": "Bloomberg"
-  },
-  {
-   "headline": "Los semiconductores rebotan 3.4% tras perder cerca de 10% en tres días; AMD reporta al cierre",
-   "headline_en": "Semiconductors rebound 3.4% after losing nearly 10% in three days; AMD reports after the bell",
+   "headline": "Los semiconductores lideran el rebote tras perder cerca de 10% en tres sesiones",
+   "headline_en": "Chip stocks lead the rebound after losing about 10% in three sessions",
    "source": "XTB"
   },
   {
-   "headline": "Las vacantes JOLTS suben a 7.52 millones en septiembre, superando lo esperado",
-   "headline_en": "JOLTS job openings rise to 7.52 million in September, beating expectations",
-   "source": "XTB"
+   "headline": "El petróleo cae ante las esperanzas de un acuerdo con Irán y alivia el ánimo del mercado",
+   "headline_en": "Oil falls on Iran deal hopes, lifting market sentiment",
+   "source": "Reuters"
+  },
+  {
+   "headline": "Las vacantes de empleo en EE. UU. superan lo esperado y empujan el rendimiento del bono a 10 años",
+   "headline_en": "US job openings beat expectations, pushing 10-year yields higher",
+   "source": "Dow Jones"
   }
  ],
- "ultima_hora": {
-  "headline": "Trump: EE.UU. cortará la ayuda anual a Israel a fin de año tras acuerdo con Netanyahu",
-  "headline_en": "Trump: U.S. will cut annual aid to Israel by year-end after deal with Netanyahu",
-  "source": "Reuters",
-  "image": "",
-  "images": [
-   "https://raw.githubusercontent.com/boripropdeals/boripropdeals.github.io/main/breaking-visuals/2026-11-03-trump-israel-aid-flags.webp",
-   "https://raw.githubusercontent.com/boripropdeals/boripropdeals.github.io/main/breaking-visuals/2026-11-03-trump-israel-aid-capitol.webp",
-   "https://raw.githubusercontent.com/boripropdeals/boripropdeals.github.io/main/breaking-visuals/2026-11-03-trump-israel-aid-oil-markets.webp"
-  ]
- }
+ "ultima_hora": null
 }
