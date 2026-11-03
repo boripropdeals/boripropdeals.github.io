@@ -1,51 +1,61 @@
 {
- "updated_at": "2026-11-03T18:32:34.784178+00:00",
+ "updated_at": "2026-11-03T18:34:09.125646+00:00",
  "nq": {
-  "price": 28361.5,
-  "change_points": 234.0,
-  "percent_change": 0.83
+  "price": 28377.5,
+  "change_points": 250.0,
+  "percent_change": 0.89
  },
  "gold": {
-  "price": 3941.1,
-  "change_points": -28.5,
-  "percent_change": -0.72
+  "price": 3941.7,
+  "change_points": -27.9,
+  "percent_change": -0.7
  },
  "oil": {
-  "price": 95.86,
-  "change_points": -0.6,
-  "percent_change": -0.62
+  "price": 95.99,
+  "change_points": -0.47,
+  "percent_change": -0.49
  },
  "headlines": [
   {
-   "headline": "S&P 500 y Nasdaq abren al alza en el día de las elecciones intermedias mientras el petróleo sigue cayendo",
-   "headline_en": "S&P 500, Nasdaq set for higher open as oil prices extend declines, midterm results awaited",
-   "source": "Reuters"
-  },
-  {
-   "headline": "El Nasdaq 100 entra en corrección tras caer más de 10% desde su máximo de octubre, pero los chips lideran el rebote",
-   "headline_en": "Nasdaq 100 slips into correction, down over 10% from its October high, as chips lead the rebound",
+   "headline": "Nasdaq 100 entra en corrección tras caer más de 10% desde su máximo histórico",
+   "headline_en": "Nasdaq 100 slips into correction, down over 10% from its record high",
    "source": "XTB"
   },
   {
-   "headline": "Apple cae tras advertir que el costo de los chips de memoria presionará su margen del trimestre navideño",
-   "headline_en": "Apple slides after warning rising memory chip costs will pressure its holiday-quarter margin",
+   "headline": "Apple cae tras advertir que el costo de los chips de memoria presionará sus márgenes",
+   "headline_en": "Apple slides after warning memory chip costs will pressure margins",
    "source": "Reuters"
   },
   {
-   "headline": "El petróleo retrocede ante señales de un acuerdo con Irán, tras desplomarse más de 7% el lunes",
-   "headline_en": "Oil pulls back on signs of a deal with Iran after plunging over 7% on Monday",
+   "headline": "Wall Street opera con cautela en el día de las elecciones intermedias en EE.UU.",
+   "headline_en": "Wall Street trades cautiously on US midterm election day",
+   "source": "Reuters"
+  },
+  {
+   "headline": "El petróleo cae por esperanzas de un acuerdo con Irán, pero rebota tras el ataque a la isla Qeshm",
+   "headline_en": "Oil drops on Iran deal hopes, then rebounds after strike on Qeshm Island",
    "source": "XTB"
   },
   {
-   "headline": "AMD sube 4% y Nvidia recupera terreno antes de los resultados de esta tarde",
-   "headline_en": "AMD gains 4% and Nvidia recovers ground ahead of earnings due after the bell",
-   "source": "Baystreet"
+   "headline": "Los semiconductores lideran el rebote: Nvidia y AMD suben antes de los resultados de AMD",
+   "headline_en": "Chip stocks lead the rebound as Nvidia and AMD rise ahead of AMD earnings",
+   "source": "CNBC"
   },
   {
-   "headline": "Hoy se publican el informe JOLTS de empleo y los pedidos de fábrica en EE. UU.",
-   "headline_en": "US JOLTS job openings report and factory orders due today",
+   "headline": "El bono del Tesoro a 10 años sube a 4.91% antes del reporte JOLTS",
+   "headline_en": "10-year Treasury yield rises to 4.91% ahead of JOLTS report",
    "source": "TipRanks"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Trump: Irán quiere un acuerdo «lo antes posible» y el petróleo «cae como una roca»",
+  "headline_en": "Trump: Iran wants a settlement «as soon as possible» as oil «drops like a rock»",
+  "source": "Reuters",
+  "image": "",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-03-trump-iran-oil-prices.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-03-trump-iran-diplomacy.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-03-trump-iran-stock-market.webp"
+  ]
+ }
 }
