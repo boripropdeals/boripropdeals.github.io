@@ -1,56 +1,61 @@
 {
- "updated_at": "2026-11-03T13:32:31.669364+00:00",
+ "updated_at": "2026-11-03T13:34:18.728247+00:00",
  "nq": {
-  "price": 28216.75,
-  "change_points": 89.25,
-  "percent_change": 0.32
+  "price": 28227.75,
+  "change_points": 100.25,
+  "percent_change": 0.36
  },
  "gold": {
-  "price": 3941.5,
-  "change_points": -28.1,
-  "percent_change": -0.71
+  "price": 3940.2,
+  "change_points": -29.4,
+  "percent_change": -0.74
  },
  "oil": {
-  "price": 97.2,
-  "change_points": 0.74,
-  "percent_change": 0.77
+  "price": 97.25,
+  "change_points": 0.79,
+  "percent_change": 0.82
  },
  "headlines": [
   {
-   "headline": "Futuros mixtos en día de elecciones intermedias: Apple y Palantir caen tras sus resultados",
-   "headline_en": "Futures mixed on midterm election day as Apple and Palantir slide after earnings",
+   "headline": "Futuros mixtos en día de elecciones intermedias: el Nasdaq 100 sube 0.4% en preapertura mientras el Dow cae",
+   "headline_en": "Futures mixed on midterm Election Day: Nasdaq 100 up 0.4% premarket while the Dow falls",
    "source": "Reuters"
   },
   {
-   "headline": "El Nasdaq 100 entra en corrección: cae más de 10% desde su máximo histórico",
-   "headline_en": "Nasdaq 100 slips into correction, down over 10% from its all-time high",
+   "headline": "El Nasdaq 100 entra en corrección: cae 10.4% desde su máximo de octubre, su tercera corrección de 2026",
+   "headline_en": "Nasdaq 100 slips into correction: down 10.4% from its October high, its third correction of 2026",
    "source": "XTB"
   },
   {
-   "headline": "El petróleo rebota tras el ataque de EE.UU. a la isla Qeshm de Irán",
-   "headline_en": "Oil rebounds after U.S. strike on Iran's Qeshm Island",
+   "headline": "Apple cae 4.5% y Palantir 6.3% en preapertura pese a superar estimados, por márgenes y crecimiento de contratos",
+   "headline_en": "Apple falls 4.5% and Palantir 6.3% premarket despite beating estimates, on margins and contract growth",
    "source": "Reuters"
   },
   {
-   "headline": "Semiconductores bajo presión: el sector pierde cerca de 12% en tres sesiones",
-   "headline_en": "Semiconductors under pressure, sector down nearly 12% in three sessions",
-   "source": "XTB"
+   "headline": "El petróleo sube: el WTI roza los $99 tras el ataque de EE.UU. a la isla de Qeshm en Irán",
+   "headline_en": "Oil climbs: WTI nears $99 after the U.S. strike on Irans Qeshm Island",
+   "source": "Reuters"
   },
   {
-   "headline": "Hoy reportan AMD, Super Micro, Pfizer y Amgen; el bono a 10 años rinde 4.91%",
-   "headline_en": "AMD, Super Micro, Pfizer and Amgen report today; 10-year yield at 4.91%",
+   "headline": "El bono a 10 años sube a 4.91% mientras el mercado espera los resultados de las elecciones intermedias",
+   "headline_en": "10-year Treasury yield rises to 4.91% as markets await midterm election results",
+   "source": "TradingView"
+  },
+  {
+   "headline": "Hoy reportan AMD, Pfizer, Amgen, Block y Super Micro tras el cierre mixto del lunes",
+   "headline_en": "AMD, Pfizer, Amgen, Block and Super Micro report today after Mondays mixed close",
    "source": "TipRanks"
   }
  ],
  "ultima_hora": {
-  "headline": "Trump: Irán quiere un acuerdo lo antes posible, mientras EE.UU. ataca objetivos en la isla Qeshm",
-  "headline_en": "Trump: Iran wants a deal as soon as possible, as U.S. strikes targets on Qeshm Island",
-  "source": "TradingView News",
+  "headline": "Trump: Irán quiere un acuerdo \"lo antes posible\" mientras EE.UU. ataca Qeshm y el petróleo se dispara",
+  "headline_en": "Trump: Iran wants a deal \"as soon as possible\" as the U.S. strikes Qeshm and oil jumps",
+  "source": "Reuters",
   "image": "",
   "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-03-trump-iran-oil-tanker-strait.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-03-trump-iran-oil-price-chart.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-03-trump-iran-diplomacy-table.webp"
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-03-trump-iran-oil-tankers.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-03-trump-iran-market-screens.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-03-trump-iran-diplomacy.webp"
   ]
  }
 }
