@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T22:32:31.797469+00:00",
+ "updated_at": "2026-11-03T22:33:49.665110+00:00",
  "nq": {
   "price": 28416.0,
   "change_points": 288.5,
@@ -17,12 +17,12 @@
  },
  "headlines": [
   {
-   "headline": "Nasdaq cierra al alza con rebote de gigantes de IA antes de los resultados de las elecciones intermedias",
+   "headline": "Nasdaq cierra al alza con el rebote de las gigantes de IA antes de los resultados de las elecciones intermedias",
    "headline_en": "Nasdaq ends higher as AI heavyweights rebound ahead of midterm results",
    "source": "Reuters"
   },
   {
-   "headline": "S&P 500 y Nasdaq rompen racha de 3 días en rojo con repunte de los chips; AMD reporta tras el cierre",
+   "headline": "S&P 500 y Nasdaq rompen racha de 3 días en rojo con el repunte de los chips; AMD reporta tras el cierre",
    "headline_en": "S&P 500, Nasdaq snap 3-day losing streaks as chip stocks rally; AMD reports after the bell",
    "source": "Investopedia"
   },
@@ -37,9 +37,9 @@
    "source": "XTB"
   },
   {
-   "headline": "El petróleo cae ante las esperanzas de un acuerdo con Irán y alivia el ánimo del mercado",
-   "headline_en": "Oil falls on Iran deal hopes, lifting market sentiment",
-   "source": "Reuters"
+   "headline": "El petróleo se estabiliza en $96.75 tras desplomarse 8% el lunes ante esperanzas de una solución diplomática con Irán",
+   "headline_en": "Oil steadies at $96.75 after plunging 8% Monday on hopes of a diplomatic solution with Iran",
+   "source": "Investopedia"
   },
   {
    "headline": "Las vacantes de empleo en EE. UU. superan lo esperado y el bono a 10 años sube a 4.97%",
