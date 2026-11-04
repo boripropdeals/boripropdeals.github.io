@@ -1,61 +1,61 @@
 {
- "updated_at": "2026-11-04T16:02:31.059694+00:00",
+ "updated_at": "2026-11-04T16:03:52.242452+00:00",
  "nq": {
-  "price": 28581.5,
-  "change_points": 275.75,
-  "percent_change": 0.97
+  "price": 28636.25,
+  "change_points": 330.5,
+  "percent_change": 1.17
  },
  "gold": {
-  "price": 4054.3,
-  "change_points": 113.9,
-  "percent_change": 2.89
+  "price": 4054.7,
+  "change_points": 114.3,
+  "percent_change": 2.9
  },
  "oil": {
-  "price": 93.23,
-  "change_points": -2.86,
-  "percent_change": -2.98
+  "price": 93.1,
+  "change_points": -2.99,
+  "percent_change": -3.11
  },
  "headlines": [
   {
-   "headline": "Demócratas arrasan en las midterms y toman el Congreso: los futuros del Nasdaq cayeron hasta 2% y luego rebotaron",
-   "headline_en": "Democrats sweep the midterms and take Congress: Nasdaq futures fell as much as 2% before rebounding",
+   "headline": "Los futuros rebotan tras la barrida demócrata en las intermedias: el Dow sube más de 1,000 puntos",
+   "headline_en": "Futures rebound after Democrats sweep the midterms; Dow jumps over 1,000 points",
+   "source": "CNN"
+  },
+  {
+   "headline": "AMD y Arista se disparan tras sus resultados: AMD sube cerca de 6% y Arista cerca de 9% en premercado",
+   "headline_en": "AMD and Arista jump after earnings: AMD up about 6% and Arista about 9% premarket",
    "source": "Reuters"
   },
   {
-   "headline": "AMD y Arista suben con fuerza tras resultados sólidos pese a la caída general del mercado",
-   "headline_en": "AMD and Arista jump on strong earnings despite the broader market selloff",
-   "source": "InvestingLive"
+   "headline": "El Tesoro publica hoy los detalles de su refinanciación y el informe comercial de septiembre a las 8:30am ET",
+   "headline_en": "Treasury releases refunding details and September trade report today at 8:30am ET",
+   "source": "PRNewswire"
   },
   {
-   "headline": "El Tesoro publica hoy su plan de refinanciación trimestral: 618 mil millones de dólares en el trimestre",
-   "headline_en": "Treasury releases its quarterly refunding plan today: $618 billion in borrowing this quarter",
-   "source": "TradingView"
+   "headline": "El Nasdaq entró en corrección el lunes, pero el martes cerró con alza de 0.83% y el S&P 500 subió 0.36%",
+   "headline_en": "Nasdaq entered correction on Monday, but closed up 0.83% Tuesday and the S&P 500 rose 0.36%",
+   "source": "PRNewswire"
   },
   {
-   "headline": "El oro vuelve sobre los 4,000 dólares y la plata sube más de 4% ante la debilidad del dólar",
-   "headline_en": "Gold reclaims $4,000 and silver jumps over 4% as the dollar weakens",
-   "source": "Longbridge"
+   "headline": "El dólar cae a mínimo de un mes y el oro sube cerca de 3% mientras el mercado digiere el Congreso dividido",
+   "headline_en": "Dollar falls to one-month low and gold rises about 3% as markets digest divided Congress",
+   "source": "Reuters"
   },
   {
-   "headline": "Irán afirma que cuatro petroleros fueron alcanzados por minas en el estrecho de Ormuz",
-   "headline_en": "Iran claims four tankers were hit by mines in the Strait of Hormuz",
-   "source": "InvestingLive"
-  },
-  {
-   "headline": "Tesla cae más de 4% en premercado tras la derrota republicana en las elecciones",
-   "headline_en": "Tesla falls over 4% in premarket after the Republican defeat in the elections",
-   "source": "Finbold"
+   "headline": "Acciones de defensa y de centros de datos caen en premercado ante el nuevo panorama regulatorio",
+   "headline_en": "Defense and data-center stocks fall premarket amid the new regulatory outlook",
+   "source": "Investopedia"
   }
  ],
  "ultima_hora": {
-  "headline": "Trump pierde el Congreso: los demócratas arrasan en las midterms y el presidente promete vetar todo",
-  "headline_en": "Trump loses Congress: Democrats sweep the midterms as Trump vows to veto everything",
-  "source": "Reuters",
+  "headline": "Trump acepta la barrida demócrata en las intermedias y dice que trabajará con el nuevo Congreso: Wall Street rebota",
+  "headline_en": "Trump accepts the Democratic midterm sweep and says he will work with the new Congress as Wall Street rebounds",
+  "source": "CNN",
   "image": "",
   "images": [
    "https://boripropdeals.github.io/breaking-visuals/2026-11-04-trump-midterms-capitol-dawn.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-04-trump-midterms-wall-street-screens.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-04-trump-midterms-white-house-flags.webp"
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-04-trump-midterms-trading-screens.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-04-trump-midterms-wall-street-bull.webp"
   ]
  }
 }
