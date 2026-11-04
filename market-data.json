@@ -1,61 +1,61 @@
 {
- "updated_at": "2026-11-04T17:32:32.158258+00:00",
+ "updated_at": "2026-11-04T17:34:10.704676+00:00",
  "nq": {
-  "price": 28718.75,
-  "change_points": 413.0,
-  "percent_change": 1.46
+  "price": 28741.0,
+  "change_points": 435.25,
+  "percent_change": 1.54
  },
  "gold": {
-  "price": 4073.9,
-  "change_points": 133.5,
-  "percent_change": 3.39
+  "price": 4075.4,
+  "change_points": 135.0,
+  "percent_change": 3.43
  },
  "oil": {
-  "price": 87.99,
-  "change_points": -8.1,
-  "percent_change": -8.43
+  "price": 88.14,
+  "change_points": -7.95,
+  "percent_change": -8.27
  },
  "headlines": [
   {
-   "headline": "Wall Street rebota tras la barrida demócrata en las intermedias: el Dow sube 1,307 puntos en la apertura, su mejor día desde abril",
-   "headline_en": "Wall Street rebounds after the Democratic midterm sweep: the Dow jumps 1,307 points at the open, its best day since April",
-   "source": "CNN"
-  },
-  {
-   "headline": "AMD y Arista se disparan tras sus resultados: AMD sube cerca de 6% y Arista cerca de 9% en premercado",
-   "headline_en": "AMD and Arista surge after earnings: AMD up about 6% and Arista about 9% in premarket",
+   "headline": "Demócratas barren las intermedias y toman Cámara y Senado; los futuros se recuperan en V tras caer hasta 2.4%",
+   "headline_en": "Democrats sweep the midterms, taking House and Senate; futures rebound in a V-shape after falling as much as 2.4%",
    "source": "Reuters"
   },
   {
-   "headline": "El empleo privado sube 86,000 en octubre según ADP, por encima de los 69,000 esperados",
-   "headline_en": "Private payrolls rise 86,000 in October per ADP, above the 69,000 expected",
-   "source": "Sharecast"
-  },
-  {
-   "headline": "El Nasdaq entró en corrección el lunes, pero el martes cerró con alza de 0.83% y el S&P 500 subió 0.36%",
-   "headline_en": "The Nasdaq entered correction on Monday, but Tuesday closed up 0.83% and the S&P 500 rose 0.36%",
-   "source": "PRNewswire"
-  },
-  {
-   "headline": "El dólar cae a mínimo de un mes y el oro supera los $4,000 mientras el mercado digiere el Congreso dividido",
-   "headline_en": "The dollar falls to a one-month low and gold tops $4,000 as the market digests a divided Congress",
-   "source": "Reuters"
-  },
-  {
-   "headline": "El 'Trump trade' se desarma: Tesla, SpaceX y acciones de defensa caen tras la barrida demócrata",
-   "headline_en": "The 'Trump trade' unwinds: Tesla, SpaceX and defense stocks fall after the Democratic sweep",
+   "headline": "Se desarma el 'Trump trade': SpaceX y Tesla caen más de 5% y borran unos $200,000 millones antes de la apertura",
+   "headline_en": "Trump trade unwinds: SpaceX and Tesla drop over 5%, erasing about $200 billion before the open",
    "source": "TradingView"
+  },
+  {
+   "headline": "AMD sube más de 6% tras ingresos récord y un pronóstico de crecimiento acelerado para 2027",
+   "headline_en": "AMD jumps over 6% after record revenue and a faster-than-expected 2027 growth forecast",
+   "source": "Reuters"
+  },
+  {
+   "headline": "El Tesoro publica hoy su plan de refinanciamiento trimestral junto al informe comercial de septiembre",
+   "headline_en": "Treasury releases its quarterly refunding plan today alongside the September trade report",
+   "source": "TradingView"
+  },
+  {
+   "headline": "El oro recupera los $4,000 y los rendimientos caen mientras el dólar se debilita tras las elecciones",
+   "headline_en": "Gold reclaims $4,000 and yields fall as the dollar weakens after the elections",
+   "source": "Reuters"
+  },
+  {
+   "headline": "McDonald's encabeza un día cargado de resultados, con Qualcomm y Uber también en agenda",
+   "headline_en": "McDonald's headlines a busy earnings day, with Qualcomm and Uber also on tap",
+   "source": "Investopedia"
   }
  ],
  "ultima_hora": {
-  "headline": "Trump acepta la barrida demócrata en las intermedias y Wall Street rebota: el Dow sube más de 1,300 puntos",
-  "headline_en": "Trump accepts the Democratic midterm sweep and Wall Street rebounds as the Dow jumps over 1,300 points",
-  "source": "CNN",
+  "headline": "Barrida demócrata golpea al 'Trump trade': SpaceX y Tesla caen más de 5% y borran unos $200,000 millones",
+  "headline_en": "Democratic sweep hits the 'Trump trade': SpaceX and Tesla drop over 5%, erasing about $200 billion",
+  "source": "TradingView",
   "image": "",
   "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-04-trump-midterms-capitol-dawn.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-04-trump-midterms-trading-screens.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-04-trump-midterms-wall-street-bull.webp"
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-04-trump-midterm-capitol.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-04-trump-midterm-wallstreet.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-04-trump-midterm-ev-rocket.webp"
   ]
  }
 }
