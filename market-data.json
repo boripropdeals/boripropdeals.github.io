@@ -1,56 +1,61 @@
 {
- "updated_at": "2026-11-04T12:32:31.919390+00:00",
+ "updated_at": "2026-11-04T12:34:22.614473+00:00",
  "nq": {
-  "price": 28401.5,
-  "change_points": 95.75,
-  "percent_change": 0.34
+  "price": 28427.0,
+  "change_points": 121.25,
+  "percent_change": 0.43
  },
  "gold": {
-  "price": 4050.0,
-  "change_points": 109.6,
-  "percent_change": 2.78
+  "price": 4053.4,
+  "change_points": 113.0,
+  "percent_change": 2.87
  },
  "oil": {
-  "price": 94.94,
-  "change_points": -1.15,
-  "percent_change": -1.2
+  "price": 94.76,
+  "change_points": -1.33,
+  "percent_change": -1.38
  },
  "headlines": [
   {
-   "headline": "Los demócratas barren las elecciones intermedias: los futuros del Nasdaq caen más de 2% y luego recortan pérdidas",
-   "headline_en": "Democrats sweep the midterms: Nasdaq futures fall more than 2%, then pare losses",
-   "source": "Reuters"
+   "headline": "Demócratas barren las elecciones de medio término y los futuros del Nasdaq caen más de 2% en la noche",
+   "headline_en": "Democrats sweep the midterm elections as Nasdaq futures plunge over 2% overnight",
+   "source": "Invezz"
   },
   {
-   "headline": "AMD sube ~7% y Arista ~9.5% tras sus resultados, desafiando la caída general del mercado",
-   "headline_en": "AMD jumps about 7% and Arista about 9.5% after earnings, defying the broader sell-off",
+   "headline": "AMD y Arista se disparan tras sus resultados y desafían la caída general",
+   "headline_en": "AMD and Arista jump after earnings, defying the broader sell-off",
    "source": "InvestingLive"
   },
   {
-   "headline": "Las acciones de chips asiáticos se desploman: Samsung, SK Hynix y el Nikkei caen con fuerza",
-   "headline_en": "Asian chip stocks plunge: Samsung, SK Hynix and the Nikkei fall sharply",
-   "source": "Reuters"
+   "headline": "El oro vuelve a superar los $4,000 y la plata sube más de 4% por la búsqueda de refugio",
+   "headline_en": "Gold reclaims $4,000 and silver jumps over 4% as investors seek safety",
+   "source": "Longbridge"
   },
   {
-   "headline": "El dólar cae a su mínimo en un mes y el rendimiento del bono a 10 años baja hacia 4.90%",
-   "headline_en": "Dollar falls to a one-month low and the 10-year Treasury yield drops toward 4.90%",
-   "source": "Reuters"
+   "headline": "El Nikkei cae por debajo de 61,000 mientras Asia asimila el resultado electoral",
+   "headline_en": "Nikkei falls below 61,000 as Asia digests the election result",
+   "source": "BigGo Finance"
   },
   {
-   "headline": "El oro sube ~2.4% y la plata ~4% como refugio ante la incertidumbre política",
-   "headline_en": "Gold rises about 2.4% and silver about 4% as a haven amid political uncertainty",
-   "source": "TradingView"
+   "headline": "Los futuros recortan pérdidas y suben en el premercado tras confirmarse la victoria demócrata en la Cámara",
+   "headline_en": "Futures pare losses and turn higher in premarket after Democrats House win is confirmed",
+   "source": "TheStreet"
+  },
+  {
+   "headline": "Uber, CVS y McDonald’s reportan antes de la apertura; Qualcomm, Arm y AppLovin lo hacen al cierre",
+   "headline_en": "Uber, CVS and McDonald’s report before the bell; Qualcomm, Arm and AppLovin after the close",
+   "source": "TickerRoast"
   }
  ],
  "ultima_hora": {
-  "headline": "Trump pierde las midterms: los demócratas toman Cámara y Senado y sacuden al mercado",
-  "headline_en": "Trump loses the midterms: Democrats take House and Senate, rattling markets",
-  "source": "Reuters",
+  "headline": "Trump felicita a los demócratas por su barrida en el Congreso y advierte: 'vetaré todo'",
+  "headline_en": "Trump congratulates Democrats on their Congress sweep and warns: 'I'll just veto everything'",
+  "source": "TheStreet",
   "image": "",
   "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-04-trump-midterms-capitol.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-04-trump-midterms-trading-floor.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-04-trump-midterms-whitehouse-flags.webp"
+   "https://boripropdeals.github.io/breaking-visuals/trump-midterms-capitolio-2026-11-04.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/trump-midterms-bolsa-rebote-2026-11-04.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/trump-midterms-casa-blanca-veto-2026-11-04.jpg"
   ]
  }
 }
