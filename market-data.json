@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T22:34:32.667465+00:00",
+ "updated_at": "2026-11-04T22:34:49.201072+00:00",
  "nq": {
   "price": 28646.75,
   "change_points": 341.0,
@@ -17,30 +17,45 @@
  },
  "headlines": [
   {
-   "headline": "Wall Street cierra con su mejor día post-midterms en 44 años: el Dow sube 3% (+1,569 puntos)",
-   "headline_en": "Wall Street closes with its best post-midterm day in 44 years: Dow jumps 3% (+1,569 points)",
-   "source": "CNN"
-  },
-  {
-   "headline": "Trump acepta el resultado electoral y se abre a trabajar con el Congreso demócrata",
-   "headline_en": "Trump accepts the election outcome and says he is willing to work with the Democratic Congress",
+   "headline": "Demócratas arrasan en las midterms y recuperan el Congreso; los futuros caen de noche y luego rebotan con fuerza",
+   "headline_en": "Democrats sweep the midterms and retake Congress; futures plunge overnight then rebound sharply",
    "source": "Reuters"
   },
   {
-   "headline": "AMD se dispara tras un trimestre récord: sus ventas de centros de datos casi se duplican",
-   "headline_en": "AMD jumps after a record quarter as data-center sales nearly double",
+   "headline": "El Dow se dispara más de 1,100 puntos al abrir tras el resultado electoral",
+   "headline_en": "Dow soars more than 1,100 points at the open after the election result",
+   "source": "USA Today"
+  },
+  {
+   "headline": "Trump acepta el resultado y felicita a los demócratas, calmando el temor a una disputa electoral",
+   "headline_en": "Trump accepts the result and congratulates Democrats, easing fears of an election dispute",
+   "source": "BeInCrypto"
+  },
+  {
+   "headline": "AMD sube más de 6% tras pronosticar un crecimiento acelerado en centros de datos para 2027",
+   "headline_en": "AMD jumps over 6% after forecasting faster data-center growth for 2027",
    "source": "Reuters"
   },
   {
-   "headline": "El petróleo se desploma casi 9% y el oro supera los 4,000 dólares tras las elecciones",
-   "headline_en": "Oil plunges nearly 9% while gold tops 4,000 dollars after the elections",
-   "source": "Kitco"
+   "headline": "El Nasdaq 100 confirmó corrección técnica el lunes y el comercio de IA sigue bajo presión",
+   "headline_en": "Nasdaq 100 confirmed a technical correction on Monday and the AI trade remains under pressure",
+   "source": "Reuters"
   },
   {
-   "headline": "El empleo privado ADP supera lo esperado con 86,000 puestos, pero el ISM servicios se enfría",
-   "headline_en": "ADP private payrolls beat expectations at 86,000, while ISM services cools",
-   "source": "Reuters"
+   "headline": "Hoy en la agenda: ADP de empleo privado, anuncio de refinanciamiento del Tesoro e ISM de servicios",
+   "headline_en": "On today's calendar: ADP private payrolls, Treasury refunding announcement and ISM services",
+   "source": "The Retest"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Trump acepta la victoria demócrata en las midterms y Wall Street se dispara: el Dow sube más de 1,100 puntos",
+  "headline_en": "Trump accepts the Democratic midterm sweep and Wall Street surges: Dow jumps more than 1,100 points",
+  "source": "USA Today / Reuters",
+  "image": "",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-04-trump-midterms-capitol.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-04-trump-midterms-market-rally.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-04-trump-midterms-white-house.webp"
+  ]
+ }
 }
