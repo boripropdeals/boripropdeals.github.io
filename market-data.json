@@ -1,61 +1,46 @@
 {
- "updated_at": "2026-11-04T20:02:32.055714+00:00",
+ "updated_at": "2026-11-04T20:02:38.876956+00:00",
  "nq": {
-  "price": 28605.25,
-  "change_points": 299.5,
+  "price": 28605.5,
+  "change_points": 299.75,
   "percent_change": 1.06
  },
  "gold": {
-  "price": 4067.7,
-  "change_points": 127.3,
-  "percent_change": 3.23
+  "price": 4068.1,
+  "change_points": 127.7,
+  "percent_change": 3.24
  },
  "oil": {
-  "price": 88.45,
-  "change_points": -7.64,
-  "percent_change": -7.95
+  "price": 88.46,
+  "change_points": -7.63,
+  "percent_change": -7.94
  },
  "headlines": [
   {
-   "headline": "Dow rumbo a su mejor día post-midterm desde 1982 tras la barrida demócrata en el Congreso",
-   "headline_en": "Dow eyes best post-midterm day since 1982 as Democrats sweep Congress",
-   "source": "CNN"
+   "headline": "Wall Street sube tras la barrida demócrata en las elecciones de medio término: los demócratas toman la Cámara y el Senado",
+   "headline_en": "Wall Street rallies as Democrats sweep midterms, taking control of House and Senate",
+   "source": "Reuters / Kitco"
   },
   {
-   "headline": "Futuros de EE. UU. rebotan tras caer en la noche: el Nasdaq-100 llegó a bajar 2.4% y terminó en positivo",
-   "headline_en": "US stock futures rebound after overnight plunge as investors assess Democratic sweep",
-   "source": "Reuters"
+   "headline": "Los futuros del Nasdaq-100 cayeron hasta 2.4% en la madrugada y luego rebotaron a terreno positivo",
+   "headline_en": "Nasdaq-100 futures fell as much as 2.4% overnight before rebounding into positive territory",
+   "source": "Kitco"
   },
   {
-   "headline": "AMD salta más de 6% tras prever un crecimiento 2027 más rápido por sus chips de IA",
-   "headline_en": "AMD jumps over 6% after forecasting faster-than-expected 2027 growth on AI chips",
-   "source": "Reuters"
+   "headline": "AMD sube más de 6% tras pronosticar un crecimiento más rápido de lo esperado en 2027 por sus ventas de centros de datos",
+   "headline_en": "AMD jumps over 6% after forecasting faster-than-expected 2027 growth on surging data-center sales",
+   "source": "Kitco"
   },
   {
-   "headline": "El petróleo cae casi 8% mientras el mercado sopesa el futuro de la guerra con Irán bajo el nuevo Congreso",
-   "headline_en": "Oil drops almost 8% as traders weigh the future of the Iran war under the new Congress",
-   "source": "CNN"
-  },
-  {
-   "headline": "El Tesoro publica hoy los detalles de su refinanciación trimestral: espera emitir $618,000 millones en deuda",
-   "headline_en": "Treasury releases quarterly refunding details today, expects $618 billion in debt issuance",
-   "source": "TradingView"
-  },
-  {
-   "headline": "El Nasdaq-100 entró en corrección tras caer más de 10% desde su máximo del 6 de octubre",
-   "headline_en": "Nasdaq-100 entered correction after falling over 10% from its October 6 record",
+   "headline": "El Nasdaq-100 entró en corrección tras caer más de 10% desde su máximo récord del 6 de octubre",
+   "headline_en": "Nasdaq-100 entered correction territory after falling more than 10% from its October 6 record high",
    "source": "Zacks"
+  },
+  {
+   "headline": "El Tesoro publica hoy los detalles de su refinanciación trimestral; el rendimiento del bono a 10 años ronda el 4.95%",
+   "headline_en": "Treasury releases quarterly refunding details today; 10-year yield hovers near 4.95%",
+   "source": "TradingView / PRNewswire"
   }
  ],
- "ultima_hora": {
-  "headline": "Trump acepta la barrida demócrata y Wall Street celebra: el Dow vuela rumbo a su mejor día post-midterm desde 1982",
-  "headline_en": "Trump accepts Democratic midterm sweep as Wall Street rallies: Dow heads for best post-midterm day since 1982",
-  "source": "CNN",
-  "image": "",
-  "images": [
-   "https://boripropdeals.github.io/breaking-visuals/midterms-capitol-rally.webp",
-   "https://boripropdeals.github.io/breaking-visuals/midterms-nyse-floor.webp",
-   "https://boripropdeals.github.io/breaking-visuals/midterms-flag-chart.webp"
-  ]
- }
+ "ultima_hora": null
 }
