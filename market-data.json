@@ -1,61 +1,61 @@
 {
- "updated_at": "2026-11-04T14:32:34.285624+00:00",
+ "updated_at": "2026-11-04T14:34:32.216963+00:00",
  "nq": {
-  "price": 28460.0,
-  "change_points": 154.25,
+  "price": 28459.75,
+  "change_points": 154.0,
   "percent_change": 0.54
  },
  "gold": {
-  "price": 4049.6,
-  "change_points": 109.2,
-  "percent_change": 2.77
+  "price": 4045.8,
+  "change_points": 105.4,
+  "percent_change": 2.67
  },
  "oil": {
-  "price": 93.04,
-  "change_points": -3.05,
-  "percent_change": -3.17
+  "price": 92.93,
+  "change_points": -3.16,
+  "percent_change": -3.29
  },
  "headlines": [
   {
-   "headline": "Los demócratas arrasan en las elecciones de medio término y los futuros de EE.UU. rebotan tras caer más de 2% en la noche",
-   "headline_en": "Democrats sweep the midterm elections and US stock futures rebound after falling over 2% overnight",
+   "headline": "Demócratas arrasan en las midterms y toman el Congreso: los futuros del Nasdaq cayeron hasta 2% y luego rebotaron",
+   "headline_en": "Democrats sweep the midterms and take Congress: Nasdaq futures fell as much as 2% before rebounding",
    "source": "Reuters"
   },
   {
-   "headline": "AMD se dispara más de 6% tras prever un crecimiento acelerado en 2027 impulsado por sus centros de datos",
-   "headline_en": "AMD jumps over 6% after forecasting faster-than-expected 2027 growth driven by data centers",
-   "source": "Reuters"
+   "headline": "AMD y Arista suben con fuerza tras resultados sólidos pese a la caída general del mercado",
+   "headline_en": "AMD and Arista jump on strong earnings despite the broader market selloff",
+   "source": "InvestingLive"
   },
   {
-   "headline": "El oro vuelve a superar los $4,000 y la plata sube más de 4% ante la búsqueda de refugio y la caída del dólar",
-   "headline_en": "Gold climbs back above $4,000 and silver rises over 4% on safe-haven demand and a weaker dollar",
+   "headline": "El Tesoro publica hoy su plan de refinanciación trimestral: 618 mil millones de dólares en el trimestre",
+   "headline_en": "Treasury releases its quarterly refunding plan today: $618 billion in borrowing this quarter",
+   "source": "TradingView"
+  },
+  {
+   "headline": "El oro vuelve sobre los 4,000 dólares y la plata sube más de 4% ante la debilidad del dólar",
+   "headline_en": "Gold reclaims $4,000 and silver jumps over 4% as the dollar weakens",
    "source": "Longbridge"
   },
   {
-   "headline": "El Nikkei cae casi 3% y las acciones de IA en Asia se desploman tras el resultado electoral en EE.UU.",
-   "headline_en": "Nikkei drops nearly 3% and Asian AI stocks plunge after the US election result",
-   "source": "Reuters"
+   "headline": "Irán: cuatro petroleros destruidos por minas en el estrecho de Ormuz; el crudo se mantiene cerca de 96 dólares",
+   "headline_en": "Iran: four tankers destroyed by mines in the Strait of Hormuz; crude holds near $96",
+   "source": "DataForge"
   },
   {
-   "headline": "El Tesoro ofrece $125,000 millones en su refinanciamiento trimestral y mantiene sin cambios los tamaños de subasta",
-   "headline_en": "Treasury offers $125 billion in quarterly refunding and keeps auction sizes unchanged",
-   "source": "U.S. Treasury"
-  },
-  {
-   "headline": "Uber, CVS y McDonald’s reportan antes de la apertura; Qualcomm, Arm y AppLovin lo hacen al cierre",
-   "headline_en": "Uber, CVS and McDonald’s report before the bell; Qualcomm, Arm and AppLovin report after the close",
-   "source": "TickerRoast"
+   "headline": "Tesla cae más de 4% en premercado tras la derrota republicana en las elecciones",
+   "headline_en": "Tesla falls over 4% in premarket after the Republican defeat in the elections",
+   "source": "Finbold"
   }
  ],
  "ultima_hora": {
-  "headline": "Trump advierte que vetará todo tras la victoria demócrata en el Congreso",
-  "headline_en": "Trump warns he will veto everything after Democrats take Congress",
-  "source": "TheStreet / Reuters",
+  "headline": "Trump pierde el Congreso: los demócratas arrasan en las midterms y el presidente promete vetar todo",
+  "headline_en": "Trump loses Congress: Democrats sweep the midterms as Trump vows to veto everything",
+  "source": "Reuters",
   "image": "",
   "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-04-trump-midterms-capitol.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-04-trump-midterms-trading-floor.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-04-trump-midterms-white-house.webp"
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-04-trump-midterms-capitol-dawn.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-04-trump-midterms-wall-street-screens.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-04-trump-midterms-white-house-flags.webp"
   ]
  }
 }
