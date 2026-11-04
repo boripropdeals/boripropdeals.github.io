@@ -1,19 +1,19 @@
 {
- "updated_at": "2026-11-04T14:04:34.319006+00:00",
+ "updated_at": "2026-11-04T14:04:38.210482+00:00",
  "nq": {
-  "price": 28409.25,
-  "change_points": 103.5,
+  "price": 28411.0,
+  "change_points": 105.25,
   "percent_change": 0.37
  },
  "gold": {
-  "price": 4053.8,
-  "change_points": 113.4,
+  "price": 4053.7,
+  "change_points": 113.3,
   "percent_change": 2.88
  },
  "oil": {
-  "price": 93.6,
-  "change_points": -2.49,
-  "percent_change": -2.59
+  "price": 93.59,
+  "change_points": -2.5,
+  "percent_change": -2.6
  },
  "headlines": [
   {
@@ -35,6 +35,11 @@
    "headline": "El Nikkei cae casi 3% y las acciones de IA en Asia se desploman tras el resultado electoral en EE.UU.",
    "headline_en": "Nikkei drops nearly 3% and Asian AI stocks plunge after the US election result",
    "source": "Reuters"
+  },
+  {
+   "headline": "El Tesoro ofrece $125,000 millones en su refinanciamiento trimestral y mantiene sin cambios los tamaños de subasta",
+   "headline_en": "Treasury offers $125 billion in quarterly refunding and keeps auction sizes unchanged",
+   "source": "U.S. Treasury"
   },
   {
    "headline": "Uber, CVS y McDonald’s reportan antes de la apertura; Qualcomm, Arm y AppLovin lo hacen al cierre",
