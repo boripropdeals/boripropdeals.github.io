@@ -1,61 +1,61 @@
 {
- "updated_at": "2026-11-04T19:07:02.155245+00:00",
+ "updated_at": "2026-11-04T19:08:16.596163+00:00",
  "nq": {
-  "price": 28625.75,
-  "change_points": 320.0,
-  "percent_change": 1.13
+  "price": 28619.75,
+  "change_points": 314.0,
+  "percent_change": 1.11
  },
  "gold": {
-  "price": 4071.9,
-  "change_points": 131.5,
-  "percent_change": 3.34
+  "price": 4071.8,
+  "change_points": 131.4,
+  "percent_change": 3.33
  },
  "oil": {
-  "price": 88.02,
-  "change_points": -8.07,
-  "percent_change": -8.4
+  "price": 88.14,
+  "change_points": -7.95,
+  "percent_change": -8.27
  },
  "headlines": [
   {
-   "headline": "Demócratas barren las intermedias y toman Cámara y Senado; los futuros se recuperan en V tras caer hasta 2.4%",
-   "headline_en": "Democrats sweep the midterms, taking House and Senate; futures rebound in a V-shape after falling as much as 2.4%",
+   "headline": "Wall Street repunta tras el barrido demócrata en las intermedias: el Dow sube más de 1,100 puntos",
+   "headline_en": "Wall Street rallies after Democrats sweep the midterms: Dow jumps over 1,100 points",
    "source": "Reuters"
   },
   {
-   "headline": "Se desarma el Trump trade: SpaceX y Tesla caen más de 5% y borran unos $200,000 millones antes de la apertura",
-   "headline_en": "Trump trade unwinds: SpaceX and Tesla drop over 5%, erasing about $200 billion before the open",
+   "headline": "Los futuros del Nasdaq-100 cayeron hasta 2.4% y luego rebotaron tras conocerse los resultados",
+   "headline_en": "Nasdaq-100 futures fell as much as 2.4% before rebounding as midterm results came in",
+   "source": "Reuters"
+  },
+  {
+   "headline": "AMD sube más de 6% tras prever un crecimiento más rápido en 2027 por sus centros de datos",
+   "headline_en": "AMD jumps over 6% after forecasting faster-than-expected 2027 growth on surging data-center sales",
+   "source": "Reuters"
+  },
+  {
+   "headline": "Los chips repuntan y el Nasdaq cierra al alza el martes pese a entrar en corrección el lunes",
+   "headline_en": "Chip stocks rebound and Nasdaq closes higher Tuesday despite entering correction on Monday",
+   "source": "Zacks"
+  },
+  {
+   "headline": "El Tesoro publica hoy los detalles de su refinanciación y el informe comercial, tras ganancias mayores en grandes empresas",
+   "headline_en": "Treasury releases quarterly refunding details and trade report today after major companies post higher revenue",
    "source": "TradingView"
   },
   {
-   "headline": "AMD sube más de 6% tras ingresos récord y un pronóstico de crecimiento acelerado para 2027",
-   "headline_en": "AMD jumps over 6% after record revenue and a faster-than-expected 2027 growth forecast",
-   "source": "Reuters"
-  },
-  {
-   "headline": "El Tesoro publica hoy su plan de refinanciamiento trimestral junto al informe comercial de septiembre",
-   "headline_en": "Treasury releases its quarterly refunding plan today alongside the September trade report",
-   "source": "TradingView"
-  },
-  {
-   "headline": "El oro recupera los $4,000 y los rendimientos caen mientras el dólar se debilita tras las elecciones",
-   "headline_en": "Gold reclaims $4,000 and yields fall as the dollar weakens after the elections",
-   "source": "Reuters"
-  },
-  {
-   "headline": "McDonald’s encabeza un día cargado de resultados, con Qualcomm y Uber también en agenda",
-   "headline_en": "McDonald’s headlines a busy earnings day, with Qualcomm and Uber also on tap",
-   "source": "Investopedia"
+   "headline": "El oro vuelve a superar los $4,000 y la plata sube más de 4% por la búsqueda de refugio",
+   "headline_en": "Gold reclaims $4,000 and silver jumps over 4% as safe-haven demand returns",
+   "source": "Longbridge"
   }
  ],
  "ultima_hora": {
-  "headline": "Barrida demócrata golpea al Trump trade: SpaceX y Tesla caen más de 5% y borran unos $200,000 millones",
-  "headline_en": "Democratic sweep hits the Trump trade: SpaceX and Tesla drop over 5%, erasing about $200 billion",
-  "source": "TradingView",
+  "headline": "Trump acepta el barrido demócrata y advierte que vetará sus proyectos: la acción DJT cae cerca de 7%",
+  "headline_en": "Trump accepts Democratic sweep and vows to veto their bills as DJT stock drops about 7%",
+  "source": "Sharecast / Finbold",
   "image": "",
   "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-04-trump-midterm-capitol.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-04-trump-midterm-wallstreet.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-04-trump-midterm-ev-rocket.webp"
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-04-trump-midterms-capitol-rally.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-04-trump-midterms-trading-floor.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-04-trump-midterms-white-house-veto.webp"
   ]
  }
 }
