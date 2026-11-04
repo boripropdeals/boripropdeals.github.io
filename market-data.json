@@ -1,46 +1,56 @@
 {
- "updated_at": "2026-11-04T20:34:33.121687+00:00",
+ "updated_at": "2026-11-04T20:35:11.293671+00:00",
  "nq": {
-  "price": 28605.0,
-  "change_points": 299.25,
-  "percent_change": 1.06
+  "price": 28603.0,
+  "change_points": 297.25,
+  "percent_change": 1.05
  },
  "gold": {
-  "price": 4072.9,
-  "change_points": 132.5,
-  "percent_change": 3.36
+  "price": 4072.4,
+  "change_points": 132.0,
+  "percent_change": 3.35
  },
  "oil": {
-  "price": 88.76,
-  "change_points": -7.33,
-  "percent_change": -7.63
+  "price": 88.82,
+  "change_points": -7.27,
+  "percent_change": -7.57
  },
  "headlines": [
   {
-   "headline": "Wall Street sube tras la barrida demócrata en las elecciones de medio término: los demócratas toman la Cámara y el Senado",
-   "headline_en": "Wall Street rallies as Democrats sweep midterms, taking control of House and Senate",
-   "source": "Reuters / Kitco"
+   "headline": "Wall Street se dispara al apostar al bloqueo en Washington tras la victoria demócrata",
+   "headline_en": "Wall Street surges as investors bet on Washington gridlock after Democratic sweep",
+   "source": "Sharecast"
   },
   {
-   "headline": "Los futuros del Nasdaq-100 cayeron hasta 2.4% en la madrugada y luego rebotaron a terreno positivo",
-   "headline_en": "Nasdaq-100 futures fell as much as 2.4% overnight before rebounding into positive territory",
-   "source": "Kitco"
+   "headline": "El Trump trade se desarma: Tesla, SpaceX, defensa y DJT caen en la apertura",
+   "headline_en": "Trump trade unwinds: Tesla, SpaceX, defense stocks and DJT sink at the open",
+   "source": "TradingView"
   },
   {
-   "headline": "AMD sube más de 6% tras pronosticar un crecimiento más rápido de lo esperado en 2027 por sus ventas de centros de datos",
-   "headline_en": "AMD jumps over 6% after forecasting faster-than-expected 2027 growth on surging data-center sales",
-   "source": "Kitco"
+   "headline": "Dólar a mínimo de un mes y bono a 10 años en 4.91% mientras el oro supera los $4,000",
+   "headline_en": "Dollar hits one-month low and 10-year yield falls to 4.91% as gold tops $4,000",
+   "source": "Reuters"
   },
   {
-   "headline": "El Nasdaq-100 entró en corrección tras caer más de 10% desde su máximo récord del 6 de octubre",
-   "headline_en": "Nasdaq-100 entered correction territory after falling more than 10% from its October 6 record high",
-   "source": "Zacks"
+   "headline": "Empleo privado ADP sube 86,000 en octubre y supera lo esperado",
+   "headline_en": "ADP private payrolls rise 86,000 in October, beating expectations",
+   "source": "Sharecast"
   },
   {
-   "headline": "El Tesoro publica hoy los detalles de su refinanciación trimestral; el rendimiento del bono a 10 años ronda el 4.95%",
-   "headline_en": "Treasury releases quarterly refunding details today; 10-year yield hovers near 4.95%",
-   "source": "TradingView / PRNewswire"
+   "headline": "Futuros del Nasdaq cayeron hasta 2.4% en la noche y luego rebotaron con fuerza",
+   "headline_en": "Nasdaq futures fell as much as 2.4% overnight before rebounding sharply",
+   "source": "Reuters"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Trump acepta la victoria demócrata en las midterms y advierte que vetará sus proyectos absurdos",
+  "headline_en": "Trump accepts Democrats midterm sweep and warns he will veto their crazy bills",
+  "source": "Sharecast",
+  "image": "",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/trump-midterms-capitol-blue-wave-2026-11-04.webp",
+   "https://boripropdeals.github.io/breaking-visuals/trump-midterms-wall-street-rally-2026-11-04.webp",
+   "https://boripropdeals.github.io/breaking-visuals/trump-midterms-veto-desk-2026-11-04.webp"
+  ]
+ }
 }
