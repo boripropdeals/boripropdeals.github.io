@@ -1,50 +1,45 @@
 {
- "updated_at": "2026-11-04T21:32:36.893171+00:00",
+ "updated_at": "2026-11-04T21:33:36.205737+00:00",
  "nq": {
-  "price": 28630.75,
-  "change_points": 325.0,
-  "percent_change": 1.15
+  "price": 28644.5,
+  "change_points": 338.75,
+  "percent_change": 1.2
  },
  "gold": {
-  "price": 4075.3,
-  "change_points": 134.9,
-  "percent_change": 3.42
+  "price": 4076.0,
+  "change_points": 135.6,
+  "percent_change": 3.44
  },
  "oil": {
-  "price": 88.45,
-  "change_points": -7.64,
-  "percent_change": -7.95
+  "price": 88.44,
+  "change_points": -7.65,
+  "percent_change": -7.96
  },
  "headlines": [
   {
-   "headline": "Futuros de EE. UU. rebotan tras la victoria demócrata en el Congreso: el Dow sube más de 1,000 puntos y Trump dice que acepta el resultado",
-   "headline_en": "US futures rebound after Democrats sweep Congress: Dow jumps over 1,000 points as Trump says he will accept the result",
+   "headline": "Wall Street se dispara tras el barrido demócrata en las midterms: el Dow sube más de 1,500 puntos",
+   "headline_en": "Wall Street surges after Democrats sweep the midterms: Dow jumps over 1,500 points",
+   "source": "Associated Press"
+  },
+  {
+   "headline": "Trump acepta el resultado electoral y los futuros revierten su caída nocturna",
+   "headline_en": "Trump accepts the election outcome as futures reverse their overnight drop",
    "source": "Reuters"
   },
   {
-   "headline": "AMD reporta trimestre récord: ingresos de $13.4 mil millones y centros de datos casi duplicados, con guía de ~$17 mil millones para el Q4",
-   "headline_en": "AMD reports record quarter: $13.4 billion revenue with data-center sales nearly doubling, guiding to ~$17 billion for Q4",
+   "headline": "AMD se dispara tras un trimestre récord: sus ventas de centros de datos casi se duplican",
+   "headline_en": "AMD jumps after a record quarter as data-center sales nearly double",
    "source": "Reuters"
   },
   {
-   "headline": "El ISM de servicios se enfría a 54.5 y el empleo privado ADP sube 86,000 en octubre, antes del reporte de nóminas del viernes",
-   "headline_en": "ISM services cools to 54.5 and ADP private payrolls rise 86,000 in October, ahead of Friday's jobs report",
-   "source": "Reuters"
-  },
-  {
-   "headline": "El oro recupera los $4,000 con un alza cercana al 3% mientras el dólar cae tras las elecciones intermedias",
-   "headline_en": "Gold reclaims $4,000 with a gain near 3% as the dollar falls after the midterms",
+   "headline": "El petróleo se desploma casi 9% y el oro supera los 4,000 dólares tras las elecciones",
+   "headline_en": "Oil plunges nearly 9% while gold tops 4,000 dollars after the elections",
    "source": "Kitco"
   },
   {
-   "headline": "McDonald's supera expectativas con EPS de $3.57 y sube cerca de 5% pese a ingresos por debajo de lo esperado",
-   "headline_en": "McDonald's beats with $3.57 EPS and rises nearly 5% despite revenue missing expectations",
-   "source": "TipRanks"
-  },
-  {
-   "headline": "El Tesoro mantiene sin cambios los tamaños de subasta en su anuncio trimestral de refinanciamiento: $125 mil millones en deuda a 3, 10 y 30 años",
-   "headline_en": "Treasury keeps auction sizes unchanged in quarterly refunding announcement: $125 billion in 3-, 10- and 30-year debt",
-   "source": "TradingView News"
+   "headline": "El empleo privado ADP supera lo esperado con 86,000 puestos, pero el ISM servicios se enfría a 54.5",
+   "headline_en": "ADP private payrolls beat expectations at 86,000, while ISM services cools to 54.5",
+   "source": "Reuters"
   }
  ],
  "ultima_hora": null
