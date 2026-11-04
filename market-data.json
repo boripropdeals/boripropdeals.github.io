@@ -1,55 +1,55 @@
 {
- "updated_at": "2026-11-04T17:02:31.985726+00:00",
+ "updated_at": "2026-11-04T17:03:04.544979+00:00",
  "nq": {
-  "price": 28729.0,
-  "change_points": 423.25,
-  "percent_change": 1.5
+  "price": 28724.0,
+  "change_points": 418.25,
+  "percent_change": 1.48
  },
  "gold": {
-  "price": 4073.5,
-  "change_points": 133.1,
-  "percent_change": 3.38
+  "price": 4072.4,
+  "change_points": 132.0,
+  "percent_change": 3.35
  },
  "oil": {
-  "price": 88.44,
-  "change_points": -7.65,
-  "percent_change": -7.96
+  "price": 88.39,
+  "change_points": -7.7,
+  "percent_change": -8.01
  },
  "headlines": [
   {
-   "headline": "Los futuros rebotan tras la barrida demócrata en las intermedias: el Dow sube más de 1,000 puntos",
-   "headline_en": "Futures rebound after Democrats sweep the midterms; Dow jumps over 1,000 points",
-   "source": "Reuters"
+   "headline": "Wall Street rebota tras la barrida demócrata en las intermedias: el Dow sube 1,307 puntos en la apertura, su mejor día desde abril",
+   "headline_en": "Wall Street rebounds after the Democratic midterm sweep: the Dow jumps 1,307 points at the open, its best day since April",
+   "source": "CNN"
   },
   {
    "headline": "AMD y Arista se disparan tras sus resultados: AMD sube cerca de 6% y Arista cerca de 9% en premercado",
-   "headline_en": "AMD and Arista jump after earnings: AMD up about 6% and Arista about 9% premarket",
+   "headline_en": "AMD and Arista surge after earnings: AMD up about 6% and Arista about 9% in premarket",
    "source": "Reuters"
   },
   {
-   "headline": "El Tesoro publica hoy los detalles de su refinanciación y el informe comercial de septiembre a las 8:30am ET",
-   "headline_en": "Treasury releases refunding details and September trade report today at 8:30am ET",
-   "source": "PRNewswire"
+   "headline": "El empleo privado sube 86,000 en octubre según ADP, por encima de los 69,000 esperados",
+   "headline_en": "Private payrolls rise 86,000 in October per ADP, above the 69,000 expected",
+   "source": "Sharecast"
   },
   {
    "headline": "El Nasdaq entró en corrección el lunes, pero el martes cerró con alza de 0.83% y el S&P 500 subió 0.36%",
-   "headline_en": "Nasdaq entered correction on Monday, but closed up 0.83% Tuesday and the S&P 500 rose 0.36%",
+   "headline_en": "The Nasdaq entered correction on Monday, but Tuesday closed up 0.83% and the S&P 500 rose 0.36%",
    "source": "PRNewswire"
   },
   {
    "headline": "El dólar cae a mínimo de un mes y el oro supera los $4,000 mientras el mercado digiere el Congreso dividido",
-   "headline_en": "Dollar falls to one-month low and gold tops $4,000 as markets digest divided Congress",
+   "headline_en": "The dollar falls to a one-month low and gold tops $4,000 as the market digests a divided Congress",
    "source": "Reuters"
   },
   {
-   "headline": "El ‘Trump trade’ se desarma: Tesla, SpaceX y acciones de defensa caen en premercado tras la barrida demócrata",
-   "headline_en": "The Trump trade unwinds: Tesla, SpaceX and defense stocks fall premarket after the Democratic sweep",
+   "headline": "El 'Trump trade' se desarma: Tesla, SpaceX y acciones de defensa caen tras la barrida demócrata",
+   "headline_en": "The 'Trump trade' unwinds: Tesla, SpaceX and defense stocks fall after the Democratic sweep",
    "source": "TradingView"
   }
  ],
  "ultima_hora": {
-  "headline": "Trump acepta la barrida demócrata en las intermedias y dice que trabajará con el nuevo Congreso: Wall Street rebota",
-  "headline_en": "Trump accepts the Democratic midterm sweep and says he will work with the new Congress as Wall Street rebounds",
+  "headline": "Trump acepta la barrida demócrata en las intermedias y Wall Street rebota: el Dow sube más de 1,300 puntos",
+  "headline_en": "Trump accepts the Democratic midterm sweep and Wall Street rebounds as the Dow jumps over 1,300 points",
   "source": "CNN",
   "image": "",
   "images": [
