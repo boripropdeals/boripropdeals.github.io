@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-11-04T22:02:34.973699+00:00",
+ "updated_at": "2026-11-04T22:03:48.377835+00:00",
  "nq": {
-  "price": 28625.0,
-  "change_points": 319.25,
-  "percent_change": 1.13
+  "price": 28636.0,
+  "change_points": 330.25,
+  "percent_change": 1.17
  },
  "gold": {
   "price": 4070.7,
@@ -11,19 +11,19 @@
   "percent_change": 3.31
  },
  "oil": {
-  "price": 88.11,
-  "change_points": -7.98,
-  "percent_change": -8.3
+  "price": 88.07,
+  "change_points": -8.02,
+  "percent_change": -8.35
  },
  "headlines": [
   {
-   "headline": "Wall Street se dispara tras el barrido demócrata en las midterms: el Dow sube más de 1,500 puntos",
-   "headline_en": "Wall Street surges after Democrats sweep the midterms: Dow jumps over 1,500 points",
-   "source": "Associated Press"
+   "headline": "Wall Street cierra con su mejor día post-midterms en 44 años: el Dow sube 3% (+1,569 puntos)",
+   "headline_en": "Wall Street closes with its best post-midterm day in 44 years: Dow jumps 3% (+1,569 points)",
+   "source": "CNN"
   },
   {
-   "headline": "Trump acepta el resultado electoral y los futuros revierten su caída nocturna",
-   "headline_en": "Trump accepts the election outcome as futures reverse their overnight drop",
+   "headline": "Trump acepta el resultado electoral y se abre a trabajar con el Congreso demócrata",
+   "headline_en": "Trump accepts the election outcome and says he is willing to work with the Democratic Congress",
    "source": "Reuters"
   },
   {
@@ -37,8 +37,8 @@
    "source": "Kitco"
   },
   {
-   "headline": "El empleo privado ADP supera lo esperado con 86,000 puestos, pero el ISM servicios se enfría a 54.5",
-   "headline_en": "ADP private payrolls beat expectations at 86,000, while ISM services cools to 54.5",
+   "headline": "El empleo privado ADP supera lo esperado con 86,000 puestos, pero el ISM servicios se enfría",
+   "headline_en": "ADP private payrolls beat expectations at 86,000, while ISM services cools",
    "source": "Reuters"
   }
  ],
