@@ -1,61 +1,51 @@
 {
- "updated_at": "2026-11-05T12:32:32.078013+00:00",
+ "updated_at": "2026-11-05T12:32:50.384903+00:00",
  "nq": {
-  "price": 28379.25,
-  "change_points": -187.5,
-  "percent_change": -0.66
+  "price": 28368.5,
+  "change_points": -198.25,
+  "percent_change": -0.69
  },
  "gold": {
-  "price": 4137.1,
-  "change_points": 64.1,
-  "percent_change": 1.57
+  "price": 4137.5,
+  "change_points": 64.5,
+  "percent_change": 1.58
  },
  "oil": {
-  "price": 89.52,
-  "change_points": 1.4,
-  "percent_change": 1.59
+  "price": 89.5,
+  "change_points": 1.38,
+  "percent_change": 1.57
  },
  "headlines": [
   {
-   "headline": "Wall Street celebra la 'ola azul': el Dow sube 3% en su mejor día post-midterm desde 1982",
-   "headline_en": "Wall Street cheers the 'blue wave': Dow jumps 3% in best post-midterm day since 1982",
+   "headline": "Los futuros del Nasdaq caen por la debilidad de los chips; Qualcomm se desploma ~10% tras fallar estimaciones",
+   "headline_en": "Nasdaq futures fall on chip weakness; Qualcomm plunges ~10% after missing estimates",
    "source": "Reuters"
   },
   {
-   "headline": "El petróleo se desploma casi 9% ante la esperanza de un fin de la guerra con Irán",
-   "headline_en": "Oil plunges nearly 9% on hopes of an end to the Iran war",
+   "headline": "Los futuros del Dow suben tras el rally post-midterms; los demócratas barren el Congreso y el Dow saltó 3% el miércoles",
+   "headline_en": "Dow futures rise after post-midterm rally; Democrats sweep Congress as the Dow jumps 3% on Wednesday",
    "source": "Reuters"
   },
   {
-   "headline": "El oro supera los $4,100 con su mayor subida en dos días desde abril",
-   "headline_en": "Gold tops $4,100 in biggest two-day jump since April",
+   "headline": "El Banco de Inglaterra decide hoy: se espera una subida de tasas al 4%, la primera desde agosto de 2023",
+   "headline_en": "Bank of England decides today: rate hike to 4% expected, first since August 2023",
    "source": "Reuters"
   },
   {
-   "headline": "Banco de Inglaterra decide hoy: se espera su primera subida de tipos desde 2023, al 4%",
-   "headline_en": "Bank of England decides today: first rate hike since 2023 expected, to 4%",
+   "headline": "El petróleo se desploma: el WTI cae más de 8% hasta $88.12 por la distensión geopolítica",
+   "headline_en": "Oil plunges: WTI drops over 8% to $88.12 as geopolitical tensions ease",
    "source": "XTB"
   },
   {
-   "headline": "Asia se divide: Corea del Sur se hunde casi 5% y los futuros del Nasdaq caen ~1%",
-   "headline_en": "Asia splits: South Korea sinks nearly 5% and Nasdaq futures fall ~1%",
-   "source": "Reuters"
+   "headline": "Solicitudes semanales de desempleo hoy (se esperan ~197K) y el informe de empleo de octubre el viernes en la mira",
+   "headline_en": "Weekly jobless claims due today (expected ~197K), with Friday's October jobs report in focus",
+   "source": "Invezz"
   },
   {
-   "headline": "La inflación de la eurozona llega al 4%, el doble del objetivo del BCE",
-   "headline_en": "Eurozone inflation hits 4%, double the ECB's target",
-   "source": "Finimize"
+   "headline": "Debate sobre el gasto en IA: UBS eleva su pronóstico a $1.4 billones mientras Citrini advierte que el crecimiento ya tocó techo",
+   "headline_en": "AI spending debate: UBS lifts forecast to $1.4 trillion while Citrini warns investment growth has peaked",
+   "source": "XTB"
   }
  ],
- "ultima_hora": {
-  "headline": "Trump Media se desploma 24.5% a mínimo histórico tras la derrota republicana",
-  "headline_en": "Trump Media plunges 24.5% to record low after Republican defeat",
-  "source": "Billionaires.Africa",
-  "image": "",
-  "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-05-trump-media-record-low-trading-screens.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-05-trump-media-record-low-smartphone-chart.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-05-trump-media-record-low-wall-street-storm.webp"
-  ]
- }
+ "ultima_hora": null
 }
