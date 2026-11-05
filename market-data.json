@@ -1,49 +1,49 @@
 {
- "updated_at": "2026-11-05T13:30:32.316506+00:00",
+ "updated_at": "2026-11-05T13:32:18.568182+00:00",
  "nq": {
-  "price": 28336.0,
-  "change_points": -230.75,
-  "percent_change": -0.81
+  "price": 28343.25,
+  "change_points": -223.5,
+  "percent_change": -0.78
  },
  "gold": {
-  "price": 4124.9,
-  "change_points": 51.9,
-  "percent_change": 1.27
+  "price": 4125.3,
+  "change_points": 52.3,
+  "percent_change": 1.28
  },
  "oil": {
-  "price": 89.9,
-  "change_points": 1.78,
-  "percent_change": 2.02
+  "price": 89.87,
+  "change_points": 1.75,
+  "percent_change": 1.99
  },
  "headlines": [
   {
-   "headline": "Los futuros del Nasdaq caen por la debilidad de los chips: Qualcomm se desploma 10% tras decepcionar en ventas",
-   "headline_en": "Nasdaq futures slide as chip weakness bites: Qualcomm plunges 10% after missing sales estimates",
-   "source": "Reuters / SRN News"
+   "headline": "Los futuros del Nasdaq caen por la debilidad de los chips: Qualcomm se desploma 10% tras fallar en ventas",
+   "headline_en": "Nasdaq futures fall on chip weakness as Qualcomm plunges 10% after sales miss",
+   "source": "Reuters"
   },
   {
-   "headline": "El Dow sube en futuros tras su rally de 1.569 puntos por la victoria demócrata en las elecciones de medio término",
-   "headline_en": "Dow futures rise after 1,569-point post-midterm rally as Democrats sweep Congress",
-   "source": "Invezz"
+   "headline": "El Dow sube 3% (1,569 puntos) tras la victoria demócrata en las elecciones de medio término",
+   "headline_en": "Dow jumps 3% (1,569 points) after Democrats sweep midterm elections",
+   "source": "Reuters"
   },
   {
-   "headline": "El Banco de Inglaterra se espera que suba la tasa a 4%, su primer aumento desde agosto de 2023",
-   "headline_en": "Bank of England expected to hike rates to 4%, its first increase since August 2023",
-   "source": "The Retest"
+   "headline": "El Banco de Inglaterra decidiría hoy subir su tasa a 4%, su primer aumento desde agosto de 2023",
+   "headline_en": "Bank of England expected to hike rates to 4% today, first increase since August 2023",
+   "source": "Reuters"
   },
   {
-   "headline": "El petróleo rebota tras desplomarse más de 8% por la caída de tensiones con Irán tras las elecciones",
-   "headline_en": "Oil rebounds after plunging more than 8% as Iran tensions ease following the election",
+   "headline": "El petróleo rebota tras desplomarse más de 8% por el alivio de tensiones en Medio Oriente",
+   "headline_en": "Oil rebounds after plunging over 8% as Middle East tensions ease",
    "source": "XTB"
   },
   {
-   "headline": "Solicitudes de desempleo semanales en la mira: se esperan ~197.000 y el reporte de empleos de octubre llega el viernes",
-   "headline_en": "Weekly jobless claims in focus: ~197,000 expected, with October jobs report due Friday",
+   "headline": "Solicitudes de desempleo semanales hoy a las 7:30am CT; el informe de empleos de octubre llega el viernes",
+   "headline_en": "Weekly jobless claims due at 7:30am CT; October jobs report comes Friday",
    "source": "Invezz"
   },
   {
-   "headline": "Debate sobre la IA: UBS eleva su pronóstico de gasto a $1,4 billones mientras Citrini advierte que el auge de infraestructura tocó techo",
-   "headline_en": "AI spending debate: UBS lifts forecast to $1.4 trillion while Citrini warns infrastructure boom has peaked",
+   "headline": "El oro sube a ~$4,135 por onza, su mayor ganancia diaria desde agosto",
+   "headline_en": "Gold climbs to around $4,135 per ounce, biggest daily gain since August",
    "source": "XTB"
   }
  ],
