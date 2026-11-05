@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-11-05T21:32:32.238621+00:00",
+ "updated_at": "2026-11-05T21:32:41.044218+00:00",
  "nq": {
-  "price": 26632.75,
-  "change_points": -1934.0,
-  "percent_change": -6.77
+  "price": 26626.0,
+  "change_points": -1940.75,
+  "percent_change": -6.79
  },
  "gold": {
-  "price": 4099.1,
-  "change_points": 26.1,
+  "price": 4099.0,
+  "change_points": 26.0,
   "percent_change": 0.64
  },
  "oil": {
-  "price": 90.72,
-  "change_points": 2.6,
-  "percent_change": 2.95
+  "price": 90.7,
+  "change_points": 2.58,
+  "percent_change": 2.93
  },
  "headlines": [
   {
-   "headline": "Nasdaq entra en corrección: cae más de 10% desde su récord por la venta masiva de chips e IA",
-   "headline_en": "Nasdaq enters correction, down over 10% from its record as chip and AI selloff deepens",
+   "headline": "El Nasdaq cae ~5% y entra en corrección por el desplome de chips e IA",
+   "headline_en": "Nasdaq sinks ~5% and enters correction as chip and AI stocks plunge",
    "source": "Reuters"
   },
   {
-   "headline": "Banco de Inglaterra sube su tasa a 4.00%, primera alza desde agosto de 2023",
-   "headline_en": "Bank of England raises rates to 4.00%, first hike since August 2023",
+   "headline": "Qualcomm se desploma 9% tras decepcionar en ventas de chips para smartphones",
+   "headline_en": "Qualcomm slides 9% after missing smartphone chip sales estimates",
    "source": "Reuters"
   },
   {
-   "headline": "Oro supera los $4,100, su mayor subida en dos días desde abril",
-   "headline_en": "Gold tops $4,100, its biggest two-day gain since April",
+   "headline": "El Banco de Inglaterra sube su tasa a 4.00%, primer alza desde agosto de 2023",
+   "headline_en": "Bank of England hikes rates to 4.00%, first increase since August 2023",
    "source": "Reuters"
   },
   {
-   "headline": "Petróleo se recupera tras desplomarse ~9% por esperanzas de desescalada en Irán",
-   "headline_en": "Oil rebounds after ~9% plunge on hopes of Iran de-escalation",
+   "headline": "El oro supera $4,100 la onza, su mayor ganancia en dos días desde abril",
+   "headline_en": "Gold tops $4,100 an ounce, biggest two-day gain since April",
+   "source": "Reuters"
+  },
+  {
+   "headline": "El petróleo rebota: el Brent cerca de $96 tras la caída del 8% del miércoles",
+   "headline_en": "Oil rebounds with Brent near $96 after Wednesday's 8% plunge",
    "source": "Kitco"
   },
   {
-   "headline": "Wall Street celebró el barrido demócrata en las midterms: Dow +3.03%, su mejor sesión en 18 meses",
-   "headline_en": "Wall Street cheered the Democrats’ midterm sweep: Dow +3.03%, best session in 18 months",
-   "source": "Zacks"
-  },
-  {
-   "headline": "Mañana viernes llega el reporte de empleo de octubre (NFP) a las 7:30am CT",
-   "headline_en": "October jobs report (NFP) due Friday at 7:30am CT",
-   "source": "The Retest"
+   "headline": "Mañana viernes: nóminas no agrícolas de octubre (consenso 65K) a las 7:30am CT",
+   "headline_en": "Friday brings October payrolls (65K consensus) at 7:30am CT",
+   "source": "Reuters"
   }
  ],
  "ultima_hora": null
