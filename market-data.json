@@ -1,30 +1,30 @@
 {
- "updated_at": "2026-11-05T18:08:37.320868+00:00",
+ "updated_at": "2026-11-05T18:09:29.397844+00:00",
  "nq": {
-  "price": 26939.25,
-  "change_points": -1627.5,
-  "percent_change": -5.7
+  "price": 26926.0,
+  "change_points": -1640.75,
+  "percent_change": -5.74
  },
  "gold": {
-  "price": 4113.1,
-  "change_points": 40.1,
-  "percent_change": 0.98
+  "price": 4113.8,
+  "change_points": 40.8,
+  "percent_change": 1.0
  },
  "oil": {
-  "price": 90.32,
-  "change_points": 2.2,
-  "percent_change": 2.5
+  "price": 90.28,
+  "change_points": 2.16,
+  "percent_change": 2.45
  },
  "headlines": [
   {
-   "headline": "El Nasdaq se desploma ~4% por la venta masiva de acciones de chips e IA",
-   "headline_en": "Nasdaq sinks ~4% as AI chip selloff hits semiconductor stocks",
+   "headline": "El Nasdaq se encamina a corrección por la venta masiva de chips e IA",
+   "headline_en": "Nasdaq heads for correction as AI chip selloff deepens",
    "source": "Reuters"
   },
   {
-   "headline": "El Dow cerró con su quinta mayor alza diaria tras la victoria demócrata en las elecciones de medio término",
-   "headline_en": "Dow posts fifth-largest one-day gain after Democrats sweep midterm elections",
-   "source": "Investopedia"
+   "headline": "Wall Street se dispara tras la barrida demócrata en las midterms: el Dow sube 3%",
+   "headline_en": "Wall Street surges after Democratic midterm sweep; Dow jumps 3%",
+   "source": "Zacks"
   },
   {
    "headline": "El Banco de Inglaterra sube las tasas al 4.00%, su primera alza desde agosto de 2023",
@@ -32,20 +32,30 @@
    "source": "The Retest"
   },
   {
-   "headline": "El petróleo rebota tras desplomarse casi 9% el miércoles",
-   "headline_en": "Oil rebounds after plunging nearly 9% on Wednesday",
-   "source": "Investopedia"
+   "headline": "Las solicitudes de desempleo caen a mínimos post-Covid y la productividad sorprende con +3.6%",
+   "headline_en": "Jobless claims sink to post-Covid lows as Q3 productivity beats at 3.6%",
+   "source": "TradingView"
   },
   {
-   "headline": "El oro supera los $4,000 mientras el bitcoin cae por debajo de $77,000",
-   "headline_en": "Gold tops $4,000 as bitcoin drops below $77,000",
-   "source": "The Retest"
+   "headline": "El petróleo rebota tras desplomarse más de 8% por esperanzas de distensión con Irán",
+   "headline_en": "Oil rebounds after plunging over 8% on Iran de-escalation hopes",
+   "source": "Kitco"
   },
   {
-   "headline": "Toyota sube 9% tras elevar su pronóstico; AppLovin se dispara 22% por resultados récord",
-   "headline_en": "Toyota jumps 9% after lifting outlook; AppLovin soars 22% on record results",
-   "source": "Investopedia"
+   "headline": "El mercado espera las nóminas de octubre de mañana; la Fed podría subir tasas el próximo mes",
+   "headline_en": "Markets await Friday's October payrolls as Fed hike looms next month",
+   "source": "Reuters"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Trump Media se desploma 24.5% a mínimo histórico tras la barrida demócrata en las midterms",
+  "headline_en": "Trump Media plunges 24.5% to record low after Democratic midterm sweep",
+  "source": "Billionaires.Africa",
+  "image": "",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-05-trump-media-record-low-trading-screens.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-05-trump-media-record-low-smartphone-chart.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-05-trump-media-record-low-wall-street-storm.webp"
+  ]
+ }
 }
