@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-11-05T15:32:31.681365+00:00",
+ "updated_at": "2026-11-05T15:32:54.383823+00:00",
  "nq": {
-  "price": 27270.0,
-  "change_points": -1296.75,
-  "percent_change": -4.54
+  "price": 27295.0,
+  "change_points": -1271.75,
+  "percent_change": -4.45
  },
  "gold": {
-  "price": 4118.4,
-  "change_points": 45.4,
+  "price": 4118.3,
+  "change_points": 45.3,
   "percent_change": 1.11
  },
  "oil": {
-  "price": 90.29,
-  "change_points": 2.17,
-  "percent_change": 2.46
+  "price": 90.32,
+  "change_points": 2.2,
+  "percent_change": 2.5
  },
  "headlines": [
   {
-   "headline": "Wall Street celebra el triunfo demócrata en las midterms: el Dow sube 3%, su mejor día en 18 meses",
-   "headline_en": "Wall Street rallies after Democrats sweep the midterms: Dow jumps 3%, its best day in 18 months",
-   "source": "Reuters"
+   "headline": "Las acciones de chips de IA se desploman tras la apertura y arrastran al Nasdaq",
+   "headline_en": "AI chip stocks plunge after the open, dragging the Nasdaq lower",
+   "source": "Yahoo Finance"
   },
   {
-   "headline": "El petróleo se desploma casi 9% por esperanzas de un acuerdo sobre Irán y el estrecho de Ormuz",
-   "headline_en": "Oil plunges nearly 9% on hopes of a deal over Iran and the Strait of Hormuz",
-   "source": "Reuters"
+   "headline": "Wall Street celebra el triunfo demócrata en las elecciones de medio término: el Dow sube más de 1,500 puntos",
+   "headline_en": "Markets cheer Democratic midterm sweep, betting divided Washington means fewer policy shocks",
+   "source": "BusinessWorld"
   },
   {
-   "headline": "El Banco de Inglaterra sube las tasas a 4,00%, su primer aumento desde agosto de 2023",
-   "headline_en": "Bank of England raises rates to 4.00%, its first hike since August 2023",
-   "source": "The Weekend Spread"
+   "headline": "El Banco de Inglaterra sube las tasas al 4%, su primer aumento desde 2023",
+   "headline_en": "Bank of England raises rates to 4%, its first hike since 2023",
+   "source": "XTB"
   },
   {
-   "headline": "Qualcomm se desploma 10% en preapertura pese a superar ganancias por la caída en chips de móviles",
-   "headline_en": "Qualcomm plunges 10% premarket despite an earnings beat as handset chip sales fall",
-   "source": "TipRanks"
+   "headline": "El oro supera los $4,100 por onza ante la incertidumbre política",
+   "headline_en": "Gold surges past $4,100 on safe-haven demand",
+   "source": "Ray's Finance Intel"
   },
   {
-   "headline": "Los futuros del Nasdaq caen mientras los chips se venden por segunda sesión consecutiva",
-   "headline_en": "Nasdaq futures slip as chip stocks sell off for a second straight session",
-   "source": "The Weekend Spread"
+   "headline": "Las solicitudes de desempleo caen a 189,000, mejor de lo esperado",
+   "headline_en": "Weekly jobless claims fall to 189,000, below expectations",
+   "source": "Ray's Finance Intel"
   },
   {
-   "headline": "El oro supera los $4.100 por onza y el dólar cae a su nivel más bajo desde septiembre",
-   "headline_en": "Gold tops $4,100 an ounce as the dollar falls to its lowest since September",
-   "source": "Reuters"
+   "headline": "El petróleo cae más de 8% tras las elecciones y alivia la presión inflacionaria",
+   "headline_en": "Oil plunges over 8% after midterms, easing inflation pressure",
+   "source": "Dimsum Daily"
   }
  ],
  "ultima_hora": null
