@@ -799,11 +799,12 @@ to{background-position:0 240px,60px 220px,120px 410px}}
 
 
 /* Cupón con tema de Navidad: rojo + dorado + lima */
-body.xh2-theme .bpd-coupon{background:linear-gradient(100deg,#d61f30,#8f0f1e 55%,#a31226);border:2px dashed rgba(212,175,55,.85)}
-body.xh2-theme .bpd-coupon .cp-code{background:linear-gradient(90deg,#f6d365,#d4af37 55%,#a3e635)}
-body.xh2-theme .bpd-coupon .cp-pct{color:#a3e635}
-body.xh2-theme .bpd-coupon .cp-scis{background:#14532d;color:#fff}
-body.xh2-theme .bpd-coupon .cp-label{color:#fff8e7}
+body.xh2-theme .bpd-coupon{background:repeating-linear-gradient(45deg,#c11a30 0 14px,#fff 14px 28px);border:2px dashed rgba(212,175,55,.85)}
+body.xh2-theme .bpd-coupon .cp-code{background:none;-webkit-background-clip:initial;background-clip:initial;color:#fff;text-shadow:0 2px 6px rgba(0,0,0,.6)}
+body.xh2-theme .bpd-coupon .cp-pct{color:#fff;text-shadow:0 2px 6px rgba(0,0,0,.6)}
+body.xh2-theme .bpd-coupon .cp-copy{color:#fff;text-shadow:0 1px 4px rgba(0,0,0,.6)}
+body.xh2-theme .bpd-coupon .cp-scis{background:#fff;color:#c11a30}
+body.xh2-theme .bpd-coupon .cp-label{color:#fff;text-shadow:0 1px 4px rgba(0,0,0,.6)}
 
 /* Radar navideño: disco verde, scan rojo/dorado, pestaña roja, trineo de fondo */
 body.xh2-theme .rscope{background:radial-gradient(circle at 50% 50%,rgba(163,230,53,.10),rgba(20,83,45,.28) 55%,rgba(5,20,10,.45) 100%),linear-gradient(160deg,rgba(20,83,45,.88),rgba(5,46,22,.92));border:1px solid rgba(212,175,55,.55);box-shadow:0 0 42px rgba(193,26,48,.28),inset 0 0 30px rgba(0,0,0,.35)}
@@ -819,6 +820,12 @@ body.xh2-theme .rinfo::after{content:"";position:absolute;top:-8px;right:10px;wi
 .xh2-sleigh img{width:100%;height:auto;display:block;animation:xh2-sleigh-bob 2.8s ease-in-out infinite alternate}
 @keyframes xh2-sleigh-fly{from{transform:translateX(-115%)}to{transform:translateX(430%)}}
 @keyframes xh2-sleigh-bob{from{transform:translateY(-5px)}to{transform:translateY(6px)}}
+
+/* Mini-cupón del modal: bastón de caramelo rojo/blanco, código blanco sólido y legible */
+body.xh2-theme .mini-coupon{background:repeating-linear-gradient(45deg,#c11a30 0 10px,#fff 10px 20px);border:1.6px dashed #fff;color:#fff;text-shadow:0 1px 4px rgba(0,0,0,.55)}
+body.xh2-theme .mini-coupon .mc-code{background:none;-webkit-background-clip:initial;background-clip:initial;color:#fff;text-shadow:0 1px 4px rgba(0,0,0,.55)}
+body.xh2-theme .mini-coupon .mc-label{color:#fff;text-shadow:0 1px 4px rgba(0,0,0,.55)}
+body.xh2-theme .mini-coupon .mc-off{color:#fff;text-shadow:0 1px 4px rgba(0,0,0,.55)}
 </style>
 </head>
 <body class="xh2-theme" id="top">
