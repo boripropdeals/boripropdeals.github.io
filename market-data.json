@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-11-05T16:02:31.404002+00:00",
+ "updated_at": "2026-11-05T16:02:58.601571+00:00",
  "nq": {
-  "price": 26861.5,
-  "change_points": -1705.25,
-  "percent_change": -5.97
+  "price": 26796.5,
+  "change_points": -1770.25,
+  "percent_change": -6.2
  },
  "gold": {
-  "price": 4109.2,
-  "change_points": 36.2,
-  "percent_change": 0.89
+  "price": 4105.8,
+  "change_points": 32.8,
+  "percent_change": 0.81
  },
  "oil": {
-  "price": 90.05,
-  "change_points": 1.93,
-  "percent_change": 2.19
+  "price": 90.06,
+  "change_points": 1.94,
+  "percent_change": 2.2
  },
  "headlines": [
   {
-   "headline": "Las acciones de chips de IA se desploman tras la apertura y arrastran al Nasdaq",
-   "headline_en": "AI chip stocks plunge after the open, dragging the Nasdaq lower",
-   "source": "Yahoo Finance"
+   "headline": "Los futuros del Nasdaq caen arrastrados por los chips tras el rally post-midterms",
+   "headline_en": "Nasdaq futures fall as chip weakness offsets post-midterm rally",
+   "source": "Reuters"
   },
   {
-   "headline": "Wall Street celebra el triunfo demócrata en las elecciones de medio término: el Dow sube más de 1,500 puntos",
-   "headline_en": "Markets cheer Democratic midterm sweep, betting divided Washington means fewer policy shocks",
-   "source": "BusinessWorld"
+   "headline": "El Banco de Inglaterra subiría hoy las tasas al 4%, su primera alza desde 2023",
+   "headline_en": "Bank of England expected to hike rates to 4% today, first increase since 2023",
+   "source": "Reuters"
   },
   {
-   "headline": "El Banco de Inglaterra sube las tasas al 4%, su primer aumento desde 2023",
-   "headline_en": "Bank of England raises rates to 4%, its first hike since 2023",
-   "source": "XTB"
+   "headline": "El petróleo rebota ~3% tras el incendio de petroleros en el estrecho de Ormuz",
+   "headline_en": "Oil rebounds about 3% after tankers catch fire in Strait of Hormuz",
+   "source": "TipRanks"
   },
   {
-   "headline": "El oro supera los $4,100 por onza ante la incertidumbre política",
-   "headline_en": "Gold surges past $4,100 on safe-haven demand",
-   "source": "Ray's Finance Intel"
+   "headline": "El Dow se disparó 3% (1.569 puntos) tras la victoria demócrata en las midterms",
+   "headline_en": "Dow soared 3%, up 1,569 points, after Democrats’ midterm sweep",
+   "source": "Investopedia"
   },
   {
-   "headline": "Las solicitudes de desempleo caen a 189,000, mejor de lo esperado",
-   "headline_en": "Weekly jobless claims fall to 189,000, below expectations",
-   "source": "Ray's Finance Intel"
+   "headline": "Solicitudes semanales de desempleo hoy; se esperan unas 197.000",
+   "headline_en": "Weekly jobless claims due today, around 197,000 expected",
+   "source": "Invezz"
   },
   {
-   "headline": "El petróleo cae más de 8% tras las elecciones y alivia la presión inflacionaria",
-   "headline_en": "Oil plunges over 8% after midterms, easing inflation pressure",
-   "source": "Dimsum Daily"
+   "headline": "El oro supera los $4.100 mientras caen los rendimientos",
+   "headline_en": "Gold surges past $4,100 as yields fall",
+   "source": "Ray’s Finance Intel"
   }
  ],
  "ultima_hora": null
