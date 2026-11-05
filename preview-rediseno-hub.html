@@ -804,6 +804,21 @@ body.xh2-theme .bpd-coupon .cp-code{background:linear-gradient(90deg,#f6d365,#d4
 body.xh2-theme .bpd-coupon .cp-pct{color:#a3e635}
 body.xh2-theme .bpd-coupon .cp-scis{background:#14532d;color:#fff}
 body.xh2-theme .bpd-coupon .cp-label{color:#fff8e7}
+
+/* Radar navideño: disco verde, scan rojo/dorado, pestaña roja, trineo de fondo */
+body.xh2-theme .rscope{background:radial-gradient(circle at 50% 50%,rgba(163,230,53,.10),rgba(20,83,45,.28) 55%,rgba(5,20,10,.45) 100%),linear-gradient(160deg,rgba(20,83,45,.88),rgba(5,46,22,.92));border:1px solid rgba(212,175,55,.55);box-shadow:0 0 42px rgba(193,26,48,.28),inset 0 0 30px rgba(0,0,0,.35)}
+body.xh2-theme .rsweep{background:conic-gradient(from 0deg,rgba(232,38,58,.6),rgba(212,175,55,.28) 12%,transparent 24%)}
+body.xh2-theme .rrings{background:repeating-radial-gradient(circle at 50% 50%,transparent 0,transparent 24%,rgba(212,175,55,.32) 24%,rgba(212,175,55,.32) calc(24% + 1px))}
+body.xh2-theme .rcenter{background:#e8263a;box-shadow:0 0 16px #e8263a,0 0 4px #fff}
+body.xh2-theme .rblip{background:linear-gradient(135deg,#e8263a,#99101f);border-color:#f6d365;color:#fff}
+body.xh2-theme .rblip.rank1{background:linear-gradient(135deg,#f6d365,#d4af37);color:#3a2404;border-color:#fff}
+body.xh2-theme .radar-tab.active{background:linear-gradient(135deg,#e8263a,#a31226)!important;color:#fff!important;border-color:rgba(212,175,55,.7)!important;box-shadow:0 4px 16px rgba(232,38,58,.4)!important}
+body.xh2-theme .rinfo{position:relative}
+body.xh2-theme .rinfo::after{content:"";position:absolute;top:-8px;right:10px;width:26px;height:18px;z-index:3;pointer-events:none;background-image:url("data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%20120%2080%27%3E%3Cpath%20d%3D%27M12%2062%20Q22%2016%2064%2010%20Q106%206%20112%2050%20Q112%2060%20102%2060%20L18%2062%20Q8%2062%2012%2062Z%27%20fill%3D%27%23c11a30%27%2F%3E%3Cellipse%20cx%3D%2760%27%20cy%3D%2760%27%20rx%3D%2756%27%20ry%3D%2710%27%20fill%3D%27%23ffffff%27%2F%3E%3Ccircle%20cx%3D%27110%27%20cy%3D%2748%27%20r%3D%279%27%20fill%3D%27%23ffffff%27%2F%3E%3C%2Fsvg%3E");background-size:contain;background-repeat:no-repeat;transform:rotate(12deg)}
+.xh2-sleigh{position:absolute;top:33%;left:0;width:280px;height:118px;z-index:0;pointer-events:none;animation:xh2-sleigh-fly 26s linear infinite}
+.xh2-sleigh img{width:100%;height:auto;display:block;animation:xh2-sleigh-bob 2.8s ease-in-out infinite alternate}
+@keyframes xh2-sleigh-fly{from{transform:translateX(-115%)}to{transform:translateX(430%)}}
+@keyframes xh2-sleigh-bob{from{transform:translateY(-5px)}to{transform:translateY(6px)}}
 </style>
 </head>
 <body class="xh2-theme" id="top">
@@ -870,7 +885,7 @@ body.xh2-theme .bpd-coupon .cp-label{color:#fff8e7}
 </div>
     </section><div class="xh2-garland" aria-hidden="true"></div>
     <div class="xh2-duo">
-      <aside class="visual-terminal" aria-label="Radar interactivo de velocidad">
+      <aside class="visual-terminal" aria-label="Radar interactivo de velocidad"><div class="xh2-sleigh" aria-hidden="true"><img src="https://boripropdeals.github.io/assets/santa-sleigh.png" alt=""></div>
         <div class="chart-head"><span data-t="radarTitle">RADAR · QUIÉN PAGA MÁS RÁPIDO</span><strong data-t="radarLive">DATOS AL 13 OCT</strong></div>
         <div class="radar-tabs"><button class="radar-tab active" data-radar-mode="payout" type="button" data-t="payoutFast">Retiros rápidos</button><button class="radar-tab" data-radar-mode="funding" type="button" data-t="fundingFast">Fondeo veloz</button><button class="radar-tab" data-radar-mode="cheap" type="button" data-t="cheapFast">Más económicas</button></div>
         <div class="radar-list" id="radarList"></div>
