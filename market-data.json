@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-11-05T19:02:33.685464+00:00",
+ "updated_at": "2026-11-05T19:02:39.672164+00:00",
  "nq": {
-  "price": 26889.5,
-  "change_points": -1677.25,
-  "percent_change": -5.87
+  "price": 26879.5,
+  "change_points": -1687.25,
+  "percent_change": -5.91
  },
  "gold": {
-  "price": 4111.0,
-  "change_points": 38.0,
-  "percent_change": 0.93
+  "price": 4111.1,
+  "change_points": 38.1,
+  "percent_change": 0.94
  },
  "oil": {
-  "price": 90.18,
-  "change_points": 2.06,
-  "percent_change": 2.34
+  "price": 90.13,
+  "change_points": 2.01,
+  "percent_change": 2.28
  },
  "headlines": [
   {
-   "headline": "El Nasdaq se desploma ~5% por la venta masiva de chips e IA tras las elecciones",
-   "headline_en": "Nasdaq sinks ~5% as AI selloff hits chip and data-center stocks",
-   "source": "Eurasia Business News"
+   "headline": "El Nasdaq se encamina a una corrección por el desplome de las acciones de chips e IA",
+   "headline_en": "Nasdaq heads for correction as chip and AI stocks plunge",
+   "source": "Reuters / Kitco"
+  },
+  {
+   "headline": "Qualcomm cae 9% tras decepcionar en ventas de chips para smartphones",
+   "headline_en": "Qualcomm slides 9% after disappointing smartphone chip sales",
+   "source": "Reuters"
   },
   {
    "headline": "El Banco de Inglaterra sube las tasas al 4%, su primer aumento desde 2023",
-   "headline_en": "Bank of England hikes rates to 4%, first increase since August 2023",
-   "source": "The Retest"
+   "headline_en": "Bank of England hikes rates to 4%, its first increase since 2023",
+   "source": "Reuters"
   },
   {
-   "headline": "Las solicitudes de desempleo caen a mínimos pos-Covid y la productividad salta 3.6%",
-   "headline_en": "Jobless claims sink to post-Covid lows as Q3 productivity jumps 3.6%",
-   "source": "TradingView"
+   "headline": "Wall Street se disparó el miércoles tras la victoria demócrata en las elecciones de medio término",
+   "headline_en": "Wall Street surged Wednesday after Democrats swept the midterm elections",
+   "source": "Zacks"
   },
   {
-   "headline": "El petróleo se estabiliza cerca de $96 tras la caída del miércoles; el oro supera los $4,100",
-   "headline_en": "Oil steadies near $96 after Wednesday’s plunge; gold holds above $4,100",
-   "source": "Investopedia"
+   "headline": "El informe de empleo de octubre se publica mañana viernes",
+   "headline_en": "October jobs report due out Friday morning",
+   "source": "Reuters"
   },
   {
-   "headline": "El Dow resiste mientras el Nasdaq retrocede: se enfría el rally postelectoral",
-   "headline_en": "Dow holds gains as Nasdaq lags; post-election rally cools",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "Toyota sube 9% tras elevar su previsión; AppLovin se dispara 22%",
-   "headline_en": "Toyota jumps 9% after lifting outlook; AppLovin soars 22%",
-   "source": "Investopedia"
+   "headline": "El petróleo se recupera y el oro sube a $4,088 por onza",
+   "headline_en": "Oil recovers and gold climbs to $4,088 an ounce",
+   "source": "Kitco"
   }
  ],
  "ultima_hora": null
