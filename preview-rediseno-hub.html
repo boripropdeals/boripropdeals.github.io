@@ -2482,5 +2482,12 @@ const c=info.querySelector('[data-radar-firm]');if(c)c.addEventListener('click',
 </script>
 <script>(function(){var m=document.getElementById("signupModal");if(!m)return;var p=new URLSearchParams(window.location.search);if(p.get("registered")==="1"){try{localStorage.setItem("bpd-subscribed","1");}catch(e){}return;}try{if(localStorage.getItem("bpd-subscribed")==="1")return;}catch(e){}setTimeout(function(){m.classList.add("open");document.body.style.overflow="hidden";},1800);})();</script>
 <script>(function(){var EXP=new Date('2026-11-01T00:00:00-05:00');if(Date.now()>=EXP.getTime()){var b=document.getElementById("fnSignupBanner");if(b)b.remove();}})();</script>
+
+<style>
+/* X del popup de suscripción en móvil: fija, grande y con contraste (no se pierde al desplazar) */
+@media(max-width:760px){
+  body.xh2-theme .signup-close{position:fixed!important;top:12px!important;right:12px!important;width:44px!important;height:44px!important;font-size:26px!important;line-height:1!important;z-index:99!important;background:#0f172a!important;border:2px solid #a3e635!important;color:#fff!important;box-shadow:0 4px 16px rgba(0,0,0,.55)!important}
+}
+</style>
 </body>
 </html>
