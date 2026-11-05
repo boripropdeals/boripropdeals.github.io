@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-11-05T19:32:35.784376+00:00",
+ "updated_at": "2026-11-05T19:33:23.983422+00:00",
  "nq": {
-  "price": 26946.0,
-  "change_points": -1620.75,
-  "percent_change": -5.67
+  "price": 26940.5,
+  "change_points": -1626.25,
+  "percent_change": -5.69
  },
  "gold": {
-  "price": 4112.4,
-  "change_points": 39.4,
-  "percent_change": 0.97
+  "price": 4111.7,
+  "change_points": 38.7,
+  "percent_change": 0.95
  },
  "oil": {
-  "price": 90.36,
-  "change_points": 2.24,
-  "percent_change": 2.54
+  "price": 90.33,
+  "change_points": 2.21,
+  "percent_change": 2.51
  },
  "headlines": [
   {
-   "headline": "El Nasdaq se encamina a una corrección por el desplome de las acciones de chips e IA",
-   "headline_en": "Nasdaq heads for correction as chip and AI stocks plunge",
-   "source": "Reuters / Kitco"
-  },
-  {
-   "headline": "Qualcomm cae 9% tras decepcionar en ventas de chips para smartphones",
-   "headline_en": "Qualcomm slides 9% after disappointing smartphone chip sales",
+   "headline": "Los demócratas barren en las intermedias y el Dow sube 3%, su mejor día desde abril de 2025",
+   "headline_en": "Democrats sweep the midterms and the Dow jumps 3%, its best day since April 2025",
    "source": "Reuters"
   },
   {
-   "headline": "El Banco de Inglaterra sube las tasas al 4%, su primer aumento desde 2023",
-   "headline_en": "Bank of England hikes rates to 4%, its first increase since 2023",
+   "headline": "El Nasdaq cae: Qualcomm se desploma ~10% y arrastra a los chips tras decepcionar su guía",
+   "headline_en": "Nasdaq slides as Qualcomm plunges ~10% and drags chip stocks after a weak outlook",
    "source": "Reuters"
   },
   {
-   "headline": "Wall Street se disparó el miércoles tras la victoria demócrata en las elecciones de medio término",
-   "headline_en": "Wall Street surged Wednesday after Democrats swept the midterm elections",
-   "source": "Zacks"
-  },
-  {
-   "headline": "El informe de empleo de octubre se publica mañana viernes",
-   "headline_en": "October jobs report due out Friday morning",
+   "headline": "El Banco de Inglaterra subiría las tasas a 4%, su primer aumento desde 2023",
+   "headline_en": "Bank of England expected to hike rates to 4%, its first increase since 2023",
    "source": "Reuters"
   },
   {
-   "headline": "El petróleo se recupera y el oro sube a $4,088 por onza",
-   "headline_en": "Oil recovers and gold climbs to $4,088 an ounce",
-   "source": "Kitco"
+   "headline": "El petróleo sube ~3% tras reportes de buques en llamas en el estrecho de Ormuz",
+   "headline_en": "Oil jumps ~3% after reports of tankers on fire at the Strait of Hormuz",
+   "source": "Upstox"
+  },
+  {
+   "headline": "Solicitudes de desempleo hoy y el informe de empleo el viernes, en la mira",
+   "headline_en": "Weekly jobless claims due today, jobs report in focus on Friday",
+   "source": "Invezz"
+  },
+  {
+   "headline": "Toyota eleva su pronóstico; Airbnb y Cloudflare reportan resultados hoy",
+   "headline_en": "Toyota lifts its outlook; Airbnb and Cloudflare report earnings today",
+   "source": "Investopedia"
   }
  ],
  "ultima_hora": null
