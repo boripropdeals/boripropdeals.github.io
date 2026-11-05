@@ -1,49 +1,49 @@
 {
- "updated_at": "2026-11-05T13:00:35.413524+00:00",
+ "updated_at": "2026-11-05T13:02:16.699576+00:00",
  "nq": {
-  "price": 28313.75,
-  "change_points": -253.0,
+  "price": 28313.5,
+  "change_points": -253.25,
   "percent_change": -0.89
  },
  "gold": {
-  "price": 4128.4,
-  "change_points": 55.4,
-  "percent_change": 1.36
+  "price": 4129.4,
+  "change_points": 56.4,
+  "percent_change": 1.38
  },
  "oil": {
-  "price": 89.53,
-  "change_points": 1.41,
-  "percent_change": 1.6
+  "price": 89.61,
+  "change_points": 1.49,
+  "percent_change": 1.69
  },
  "headlines": [
   {
-   "headline": "Los futuros del Nasdaq caen por la debilidad de los chips; Qualcomm se desploma ~10% tras fallar estimaciones",
-   "headline_en": "Nasdaq futures fall on chip weakness; Qualcomm plunges ~10% after missing estimates",
-   "source": "Reuters"
+   "headline": "Los futuros del Nasdaq caen por la debilidad de los chips: Qualcomm se desploma 10% tras decepcionar en ventas",
+   "headline_en": "Nasdaq futures slide as chip weakness bites: Qualcomm plunges 10% after missing sales estimates",
+   "source": "Reuters / SRN News"
   },
   {
-   "headline": "Los futuros del Dow suben tras el rally post-midterms; los demócratas barren el Congreso y el Dow saltó 3% el miércoles",
-   "headline_en": "Dow futures rise after post-midterm rally; Democrats sweep Congress as the Dow jumps 3% on Wednesday",
-   "source": "Reuters"
-  },
-  {
-   "headline": "El Banco de Inglaterra decide hoy: se espera una subida de tasas al 4%, la primera desde agosto de 2023",
-   "headline_en": "Bank of England decides today: rate hike to 4% expected, first since August 2023",
-   "source": "Reuters"
-  },
-  {
-   "headline": "El petróleo se desploma: el WTI cae más de 8% hasta $88.12 por la distensión geopolítica",
-   "headline_en": "Oil plunges: WTI drops over 8% to $88.12 as geopolitical tensions ease",
-   "source": "XTB"
-  },
-  {
-   "headline": "Solicitudes semanales de desempleo hoy (se esperan ~197K) y el informe de empleo de octubre el viernes en la mira",
-   "headline_en": "Weekly jobless claims due today (expected ~197K), with Friday's October jobs report in focus",
+   "headline": "El Dow sube en futuros tras su rally de 1.569 puntos por la victoria demócrata en las elecciones de medio término",
+   "headline_en": "Dow futures rise after 1,569-point post-midterm rally as Democrats sweep Congress",
    "source": "Invezz"
   },
   {
-   "headline": "Debate sobre el gasto en IA: UBS eleva su pronóstico a $1.4 billones mientras Citrini advierte que el crecimiento ya tocó techo",
-   "headline_en": "AI spending debate: UBS lifts forecast to $1.4 trillion while Citrini warns investment growth has peaked",
+   "headline": "El Banco de Inglaterra se espera que suba la tasa a 4%, su primer aumento desde agosto de 2023",
+   "headline_en": "Bank of England expected to hike rates to 4%, its first increase since August 2023",
+   "source": "The Retest"
+  },
+  {
+   "headline": "El petróleo rebota tras desplomarse más de 8% por la caída de tensiones con Irán tras las elecciones",
+   "headline_en": "Oil rebounds after plunging more than 8% as Iran tensions ease following the election",
+   "source": "XTB"
+  },
+  {
+   "headline": "Solicitudes de desempleo semanales en la mira: se esperan ~197.000 y el reporte de empleos de octubre llega el viernes",
+   "headline_en": "Weekly jobless claims in focus: ~197,000 expected, with October jobs report due Friday",
+   "source": "Invezz"
+  },
+  {
+   "headline": "Debate sobre la IA: UBS eleva su pronóstico de gasto a $1,4 billones mientras Citrini advierte que el auge de infraestructura tocó techo",
+   "headline_en": "AI spending debate: UBS lifts forecast to $1.4 trillion while Citrini warns infrastructure boom has peaked",
    "source": "XTB"
   }
  ],
