@@ -1,44 +1,49 @@
 {
- "updated_at": "2026-11-05T20:30:36.540177+00:00",
+ "updated_at": "2026-11-05T20:32:20.452110+00:00",
  "nq": {
-  "price": 26942.0,
-  "change_points": -1624.75,
-  "percent_change": -5.69
+  "price": 26910.75,
+  "change_points": -1656.0,
+  "percent_change": -5.8
  },
  "gold": {
-  "price": 4117.3,
-  "change_points": 44.3,
-  "percent_change": 1.09
+  "price": 4116.4,
+  "change_points": 43.4,
+  "percent_change": 1.07
  },
  "oil": {
-  "price": 90.87,
-  "change_points": 2.75,
-  "percent_change": 3.12
+  "price": 90.8,
+  "change_points": 2.68,
+  "percent_change": 3.04
  },
  "headlines": [
   {
-   "headline": "El Nasdaq entra en corrección: cae más de 10% desde su máximo por la venta masiva de chips e IA",
-   "headline_en": "Nasdaq enters correction, down over 10% from its record high as chip and AI selloff deepens",
-   "source": "Reuters / Kitco"
-  },
-  {
-   "headline": "Qualcomm se desploma 9% tras decepcionar en ventas de chips para smartphones",
-   "headline_en": "Qualcomm plunges 9% after missing smartphone chip sales estimates",
+   "headline": "El Nasdaq se desploma 5% y entra en corrección por la venta masiva de chips e IA",
+   "headline_en": "Nasdaq plunges 5% and enters correction as AI chip selloff deepens",
    "source": "Reuters"
   },
   {
-   "headline": "Banco de Inglaterra: se espera una subida de tasas a 4%, la primera desde 2023",
-   "headline_en": "Bank of England expected to hike rates to 4%, first increase since 2023",
-   "source": "Reuters / The Retest"
+   "headline": "Qualcomm se hunde 9% tras decepcionar en ventas de chips para smartphones",
+   "headline_en": "Qualcomm sinks 9% after disappointing smartphone chip sales",
+   "source": "Reuters"
   },
   {
-   "headline": "El petróleo repunta: el Brent ronda $96 tras desplomarse 8.7% el miércoles",
-   "headline_en": "Oil rebounds: Brent near $96 after plunging 8.7% on Wednesday",
-   "source": "Kitco"
+   "headline": "El Banco de Inglaterra sube su tasa a 4.00%, su primera alza del ciclo",
+   "headline_en": "Bank of England hikes rate to 4.00%, first hike of the cycle",
+   "source": "XTB"
   },
   {
-   "headline": "Nóminas de octubre, mañana viernes: el mercado espera otra subida de la Fed en diciembre",
-   "headline_en": "October payrolls due Friday: markets expect another Fed hike in December",
+   "headline": "Solicitudes de desempleo en 189K, por debajo de los 197K esperados",
+   "headline_en": "Jobless claims come in at 189K, below the 197K expected",
+   "source": "Forex Factory"
+  },
+  {
+   "headline": "Bitcoin cae más de 5.5% y prueba los $76,000",
+   "headline_en": "Bitcoin drops more than 5.5%, testing $76,000",
+   "source": "XTB"
+  },
+  {
+   "headline": "Mañana 7:30am CT: nóminas no agrícolas de octubre, consenso 65K",
+   "headline_en": "Tomorrow 7:30am CT: October nonfarm payrolls, consensus 65K",
    "source": "Reuters"
   }
  ],
