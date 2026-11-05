@@ -724,6 +724,13 @@ body.xh2-theme .brand-lockup{position:relative}
 /* ---- Fila Ranking + Market Pulse ---- */
 .xh2-duo{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.18fr);gap:18px;align-items:stretch;margin:0 0 18px}
 .xh2-duo #marketPulse{margin:0}
+/* Pulse dentro de la fila duo: la columna es angosta, usa el layout de 3 índices + noticias abajo */
+.xh2-duo .pulse-grid{grid-template-columns:repeat(3,minmax(0,1fr))}
+.xh2-duo .daily-news{grid-column:1/-1;border-top:1px solid rgba(255,255,255,.11)}
+.xh2-duo .pulse-grid>.nq-ticker:nth-child(3){border-right:0}
+.xh2-duo .nq-ticker{min-width:0;padding:10px 7px}
+.xh2-duo .nq-price{font-size:clamp(20px,2vw,26px);margin-top:7px;white-space:nowrap}
+
 /* ---- Guirnalda verde ---- */
 .xh2-garland{height:10px;background-color:#0a0f0d;background-image:radial-gradient(circle at 14px 5px,#a3e635 3.5px,transparent 4.5px),radial-gradient(circle at 40px 5px,#c0c0c0 3.5px,transparent 4.5px),radial-gradient(circle at 66px 5px,#2f9e5f 3.5px,transparent 4.5px);background-size:80px 10px;border-top:1px solid rgba(163,230,53,.5);border-bottom:1px solid rgba(163,230,53,.5)}
 /* ---- Acentos verde neón en toda la página ---- */
@@ -743,7 +750,7 @@ body.xh2-theme .news-head::before{content:"\2605 ";color:#65a30d}
 body.xh2-theme .ticker-card{border-color:rgba(163,230,53,.55)!important}
 body.xh2-theme .poster-card{border-color:rgba(163,230,53,.55)!important;box-shadow:0 10px 30px rgba(163,230,53,.14)}
 body.xh2-theme .ticker-card,body.xh2-theme .poster-card{position:relative}
-body.xh2-theme .ticker-card::after,body.xh2-theme .poster-card::after{content:"";position:absolute;top:2px;right:4px;width:24px;height:16px;z-index:2;pointer-events:none;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 120 80'%3E%3Cpath d='M12 62 Q22 16 64 10 Q106 6 112 50 Q112 60 102 60 L18 62 Q8 62 12 62Z' fill='%23c11a30'/%3E%3Cellipse cx='60' cy='60' rx='56' ry='10' fill='%23ffffff'/%3E%3Ccircle cx='110' cy='48' r='9' fill='%23ffffff'/%3E%3C/svg%3E");background-size:contain;background-repeat:no-repeat}
+body.xh2-theme .ticker-card::after,body.xh2-theme .poster-card::after{content:"";position:absolute;top:2px;right:4px;width:24px;height:16px;z-index:2;pointer-events:none;background-image:url("data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%20120%2080%27%3E%3Cpath%20d%3D%27M12%2062%20Q22%2016%2064%2010%20Q106%206%20112%2050%20Q112%2060%20102%2060%20L18%2062%20Q8%2062%2012%2062Z%27%20fill%3D%27%23c11a30%27%2F%3E%3Cellipse%20cx%3D%2760%27%20cy%3D%2760%27%20rx%3D%2756%27%20ry%3D%2710%27%20fill%3D%27%23ffffff%27%2F%3E%3Ccircle%20cx%3D%27110%27%20cy%3D%2748%27%20r%3D%279%27%20fill%3D%27%23ffffff%27%2F%3E%3C%2Fsvg%3E");background-size:contain;background-repeat:no-repeat}
 body.xh2-theme .radar-tab.active{background:linear-gradient(135deg,#a3e635,#84cc16)!important;color:#111827!important}
 body.xh2-theme .radar-card{border-color:rgba(163,230,53,.45)}
 body.xh2-theme .engine-head{color:#365314}
