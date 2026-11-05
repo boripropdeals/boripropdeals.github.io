@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-11-05T20:02:35.571115+00:00",
+ "updated_at": "2026-11-05T20:02:48.781268+00:00",
  "nq": {
-  "price": 27154.25,
-  "change_points": -1412.5,
-  "percent_change": -4.94
+  "price": 27159.5,
+  "change_points": -1407.25,
+  "percent_change": -4.93
  },
  "gold": {
   "price": 4126.5,
@@ -11,40 +11,35 @@
   "percent_change": 1.31
  },
  "oil": {
-  "price": 90.61,
-  "change_points": 2.49,
-  "percent_change": 2.83
+  "price": 90.62,
+  "change_points": 2.5,
+  "percent_change": 2.84
  },
  "headlines": [
   {
-   "headline": "El Nasdaq entra en corrección: cae ~4% y queda más de 10% bajo su récord de octubre",
-   "headline_en": "Nasdaq slides into correction, down ~4% and more than 10% below its October record",
+   "headline": "El Nasdaq entra en corrección: cae más de 10% desde su máximo por la venta masiva de chips e IA",
+   "headline_en": "Nasdaq enters correction, down over 10% from its record high as chip and AI selloff deepens",
+   "source": "Reuters / Kitco"
+  },
+  {
+   "headline": "Qualcomm se desploma 9% tras decepcionar en ventas de chips para smartphones",
+   "headline_en": "Qualcomm plunges 9% after missing smartphone chip sales estimates",
    "source": "Reuters"
   },
   {
-   "headline": "El desplome de la IA hunde al Nasdaq 100 ~5,7%: AMD y Micron caen ~15%, Nvidia ~8%",
-   "headline_en": "AI selloff sinks Nasdaq 100 ~5.7%: AMD and Micron fall ~15%, Nvidia ~8%",
+   "headline": "Banco de Inglaterra: se espera una subida de tasas a 4%, la primera desde 2023",
+   "headline_en": "Bank of England expected to hike rates to 4%, first increase since 2023",
+   "source": "Reuters / The Retest"
+  },
+  {
+   "headline": "El petróleo repunta: el Brent ronda $96 tras desplomarse 8.7% el miércoles",
+   "headline_en": "Oil rebounds: Brent near $96 after plunging 8.7% on Wednesday",
+   "source": "Kitco"
+  },
+  {
+   "headline": "Nóminas de octubre, mañana viernes: el mercado espera otra subida de la Fed en diciembre",
+   "headline_en": "October payrolls due Friday: markets expect another Fed hike in December",
    "source": "Reuters"
-  },
-  {
-   "headline": "La venta borra el rally post-electoral: S&P 500 cae ~3,4% y el Dow ~2,3%",
-   "headline_en": "Selloff erases post-election rally: S&P 500 drops ~3.4% and the Dow ~2.3%",
-   "source": "Reuters"
-  },
-  {
-   "headline": "El petróleo sube ~3% tras reportes de buques en llamas en el estrecho de Ormuz",
-   "headline_en": "Oil jumps ~3% after reports of tankers on fire at the Strait of Hormuz",
-   "source": "Upstox"
-  },
-  {
-   "headline": "El Banco de Inglaterra subiría las tasas a 4%, su primer aumento desde 2023",
-   "headline_en": "Bank of England expected to hike rates to 4%, its first increase since 2023",
-   "source": "Reuters"
-  },
-  {
-   "headline": "Solicitudes de desempleo hoy y el informe de empleo el viernes, en la mira",
-   "headline_en": "Weekly jobless claims due today, jobs report in focus on Friday",
-   "source": "Invezz"
   }
  ],
  "ultima_hora": null
