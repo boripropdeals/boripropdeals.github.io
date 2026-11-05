@@ -1,45 +1,50 @@
 {
- "updated_at": "2026-11-05T15:02:34.180360+00:00",
+ "updated_at": "2026-11-05T15:03:11.586449+00:00",
  "nq": {
-  "price": 27649.0,
-  "change_points": -917.75,
-  "percent_change": -3.21
+  "price": 27584.25,
+  "change_points": -982.5,
+  "percent_change": -3.44
  },
  "gold": {
-  "price": 4118.5,
-  "change_points": 45.5,
-  "percent_change": 1.12
+  "price": 4114.9,
+  "change_points": 41.9,
+  "percent_change": 1.03
  },
  "oil": {
-  "price": 89.71,
-  "change_points": 1.59,
-  "percent_change": 1.8
+  "price": 89.66,
+  "change_points": 1.54,
+  "percent_change": 1.75
  },
  "headlines": [
   {
-   "headline": "El Banco de Inglaterra sube tasas a 4% en su primera alza desde 2023",
-   "headline_en": "Bank of England hikes rates to 4% in first increase since 2023",
+   "headline": "Wall Street celebra el triunfo demócrata en las midterms: el Dow sube 3%, su mejor día en 18 meses",
+   "headline_en": "Wall Street rallies after Democrats sweep the midterms: Dow jumps 3%, its best day in 18 months",
    "source": "Reuters"
   },
   {
-   "headline": "El Nasdaq cae por el desplome de los chips: Qualcomm se hunde 10%",
-   "headline_en": "Nasdaq slides as chips drag: Qualcomm plunges 10%",
+   "headline": "El petróleo se desploma casi 9% por esperanzas de un acuerdo sobre Irán y el estrecho de Ormuz",
+   "headline_en": "Oil plunges nearly 9% on hopes of a deal over Iran and the Strait of Hormuz",
    "source": "Reuters"
   },
   {
-   "headline": "El Dow extiende el rally post-midterms tras su mayor subida en meses",
-   "headline_en": "Dow extends post-midterm rally after its biggest jump in months",
-   "source": "Investopedia"
+   "headline": "El Banco de Inglaterra sube las tasas a 4,00%, su primer aumento desde agosto de 2023",
+   "headline_en": "Bank of England raises rates to 4.00%, its first hike since August 2023",
+   "source": "The Weekend Spread"
   },
   {
-   "headline": "El petróleo rebota 3% tras su caída del 8% por el alto el fuego en el Estrecho de Ormuz",
-   "headline_en": "Oil rebounds 3% after 8% plunge on Strait of Hormuz ceasefire hopes",
+   "headline": "Qualcomm se desploma 10% en preapertura pese a superar ganancias por la caída en chips de móviles",
+   "headline_en": "Qualcomm plunges 10% premarket despite an earnings beat as handset chip sales fall",
    "source": "TipRanks"
   },
   {
-   "headline": "Solicitudes de desempleo y reporte de empleos de mañana en la mira",
-   "headline_en": "Jobless claims and tomorrow’s jobs report in focus",
-   "source": "Invezz"
+   "headline": "Los futuros del Nasdaq caen mientras los chips se venden por segunda sesión consecutiva",
+   "headline_en": "Nasdaq futures slip as chip stocks sell off for a second straight session",
+   "source": "The Weekend Spread"
+  },
+  {
+   "headline": "El oro supera los $4.100 por onza y el dólar cae a su nivel más bajo desde septiembre",
+   "headline_en": "Gold tops $4,100 an ounce as the dollar falls to its lowest since September",
+   "source": "Reuters"
   }
  ],
  "ultima_hora": null
