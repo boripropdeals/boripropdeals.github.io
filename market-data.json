@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-05T19:34:36.033914+00:00",
+ "updated_at": "2026-11-05T19:34:44.628026+00:00",
  "nq": {
-  "price": 26913.25,
-  "change_points": -1653.5,
-  "percent_change": -5.79
+  "price": 26906.75,
+  "change_points": -1660.0,
+  "percent_change": -5.81
  },
  "gold": {
-  "price": 4110.6,
-  "change_points": 37.6,
-  "percent_change": 0.92
+  "price": 4110.1,
+  "change_points": 37.1,
+  "percent_change": 0.91
  },
  "oil": {
   "price": 90.4,
@@ -17,18 +17,18 @@
  },
  "headlines": [
   {
-   "headline": "Los demócratas barren en las intermedias y el Dow sube 3%, su mejor día desde abril de 2025",
-   "headline_en": "Democrats sweep the midterms and the Dow jumps 3%, its best day since April 2025",
+   "headline": "El Nasdaq entra en corrección: cae ~4% y queda más de 10% bajo su récord de octubre",
+   "headline_en": "Nasdaq slides into correction, down ~4% and more than 10% below its October record",
    "source": "Reuters"
   },
   {
-   "headline": "El Nasdaq cae: Qualcomm se desploma ~10% y arrastra a los chips tras decepcionar su guía",
-   "headline_en": "Nasdaq slides as Qualcomm plunges ~10% and drags chip stocks after a weak outlook",
+   "headline": "El desplome de la IA hunde al Nasdaq 100 ~5,7%: AMD y Micron caen ~15%, Nvidia ~8%",
+   "headline_en": "AI selloff sinks Nasdaq 100 ~5.7%: AMD and Micron fall ~15%, Nvidia ~8%",
    "source": "Reuters"
   },
   {
-   "headline": "El Banco de Inglaterra subiría las tasas a 4%, su primer aumento desde 2023",
-   "headline_en": "Bank of England expected to hike rates to 4%, its first increase since 2023",
+   "headline": "La venta borra el rally post-electoral: S&P 500 cae ~3,4% y el Dow ~2,3%",
+   "headline_en": "Selloff erases post-election rally: S&P 500 drops ~3.4% and the Dow ~2.3%",
    "source": "Reuters"
   },
   {
@@ -37,14 +37,14 @@
    "source": "Upstox"
   },
   {
+   "headline": "El Banco de Inglaterra subiría las tasas a 4%, su primer aumento desde 2023",
+   "headline_en": "Bank of England expected to hike rates to 4%, its first increase since 2023",
+   "source": "Reuters"
+  },
+  {
    "headline": "Solicitudes de desempleo hoy y el informe de empleo el viernes, en la mira",
    "headline_en": "Weekly jobless claims due today, jobs report in focus on Friday",
    "source": "Invezz"
-  },
-  {
-   "headline": "Toyota eleva su pronóstico; Airbnb y Cloudflare reportan resultados hoy",
-   "headline_en": "Toyota lifts its outlook; Airbnb and Cloudflare report earnings today",
-   "source": "Investopedia"
   }
  ],
  "ultima_hora": null
