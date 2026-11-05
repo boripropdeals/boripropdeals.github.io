@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-11-05T16:04:31.533564+00:00",
+ "updated_at": "2026-11-05T16:04:56.028386+00:00",
  "nq": {
-  "price": 26849.5,
-  "change_points": -1717.25,
-  "percent_change": -6.01
+  "price": 26875.25,
+  "change_points": -1691.5,
+  "percent_change": -5.92
  },
  "gold": {
-  "price": 4090.4,
-  "change_points": 17.4,
+  "price": 4090.6,
+  "change_points": 17.6,
   "percent_change": 0.43
  },
  "oil": {
-  "price": 90.01,
-  "change_points": 1.89,
-  "percent_change": 2.14
+  "price": 90.15,
+  "change_points": 2.03,
+  "percent_change": 2.3
  },
  "headlines": [
   {
-   "headline": "Los futuros del Nasdaq caen arrastrados por los chips tras el rally post-midterms",
-   "headline_en": "Nasdaq futures fall as chip weakness offsets post-midterm rally",
+   "headline": "El Nasdaq 100 se desploma ~6% y entra en corrección por las dudas sobre el gasto en IA",
+   "headline_en": "Nasdaq 100 plunges about 6% into correction as AI-spending doubts hit tech",
+   "source": "Bloomberg"
+  },
+  {
+   "headline": "Los chips se hunden: AMD -15%, Nvidia -8% y el ETF de semiconductores -12%",
+   "headline_en": "Chip stocks plunge: AMD down 15%, Nvidia 8%, semiconductor ETF down 12%",
    "source": "Reuters"
   },
   {
-   "headline": "El Banco de Inglaterra subiría hoy las tasas al 4%, su primera alza desde 2023",
-   "headline_en": "Bank of England expected to hike rates to 4% today, first increase since 2023",
+   "headline": "El Banco de Inglaterra sube las tasas al 4%, su primera alza desde 2023",
+   "headline_en": "Bank of England hikes rates to 4%, first increase since 2023",
    "source": "Reuters"
+  },
+  {
+   "headline": "Solicitudes de desempleo caen a 189.000, mínimo desde julio",
+   "headline_en": "Jobless claims fall to 189,000, fewest since mid-July",
+   "source": "Departamento de Trabajo de EE. UU."
+  },
+  {
+   "headline": "El Dow revierte su rally post-midterms y cae tras abrir en verde",
+   "headline_en": "Dow reverses post-election rally, turns lower after opening higher",
+   "source": "Barron’s"
   },
   {
    "headline": "El petróleo rebota ~3% tras el incendio de petroleros en el estrecho de Ormuz",
    "headline_en": "Oil rebounds about 3% after tankers catch fire in Strait of Hormuz",
    "source": "TipRanks"
-  },
-  {
-   "headline": "El Dow se disparó 3% (1.569 puntos) tras la victoria demócrata en las midterms",
-   "headline_en": "Dow soared 3%, up 1,569 points, after Democrats’ midterm sweep",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "Solicitudes semanales de desempleo hoy; se esperan unas 197.000",
-   "headline_en": "Weekly jobless claims due today, around 197,000 expected",
-   "source": "Invezz"
-  },
-  {
-   "headline": "El oro supera los $4.100 mientras caen los rendimientos",
-   "headline_en": "Gold surges past $4,100 as yields fall",
-   "source": "Ray’s Finance Intel"
   }
  ],
  "ultima_hora": null
