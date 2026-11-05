@@ -701,11 +701,11 @@ body.xh2-theme .hero>.top-tools{display:none}
 /* Gorro de santa sobre el logo del hero (logo real, sin tocar) */
 body.xh2-theme .brand-lockup{position:relative}
 /* Decoración derecha del hero: "Felices Fiestas" + caja de regalo con el logo original */
-.xh2-hero-deco{position:absolute;right:4%;top:50%;transform:translateY(-50%);z-index:1;text-align:center;pointer-events:none}
+.xh2-hero-deco{position:static;z-index:1;text-align:left;pointer-events:none;margin:28px 0 0}
 .xh2-felices{font-family:'Brush Script MT','Segoe Script','Snell Roundhand',cursive;font-size:44px;line-height:1.05;word-break:keep-all;overflow-wrap:normal;margin-bottom:10px;text-shadow:0 2px 14px rgba(0,0,0,.6)}
 .xh2-felices .xh2-f1{color:#ffffff}
 .xh2-felices .xh2-f2{color:#a3e635;border-bottom:3px solid #a3e635;border-radius:0 0 50% 50%/0 0 100% 100%;padding-bottom:2px}
-.xh2-giftbox{position:relative;width:168px;margin:0 auto}
+.xh2-giftbox{position:relative;width:168px;margin:0}
 .xh2-gift-lid{position:relative;height:30px;margin:0 -8px;background:linear-gradient(180deg,#1a1a1a,#0d0d0d);border:1px solid #2a2a2a;border-radius:6px;z-index:2}
 .xh2-gift-lid .rb-v{position:absolute;left:50%;top:-1px;bottom:-1px;width:18px;margin-left:-9px;background:linear-gradient(180deg,#a3e635,#84cc16);z-index:1}
 .xh2-gift-bow{position:absolute;left:50%;top:-16px;width:74px;height:26px;margin-left:-37px;z-index:3}
@@ -777,7 +777,7 @@ body.xh2-theme .btx-badge{color:#a3e635!important;border-color:rgba(163,230,53,.
 body.xh2-theme .btx-highlight{color:#a3e635!important}
 @media(max-width:480px){.fn-title{font-size:16px!important;overflow-wrap:normal!important;word-break:keep-all!important}}
 @media(max-width:1100px){.xh2-duo{grid-template-columns:1fr}}
-@media(max-width:640px){.xh2-nav-links{display:none}.xh2-nav{padding:8px 12px}.xh2-hero-deco{position:static;transform:none;margin:22px auto 0}.xh2-felices{font-size:32px}.xh2-giftbox{width:140px}.xh2-gift-body{height:108px}.xh2-foot{font-size:18px}}
+@media(max-width:640px){.xh2-nav-links{display:none}.xh2-nav{padding:8px 12px}.xh2-hero-deco{position:static;transform:none;margin:22px auto 0;text-align:center}.xh2-giftbox{margin:0 auto}.xh2-felices{font-size:32px}.xh2-giftbox{width:140px}.xh2-gift-body{height:108px}.xh2-foot{font-size:18px}}
 /* Nieve cayendo (solo CSS, sin JS ni imágenes externas) */
 .xh2-snow{position:fixed;inset:0;z-index:9999;pointer-events:none;opacity:.5;
 background-image:radial-gradient(circle,rgba(255,255,255,.9) 0 1.6px,transparent 2.2px),
