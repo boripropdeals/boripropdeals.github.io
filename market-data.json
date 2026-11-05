@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T22:32:38.035731+00:00",
+ "updated_at": "2026-11-05T22:33:16.627693+00:00",
  "nq": {
   "price": 26604.0,
   "change_points": -1962.75,
@@ -17,34 +17,34 @@
  },
  "headlines": [
   {
-   "headline": "El Nasdaq entra en corrección: cae 5.5% por la venta masiva de chips e IA",
-   "headline_en": "Nasdaq enters correction, plunging 5.5% as chip and AI selloff deepens",
+   "headline": "El Nasdaq sufre su peor día en 18 meses y entra en corrección",
+   "headline_en": "Nasdaq Suffers Worst Day in 18 Months as AI Trade Comes Under Fire",
+   "source": "The Motley Fool"
+  },
+  {
+   "headline": "Las acciones de chips se desploman: AMD cae 17% y Nvidia 9%",
+   "headline_en": "Chip Stocks Plunge as AI Spending Doubts Hit Tech",
    "source": "Reuters"
   },
   {
-   "headline": "El S&P 500 cae 4.4% y el Dow 3.4%: se borra el rally post-electoral",
-   "headline_en": "S&P 500 falls 4.4% and Dow drops 3.4%, erasing the post-midterm rally",
-   "source": "AP"
-  },
-  {
-   "headline": "El Banco de Inglaterra sube las tasas al 4.00%, su primera alza desde 2023",
-   "headline_en": "Bank of England hikes rates to 4.00%, its first increase since 2023",
+   "headline": "El Banco de Inglaterra sube las tasas al 4%, su primera alza en tres años",
+   "headline_en": "Bank of England Raises Rates to 4% in First Hike in Three Years",
    "source": "Reuters"
   },
   {
-   "headline": "El VIX se dispara casi 70% hasta 28.18 mientras el miedo vuelve al mercado",
-   "headline_en": "VIX surges nearly 70% to 28.18 as fear returns to the market",
-   "source": "Shunya Trade"
+   "headline": "Las solicitudes de desempleo caen a 189,000, por debajo de lo previsto",
+   "headline_en": "Jobless Claims Fall to 189,000, Below Forecast",
+   "source": "CoinDesk"
   },
   {
-   "headline": "El oro sube a $4,088 y el petróleo se recupera tras el desplome del miércoles",
-   "headline_en": "Gold climbs to $4,088 and oil recovers after Wednesday plunge",
-   "source": "Kitco"
+   "headline": "El oro se mantiene sobre $4,100 con la búsqueda de refugio",
+   "headline_en": "Gold Holds Above $4,100 as Safe-Haven Demand Rises",
+   "source": "Ausecure"
   },
   {
-   "headline": "Mañana llega el NFP: se esperan 65K empleos en la prueba clave tras la venta masiva",
-   "headline_en": "Jobs report lands tomorrow: 65K jobs expected in the key test after the selloff",
-   "source": "Reuters"
+   "headline": "Mañana llega el reporte de empleo: se esperan 65,000 nuevos puestos",
+   "headline_en": "October Jobs Report Due Friday: 65,000 Jobs Expected",
+   "source": "CoinDesk"
   }
  ],
  "ultima_hora": null
