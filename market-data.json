@@ -1,51 +1,61 @@
 {
- "updated_at": "2026-11-06T12:02:35.693404+00:00",
+ "updated_at": "2026-11-06T12:03:55.809272+00:00",
  "nq": {
-  "price": 27209.25,
-  "change_points": 457.25,
-  "percent_change": 1.71
+  "price": 27193.75,
+  "change_points": 441.75,
+  "percent_change": 1.65
  },
  "gold": {
-  "price": 4076.4,
-  "change_points": -37.1,
-  "percent_change": -0.9
+  "price": 4076.1,
+  "change_points": -37.4,
+  "percent_change": -0.91
  },
  "oil": {
-  "price": 90.87,
-  "change_points": 0.35,
-  "percent_change": 0.39
+  "price": 90.8,
+  "change_points": 0.28,
+  "percent_change": 0.31
  },
  "headlines": [
   {
-   "headline": "El Nasdaq sufre su peor día en 18 meses y entra en corrección",
-   "headline_en": "Nasdaq Suffers Worst Day in 18 Months as AI Trade Comes Under Fire",
-   "source": "The Motley Fool"
+   "headline": "Futuros del Nasdaq rebotan 1.4% tras su peor día desde abril de 2025",
+   "headline_en": "Nasdaq futures bounce 1.4% after the worst day since April 2025",
+   "source": "The Retest"
   },
   {
-   "headline": "Las acciones de chips se desploman: AMD cae 17% y Nvidia 9%",
-   "headline_en": "Chip Stocks Plunge as AI Spending Doubts Hit Tech",
+   "headline": "El informe de empleo de octubre llega hoy a las 7:30am CT: se esperan 65,000 nóminas",
+   "headline_en": "October jobs report due today at 7:30am CT: payrolls expected at +65,000",
    "source": "Reuters"
   },
   {
-   "headline": "El Banco de Inglaterra sube las tasas al 4%, su primera alza en tres años",
-   "headline_en": "Bank of England Raises Rates to 4% in First Hike in Three Years",
+   "headline": "El mercado ya descuenta más de 65% de probabilidad de una subida de tasas de la Fed en diciembre",
+   "headline_en": "Traders now price a better-than-65% chance of a Fed rate hike in December",
    "source": "Reuters"
   },
   {
-   "headline": "Las solicitudes de desempleo caen a 189,000, por debajo de lo previsto",
-   "headline_en": "Jobless Claims Fall to 189,000, Below Forecast",
-   "source": "CoinDesk"
+   "headline": "Las acciones de chips rebotan en premercado: Nvidia +3.6%, AMD, Intel, Broadcom y Micron entre +5% y +8.3%",
+   "headline_en": "Chip stocks rebound in premarket: Nvidia +3.6%, AMD, Intel, Broadcom and Micron up 5% to 8.3%",
+   "source": "Reuters"
   },
   {
-   "headline": "El oro se mantiene sobre $4,100 con la búsqueda de refugio",
-   "headline_en": "Gold Holds Above $4,100 as Safe-Haven Demand Rises",
-   "source": "Ausecure"
+   "headline": "El VIX registró su mayor salto en un día en casi 19 meses y se ubica en 26.07",
+   "headline_en": "VIX logged its biggest one-day jump in about 19 months, now at 26.07",
+   "source": "Reuters"
   },
   {
-   "headline": "Mañana llega el reporte de empleo: se esperan 65,000 nuevos puestos",
-   "headline_en": "October Jobs Report Due Friday: 65,000 Jobs Expected",
-   "source": "CoinDesk"
+   "headline": "El petróleo cae: Brent a $97.56 y WTI a $89.77 en medio de tensiones entre EE.UU. e Irán",
+   "headline_en": "Oil falls: Brent at $97.56 and WTI at $89.77 amid U.S.-Iran tensions",
+   "source": "TipRanks"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Trump culpa a los demócratas por el desplome histórico de la bolsa: ¡Qué triste verlo!",
+  "headline_en": "Trump blames Democrats for historic stock market plunge: Sad thing to watch!",
+  "source": "New York Post",
+  "image": "",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-06-trump-democrats-nyse-dusk.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-06-trump-democrats-capitol-dawn.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-06-trump-democrats-trading-floor.webp"
+  ]
+ }
 }
