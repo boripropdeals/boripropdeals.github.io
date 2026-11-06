@@ -1,19 +1,19 @@
 {
- "updated_at": "2026-11-06T16:34:32.264750+00:00",
+ "updated_at": "2026-11-06T16:36:07.195954+00:00",
  "nq": {
-  "price": 27266.75,
-  "change_points": 514.75,
-  "percent_change": 1.92
+  "price": 27258.0,
+  "change_points": 506.0,
+  "percent_change": 1.89
  },
  "gold": {
-  "price": 4070.5,
-  "change_points": -43.0,
-  "percent_change": -1.05
+  "price": 4071.0,
+  "change_points": -42.5,
+  "percent_change": -1.03
  },
  "oil": {
-  "price": 90.75,
-  "change_points": 0.23,
-  "percent_change": 0.25
+  "price": 90.78,
+  "change_points": 0.26,
+  "percent_change": 0.29
  },
  "headlines": [
   {
@@ -23,7 +23,7 @@
   },
   {
    "headline": "El Nasdaq rebota ~1% y los chips se recuperan tras el desplome del jueves; Nvidia sube más de 5%",
-   "headline_en": "Nasdaq rebounds ~1% as chip stocks recover from Thursday’s rout; Nvidia up over 5%",
+   "headline_en": "Nasdaq rebounds ~1% as chip stocks recover from Thursday's rout; Nvidia up over 5%",
    "source": "Invezz"
   },
   {
@@ -40,6 +40,11 @@
    "headline": "Bitcoin cae más de 5% hasta ~$76,000 y el petróleo baja entre tensiones EE. UU.–Irán",
    "headline_en": "Bitcoin slides over 5% to ~$76,000 and oil falls amid US–Iran tensions",
    "source": "Investopedia"
+  },
+  {
+   "headline": "La confianza del consumidor de Michigan sube a 51 en noviembre y las expectativas de inflación bajan a 4.3%",
+   "headline_en": "Michigan consumer sentiment rises to 51 in November as inflation expectations ease to 4.3%",
+   "source": "Reuters"
   }
  ],
  "ultima_hora": {
