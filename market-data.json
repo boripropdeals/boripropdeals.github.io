@@ -1,61 +1,56 @@
 {
- "updated_at": "2026-11-06T18:02:39.140246+00:00",
+ "updated_at": "2026-11-06T18:04:33.579373+00:00",
  "nq": {
-  "price": 27022.0,
-  "change_points": 270.0,
-  "percent_change": 1.01
+  "price": 27026.5,
+  "change_points": 274.5,
+  "percent_change": 1.03
  },
  "gold": {
-  "price": 4066.9,
-  "change_points": -46.6,
-  "percent_change": -1.13
+  "price": 4066.0,
+  "change_points": -47.5,
+  "percent_change": -1.15
  },
  "oil": {
-  "price": 89.84,
-  "change_points": -0.68,
-  "percent_change": -0.75
+  "price": 89.92,
+  "change_points": -0.6,
+  "percent_change": -0.66
  },
  "headlines": [
   {
-   "headline": "Empleo en EE. UU. supera las expectativas: 165,000 nóminas en octubre y el desempleo baja a 4.1%",
-   "headline_en": "US jobs beat expectations: 165,000 payrolls in October, unemployment falls to 4.1%",
-   "source": "Reuters"
-  },
-  {
-   "headline": "El Nasdaq rebota 1.4% tras su peor día desde abril de 2025; los chips se recuperan",
-   "headline_en": "Nasdaq futures bounce 1.4% after worst day since April 2025 as chip stocks recover",
+   "headline": "El Nasdaq rebota tras su peor día desde abril de 2025",
+   "headline_en": "Nasdaq rebounds after its worst day since April 2025",
    "source": "TipRanks"
   },
   {
-   "headline": "Jueves negro: el Nasdaq cae 5.52% y entra en corrección; se esfuman $5.4 billones",
-   "headline_en": "Black Thursday: Nasdaq plunges 5.52% into correction territory; $5.4 trillion wiped out",
+   "headline": "Empleo de octubre supera lo esperado: 165,000 nóminas y desempleo en 4.1%",
+   "headline_en": "October jobs beat forecasts: 165,000 payrolls, unemployment falls to 4.1%",
+   "source": "Reuters"
+  },
+  {
+   "headline": "El temor a regular la IA hunde a los chips tras la barrida demócrata",
+   "headline_en": "AI regulation fears sink chip stocks after Democratic midterm sweep",
    "source": "New York Post"
   },
   {
-   "headline": "El empleo fuerte eleva las apuestas a una subida de tasas de la Fed en diciembre",
-   "headline_en": "Strong jobs data lifts bets on a December Fed rate hike",
-   "source": "Reuters"
+   "headline": "Los semiconductores lideran el rebote: Nvidia sube en la preapertura",
+   "headline_en": "Chip stocks lead the rebound as Nvidia gains premarket",
+   "source": "The Retest"
   },
   {
-   "headline": "El petróleo cae mientras se pesan las tensiones EE. UU.–Irán y la posibilidad de un acuerdo",
-   "headline_en": "Oil falls as investors weigh US–Iran tensions against diplomacy hopes",
+   "headline": "El petróleo cae mientras se sopesa la tensión entre EE. UU. e Irán",
+   "headline_en": "Oil falls as traders weigh US-Iran tensions",
    "source": "TipRanks"
-  },
-  {
-   "headline": "Bitcoin cae más de 5% hasta ~$76,000 tras el desplome tecnológico",
-   "headline_en": "Bitcoin slides over 5% to ~$76,000 after the tech selloff",
-   "source": "Investopedia"
   }
  ],
  "ultima_hora": {
-  "headline": "Trump culpa a los demócratas por el desplome histórico de la bolsa",
-  "headline_en": "Trump blames Democrats for the historic stock market plunge",
+  "headline": "Trump culpa a los demócratas del desplome: «¡Ustedes tienen la culpa!»",
+  "headline_en": "Trump blames Democrats for the market plunge: 'You only have yourselves to blame!'",
   "source": "New York Post",
   "image": "",
   "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-06-trump-market-crash-podium.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-06-trump-market-crash-trading-floor.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-06-trump-market-crash-capitol.webp"
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-06-trump-blame-trading-floor.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-06-trump-blame-capitol-chart.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-06-trump-blame-trader-desk.webp"
   ]
  }
 }
