@@ -1,56 +1,61 @@
 {
- "updated_at": "2026-11-06T18:32:34.622694+00:00",
+ "updated_at": "2026-11-06T18:33:43.819988+00:00",
  "nq": {
-  "price": 27061.0,
-  "change_points": 309.0,
-  "percent_change": 1.16
+  "price": 27068.25,
+  "change_points": 316.25,
+  "percent_change": 1.18
  },
  "gold": {
-  "price": 4073.2,
-  "change_points": -40.3,
-  "percent_change": -0.98
+  "price": 4073.4,
+  "change_points": -40.1,
+  "percent_change": -0.97
  },
  "oil": {
-  "price": 89.98,
-  "change_points": -0.54,
-  "percent_change": -0.6
+  "price": 90.08,
+  "change_points": -0.44,
+  "percent_change": -0.49
  },
  "headlines": [
   {
-   "headline": "El Nasdaq rebota tras su peor día desde abril de 2025",
-   "headline_en": "Nasdaq rebounds after its worst day since April 2025",
-   "source": "TipRanks"
-  },
-  {
-   "headline": "Empleo de octubre supera lo esperado: 165,000 nóminas y desempleo en 4.1%",
-   "headline_en": "October jobs beat forecasts: 165,000 payrolls, unemployment falls to 4.1%",
+   "headline": "El Nasdaq rebota tras su peor día en 19 meses",
+   "headline_en": "Nasdaq rebounds after its worst day in 19 months",
    "source": "Reuters"
   },
   {
-   "headline": "El temor a regular la IA hunde a los chips tras la barrida demócrata",
-   "headline_en": "AI regulation fears sink chip stocks after Democratic midterm sweep",
-   "source": "New York Post"
+   "headline": "El empleo de octubre supera lo esperado: 165,000 nóminas y desempleo en 4.1%",
+   "headline_en": "October jobs beat expectations: 165,000 payrolls, unemployment at 4.1%",
+   "source": "Reuters"
   },
   {
-   "headline": "Los semiconductores lideran el rebote: Nvidia sube en la preapertura",
-   "headline_en": "Chip stocks lead the rebound as Nvidia gains premarket",
-   "source": "The Retest"
+   "headline": "Trump culpa a los demócratas del desplome y defiende la IA al 100%",
+   "headline_en": "Trump blames Democrats for the crash and backs AI 100%",
+   "source": "The Times"
   },
   {
-   "headline": "El petróleo cae mientras se sopesa la tensión entre EE. UU. e Irán",
-   "headline_en": "Oil falls as traders weigh US-Iran tensions",
-   "source": "TipRanks"
+   "headline": "Las apuestas a una subida de tasas de la Fed en diciembre suben al 78%",
+   "headline_en": "Bets on a December Fed rate hike rise to 78%",
+   "source": "Reuters"
+  },
+  {
+   "headline": "Nvidia lidera la recuperación de los chips tras caer 9.3%",
+   "headline_en": "Nvidia leads chip recovery after 9.3% drop",
+   "source": "Invezz"
+  },
+  {
+   "headline": "El VIX se modera a 26.7 tras su mayor salto en 19 meses",
+   "headline_en": "VIX eases to 26.7 after its biggest jump in 19 months",
+   "source": "Kitco"
   }
  ],
  "ultima_hora": {
-  "headline": "Trump culpa a los demócratas del desplome: «¡Ustedes tienen la culpa!»",
-  "headline_en": "Trump blames Democrats for the market plunge: 'You only have yourselves to blame!'",
-  "source": "New York Post",
+  "headline": "Trump culpa a los demócratas del desplome histórico y defiende la IA: Solo los tontos frenarían la IA",
+  "headline_en": "Trump blames Democrats for the historic crash and defends AI: Only fools would slow down AI",
+  "source": "The Times",
   "image": "",
   "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-06-trump-blame-trading-floor.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-06-trump-blame-capitol-chart.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-06-trump-blame-trader-desk.webp"
+   "https://boripropdeals.github.io/breaking-visuals/trump-ai-defensa-rueda-prensa.webp",
+   "https://boripropdeals.github.io/breaking-visuals/trump-mercado-pantallas-rojas.webp",
+   "https://boripropdeals.github.io/breaking-visuals/trump-centro-datos-ia.webp"
   ]
  }
 }
