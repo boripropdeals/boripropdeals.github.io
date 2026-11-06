@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-06T17:02:34.183746+00:00",
+ "updated_at": "2026-11-06T17:04:06.663121+00:00",
  "nq": {
-  "price": 27265.0,
-  "change_points": 513.0,
-  "percent_change": 1.92
+  "price": 27287.25,
+  "change_points": 535.25,
+  "percent_change": 2.0
  },
  "gold": {
-  "price": 4073.5,
-  "change_points": -40.0,
-  "percent_change": -0.97
+  "price": 4075.4,
+  "change_points": -38.1,
+  "percent_change": -0.93
  },
  "oil": {
   "price": 90.15,
@@ -17,45 +17,45 @@
  },
  "headlines": [
   {
-   "headline": "Empleo en EE. UU. supera las expectativas: 165,000 nóminas en octubre y el desempleo baja a 4.1%",
-   "headline_en": "US jobs beat expectations: 165,000 payrolls in October, unemployment falls to 4.1%",
-   "source": "Reuters"
-  },
-  {
-   "headline": "El Nasdaq rebota ~1% y los chips se recuperan tras el desplome del jueves; Nvidia sube más de 5%",
-   "headline_en": "Nasdaq rebounds ~1% as chip stocks recover from Thursday's rout; Nvidia up over 5%",
+   "headline": "El Nasdaq rebota 1% mientras los chips se recuperan tras el desplome histórico",
+   "headline_en": "Nasdaq rebounds 1% as chip stocks recover after historic selloff",
    "source": "Invezz"
   },
   {
-   "headline": "Jueves negro: el Nasdaq cae 5.52%, su peor día en 19 meses, y entra en corrección; se esfuman $5.4 billones",
-   "headline_en": "Black Thursday: Nasdaq plunges 5.52%, its worst day in 19 months, enters correction; $5.4 trillion wiped out",
+   "headline": "Empleo en EE.UU. supera expectativas: 165,000 puestos nuevos y desempleo en 4.1%",
+   "headline_en": "US jobs beat expectations: 165,000 payrolls added, unemployment falls to 4.1%",
    "source": "Reuters"
   },
   {
-   "headline": "El empleo fuerte eleva a 78% la probabilidad de una subida de tasas de la Fed en diciembre",
-   "headline_en": "Strong jobs data lifts odds of a December Fed rate hike to 78%",
+   "headline": "El Nasdaq entra en corrección tras su peor día en 19 meses: cayó 5.5%",
+   "headline_en": "Nasdaq enters correction after worst day in 19 months, plunging 5.5%",
+   "source": "Zacks"
+  },
+  {
+   "headline": "El VIX se dispara casi 70% en su mayor salto diario en 19 meses",
+   "headline_en": "VIX surges nearly 70% in its biggest one-day jump in 19 months",
+   "source": "Zacks"
+  },
+  {
+   "headline": "El petróleo Brent cae bajo $100 rumbo a su peor semana desde 2020",
+   "headline_en": "Brent crude falls below $100, headed for its worst week since 2020",
    "source": "Reuters"
   },
   {
-   "headline": "Bitcoin cae más de 5% hasta ~$76,000 y el petróleo baja entre tensiones EE. UU.–Irán",
-   "headline_en": "Bitcoin slides over 5% to ~$76,000 and oil falls amid US–Iran tensions",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "La confianza del consumidor de Michigan sube a 51 en noviembre y las expectativas de inflación bajan a 4.3%",
-   "headline_en": "Michigan consumer sentiment rises to 51 in November as inflation expectations ease to 4.3%",
-   "source": "Reuters"
+   "headline": "Las bolsas asiáticas se desploman tras el colapso tecnológico en EE.UU.",
+   "headline_en": "Asian markets crash after US tech selloff",
+   "source": "MyFinBright"
   }
  ],
  "ultima_hora": {
-  "headline": "Trump culpa a los demócratas del desplome histórico de la bolsa: «¡Uno de los peores días de la historia!»",
-  "headline_en": "Trump blames Democrats for historic stock market plunge: “One of the Worst Days in History!”",
-  "source": "NY Post",
+  "headline": "Trump culpa a los demócratas por el desplome histórico de la bolsa",
+  "headline_en": "Trump blames Democrats for the historic stock market plunge",
+  "source": "New York Post",
   "image": "",
   "images": [
-   "https://raw.githubusercontent.com/boripropdeals/boripropdeals.github.io/main/breaking-visuals/trump-culpa-democratas-desplome-bolsa-20261106.webp",
-   "https://raw.githubusercontent.com/boripropdeals/boripropdeals.github.io/main/breaking-visuals/bolsa-desplome-pantallas-rojas-20261106.webp",
-   "https://raw.githubusercontent.com/boripropdeals/boripropdeals.github.io/main/breaking-visuals/capitolio-tormenta-mercado-20261106.webp"
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-06-trump-market-crash-podium.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-06-trump-market-crash-trading-floor.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-06-trump-market-crash-capitol.webp"
   ]
  }
 }
