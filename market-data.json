@@ -1,61 +1,61 @@
 {
- "updated_at": "2026-11-06T13:32:30.619740+00:00",
+ "updated_at": "2026-11-06T13:33:18.855508+00:00",
  "nq": {
-  "price": 27154.0,
-  "change_points": 402.0,
-  "percent_change": 1.5
+  "price": 27163.75,
+  "change_points": 411.75,
+  "percent_change": 1.54
  },
  "gold": {
-  "price": 4074.2,
-  "change_points": -39.3,
-  "percent_change": -0.96
+  "price": 4076.2,
+  "change_points": -37.3,
+  "percent_change": -0.91
  },
  "oil": {
-  "price": 90.85,
-  "change_points": 0.33,
-  "percent_change": 0.36
+  "price": 90.81,
+  "change_points": 0.29,
+  "percent_change": 0.32
  },
  "headlines": [
   {
-   "headline": "Futuros del Nasdaq rebotan 1.4% tras su peor día desde abril de 2025; el informe de empleo de octubre llega hoy a las 7:30am CT",
-   "headline_en": "Nasdaq futures bounce 1.4% after the worst day since April 2025, with the October jobs report due at 7:30 AM CT",
+   "headline": "Nasdaq entra en corrección tras su peor día en 19 meses: cayó 5.52% el jueves",
+   "headline_en": "Nasdaq enters correction after worst day in 19 months, down 5.52% on Thursday",
    "source": "Reuters"
   },
   {
-   "headline": "El Nasdaq entró en corrección tras caer 5.52% el jueves; S&P 500 y Nasdaq perdieron unos $5.4 billones en valor de mercado en un solo día",
-   "headline_en": "Nasdaq enters correction after plunging 5.52% on Thursday; S&P 500 and Nasdaq shed about $5.4 trillion in market value in a single day",
-   "source": "New York Post"
-  },
-  {
-   "headline": "Las acciones de chips rebotan: Nvidia sube 3.6% en premarket y AMD, Intel, Broadcom y Micron avanzan entre 5% y 8.3%",
-   "headline_en": "Chip stocks bounce back: Nvidia up 3.6% premarket, AMD, Intel, Broadcom and Micron up 5% to 8.3%",
+   "headline": "Futuros del Nasdaq rebotan 1.4% este viernes; las acciones de chips se estabilizan",
+   "headline_en": "Nasdaq futures bounce 1.4% on Friday as chip stocks stabilize",
    "source": "Reuters"
   },
   {
-   "headline": "El petróleo cae: el Brent baja a $97.56 y el WTI a $89.77 mientras el mercado pesa las tensiones entre EE.UU. e Irán",
-   "headline_en": "Oil falls: Brent down to $97.56 and WTI to $89.77 as investors weigh U.S.-Iran tensions",
-   "source": "TipRanks"
-  },
-  {
-   "headline": "El VIX registró su mayor salto en un día en unos 19 meses y se mantiene cerca de 26",
-   "headline_en": "The VIX logged its biggest one-day jump in about 19 months and remains near 26",
+   "headline": "Informe de empleo de octubre (NFP) se publica hoy a las 7:30am CT; consenso +65K empleos",
+   "headline_en": "October jobs report (NFP) due today at 7:30am CT; consensus +65K jobs",
    "source": "Reuters"
   },
   {
-   "headline": "Europa sigue en rojo: el FTSE cae 2.3% y el DAX 2.4% mientras Wall Street espera el dato de empleo",
-   "headline_en": "Europe stays deep in the red: FTSE down 2.3% and DAX down 2.4% as Wall Street awaits the jobs report",
-   "source": "Samuel & Co Trading"
+   "headline": "Temor a regulación demócrata de la IA y los centros de datos tras la barrida en las midterms",
+   "headline_en": "Fears of Democratic AI and data-center regulation after midterm sweep",
+   "source": "Bloomberg"
+  },
+  {
+   "headline": "La venta se extiende a Europa y Asia; el STOXX 600 cae y borra su ganancia semanal",
+   "headline_en": "Sell-off spreads to Europe and Asia; STOXX 600 falls, erasing weekly gain",
+   "source": "Reuters"
+  },
+  {
+   "headline": "El VIX registra su mayor salto diario en ~19 meses y se ubica en 26.07",
+   "headline_en": "VIX logs biggest one-day jump in about 19 months, at 26.07",
+   "source": "Reuters"
   }
  ],
  "ultima_hora": {
-  "headline": "Trump culpa a los demócratas del desplome histórico de la bolsa: «El mercado se desplomó porque los demócratas tuvieron un gran martes»",
-  "headline_en": "Trump blames Democrats for the historic stock market plunge: 'The Stock Market crashed today because the Dumocrats had a big Tuesday!'",
+  "headline": "Trump culpa a los demócratas del desplome histórico de la bolsa",
+  "headline_en": "Trump blames Democrats for historic stock market plunge",
   "source": "New York Post",
   "image": "",
   "images": [
-   "https://raw.githubusercontent.com/boripropdeals/boripropdeals.github.io/main/breaking-visuals/trump-desplome-podium.webp",
-   "https://raw.githubusercontent.com/boripropdeals/boripropdeals.github.io/main/breaking-visuals/trump-desplome-nyse.webp",
-   "https://raw.githubusercontent.com/boripropdeals/boripropdeals.github.io/main/breaking-visuals/trump-desplome-capitolio.webp"
+   "https://raw.githubusercontent.com/boripropdeals/boripropdeals.github.io/main/breaking-visuals/2026-11-06-trump-mercado-caida-bolsa.jpg",
+   "https://raw.githubusercontent.com/boripropdeals/boripropdeals.github.io/main/breaking-visuals/2026-11-06-trump-casa-blanca-mercados.jpg",
+   "https://raw.githubusercontent.com/boripropdeals/boripropdeals.github.io/main/breaking-visuals/2026-11-06-trump-capitolio-congreso.jpg"
   ]
  }
 }
