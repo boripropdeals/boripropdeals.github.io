@@ -1,61 +1,61 @@
 {
- "updated_at": "2026-11-06T12:32:32.035195+00:00",
+ "updated_at": "2026-11-06T12:33:22.264226+00:00",
  "nq": {
-  "price": 27127.25,
-  "change_points": 375.25,
-  "percent_change": 1.4
+  "price": 27146.5,
+  "change_points": 394.5,
+  "percent_change": 1.47
  },
  "gold": {
-  "price": 4079.7,
-  "change_points": -33.8,
-  "percent_change": -0.82
+  "price": 4081.6,
+  "change_points": -31.9,
+  "percent_change": -0.78
  },
  "oil": {
-  "price": 90.73,
-  "change_points": 0.21,
-  "percent_change": 0.23
+  "price": 90.7,
+  "change_points": 0.18,
+  "percent_change": 0.2
  },
  "headlines": [
   {
-   "headline": "Futuros del Nasdaq rebotan 1.4% tras su peor día desde abril de 2025",
-   "headline_en": "Nasdaq futures bounce 1.4% after the worst day since April 2025",
-   "source": "The Retest"
-  },
-  {
-   "headline": "El informe de empleo de octubre llega hoy a las 7:30am CT: se esperan 65,000 nóminas",
-   "headline_en": "October jobs report due today at 7:30am CT: payrolls expected at +65,000",
+   "headline": "Futuros del Nasdaq rebotan 1.4% tras su peor día desde abril de 2025; el informe de empleo de octubre llega hoy a las 7:30am CT",
+   "headline_en": "Nasdaq futures bounce 1.4% after the worst day since April 2025, with the October jobs report due at 7:30 AM CT",
    "source": "Reuters"
   },
   {
-   "headline": "El mercado ya descuenta más de 65% de probabilidad de una subida de tasas de la Fed en diciembre",
-   "headline_en": "Traders now price a better-than-65% chance of a Fed rate hike in December",
+   "headline": "El Nasdaq entró en corrección tras caer 5.52% el jueves; S&P 500 y Nasdaq perdieron unos $5.4 billones en valor de mercado en un solo día",
+   "headline_en": "Nasdaq enters correction after plunging 5.52% on Thursday; S&P 500 and Nasdaq shed about $5.4 trillion in market value in a single day",
+   "source": "New York Post"
+  },
+  {
+   "headline": "Las acciones de chips rebotan: Nvidia sube 3.6% en premarket y AMD, Intel, Broadcom y Micron avanzan entre 5% y 8.3%",
+   "headline_en": "Chip stocks bounce back: Nvidia up 3.6% premarket, AMD, Intel, Broadcom and Micron up 5% to 8.3%",
    "source": "Reuters"
   },
   {
-   "headline": "Las acciones de chips rebotan en premercado: Nvidia +3.6%, AMD, Intel, Broadcom y Micron entre +5% y +8.3%",
-   "headline_en": "Chip stocks rebound in premarket: Nvidia +3.6%, AMD, Intel, Broadcom and Micron up 5% to 8.3%",
-   "source": "Reuters"
-  },
-  {
-   "headline": "El VIX registró su mayor salto en un día en casi 19 meses y se ubica en 26.07",
-   "headline_en": "VIX logged its biggest one-day jump in about 19 months, now at 26.07",
-   "source": "Reuters"
-  },
-  {
-   "headline": "El petróleo cae: Brent a $97.56 y WTI a $89.77 en medio de tensiones entre EE.UU. e Irán",
-   "headline_en": "Oil falls: Brent at $97.56 and WTI at $89.77 amid U.S.-Iran tensions",
+   "headline": "El petróleo cae: el Brent baja a $97.56 y el WTI a $89.77 mientras el mercado pesa las tensiones entre EE.UU. e Irán",
+   "headline_en": "Oil falls: Brent down to $97.56 and WTI to $89.77 as investors weigh U.S.-Iran tensions",
    "source": "TipRanks"
+  },
+  {
+   "headline": "El VIX registró su mayor salto en un día en unos 19 meses y se mantiene cerca de 26",
+   "headline_en": "The VIX logged its biggest one-day jump in about 19 months and remains near 26",
+   "source": "Reuters"
+  },
+  {
+   "headline": "Europa sigue en rojo: el FTSE cae 2.3% y el DAX 2.4% mientras Wall Street espera el dato de empleo",
+   "headline_en": "Europe stays deep in the red: FTSE down 2.3% and DAX down 2.4% as Wall Street awaits the jobs report",
+   "source": "Samuel & Co Trading"
   }
  ],
  "ultima_hora": {
-  "headline": "Trump culpa a los demócratas por el desplome histórico de la bolsa: ¡Qué triste verlo!",
-  "headline_en": "Trump blames Democrats for historic stock market plunge: Sad thing to watch!",
+  "headline": "Trump culpa a los demócratas del desplome histórico de la bolsa: «El mercado se desplomó porque los demócratas tuvieron un gran martes»",
+  "headline_en": "Trump blames Democrats for the historic stock market plunge: 'The Stock Market crashed today because the Dumocrats had a big Tuesday!'",
   "source": "New York Post",
   "image": "",
   "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-06-trump-democrats-nyse-dusk.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-06-trump-democrats-capitol-dawn.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-06-trump-democrats-trading-floor.webp"
+   "https://raw.githubusercontent.com/boripropdeals/boripropdeals.github.io/main/breaking-visuals/trump-desplome-podium.webp",
+   "https://raw.githubusercontent.com/boripropdeals/boripropdeals.github.io/main/breaking-visuals/trump-desplome-nyse.webp",
+   "https://raw.githubusercontent.com/boripropdeals/boripropdeals.github.io/main/breaking-visuals/trump-desplome-capitolio.webp"
   ]
  }
 }
