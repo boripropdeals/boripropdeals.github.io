@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06T22:32:53.437068+00:00",
+ "updated_at": "2026-11-06T22:33:50.574216+00:00",
  "nq": {
   "price": 27107.5,
   "change_points": 355.5,
@@ -17,45 +17,35 @@
  },
  "headlines": [
   {
-   "headline": "El Nasdaq rebota tras su peor día en 19 meses",
-   "headline_en": "Nasdaq rebounds after its worst day in 19 months",
+   "headline": "El Nasdaq rebota 1.09% tras su peor día en 19 meses y la caza de gangas en acciones de IA",
+   "headline_en": "Nasdaq rebounds 1.09% after its worst day in 19 months as bargain hunters return to AI stocks",
+   "source": "Zacks"
+  },
+  {
+   "headline": "Las nóminas de octubre sorprenden con 165,000 empleos, casi el triple de lo esperado; el desempleo baja a 4.1%",
+   "headline_en": "October payrolls surge by 165,000 jobs, nearly triple expectations; unemployment falls to 4.1%",
+   "source": "Zacks"
+  },
+  {
+   "headline": "Cierre mixto en Wall Street: el Dow cae 0.46% mientras el S&P 500 suma 0.31% y el VIX se enfría 9.2%",
+   "headline_en": "Mixed close on Wall Street: Dow slips 0.46% while S&P 500 gains 0.31% and VIX cools 9.2%",
+   "source": "StockMarketWatch"
+  },
+  {
+   "headline": "La barrida demócrata en las midterms aviva el temor a regular la IA y borró 5.4 billones de dólares el jueves",
+   "headline_en": "Democratic midterm sweep fuels AI-regulation fears and wiped out $5.4 trillion on Thursday",
+   "source": "New York Post"
+  },
+  {
+   "headline": "El bitcoin se desploma más de 5% y ronda los 76,000 dólares",
+   "headline_en": "Bitcoin slumps more than 5% to around $76,000",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "El petróleo Brent cae bajo los 100 dólares y se encamina a su peor semana desde 2020",
+   "headline_en": "Brent crude falls below $100, headed for its biggest weekly drop since 2020",
    "source": "Reuters"
-  },
-  {
-   "headline": "El empleo de octubre supera lo esperado: 165,000 nóminas y desempleo en 4.1%",
-   "headline_en": "October jobs beat expectations: 165,000 payrolls, unemployment at 4.1%",
-   "source": "Reuters"
-  },
-  {
-   "headline": "Trump culpa a los demócratas del desplome y defiende la IA al 100%",
-   "headline_en": "Trump blames Democrats for the crash and backs AI 100%",
-   "source": "The Times"
-  },
-  {
-   "headline": "Las apuestas a una subida de tasas de la Fed en diciembre suben al 78%",
-   "headline_en": "Bets on a December Fed rate hike rise to 78%",
-   "source": "Reuters"
-  },
-  {
-   "headline": "Nvidia lidera la recuperación de los chips tras caer 9.3%",
-   "headline_en": "Nvidia leads chip recovery after 9.3% drop",
-   "source": "Invezz"
-  },
-  {
-   "headline": "El VIX se modera a 26.7 tras su mayor salto en 19 meses",
-   "headline_en": "VIX eases to 26.7 after its biggest jump in 19 months",
-   "source": "Kitco"
   }
  ],
- "ultima_hora": {
-  "headline": "Trump culpa a los demócratas del desplome histórico y defiende la IA: Solo los tontos frenarían la IA",
-  "headline_en": "Trump blames Democrats for the historic crash and defends AI: Only fools would slow down AI",
-  "source": "The Times",
-  "image": "",
-  "images": [
-   "https://boripropdeals.github.io/breaking-visuals/trump-ai-defensa-rueda-prensa.webp",
-   "https://boripropdeals.github.io/breaking-visuals/trump-mercado-pantallas-rojas.webp",
-   "https://boripropdeals.github.io/breaking-visuals/trump-centro-datos-ia.webp"
-  ]
- }
+ "ultima_hora": null
 }
