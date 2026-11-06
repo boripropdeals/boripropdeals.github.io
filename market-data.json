@@ -1,61 +1,56 @@
 {
- "updated_at": "2026-11-06T16:02:33.976255+00:00",
+ "updated_at": "2026-11-06T16:03:59.147880+00:00",
  "nq": {
-  "price": 27311.5,
-  "change_points": 559.5,
-  "percent_change": 2.09
+  "price": 27253.0,
+  "change_points": 501.0,
+  "percent_change": 1.87
  },
  "gold": {
-  "price": 4063.7,
-  "change_points": -49.8,
-  "percent_change": -1.21
+  "price": 4062.3,
+  "change_points": -51.2,
+  "percent_change": -1.24
  },
  "oil": {
-  "price": 90.36,
-  "change_points": -0.16,
-  "percent_change": -0.18
+  "price": 90.32,
+  "change_points": -0.2,
+  "percent_change": -0.22
  },
  "headlines": [
   {
-   "headline": "Empleo en EE.UU. supera expectativas: 165,000 nóminas en octubre y el desempleo baja a 4.1%",
+   "headline": "Empleo en EE. UU. supera las expectativas: 165,000 nóminas en octubre y el desempleo baja a 4.1%",
    "headline_en": "US jobs beat expectations: 165,000 payrolls in October, unemployment falls to 4.1%",
    "source": "Reuters"
   },
   {
-   "headline": "El Nasdaq rebota ~1% y los chips se recuperan tras su peor día en 19 meses",
-   "headline_en": "Nasdaq rebounds ~1% as chip stocks recover after worst day in 19 months",
+   "headline": "El Nasdaq rebota ~1% y los chips se recuperan tras el desplome del jueves; Nvidia sube más de 5%",
+   "headline_en": "Nasdaq rebounds ~1% as chip stocks recover from Thursday’s rout; Nvidia up over 5%",
    "source": "Invezz"
   },
   {
-   "headline": "Jueves negro: el Nasdaq cayó 5.5% y el S&P 4.4%, borrando unos $3 billones por temor a la regulación de la IA",
-   "headline_en": "Thursday rout: Nasdaq fell 5.5% and S&P 4.4%, wiping out about $3 trillion on AI regulation fears",
+   "headline": "Jueves negro: el Nasdaq cae 5.52%, su peor día en 19 meses, y entra en corrección; se esfuman $5.4 billones",
+   "headline_en": "Black Thursday: Nasdaq plunges 5.52%, its worst day in 19 months, enters correction; $5.4 trillion wiped out",
    "source": "Reuters"
   },
   {
-   "headline": "El VIX registró su mayor salto en un día en 19 meses y se modera a ~26.7",
-   "headline_en": "VIX logged its biggest one-day jump in 19 months, easing to ~26.7",
+   "headline": "El empleo fuerte eleva a 78% la probabilidad de una subida de tasas de la Fed en diciembre",
+   "headline_en": "Strong jobs data lifts odds of a December Fed rate hike to 78%",
    "source": "Reuters"
   },
   {
-   "headline": "Bitcoin cae por debajo de $76,000 en medio de la liquidación del mercado",
-   "headline_en": "Bitcoin slumps below $76,000 amid market selloff",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "Moderna supera las expectativas del tercer trimestre; la IPO de Anthropic queda en duda por el desplome de la IA",
-   "headline_en": "Moderna beats Q3 expectations; Anthropic IPO in doubt amid AI selloff",
+   "headline": "Bitcoin cae más de 5% hasta ~$76,000 y el petróleo baja entre tensiones EE. UU.–Irán",
+   "headline_en": "Bitcoin slides over 5% to ~$76,000 and oil falls amid US–Iran tensions",
    "source": "Investopedia"
   }
  ],
  "ultima_hora": {
-  "headline": "Trump defiende la IA 'al 100%': 'Solo los tontos frenarían la superinteligencia' en medio del desplome bursátil",
-  "headline_en": "Trump backs AI '100%': 'Only fools would slow down superintelligence' amid market rout",
-  "source": "The Times / Truth Social",
+  "headline": "Trump culpa a los demócratas del desplome histórico de la bolsa: «¡Uno de los peores días de la historia!»",
+  "headline_en": "Trump blames Democrats for historic stock market plunge: “One of the Worst Days in History!”",
+  "source": "NY Post",
   "image": "",
   "images": [
-   "https://boripropdeals.github.io/breaking-visuals/trump-ai-nyse-2026-11-06.webp",
-   "https://boripropdeals.github.io/breaking-visuals/trump-ai-datacenter-2026-11-06.webp",
-   "https://boripropdeals.github.io/breaking-visuals/trump-ai-whitehouse-2026-11-06.webp"
+   "https://raw.githubusercontent.com/boripropdeals/boripropdeals.github.io/main/breaking-visuals/trump-culpa-democratas-desplome-bolsa-20261106.webp",
+   "https://raw.githubusercontent.com/boripropdeals/boripropdeals.github.io/main/breaking-visuals/bolsa-desplome-pantallas-rojas-20261106.webp",
+   "https://raw.githubusercontent.com/boripropdeals/boripropdeals.github.io/main/breaking-visuals/capitolio-tormenta-mercado-20261106.webp"
   ]
  }
 }
