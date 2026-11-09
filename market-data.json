@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T22:34:42.539890+00:00",
+ "updated_at": "2026-11-09T22:36:06.007603+00:00",
  "nq": {
   "price": 28073.25,
   "change_points": 988.0,
@@ -17,34 +17,34 @@
  },
  "headlines": [
   {
-   "headline": "Wall Street rebota con fuerza: Nasdaq sube 2.19% y S&P 500 1.70% antes del dato de inflación",
-   "headline_en": "Wall Street rebounds sharply: Nasdaq up 2.19% and S&P 500 up 1.70% ahead of inflation data",
-   "source": "TradingView"
+   "headline": "Wall Street cierra con fuerte rebote: Nasdaq sube 2.75% y S&P 500 2.4% tras su peor semana desde abril de 2025",
+   "headline_en": "Wall Street closes with a sharp rebound: Nasdaq up 2.75% and S&P 500 up 2.4% after its worst week since April 2025",
+   "source": "Reuters"
   },
   {
-   "headline": "Nvidia cae ~5%: su junta investiga al CEO Jensen Huang por presunto vínculo con inteligencia china",
-   "headline_en": "Nvidia drops ~5% as board investigates CEO Jensen Huang over alleged Chinese intelligence link",
-   "source": "PreMarketDaily"
+   "headline": "Nvidia cae ~4.3%: su junta investiga al CEO Jensen Huang por presunto vínculo con inteligencia china",
+   "headline_en": "Nvidia falls ~4.3% as its board investigates CEO Jensen Huang over an alleged Chinese intelligence link",
+   "source": "Reuters"
   },
   {
-   "headline": "El mercado suma ~$1 billón en la apertura: los compradores vuelven tras la venta masiva de IA",
-   "headline_en": "Market adds ~$1 trillion at the open as dip buyers return after AI sell-off",
-   "source": "PreMarketDaily"
+   "headline": "El petróleo se desploma ~5% (WTI cerca de $87) por señales de acuerdo diplomático con Irán",
+   "headline_en": "Oil plunges ~5% (WTI near $87) on signs of a diplomatic deal with Iran",
+   "source": "Reuters"
   },
   {
-   "headline": "El petróleo se desploma: Brent cae cerca de 5% ante la esperanza de un acuerdo diplomático con Irán",
-   "headline_en": "Oil plunges: Brent falls nearly 5% on hopes of a diplomatic deal with Iran",
-   "source": "AND Magazine"
-  },
-  {
-   "headline": "Empleo de octubre supera expectativas: 165,000 empleos y la probabilidad de alza de tasas en diciembre sube a 78%",
-   "headline_en": "October jobs beat expectations: 165,000 jobs added, December rate-hike odds jump to 78%",
-   "source": "Calculated Degens"
+   "headline": "El oro sube ~1.9% hasta ~$4,140 mientras el dólar se debilita",
+   "headline_en": "Gold climbs ~1.9% to near $4,140 as the dollar weakens",
+   "source": "Babypips"
   },
   {
    "headline": "La inflación de octubre llega mañana: el IPC se publica el martes a las 8:30am ET",
    "headline_en": "October inflation arrives tomorrow: CPI due Tuesday at 8:30am ET",
-   "source": "TradingView"
+   "source": "CNBC"
+  },
+  {
+   "headline": "El Nasdaq sigue en corrección tras caer 5.5% el jueves; el VIX se mantiene elevado cerca de 25",
+   "headline_en": "Nasdaq remains in correction after Thursday’s 5.5% drop; VIX stays elevated near 25",
+   "source": "CNBC"
   }
  ],
  "ultima_hora": {
