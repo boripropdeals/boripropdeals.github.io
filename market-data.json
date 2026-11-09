@@ -1,61 +1,51 @@
 {
- "updated_at": "2026-11-09T20:02:45.824336+00:00",
+ "updated_at": "2026-11-09T20:02:55.986945+00:00",
  "nq": {
-  "price": 28003.5,
-  "change_points": 918.25,
-  "percent_change": 3.39
+  "price": 27998.75,
+  "change_points": 913.5,
+  "percent_change": 3.37
  },
  "gold": {
-  "price": 4138.7,
-  "change_points": 63.8,
-  "percent_change": 1.57
+  "price": 4137.6,
+  "change_points": 62.7,
+  "percent_change": 1.54
  },
  "oil": {
-  "price": 85.68,
-  "change_points": -5.15,
-  "percent_change": -5.67
+  "price": 85.61,
+  "change_points": -5.22,
+  "percent_change": -5.75
  },
  "headlines": [
   {
-   "headline": "Nvidia se desploma: su junta investiga al CEO Jensen Huang por presunto espionaje chino",
-   "headline_en": "Nvidia tumbles as board probes CEO Jensen Huang over alleged Chinese espionage",
-   "source": "Investor's Business Daily"
+   "headline": "Wall Street arranca la semana al alza mientras se acerca el dato de inflación",
+   "headline_en": "Wall Street's four main benchmarks start the week higher as inflation data nears",
+   "source": "TradingView"
   },
   {
-   "headline": "El petróleo se desploma más de 3% mientras avanzan las negociaciones con Irán",
-   "headline_en": "Oil plunges over 3% as Iran diplomacy eases war fears",
-   "source": "Barchart"
+   "headline": "La junta de Nvidia abre una investigación independiente sobre su CEO Jensen Huang; la acción cae cerca de 5%",
+   "headline_en": "Nvidia board opens independent investigation into CEO Jensen Huang; shares drop about 5%",
+   "source": "PreMarketDaily"
   },
   {
-   "headline": "Wall Street rebota con fuerza: el Nasdaq sube más de 3% tras su peor semana desde abril",
-   "headline_en": "Wall Street rebounds sharply as Nasdaq jumps over 3% after its worst week since April",
-   "source": "Barchart"
+   "headline": "El sector de IA se divide mientras el mercado suma $1 billón en la apertura",
+   "headline_en": "AI sector splits as broader market adds $1 trillion at the open",
+   "source": "PreMarketDaily"
   },
   {
-   "headline": "La inflación de octubre toma el centro: el IPC de mañana pondrá a prueba las apuestas de subida de tasas",
-   "headline_en": "October inflation takes center stage as Tuesday's CPI tests rate-hike bets",
-   "source": "Barchart"
+   "headline": "El empleo supera expectativas y revaloriza diciembre: 165,000 empleos creados frente a 65,000 esperados",
+   "headline_en": "Jobs beat reprices December: 165,000 jobs added vs 65,000 expected; rate-hike odds jump to 78%",
+   "source": "The Degenerates Journal"
   },
   {
-   "headline": "El mercado da 80% de probabilidad a una subida de tasas de la Fed en diciembre",
-   "headline_en": "Markets price an 80% chance of a Fed rate hike in December",
-   "source": "Barchart"
+   "headline": "El petróleo cae cerca de 3.7% pese a las tensiones con Irán",
+   "headline_en": "Oil slides about 3.7% as Brent falls toward $94.70 despite Iran tensions",
+   "source": "Samuel & Co Trading"
   },
   {
-   "headline": "Anthropic prepara su salida a bolsa: roadshow esta semana con debut en Nasdaq previsto",
-   "headline_en": "Anthropic set to launch IPO roadshow this week with Nasdaq debut targeted",
-   "source": "Barchart"
+   "headline": "Los índices buscan soporte tras una semana de fuertes pérdidas con el VIX aún elevado",
+   "headline_en": "Indices hunt for support after steep weekly losses as VIX stays elevated",
+   "source": "TradingView"
   }
  ],
- "ultima_hora": {
-  "headline": "Trump: nuevos ataques a Irán son \"altamente improbables\" — el petróleo se desploma y Wall Street rebota",
-  "headline_en": "Trump says fresh Iran strikes \"highly unlikely\" as oil plunges and Wall Street rebounds",
-  "source": "Barron's",
-  "image": "",
-  "images": [
-   "https://boripropdeals.github.io/breaking-visuals/trump-iran-petroleo-caida.webp",
-   "https://boripropdeals.github.io/breaking-visuals/trump-iran-bolsa-sube.webp",
-   "https://boripropdeals.github.io/breaking-visuals/trump-iran-diplomacia.webp"
-  ]
- }
+ "ultima_hora": null
 }
