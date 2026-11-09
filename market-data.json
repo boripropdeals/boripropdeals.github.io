@@ -1,51 +1,61 @@
 {
- "updated_at": "2026-11-09T20:36:35.577924+00:00",
+ "updated_at": "2026-11-09T20:37:28.853754+00:00",
  "nq": {
-  "price": 28110.5,
-  "change_points": 1025.25,
-  "percent_change": 3.79
+  "price": 28116.0,
+  "change_points": 1030.75,
+  "percent_change": 3.81
  },
  "gold": {
-  "price": 4153.1,
-  "change_points": 78.2,
-  "percent_change": 1.92
+  "price": 4154.9,
+  "change_points": 80.0,
+  "percent_change": 1.96
  },
  "oil": {
-  "price": 86.56,
-  "change_points": -4.27,
-  "percent_change": -4.7
+  "price": 86.49,
+  "change_points": -4.34,
+  "percent_change": -4.78
  },
  "headlines": [
-  {
-   "headline": "Wall Street arranca la semana al alza mientras se acerca el dato de inflación",
-   "headline_en": "Wall Street's four main benchmarks start the week higher as inflation data nears",
-   "source": "TradingView"
-  },
   {
    "headline": "La junta de Nvidia abre una investigación independiente sobre su CEO Jensen Huang; la acción cae cerca de 5%",
    "headline_en": "Nvidia board opens independent investigation into CEO Jensen Huang; shares drop about 5%",
    "source": "PreMarketDaily"
   },
   {
-   "headline": "El sector de IA se divide mientras el mercado suma $1 billón en la apertura",
-   "headline_en": "AI sector splits as broader market adds $1 trillion at the open",
+   "headline": "Wall Street rebota con fuerza: el S&P 500 sube 1.8% y el Dow suma 763 puntos tras su peor semana desde abril",
+   "headline_en": "Wall Street rebounds sharply: S&P 500 gains 1.8% and Dow adds 763 points after worst week since April",
    "source": "PreMarketDaily"
   },
   {
-   "headline": "El empleo supera expectativas y revaloriza diciembre: 165,000 empleos creados frente a 65,000 esperados",
-   "headline_en": "Jobs beat reprices December: 165,000 jobs added vs 65,000 expected; rate-hike odds jump to 78%",
+   "headline": "El petróleo cae más de 4% después de que Trump descartara nuevos ataques contra Irán",
+   "headline_en": "Oil drops more than 4% after Trump plays down prospect of further US strikes on Iran",
+   "source": "Barron's"
+  },
+  {
+   "headline": "El empleo supera las expectativas: 165,000 puestos creados frente a 65,000 esperados; suben las apuestas a una subida de tipos en diciembre",
+   "headline_en": "Jobs beat reprices December: 165,000 jobs added vs 65,000 expected; December hike odds jump to about 78%",
    "source": "The Degenerates Journal"
   },
   {
-   "headline": "El petróleo cae cerca de 3.7% pese a las tensiones con Irán",
-   "headline_en": "Oil slides about 3.7% as Brent falls toward $94.70 despite Iran tensions",
+   "headline": "La inflación del martes será el veredicto de la semana para los mercados",
+   "headline_en": "Tuesday's inflation print is the week's verdict for markets",
    "source": "Samuel & Co Trading"
   },
   {
-   "headline": "Los índices buscan soporte tras una semana de fuertes pérdidas con el VIX aún elevado",
-   "headline_en": "Indices hunt for support after steep weekly losses as VIX stays elevated",
-   "source": "TradingView"
+   "headline": "CKX Lands se dispara 54% tras una inversión de $1,000 millones liderada por Brad Jacobs",
+   "headline_en": "CKX Lands jumps 54% on $1 billion cash investment led by Brad Jacobs",
+   "source": "FSO News"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Trump descarta nuevos ataques a Irán: «altamente improbable» mientras avancen las conversaciones",
+  "headline_en": "Trump says fresh Iran strikes 'highly unlikely' as talks continue",
+  "source": "Barron's",
+  "image": "",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-09-trump-iran-deescalation-tanker.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-09-trump-iran-deescalation-whitehouse.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-09-trump-iran-deescalation-oil-rally.webp"
+  ]
+ }
 }
