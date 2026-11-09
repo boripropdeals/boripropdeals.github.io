@@ -1,61 +1,61 @@
 {
- "updated_at": "2026-11-09T19:32:50.071383+00:00",
+ "updated_at": "2026-11-09T19:34:28.124123+00:00",
  "nq": {
-  "price": 27946.5,
-  "change_points": 861.25,
-  "percent_change": 3.18
+  "price": 27943.5,
+  "change_points": 858.25,
+  "percent_change": 3.17
  },
  "gold": {
-  "price": 4113.2,
-  "change_points": 38.3,
-  "percent_change": 0.94
+  "price": 4114.9,
+  "change_points": 40.0,
+  "percent_change": 0.98
  },
  "oil": {
-  "price": 87.59,
-  "change_points": -3.24,
-  "percent_change": -3.57
+  "price": 87.37,
+  "change_points": -3.46,
+  "percent_change": -3.81
  },
  "headlines": [
   {
-   "headline": "Nvidia cae ~6% en preapertura: su junta investiga al CEO Jensen Huang",
-   "headline_en": "Nvidia drops ~6% premarket as board investigates CEO Jensen Huang",
-   "source": "Reuters"
+   "headline": "Nvidia se desploma: su junta investiga al CEO Jensen Huang por presunto espionaje chino",
+   "headline_en": "Nvidia tumbles as board probes CEO Jensen Huang over alleged Chinese espionage",
+   "source": "Investor's Business Daily"
   },
   {
-   "headline": "Futuros de EE. UU. rebotan tras su peor semana desde abril de 2025",
-   "headline_en": "U.S. futures rebound after worst week since April 2025",
-   "source": "Reuters"
+   "headline": "El petróleo se desploma más de 3% mientras avanzan las negociaciones con Irán",
+   "headline_en": "Oil plunges over 3% as Iran diplomacy eases war fears",
+   "source": "Barchart"
   },
   {
-   "headline": "El petróleo se desploma ~4% tras decir Trump que nuevos ataques a Irán son «muy improbables»",
-   "headline_en": "Oil plunges ~4% after Trump says fresh Iran strikes are «highly unlikely»",
-   "source": "Reuters"
+   "headline": "Wall Street rebota con fuerza: el Nasdaq sube más de 3% tras su peor semana desde abril",
+   "headline_en": "Wall Street rebounds sharply as Nasdaq jumps over 3% after its worst week since April",
+   "source": "Barchart"
   },
   {
-   "headline": "Empleo sólido en EE. UU. eleva a ~80% la probabilidad de alza de la Fed en diciembre",
-   "headline_en": "Strong U.S. jobs report lifts December Fed hike odds to ~80%",
-   "source": "Saxo Bank"
+   "headline": "La inflación de octubre toma el centro: el IPC de mañana pondrá a prueba las apuestas de subida de tasas",
+   "headline_en": "October inflation takes center stage as Tuesday's CPI tests rate-hike bets",
+   "source": "Barchart"
   },
   {
-   "headline": "El IPC de mañana es la próxima prueba clave; el Nasdaq ya está en corrección",
-   "headline_en": "Tuesday’s CPI is the next key test as Nasdaq sits in correction territory",
-   "source": "Saxo Bank"
+   "headline": "El mercado da 80% de probabilidad a una subida de tasas de la Fed en diciembre",
+   "headline_en": "Markets price an 80% chance of a Fed rate hike in December",
+   "source": "Barchart"
   },
   {
-   "headline": "El oro supera los $4,100 por onza mientras cae el apetito por riesgo",
-   "headline_en": "Gold tops $4,100 an ounce as risk appetite fades",
-   "source": "SP Angel"
+   "headline": "Anthropic prepara su salida a bolsa: roadshow esta semana con debut en Nasdaq previsto",
+   "headline_en": "Anthropic set to launch IPO roadshow this week with Nasdaq debut targeted",
+   "source": "Barchart"
   }
  ],
  "ultima_hora": {
-  "headline": "Trump dice que nuevos ataques a Irán son altamente improbables mientras avancen las negociaciones",
-  "headline_en": "Trump says new strikes on Iran are highly unlikely while talks advance",
-  "source": "Reuters",
+  "headline": "Trump: nuevos ataques a Irán son \"altamente improbables\" — el petróleo se desploma y Wall Street rebota",
+  "headline_en": "Trump says fresh Iran strikes \"highly unlikely\" as oil plunges and Wall Street rebounds",
+  "source": "Barron's",
   "image": "",
   "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-09-trump-iran-oil-tanker.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-09-trump-iran-oil-pumpjack-dawn.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-09-trump-iran-white-house-dawn.webp"
+   "https://boripropdeals.github.io/breaking-visuals/trump-iran-petroleo-caida.webp",
+   "https://boripropdeals.github.io/breaking-visuals/trump-iran-bolsa-sube.webp",
+   "https://boripropdeals.github.io/breaking-visuals/trump-iran-diplomacia.webp"
   ]
  }
 }
