@@ -1,61 +1,51 @@
 {
- "updated_at": "2026-11-09T12:30:31.925138+00:00",
+ "updated_at": "2026-11-09T12:32:18.228205+00:00",
  "nq": {
-  "price": 27220.0,
-  "change_points": 134.75,
-  "percent_change": 0.5
+  "price": 27212.0,
+  "change_points": 126.75,
+  "percent_change": 0.47
  },
  "gold": {
-  "price": 4121.1,
-  "change_points": 46.2,
-  "percent_change": 1.13
+  "price": 4121.8,
+  "change_points": 46.9,
+  "percent_change": 1.15
  },
  "oil": {
-  "price": 88.21,
-  "change_points": -2.62,
-  "percent_change": -2.88
+  "price": 88.14,
+  "change_points": -2.69,
+  "percent_change": -2.96
  },
  "headlines": [
   {
-   "headline": "Nvidia cae ~4% en premarket: el consejo investiga al CEO Jensen Huang por presunto espionaje extranjero",
-   "headline_en": "Nvidia drops ~4% premarket as board probes CEO Jensen Huang over alleged foreign intelligence targeting",
+   "headline": "Nvidia se desploma en premarket tras la investigación a su CEO Jensen Huang",
+   "headline_en": "Nvidia slides in premarket as board probes CEO Jensen Huang",
    "source": "Reuters"
   },
   {
-   "headline": "Nasdaq en corrección: cuarta semana consecutiva a la baja, más de 10% por debajo de su máximo",
-   "headline_en": "Nasdaq in correction territory after a fourth straight weekly decline, more than 10% below its peak",
-   "source": "Saxo Bank"
-  },
-  {
-   "headline": "Empleo de octubre supera expectativas: 165,000 nóminas y desempleo en 4.1%; el mercado ve ~80% de probabilidad de subida de la Fed en diciembre",
-   "headline_en": "October jobs beat expectations: 165,000 payrolls, jobless rate 4.1%; markets price ~80% chance of a December Fed hike",
-   "source": "Saxo Bank"
-  },
-  {
-   "headline": "El IPC de octubre se publica el martes a las 8:30am ET, el dato clave de la semana",
-   "headline_en": "October CPI due Tuesday at 8:30am ET, the week's key data release",
+   "headline": "Los futuros de Wall Street rebotan tras su peor semana desde abril",
+   "headline_en": "Wall Street futures rebound after worst week since April",
    "source": "Reuters"
   },
   {
-   "headline": "Berkshire Hathaway: ganancias operativas caen 5.8% y su efectivo llega a un récord de $377,400 millones",
-   "headline_en": "Berkshire Hathaway operating earnings fall 5.8% as cash hits a record $377.4 billion",
-   "source": "ADVFN"
+   "headline": "El empleo de octubre, más fuerte de lo esperado, eleva las apuestas de subida de la Fed en diciembre",
+   "headline_en": "Stronger-than-expected October jobs report lifts December Fed hike bets",
+   "source": "Saxo Bank"
   },
   {
-   "headline": "Petróleo cae y el oro sube a ~$4,099 tras los comentarios de Trump sobre Irán",
-   "headline_en": "Oil falls and gold rises to ~$4,099 after Trump's remarks on Iran",
+   "headline": "El Nasdaq entra en corrección tras su cuarta caída semanal consecutiva",
+   "headline_en": "Nasdaq slips into correction after fourth straight weekly decline",
+   "source": "Saxo Bank"
+  },
+  {
+   "headline": "El IPC de octubre llega mañana y pondrá a prueba el rebote tecnológico",
+   "headline_en": "October CPI lands Tuesday in key test for the tech rebound",
+   "source": "Reuters"
+  },
+  {
+   "headline": "El petróleo cae tras los comentarios de Trump sobre Irán",
+   "headline_en": "Oil falls after Trump remarks on Iran",
    "source": "XTB"
   }
  ],
- "ultima_hora": {
-  "headline": "Trump: 'muy improbable' nuevos ataques a Irán mientras avance la diplomacia",
-  "headline_en": "Trump: New strikes on Iran 'highly unlikely' while diplomacy continues",
-  "source": "Reuters",
-  "image": "",
-  "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-09-trump-iran-oil-tanker.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-09-trump-iran-oil-pumpjack-dawn.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-09-trump-iran-white-house-dawn.webp"
-  ]
- }
+ "ultima_hora": null
 }
