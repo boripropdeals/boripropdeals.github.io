@@ -1,61 +1,51 @@
 {
- "updated_at": "2026-11-09T15:02:51.991750+00:00",
+ "updated_at": "2026-11-09T15:03:43.382414+00:00",
  "nq": {
-  "price": 27755.5,
-  "change_points": 670.25,
-  "percent_change": 2.47
+  "price": 27756.25,
+  "change_points": 671.0,
+  "percent_change": 2.48
  },
  "gold": {
-  "price": 4134.3,
-  "change_points": 59.4,
-  "percent_change": 1.46
+  "price": 4131.2,
+  "change_points": 56.3,
+  "percent_change": 1.38
  },
  "oil": {
-  "price": 87.65,
-  "change_points": -3.18,
-  "percent_change": -3.5
+  "price": 87.61,
+  "change_points": -3.22,
+  "percent_change": -3.55
  },
  "headlines": [
   {
-   "headline": "Nvidia cae en el premercado tras la investigación del consejo a Jensen Huang",
-   "headline_en": "Nvidia slides pre-market as board opens probe into CEO Jensen Huang",
+   "headline": "Nvidia cae ~6% en preapertura: su junta investiga al CEO Jensen Huang",
+   "headline_en": "Nvidia drops ~6% premarket as board investigates CEO Jensen Huang",
    "source": "Reuters"
   },
   {
-   "headline": "El petróleo cae más de 3% tras decir Trump que nuevos ataques a Irán son poco probables",
-   "headline_en": "Oil drops over 3% after Trump says new Iran strikes unlikely",
+   "headline": "Futuros de EE. UU. rebotan tras su peor semana desde abril de 2025",
+   "headline_en": "U.S. futures rebound after worst week since April 2025",
+   "source": "Reuters"
+  },
+  {
+   "headline": "El petróleo se desploma ~4% tras decir Trump que nuevos ataques a Irán son «muy improbables»",
+   "headline_en": "Oil plunges ~4% after Trump says fresh Iran strikes are «highly unlikely»",
    "source": "TipRanks"
   },
   {
-   "headline": "Wall Street rebota tras su peor semana desde abril de 2025",
-   "headline_en": "Wall Street rebounds after its worst week since April 2025",
+   "headline": "Empleo sólido en EE. UU. eleva a ~80% la probabilidad de alza de la Fed en diciembre",
+   "headline_en": "Strong U.S. jobs report lifts December Fed hike odds to ~80%",
    "source": "Saxo Bank"
   },
   {
-   "headline": "Las nóminas de octubre duplican lo esperado y elevan las apuestas de subida de la Fed en diciembre",
-   "headline_en": "October payrolls more than double expectations, lifting December Fed hike bets",
+   "headline": "El IPC de mañana es la próxima prueba clave; el Nasdaq ya está en corrección",
+   "headline_en": "Tuesday’s CPI is the next key test as Nasdaq sits in correction territory",
    "source": "Saxo Bank"
   },
   {
-   "headline": "Los chips lideran el rebote del viernes: AMD sube 11% y Nvidia 2.8%",
-   "headline_en": "Chips lead Friday’s rebound: AMD jumps 11%, Nvidia up 2.8%",
-   "source": "Saxo Bank"
-  },
-  {
-   "headline": "El IPC de octubre, clave de la semana, se publica el martes",
-   "headline_en": "October CPI, the week’s key release, lands Tuesday",
-   "source": "TipRanks"
+   "headline": "El oro supera los $4,100 por onza mientras cae el apetito por riesgo",
+   "headline_en": "Gold tops $4,100 an ounce as risk appetite fades",
+   "source": "SP Angel"
   }
  ],
- "ultima_hora": {
-  "headline": "Trump dice que nuevos ataques a Irán son altamente improbables mientras avancen las negociaciones",
-  "headline_en": "Trump says new strikes on Iran are highly unlikely while talks advance",
-  "source": "Reuters",
-  "image": "",
-  "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-09-trump-iran-oil-tanker.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-09-trump-iran-oil-pumpjack-dawn.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-09-trump-iran-white-house-dawn.webp"
-  ]
- }
+ "ultima_hora": null
 }
