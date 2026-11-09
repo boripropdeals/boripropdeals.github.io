@@ -1,61 +1,56 @@
 {
- "updated_at": "2026-11-09T21:04:39.208566+00:00",
+ "updated_at": "2026-11-09T21:05:58.023865+00:00",
  "nq": {
-  "price": 28062.5,
-  "change_points": 977.25,
-  "percent_change": 3.61
+  "price": 28044.75,
+  "change_points": 959.5,
+  "percent_change": 3.54
  },
  "gold": {
-  "price": 4147.8,
-  "change_points": 72.9,
-  "percent_change": 1.79
+  "price": 4151.0,
+  "change_points": 76.1,
+  "percent_change": 1.87
  },
  "oil": {
-  "price": 86.92,
-  "change_points": -3.91,
-  "percent_change": -4.3
+  "price": 86.98,
+  "change_points": -3.85,
+  "percent_change": -4.24
  },
  "headlines": [
   {
-   "headline": "La junta de Nvidia abre una investigación independiente sobre su CEO Jensen Huang; la acción cae cerca de 5%",
-   "headline_en": "Nvidia board opens independent investigation into CEO Jensen Huang; shares drop about 5%",
-   "source": "PreMarketDaily"
+   "headline": "Nvidia cae ~5%: su junta investiga al CEO Jensen Huang por un presunto vínculo con espionaje chino",
+   "headline_en": "Nvidia slides ~5% as its board investigates CEO Jensen Huang over an alleged Chinese spy link",
+   "source": "Reuters"
   },
   {
-   "headline": "Wall Street rebota con fuerza: el S&P 500 sube 1.8% y el Dow suma 763 puntos tras su peor semana desde abril",
-   "headline_en": "Wall Street rebounds sharply: S&P 500 gains 1.8% and Dow adds 763 points after worst week since April",
-   "source": "PreMarketDaily"
+   "headline": "Wall Street rebota con fuerza: el S&P 500 sube 1.8% y suma ~$1 billón tras su peor semana desde abril",
+   "headline_en": "Wall Street rebounds sharply: S&P 500 jumps 1.8%, adding ~$1 trillion after its worst week since April",
+   "source": "PreMarket Daily"
   },
   {
-   "headline": "El petróleo cae más de 4% después de que Trump descartara nuevos ataques contra Irán",
-   "headline_en": "Oil drops more than 4% after Trump plays down prospect of further US strikes on Iran",
-   "source": "Barron's"
+   "headline": "Empleo de octubre supera lo esperado: 165,000 nóminas vs 65,000 previstas; el desempleo baja a 4.1%",
+   "headline_en": "October jobs beat forecasts: 165,000 payrolls vs 65,000 expected; unemployment falls to 4.1%",
+   "source": "Reuters"
   },
   {
-   "headline": "El empleo supera las expectativas: 165,000 puestos creados frente a 65,000 esperados; suben las apuestas a una subida de tipos en diciembre",
-   "headline_en": "Jobs beat reprices December: 165,000 jobs added vs 65,000 expected; December hike odds jump to about 78%",
-   "source": "The Degenerates Journal"
+   "headline": "La apuesta de Trump por los futuros perpetuos enciende las alarmas de Wall Street; CME demanda a la CFTC",
+   "headline_en": "Trump administration embrace of perpetual futures sets off Wall Street alarms; CME sues the CFTC",
+   "source": "Reuters"
   },
   {
-   "headline": "La inflación del martes será el veredicto de la semana para los mercados",
-   "headline_en": "Tuesday's inflation print is the week's verdict for markets",
-   "source": "Samuel & Co Trading"
-  },
-  {
-   "headline": "CKX Lands se dispara 54% tras una inversión de $1,000 millones liderada por Brad Jacobs",
-   "headline_en": "CKX Lands jumps 54% on $1 billion cash investment led by Brad Jacobs",
-   "source": "FSO News"
+   "headline": "Mañana llega el IPC de octubre, el dato clave de la semana para los mercados",
+   "headline_en": "October CPI arrives tomorrow, the key data point of the week for markets",
+   "source": "Reuters"
   }
  ],
  "ultima_hora": {
-  "headline": "Trump descarta nuevos ataques a Irán: «altamente improbable» mientras avancen las conversaciones",
-  "headline_en": "Trump says fresh Iran strikes 'highly unlikely' as talks continue",
-  "source": "Barron's",
+  "headline": "Trump descarta nuevos ataques a Irán y el petróleo se desploma casi 6%",
+  "headline_en": "Trump rules out new strikes on Iran as oil plunges nearly 6%",
+  "source": "The Wall Street Journal",
   "image": "",
   "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-09-trump-iran-deescalation-tanker.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-09-trump-iran-deescalation-whitehouse.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-09-trump-iran-deescalation-oil-rally.webp"
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-09-trump-iran-tanquero-hormuz.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-09-trump-iran-petroleo-refineria.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-09-trump-iran-casa-blanca-diplomacia.webp"
   ]
  }
 }
