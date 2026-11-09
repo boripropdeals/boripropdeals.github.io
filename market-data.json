@@ -1,13 +1,13 @@
 {
- "updated_at": "2026-11-09T13:34:31.793465+00:00",
+ "updated_at": "2026-11-09T13:35:18.283497+00:00",
  "nq": {
-  "price": 27258.75,
-  "change_points": 173.5,
-  "percent_change": 0.64
+  "price": 27263.75,
+  "change_points": 178.5,
+  "percent_change": 0.66
  },
  "gold": {
-  "price": 4137.0,
-  "change_points": 62.1,
+  "price": 4136.9,
+  "change_points": 62.0,
   "percent_change": 1.52
  },
  "oil": {
@@ -47,5 +47,15 @@
    "source": "XTB"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Trump dice que nuevos ataques a Irán son altamente improbables mientras avancen las negociaciones",
+  "headline_en": "Trump says new strikes on Iran are highly unlikely while talks advance",
+  "source": "Reuters",
+  "image": "",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-09-trump-iran-oil-tanker.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-09-trump-iran-oil-pumpjack-dawn.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-09-trump-iran-white-house-dawn.webp"
+  ]
+ }
 }
