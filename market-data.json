@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-11-10T14:30:52.472416+00:00",
+ "updated_at": "2026-11-10T14:35:51.140824+00:00",
  "nq": {
-  "price": 27730.25,
-  "change_points": -284.25,
-  "percent_change": -1.01
+  "price": 27744.0,
+  "change_points": -270.5,
+  "percent_change": -0.97
  },
  "gold": {
-  "price": 4063.7,
-  "change_points": -50.8,
-  "percent_change": -1.23
+  "price": 4065.2,
+  "change_points": -49.3,
+  "percent_change": -1.2
  },
  "oil": {
-  "price": 84.47,
-  "change_points": -2.38,
-  "percent_change": -2.74
+  "price": 84.45,
+  "change_points": -2.4,
+  "percent_change": -2.76
  },
  "headlines": [
   {
-   "headline": "La inflación de octubre sube 0.4%: el IPC enfría tras el 0.6% de septiembre",
-   "headline_en": "October CPI rises 0.4%: inflation cools from September’s 0.6%",
+   "headline": "La inflación subió 0.4% en octubre, según el IPC publicado esta mañana",
+   "headline_en": "October CPI rose 0.4%, with core inflation up 0.3%",
    "source": "Investopedia"
   },
   {
-   "headline": "Waller, de la Fed, respalda una subida de tasas en diciembre y no descarta 50 puntos básicos",
-   "headline_en": "Fed’s Waller backs December rate hike, open to 50 basis points",
-   "source": "Bloomberg"
+   "headline": "Waller, de la Fed, urge endurecer la política monetaria más pronto que tarde",
+   "headline_en": "Fed Governor Waller urges tightening sooner rather than later",
+   "source": "Investopedia"
   },
   {
-   "headline": "Futuros mixtos tras el mejor día desde abril: Dow sube, Nasdaq cede",
-   "headline_en": "Mixed futures after best day since April: Dow up, Nasdaq slips",
-   "source": "CNBC"
+   "headline": "Wall Street vivió su mejor día desde abril tras el desplome del petróleo",
+   "headline_en": "Wall Street posts best day since April as oil tumbles",
+   "source": "Zacks"
   },
   {
-   "headline": "El petróleo cae: Trump descarta nuevos ataques a Irán por ahora",
-   "headline_en": "Oil slides as Trump downplays prospect of new Iran strikes",
+   "headline": "El petróleo cae por debajo de 90 dólares tras las palabras de Trump sobre Irán",
+   "headline_en": "Oil falls below $90 as Trump downplays prospect of escalation with Iran",
    "source": "Reuters"
   },
   {
-   "headline": "Nvidia rebota en premercado tras caer 4.3% por la investigación a su CEO",
-   "headline_en": "Nvidia rebounds premarket after 4.3% drop on probe into CEO",
-   "source": "TipRanks"
+   "headline": "Anthropic avanza con su IPO: rango de 70 a 78 dólares por acción",
+   "headline_en": "Anthropic IPO moves forward with $70-$78 price range",
+   "source": "Investopedia"
   },
   {
-   "headline": "Anthropic revela detalles de su OPI; CoreWeave reporta tras el cierre",
-   "headline_en": "Anthropic reveals IPO details; CoreWeave reports after the bell",
-   "source": "Investopedia"
+   "headline": "Nvidia bajo la lupa: su junta investiga al CEO Jensen Huang",
+   "headline_en": "Nvidia board launches investigation into CEO Jensen Huang",
+   "source": "Zacks"
   }
  ],
  "ultima_hora": null
