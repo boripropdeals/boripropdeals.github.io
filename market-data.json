@@ -1,61 +1,56 @@
 {
- "updated_at": "2026-11-10T12:02:37.755231+00:00",
+ "updated_at": "2026-11-10T12:03:37.935281+00:00",
  "nq": {
-  "price": 27937.5,
-  "change_points": -77.0,
-  "percent_change": -0.27
+  "price": 27936.25,
+  "change_points": -78.25,
+  "percent_change": -0.28
  },
  "gold": {
-  "price": 4079.3,
-  "change_points": -35.2,
-  "percent_change": -0.86
+  "price": 4079.5,
+  "change_points": -35.0,
+  "percent_change": -0.85
  },
  "oil": {
-  "price": 85.45,
-  "change_points": -1.4,
-  "percent_change": -1.61
+  "price": 85.47,
+  "change_points": -1.38,
+  "percent_change": -1.59
  },
  "headlines": [
   {
-   "headline": "Wall Street cierra con fuerte rebote: Nasdaq sube 2.75% y S&P 500 2.4% tras su peor semana desde abril de 2025",
-   "headline_en": "Wall Street closes with a sharp rebound: Nasdaq up 2.75% and S&P 500 up 2.4% after its worst week since April 2025",
+   "headline": "Wall Street espera el IPC de octubre: la inflación decidirá el próximo paso de la Fed",
+   "headline_en": "Wall Street awaits October CPI: inflation will decide the Fed next move",
+   "source": "TipRanks"
+  },
+  {
+   "headline": "El Dow se dispara 1,104 puntos en su mejor día desde abril tras el desplome de la semana pasada",
+   "headline_en": "Dow surges 1,104 points in its best day since April after last week sell-off",
    "source": "Reuters"
   },
   {
-   "headline": "Nvidia cae ~4.3%: su junta investiga al CEO Jensen Huang por presunto vínculo con inteligencia china",
-   "headline_en": "Nvidia falls ~4.3% as its board investigates CEO Jensen Huang over an alleged Chinese intelligence link",
+   "headline": "El petróleo cae por debajo de $90 por primera vez desde agosto",
+   "headline_en": "Oil falls below $90 for the first time since August",
    "source": "Reuters"
   },
   {
-   "headline": "El petróleo se desploma ~5% (WTI cerca de $87) por señales de acuerdo diplomático con Irán",
-   "headline_en": "Oil plunges ~5% (WTI near $87) on signs of a diplomatic deal with Iran",
-   "source": "Reuters"
+   "headline": "Nvidia rebota en premarket tras caer 4.3% por la investigación a su CEO",
+   "headline_en": "Nvidia rebounds in premarket after 4.3% drop amid CEO investigation",
+   "source": "TipRanks"
   },
   {
-   "headline": "El oro sube ~1.9% hasta ~$4,140 mientras el dólar se debilita",
-   "headline_en": "Gold climbs ~1.9% to near $4,140 as the dollar weakens",
-   "source": "Babypips"
-  },
-  {
-   "headline": "La inflación de octubre llega mañana: el IPC se publica el martes a las 8:30am ET",
-   "headline_en": "October inflation arrives tomorrow: CPI due Tuesday at 8:30am ET",
-   "source": "CNBC"
-  },
-  {
-   "headline": "El Nasdaq sigue en corrección tras caer 5.5% el jueves; el VIX se mantiene elevado cerca de 25",
-   "headline_en": "Nasdaq remains in correction after Thursday’s 5.5% drop; VIX stays elevated near 25",
-   "source": "CNBC"
+   "headline": "CoreWeave reporta resultados hoy tras el cierre: prueba clave para el sector de IA",
+   "headline_en": "CoreWeave reports earnings after the bell today: key test for the AI sector",
+   "source": "Stocktwits"
   }
  ],
  "ultima_hora": {
-  "headline": "Trump impulsa los futuros perpetuos en EE.UU. y Wall Street enciende las alarmas",
-  "headline_en": "Trump administration embraces perpetual futures in the U.S., setting off Wall Street risk alarms",
+  "headline": "Trump descarta nuevos ataques contra Irán por ahora y el petróleo se desploma",
+  "headline_en": "Trump rules out new strikes on Iran for now as oil plunges",
   "source": "Reuters",
   "image": "",
   "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-09-trump-perps-wall-street-alarm.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-09-trump-perps-capitol-futures.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-09-trump-perps-trader-screen-24h.webp"
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-10-trump-iran-paz-tanqueros-hormuz.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-10-trump-iran-paz-petroleo-caida.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-10-trump-iran-paz-bolsa-rebote.webp"
   ]
  }
 }
