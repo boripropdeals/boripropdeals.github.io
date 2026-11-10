@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-11-10T15:32:53.018475+00:00",
+ "updated_at": "2026-11-10T15:33:41.352836+00:00",
  "nq": {
-  "price": 27979.25,
-  "change_points": -35.25,
-  "percent_change": -0.13
+  "price": 27950.0,
+  "change_points": -64.5,
+  "percent_change": -0.23
  },
  "gold": {
-  "price": 4058.2,
-  "change_points": -56.3,
-  "percent_change": -1.37
+  "price": 4056.7,
+  "change_points": -57.8,
+  "percent_change": -1.4
  },
  "oil": {
-  "price": 85.57,
-  "change_points": -1.28,
-  "percent_change": -1.47
+  "price": 85.52,
+  "change_points": -1.33,
+  "percent_change": -1.53
  },
  "headlines": [
   {
-   "headline": "La inflación subió 0.4% en octubre, según el IPC publicado esta mañana",
-   "headline_en": "October CPI rose 0.4%, with core inflation up 0.3%",
+   "headline": "La inflación de octubre sube 0.4%, menos que en septiembre, antes de la decisión de la Fed",
+   "headline_en": "October CPI rises 0.4%, cooling from September, ahead of Fed decision",
    "source": "Investopedia"
   },
   {
-   "headline": "Waller, de la Fed, urge endurecer la política monetaria más pronto que tarde",
-   "headline_en": "Fed Governor Waller urges tightening sooner rather than later",
+   "headline": "Waller, de la Fed, apunta a subir las tasas en diciembre, más pronto que tarde",
+   "headline_en": "Fed Governor Waller signals a December rate hike, sooner rather than later",
    "source": "Investopedia"
   },
   {
-   "headline": "Wall Street vivió su mejor día desde abril tras el desplome del petróleo",
-   "headline_en": "Wall Street posts best day since April as oil tumbles",
-   "source": "Zacks"
-  },
-  {
-   "headline": "El petróleo cae por debajo de 90 dólares tras las palabras de Trump sobre Irán",
-   "headline_en": "Oil falls below $90 as Trump downplays prospect of escalation with Iran",
+   "headline": "Futuros mixtos tras el gran repunte del lunes: el Dow sube y el Nasdaq cae",
+   "headline_en": "Futures mixed after Monday big rally: Dow up, Nasdaq down",
    "source": "Reuters"
   },
   {
-   "headline": "Anthropic avanza con su IPO: rango de 70 a 78 dólares por acción",
-   "headline_en": "Anthropic IPO moves forward with $70-$78 price range",
-   "source": "Investopedia"
+   "headline": "El petróleo cae por debajo de 90 dólares por primera vez desde agosto",
+   "headline_en": "Oil falls below 90 dollars for first time since August",
+   "source": "Reuters"
   },
   {
-   "headline": "Nvidia bajo la lupa: su junta investiga al CEO Jensen Huang",
-   "headline_en": "Nvidia board launches investigation into CEO Jensen Huang",
-   "source": "Zacks"
+   "headline": "Anthropic apunta a una IPO de hasta 64,400 millones de dólares con valoración de 1.4 billones",
+   "headline_en": "Anthropic IPO could raise up to 64.4 billion dollars at 1.4 trillion valuation",
+   "source": "Reuters"
+  },
+  {
+   "headline": "Nvidia cae tras la polémica de su CEO Jensen Huang; el FBI investiga el caso",
+   "headline_en": "Nvidia slides amid CEO Jensen Huang controversy; FBI looking into case",
+   "source": "Reuters"
   }
  ],
  "ultima_hora": null
