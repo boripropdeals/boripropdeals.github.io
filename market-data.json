@@ -1,13 +1,13 @@
 {
- "updated_at": "2026-11-10T18:32:32.017062+00:00",
+ "updated_at": "2026-11-10T18:32:37.936001+00:00",
  "nq": {
-  "price": 27596.25,
-  "change_points": -418.25,
+  "price": 27595.75,
+  "change_points": -418.75,
   "percent_change": -1.49
  },
  "gold": {
-  "price": 4028.3,
-  "change_points": -86.2,
+  "price": 4028.2,
+  "change_points": -86.3,
   "percent_change": -2.1
  },
  "oil": {
@@ -17,34 +17,29 @@
  },
  "headlines": [
   {
-   "headline": "La inflación de octubre sale más caliente de lo esperado y Wall Street cae al mediodía",
-   "headline_en": "Stocks slide at midday as hot October inflation data fuels Fed rate-hike fears",
-   "source": "The Motley Fool"
-  },
-  {
-   "headline": "Wall Street registra su mejor día desde abril tras el desplome del petróleo",
-   "headline_en": "Wall Street notches its best day since April as oil plunge fuels relief rally",
-   "source": "Zacks"
-  },
-  {
-   "headline": "El petróleo cae por segundo día tras las palabras de Trump sobre Irán",
-   "headline_en": "Oil falls for a second day as Trump downplays prospect of escalation with Iran",
-   "source": "Reuters"
-  },
-  {
-   "headline": "Nvidia cae 4.27% mientras su junta investiga al CEO Jensen Huang",
-   "headline_en": "Nvidia drops 4.27% as board investigates CEO Jensen Huang",
-   "source": "Zacks"
-  },
-  {
-   "headline": "Waller, de la Fed, apunta a subir tasas en diciembre y no descarta medio punto",
-   "headline_en": "Fed’s Waller leans toward December rate hike, open to half-point move on hot CPI",
+   "headline": "La inflación de octubre sube 0.4%, menos que en septiembre, antes de la decisión de la Fed",
+   "headline_en": "October CPI rises 0.4%, cooler than September, ahead of Fed decision",
    "source": "Investopedia"
   },
   {
-   "headline": "CoreWeave reporta tras el cierre y pondrá a prueba el ánimo sobre la IA",
-   "headline_en": "CoreWeave reports after the bell in a key test of AI spending mood",
-   "source": "The Motley Fool"
+   "headline": "Waller de la Fed apunta a subir tasas en diciembre: \"más pronto que tarde\"",
+   "headline_en": "Fed Governor Waller leans toward a December rate hike: \"sooner, rather than later\"",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "Wall Street registra su mejor día desde abril impulsado por el desplome del petróleo",
+   "headline_en": "Wall Street posts its best day since April as oil tumbles",
+   "source": "Reuters"
+  },
+  {
+   "headline": "Nvidia cae por la polémica de su CEO mientras Anthropic detalla su salida a bolsa",
+   "headline_en": "Nvidia slides on CEO controversy as Anthropic details its IPO",
+   "source": "Reuters"
+  },
+  {
+   "headline": "El petróleo cae por debajo de $90 por primera vez desde agosto",
+   "headline_en": "Oil falls below $90 for the first time since August",
+   "source": "Reuters"
   }
  ],
  "ultima_hora": null
