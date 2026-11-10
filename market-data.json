@@ -1,30 +1,30 @@
 {
- "updated_at": "2026-11-10T19:32:33.645609+00:00",
+ "updated_at": "2026-11-10T19:33:18.504501+00:00",
  "nq": {
-  "price": 27710.25,
-  "change_points": -304.25,
-  "percent_change": -1.09
+  "price": 27714.5,
+  "change_points": -300.0,
+  "percent_change": -1.07
  },
  "gold": {
-  "price": 4037.8,
-  "change_points": -76.7,
-  "percent_change": -1.86
+  "price": 4039.3,
+  "change_points": -75.2,
+  "percent_change": -1.83
  },
  "oil": {
-  "price": 86.12,
-  "change_points": -0.73,
-  "percent_change": -0.84
+  "price": 86.08,
+  "change_points": -0.77,
+  "percent_change": -0.89
  },
  "headlines": [
   {
    "headline": "La inflación de octubre llega más caliente de lo esperado y Wall Street cae al mediodía",
-   "headline_en": "Stocks slide at midday as hot October inflation fuels Fed hike fears",
+   "headline_en": "Hot October inflation sends stocks sliding at midday as Fed hike fears grow",
    "source": "The Motley Fool"
   },
   {
-   "headline": "Waller, de la Fed, urge endurecer la política monetaria más temprano que tarde y abre la puerta a una subida de 50 puntos",
-   "headline_en": "Fed Governor Waller urges tightening sooner, rather than later, signals December hike likely",
-   "source": "Investopedia"
+   "headline": "Waller, de la Fed, respalda una subida en diciembre y pone sobre la mesa hasta 50 puntos",
+   "headline_en": "Fed Governor Waller backs December hike, floats 50 basis points after hot core CPI",
+   "source": "Morningstar"
   },
   {
    "headline": "Wall Street tuvo su mejor día desde abril tras el desplome del petróleo por las señales de paz con Irán",
@@ -32,9 +32,9 @@
    "source": "Zacks"
   },
   {
-   "headline": "Anthropic, creadora de Claude, avanza con su salida a bolsa: más de 800 millones de acciones entre 70 y 78 dólares",
-   "headline_en": "Anthropic IPO moves forward with 800M+ shares priced at $70 to $78",
-   "source": "Investopedia"
+   "headline": "El petróleo cae por debajo de 90 dólares mientras Trump descarta nuevos ataques a Irán por ahora",
+   "headline_en": "Oil falls below $90 as Trump downplays prospect of escalation with Iran",
+   "source": "Reuters"
   },
   {
    "headline": "Nvidia sigue bajo presión por la investigación de su junta sobre el CEO Jensen Huang",
@@ -42,9 +42,9 @@
    "source": "Zacks"
   },
   {
-   "headline": "El petróleo cae por debajo de 90 dólares mientras Trump descarta nuevos ataques a Irán por ahora",
-   "headline_en": "Oil falls below $90 as Trump downplays prospect of escalation with Iran",
-   "source": "Reuters"
+   "headline": "CoreWeave reporta tras el cierre: la prueba del gasto en IA y su deuda",
+   "headline_en": "CoreWeave reports after the bell as AI spending and debt load face scrutiny",
+   "source": "The Motley Fool"
   }
  ],
  "ultima_hora": null
