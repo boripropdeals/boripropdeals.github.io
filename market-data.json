@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-11-10T16:32:35.394916+00:00",
+ "updated_at": "2026-11-10T16:32:56.911446+00:00",
  "nq": {
-  "price": 27792.5,
-  "change_points": -222.0,
-  "percent_change": -0.79
+  "price": 27775.5,
+  "change_points": -239.0,
+  "percent_change": -0.85
  },
  "gold": {
-  "price": 4035.0,
-  "change_points": -79.5,
-  "percent_change": -1.93
+  "price": 4033.0,
+  "change_points": -81.5,
+  "percent_change": -1.98
  },
  "oil": {
-  "price": 86.59,
-  "change_points": -0.26,
-  "percent_change": -0.3
+  "price": 86.69,
+  "change_points": -0.16,
+  "percent_change": -0.18
  },
  "headlines": [
   {
-   "headline": "La inflación de octubre sube 0.4%, menos que en septiembre, antes de la decisión de la Fed",
-   "headline_en": "October CPI rises 0.4%, cooling from September, ahead of Fed decision",
+   "headline": "Wall Street registra su mejor día desde abril impulsada por la caída del petróleo",
+   "headline_en": "Wall Street posts best day since April as oil slide lifts stocks",
+   "source": "Zacks"
+  },
+  {
+   "headline": "El IPC de octubre sube 0.4%, más de lo esperado pero menos que en septiembre",
+   "headline_en": "October CPI rises 0.4%, hotter than expected but cooler than September",
    "source": "Investopedia"
   },
   {
-   "headline": "Waller, de la Fed, apunta a subir las tasas en diciembre, más pronto que tarde",
-   "headline_en": "Fed Governor Waller signals a December rate hike, sooner rather than later",
-   "source": "Investopedia"
+   "headline": "Waller de la Fed se inclina por subir tasas en diciembre y no descarta medio punto",
+   "headline_en": "Fed's Waller leans toward December rate hike, open to half-point move",
+   "source": "Bloomberg"
   },
   {
-   "headline": "Futuros mixtos tras el gran repunte del lunes: el Dow sube y el Nasdaq cae",
-   "headline_en": "Futures mixed after Monday big rally: Dow up, Nasdaq down",
-   "source": "TipRanks"
+   "headline": "Nvidia cae 4.3% mientras su junta investiga al CEO Huang por presunto espionaje",
+   "headline_en": "Nvidia drops 4.3% as board probes CEO Huang over alleged foreign intelligence targeting",
+   "source": "Zacks"
   },
   {
-   "headline": "El petróleo cae por debajo de 90 dólares por primera vez desde agosto",
-   "headline_en": "Oil falls below 90 dollars for first time since August",
+   "headline": "El petróleo sigue cayendo tras decir Trump que nuevos ataques a Irán son altamente improbables",
+   "headline_en": "Oil extends slide as Trump says new Iran strikes highly unlikely",
    "source": "Reuters"
   },
   {
-   "headline": "Anthropic apunta a una IPO de hasta 64,400 millones de dólares con valoración de 1.4 billones",
-   "headline_en": "Anthropic IPO could raise up to 64.4 billion dollars at 1.4 trillion valuation",
+   "headline": "Futuros mixtos tras el IPC; los inversores miran la IPO de Anthropic y los resultados de CoreWeave",
+   "headline_en": "Futures mixed after CPI as investors eye Anthropic IPO details and CoreWeave earnings",
    "source": "Investopedia"
-  },
-  {
-   "headline": "Nvidia cae tras la polémica de su CEO Jensen Huang; el FBI investiga el caso",
-   "headline_en": "Nvidia slides amid CEO Jensen Huang controversy; FBI looking into case",
-   "source": "Reuters"
   }
  ],
  "ultima_hora": null
