@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-10T18:02:33.986773+00:00",
+ "updated_at": "2026-11-10T18:03:05.893422+00:00",
  "nq": {
-  "price": 27600.0,
-  "change_points": -414.5,
-  "percent_change": -1.48
+  "price": 27597.75,
+  "change_points": -416.75,
+  "percent_change": -1.49
  },
  "gold": {
-  "price": 4028.3,
-  "change_points": -86.2,
-  "percent_change": -2.1
+  "price": 4028.4,
+  "change_points": -86.1,
+  "percent_change": -2.09
  },
  "oil": {
   "price": 86.39,
@@ -17,34 +17,34 @@
  },
  "headlines": [
   {
-   "headline": "Wall Street cierra con su mejor día desde abril: el S&P 500 sube 2.35% y el Nasdaq 2.74% impulsados por la caída del petróleo",
-   "headline_en": "Wall Street posts best day since April: S&P 500 up 2.35%, Nasdaq up 2.74% as oil slide fuels rally",
+   "headline": "La inflación de octubre sale más caliente de lo esperado y Wall Street cae al mediodía",
+   "headline_en": "Stocks slide at midday as hot October inflation data fuels Fed rate-hike fears",
+   "source": "The Motley Fool"
+  },
+  {
+   "headline": "Wall Street registra su mejor día desde abril tras el desplome del petróleo",
+   "headline_en": "Wall Street notches its best day since April as oil plunge fuels relief rally",
    "source": "Zacks"
   },
   {
-   "headline": "La inflación de octubre sube 0.4% mensual, menos que en septiembre, antes de la reunión de la Fed de diciembre",
-   "headline_en": "October CPI rises 0.4% month over month, cooling from September, ahead of December Fed meeting",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "El gobernador de la Fed Waller se inclina por subir tasas un cuarto de punto en diciembre y no descarta medio punto",
-   "headline_en": "Fed Governor Waller leans toward quarter-point December rate hike, open to half-point move",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "Nvidia cae 4.3% tras la investigación de su junta sobre el CEO Jensen Huang; Trump dice que el FBI indaga el caso",
-   "headline_en": "Nvidia drops 4.3% as board probes CEO Jensen Huang; Trump says FBI is looking into it",
-   "source": "TipRanks"
-  },
-  {
-   "headline": "El petróleo sigue cayendo: el Brent baja de $92 tras descartar Trump nuevos ataques contra Irán",
-   "headline_en": "Oil extends slide as Brent falls below $92 after Trump rules out further Iran strikes",
+   "headline": "El petróleo cae por segundo día tras las palabras de Trump sobre Irán",
+   "headline_en": "Oil falls for a second day as Trump downplays prospect of escalation with Iran",
    "source": "Reuters"
   },
   {
-   "headline": "Anthropic revela detalles de su salida a bolsa y CoreWeave presenta resultados tras el cierre",
-   "headline_en": "Anthropic reveals fresh IPO details as CoreWeave reports earnings after the bell",
+   "headline": "Nvidia cae 4.27% mientras su junta investiga al CEO Jensen Huang",
+   "headline_en": "Nvidia drops 4.27% as board investigates CEO Jensen Huang",
+   "source": "Zacks"
+  },
+  {
+   "headline": "Waller, de la Fed, apunta a subir tasas en diciembre y no descarta medio punto",
+   "headline_en": "Fed’s Waller leans toward December rate hike, open to half-point move on hot CPI",
    "source": "Investopedia"
+  },
+  {
+   "headline": "CoreWeave reporta tras el cierre y pondrá a prueba el ánimo sobre la IA",
+   "headline_en": "CoreWeave reports after the bell in a key test of AI spending mood",
+   "source": "The Motley Fool"
   }
  ],
  "ultima_hora": null
