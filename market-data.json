@@ -1,35 +1,35 @@
 {
- "updated_at": "2026-11-10T22:04:33.260291+00:00",
+ "updated_at": "2026-11-10T22:04:55.821378+00:00",
  "nq": {
-  "price": 27904.25,
-  "change_points": -110.25,
-  "percent_change": -0.39
+  "price": 27901.5,
+  "change_points": -113.0,
+  "percent_change": -0.4
  },
  "gold": {
-  "price": 4039.8,
-  "change_points": -74.7,
-  "percent_change": -1.82
+  "price": 4039.9,
+  "change_points": -74.6,
+  "percent_change": -1.81
  },
  "oil": {
-  "price": 86.5,
-  "change_points": -0.35,
-  "percent_change": -0.4
+  "price": 86.48,
+  "change_points": -0.37,
+  "percent_change": -0.43
  },
  "headlines": [
   {
-   "headline": "La inflación de octubre llega más caliente de lo esperado y casi asegura una subida de la Fed en diciembre",
-   "headline_en": "October inflation comes in hotter than expected, nearly locking in a December Fed hike",
-   "source": "The Motley Fool"
-  },
-  {
-   "headline": "Las acciones caen al mediodía tras el dato de inflación: el Nasdaq baja más de 1%",
-   "headline_en": "Stocks slide at midday on hot inflation data as Nasdaq drops over 1%",
-   "source": "The Motley Fool"
-  },
-  {
-   "headline": "Waller, de la Fed, apunta a una subida en diciembre e incluso pone sobre la mesa 50 puntos básicos",
-   "headline_en": "Fed Governor Waller leans toward a December hike and puts 50 basis points on the table",
+   "headline": "La inflación de octubre llega más caliente de lo esperado: el IPC sube 0.4% y el Nasdaq cae tras el dato",
+   "headline_en": "October inflation comes in hotter than expected: CPI rises 0.4% and Nasdaq slides after the print",
    "source": "Investopedia"
+  },
+  {
+   "headline": "Waller, de la Fed, apunta a una subida de tasas en diciembre: 'más pronto que tarde'",
+   "headline_en": "Fed Governor Waller leans toward a December rate hike: 'sooner, rather than later'",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "Wall Street tuvo su mejor día desde abril el lunes: el S&P 500 subió 2.35% y el Nasdaq 2.74%",
+   "headline_en": "Wall Street had its best day since April on Monday: S&P 500 up 2.35%, Nasdaq up 2.74%",
+   "source": "Calculated Degens"
   },
   {
    "headline": "El petróleo cae por debajo de $90 tras las declaraciones de Trump sobre Irán",
@@ -37,13 +37,13 @@
    "source": "Reuters"
   },
   {
-   "headline": "Wall Street tuvo su mejor día desde abril el lunes: el S&P 500 subió 2.35% y el Nasdaq 2.74%",
-   "headline_en": "Wall Street had its best day since April on Monday: S&P 500 up 2.35%, Nasdaq up 2.74%",
-   "source": "Zacks"
+   "headline": "Anthropic revela detalles de su salida a bolsa: busca recaudar hasta $64,400 millones",
+   "headline_en": "Anthropic reveals IPO details, aiming to raise as much as $64.4 billion",
+   "source": "Investopedia"
   },
   {
-   "headline": "CoreWeave reporta resultados tras el cierre; Nvidia sigue en la mira por la investigación a su CEO",
-   "headline_en": "CoreWeave reports after the bell; Nvidia stays in focus over CEO probe",
+   "headline": "Nvidia cae 4.27% por la investigación a su CEO; CoreWeave reporta resultados tras el cierre",
+   "headline_en": "Nvidia drops 4.27% on CEO probe; CoreWeave reports earnings after the bell",
    "source": "Investopedia"
   }
  ],
