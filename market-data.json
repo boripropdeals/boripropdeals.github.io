@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-10T21:02:32.181350+00:00",
+ "updated_at": "2026-11-10T21:02:58.304306+00:00",
  "nq": {
-  "price": 27887.25,
-  "change_points": -127.25,
-  "percent_change": -0.45
+  "price": 27883.0,
+  "change_points": -131.5,
+  "percent_change": -0.47
  },
  "gold": {
-  "price": 4042.1,
-  "change_points": -72.4,
-  "percent_change": -1.76
+  "price": 4042.4,
+  "change_points": -72.1,
+  "percent_change": -1.75
  },
  "oil": {
   "price": 86.4,
@@ -17,34 +17,34 @@
  },
  "headlines": [
   {
-   "headline": "La inflación de octubre sube 0.4% y enfría a Wall Street; el Nasdaq cae más de 1%",
-   "headline_en": "October CPI Rises 0.4%, Cooling Wall Street as Nasdaq Slides Over 1%",
+   "headline": "La inflación de octubre llega más caliente de lo esperado y Wall Street cae: la Fed casi da por segura una subida en diciembre",
+   "headline_en": "October CPI comes in hotter than expected and Wall Street slides as a December Fed hike looks near-certain",
    "source": "The Motley Fool"
   },
   {
-   "headline": "La Fed podría subir las tasas en diciembre, advierte el gobernador Waller",
-   "headline_en": "Fed Governor Waller Signals December Rate Hike as Inflation Stays Too High",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "Wall Street vivió su mejor día desde abril tras el desplome del petróleo",
-   "headline_en": "Wall Street Posts Best Day Since April as Oil Plunges",
+   "headline": "Wall Street vivió su mejor día desde abril: el S&P 500 subió 2.35% y el Dow ganó 1,104 puntos",
+   "headline_en": "Wall Street posts its best day since April: S&P 500 jumps 2.35% and Dow gains 1,104 points",
    "source": "Zacks"
   },
   {
-   "headline": "El petróleo cae por debajo de 90 dólares tras descartar Trump nuevos ataques a Irán",
-   "headline_en": "Oil Slides Below $90 as Trump Rules Out New Strikes on Iran",
+   "headline": "Trump descarta nuevos ataques a Irán y el petróleo se desploma por debajo de 90 dólares",
+   "headline_en": "Trump rules out new strikes on Iran and oil plunges below $90",
    "source": "Reuters"
   },
   {
-   "headline": "Nvidia cae tras la investigación de su junta sobre el CEO Jensen Huang",
-   "headline_en": "Nvidia Slides as Board Probes CEO Jensen Huang",
+   "headline": "Waller, de la Fed, abre la puerta a una subida de 50 puntos básicos en diciembre",
+   "headline_en": "Fed’s Waller opens the door to a 50-basis-point hike in December",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "Nvidia cae cerca de 4% por la investigación de su junta sobre el CEO Jensen Huang",
+   "headline_en": "Nvidia slides nearly 4% as its board investigates CEO Jensen Huang",
    "source": "Zacks"
   },
   {
-   "headline": "CoreWeave reporta hoy tras el cierre bajo la lupa por su gasto en IA",
-   "headline_en": "CoreWeave Reports After the Bell Amid AI Spending Scrutiny",
-   "source": "The Motley Fool"
+   "headline": "CoreWeave reporta resultados tras el cierre y Anthropic revela detalles de su salida a bolsa",
+   "headline_en": "CoreWeave reports after the bell and Anthropic shares IPO details",
+   "source": "Investopedia"
   }
  ],
  "ultima_hora": null
