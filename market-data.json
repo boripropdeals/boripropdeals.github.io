@@ -1,44 +1,49 @@
 {
- "updated_at": "2026-11-10T12:34:32.624159+00:00",
+ "updated_at": "2026-11-10T12:35:04.151187+00:00",
  "nq": {
-  "price": 27945.5,
-  "change_points": -69.0,
+  "price": 27944.5,
+  "change_points": -70.0,
   "percent_change": -0.25
  },
  "gold": {
-  "price": 4085.2,
-  "change_points": -29.3,
-  "percent_change": -0.71
+  "price": 4083.6,
+  "change_points": -30.9,
+  "percent_change": -0.75
  },
  "oil": {
-  "price": 85.2,
-  "change_points": -1.65,
-  "percent_change": -1.9
+  "price": 85.19,
+  "change_points": -1.66,
+  "percent_change": -1.91
  },
  "headlines": [
   {
-   "headline": "Wall Street espera el IPC de octubre: la inflación decidirá el próximo paso de la Fed",
-   "headline_en": "Wall Street awaits October CPI: inflation will decide the Fed next move",
-   "source": "TipRanks"
-  },
-  {
-   "headline": "El Dow se dispara 1,104 puntos en su mejor día desde abril tras el desplome de la semana pasada",
-   "headline_en": "Dow surges 1,104 points in its best day since April after last week sell-off",
+   "headline": "El IPC de octubre sale hoy a las 7:30am CT: se espera +0.3% y la Fed mira de cerca",
+   "headline_en": "October CPI due today at 7:30am CT: +0.3% expected as the Fed watches closely",
    "source": "Reuters"
   },
   {
-   "headline": "El petróleo cae por debajo de $90 por primera vez desde agosto",
-   "headline_en": "Oil falls below $90 for the first time since August",
+   "headline": "Wall Street rebota con fuerza: el Dow sube más de 1,100 puntos en su mejor día desde abril",
+   "headline_en": "Wall Street roars back: Dow jumps over 1,100 points in its best day since April",
    "source": "Reuters"
   },
   {
-   "headline": "Nvidia rebota en premarket tras caer 4.3% por la investigación a su CEO",
-   "headline_en": "Nvidia rebounds in premarket after 4.3% drop amid CEO investigation",
+   "headline": "El petróleo cae por debajo de $90 por primera vez desde agosto tras los comentarios de Trump sobre Irán",
+   "headline_en": "Oil falls below $90 for the first time since August after Trump comments on Iran",
+   "source": "Reuters"
+  },
+  {
+   "headline": "La Fed pone sobre la mesa una subida de 50 puntos si la inflación no cede, dice el gobernador Waller",
+   "headline_en": "Fed Governor Waller puts a 50bp hike on the table if inflation stays hot",
    "source": "TipRanks"
   },
   {
-   "headline": "CoreWeave reporta resultados hoy tras el cierre: prueba clave para el sector de IA",
-   "headline_en": "CoreWeave reports earnings after the bell today: key test for the AI sector",
+   "headline": "Nvidia rebota en premarket tras caer 4.3% por la investigación sobre su CEO Jensen Huang",
+   "headline_en": "Nvidia rebounds in premarket after 4.3% drop amid probe of CEO Jensen Huang",
+   "source": "Reuters"
+  },
+  {
+   "headline": "Futuros mixtos en premarket y CoreWeave reporta hoy tras el cierre, prueba clave para la IA",
+   "headline_en": "Futures mixed in premarket as CoreWeave reports after the bell, a key test for AI",
    "source": "Stocktwits"
   }
  ],
