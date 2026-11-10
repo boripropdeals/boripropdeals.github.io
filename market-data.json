@@ -1,44 +1,49 @@
 {
- "updated_at": "2026-11-10T19:02:37.654498+00:00",
+ "updated_at": "2026-11-10T19:03:06.390550+00:00",
  "nq": {
-  "price": 27667.25,
-  "change_points": -347.25,
-  "percent_change": -1.24
+  "price": 27680.75,
+  "change_points": -333.75,
+  "percent_change": -1.19
  },
  "gold": {
-  "price": 4035.9,
-  "change_points": -78.6,
-  "percent_change": -1.91
+  "price": 4037.3,
+  "change_points": -77.2,
+  "percent_change": -1.88
  },
  "oil": {
-  "price": 86.19,
-  "change_points": -0.66,
-  "percent_change": -0.76
+  "price": 86.11,
+  "change_points": -0.74,
+  "percent_change": -0.85
  },
  "headlines": [
   {
-   "headline": "La inflación de octubre sube 0.4%, menos que en septiembre, antes de la decisión de la Fed",
-   "headline_en": "October CPI rises 0.4%, cooler than September, ahead of Fed decision",
+   "headline": "La inflación de octubre llega más caliente de lo esperado y Wall Street cae al mediodía",
+   "headline_en": "Stocks slide at midday as hot October inflation fuels Fed hike fears",
+   "source": "The Motley Fool"
+  },
+  {
+   "headline": "Waller, de la Fed, urge endurecer la política monetaria más temprano que tarde y abre la puerta a una subida de 50 puntos",
+   "headline_en": "Fed Governor Waller urges tightening sooner, rather than later, signals December hike likely",
    "source": "Investopedia"
   },
   {
-   "headline": "Waller de la Fed apunta a subir tasas en diciembre: \"más pronto que tarde\"",
-   "headline_en": "Fed Governor Waller leans toward a December rate hike: \"sooner, rather than later\"",
+   "headline": "Wall Street tuvo su mejor día desde abril tras el desplome del petróleo por las señales de paz con Irán",
+   "headline_en": "Wall Street posts best day since April as oil tumbles on Trump Iran peace signals",
+   "source": "Zacks"
+  },
+  {
+   "headline": "Anthropic, creadora de Claude, avanza con su salida a bolsa: más de 800 millones de acciones entre 70 y 78 dólares",
+   "headline_en": "Anthropic IPO moves forward with 800M+ shares priced at $70 to $78",
    "source": "Investopedia"
   },
   {
-   "headline": "Wall Street registra su mejor día desde abril impulsado por el desplome del petróleo",
-   "headline_en": "Wall Street posts its best day since April as oil tumbles",
-   "source": "Reuters"
+   "headline": "Nvidia sigue bajo presión por la investigación de su junta sobre el CEO Jensen Huang",
+   "headline_en": "Nvidia remains under pressure as board investigates CEO Jensen Huang",
+   "source": "Zacks"
   },
   {
-   "headline": "Nvidia cae por la polémica de su CEO mientras Anthropic detalla su salida a bolsa",
-   "headline_en": "Nvidia slides on CEO controversy as Anthropic details its IPO",
-   "source": "Reuters"
-  },
-  {
-   "headline": "El petróleo cae por debajo de $90 por primera vez desde agosto",
-   "headline_en": "Oil falls below $90 for the first time since August",
+   "headline": "El petróleo cae por debajo de 90 dólares mientras Trump descarta nuevos ataques a Irán por ahora",
+   "headline_en": "Oil falls below $90 as Trump downplays prospect of escalation with Iran",
    "source": "Reuters"
   }
  ],
