@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-11-10T14:02:40.406470+00:00",
+ "updated_at": "2026-11-10T14:02:48.126641+00:00",
  "nq": {
-  "price": 27707.5,
-  "change_points": -307.0,
-  "percent_change": -1.1
+  "price": 27703.5,
+  "change_points": -311.0,
+  "percent_change": -1.11
  },
  "gold": {
-  "price": 4064.2,
-  "change_points": -50.3,
-  "percent_change": -1.22
+  "price": 4065.5,
+  "change_points": -49.0,
+  "percent_change": -1.19
  },
  "oil": {
-  "price": 84.37,
-  "change_points": -2.48,
-  "percent_change": -2.86
+  "price": 84.35,
+  "change_points": -2.5,
+  "percent_change": -2.88
  },
  "headlines": [
   {
-   "headline": "El IPC de octubre se publica hoy a las 8:30am: Wall Street espera el dato de inflación",
-   "headline_en": "October CPI lands today at 8:30am ET as Wall Street awaits the inflation report",
-   "source": "TipRanks"
+   "headline": "La inflación de octubre sube 0.4%: el IPC enfría tras el 0.6% de septiembre",
+   "headline_en": "October CPI rises 0.4%: inflation cools from September’s 0.6%",
+   "source": "Investopedia"
   },
   {
-   "headline": "Waller, de la Fed, se inclina por subir los tipos un cuarto de punto en diciembre",
-   "headline_en": "Fed Governor Waller leans toward a quarter-point rate hike in December",
+   "headline": "Waller, de la Fed, respalda una subida de tasas en diciembre y no descarta 50 puntos básicos",
+   "headline_en": "Fed’s Waller backs December rate hike, open to 50 basis points",
+   "source": "Bloomberg"
+  },
+  {
+   "headline": "Futuros mixtos tras el mejor día desde abril: Dow sube, Nasdaq cede",
+   "headline_en": "Mixed futures after best day since April: Dow up, Nasdaq slips",
    "source": "CNBC"
   },
   {
-   "headline": "El S&P 500 tuvo su mejor día desde abril impulsado por la caída del petróleo",
-   "headline_en": "S&P 500 posts best day since April as oil slide fuels the rally",
-   "source": "Calculated Degens"
+   "headline": "El petróleo cae: Trump descarta nuevos ataques a Irán por ahora",
+   "headline_en": "Oil slides as Trump downplays prospect of new Iran strikes",
+   "source": "Reuters"
   },
   {
-   "headline": "Los futuros del Nasdaq caen mientras el petróleo sigue bajando antes del IPC",
-   "headline_en": "Nasdaq futures dip as oil keeps sliding ahead of the CPI report",
-   "source": "Simon Hertz"
-  },
-  {
-   "headline": "Nvidia cae 4.3% por la investigación a su CEO Jensen Huang y rebota en el premercado",
-   "headline_en": "Nvidia falls 4.3% on probe into CEO Jensen Huang, rebounds in premarket",
+   "headline": "Nvidia rebota en premercado tras caer 4.3% por la investigación a su CEO",
+   "headline_en": "Nvidia rebounds premarket after 4.3% drop on probe into CEO",
    "source": "TipRanks"
   },
   {
-   "headline": "Trump minimiza una escalada con Irán y el petróleo sigue cayendo",
-   "headline_en": "Trump downplays Iran escalation as oil keeps sliding",
-   "source": "Reuters"
+   "headline": "Anthropic revela detalles de su OPI; CoreWeave reporta tras el cierre",
+   "headline_en": "Anthropic reveals IPO details; CoreWeave reports after the bell",
+   "source": "Investopedia"
   }
  ],
  "ultima_hora": null
