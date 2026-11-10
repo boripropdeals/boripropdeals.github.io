@@ -1,49 +1,49 @@
 {
- "updated_at": "2026-11-10T17:02:37.251304+00:00",
+ "updated_at": "2026-11-10T17:03:03.358522+00:00",
  "nq": {
-  "price": 27659.0,
-  "change_points": -355.5,
-  "percent_change": -1.27
+  "price": 27680.5,
+  "change_points": -334.0,
+  "percent_change": -1.19
  },
  "gold": {
-  "price": 4027.0,
-  "change_points": -87.5,
-  "percent_change": -2.13
+  "price": 4026.3,
+  "change_points": -88.2,
+  "percent_change": -2.14
  },
  "oil": {
-  "price": 86.66,
-  "change_points": -0.19,
-  "percent_change": -0.22
+  "price": 86.68,
+  "change_points": -0.17,
+  "percent_change": -0.2
  },
  "headlines": [
   {
-   "headline": "Wall Street registra su mejor día desde abril impulsada por la caída del petróleo",
-   "headline_en": "Wall Street posts best day since April as oil slide lifts stocks",
+   "headline": "Wall Street cierra con su mejor día desde abril: el S&P 500 sube 2.35% y el Nasdaq 2.74% impulsados por la caída del petróleo",
+   "headline_en": "Wall Street posts best day since April: S&P 500 up 2.35%, Nasdaq up 2.74% as oil slide fuels rally",
    "source": "Zacks"
   },
   {
-   "headline": "El IPC de octubre sube 0.4%, más de lo esperado pero menos que en septiembre",
-   "headline_en": "October CPI rises 0.4%, hotter than expected but cooler than September",
+   "headline": "La inflación de octubre sube 0.4% mensual, menos que en septiembre, antes de la reunión de la Fed de diciembre",
+   "headline_en": "October CPI rises 0.4% month over month, cooling from September, ahead of December Fed meeting",
    "source": "Investopedia"
   },
   {
-   "headline": "Waller de la Fed se inclina por subir tasas en diciembre y no descarta medio punto",
-   "headline_en": "Fed's Waller leans toward December rate hike, open to half-point move",
-   "source": "Bloomberg"
+   "headline": "El gobernador de la Fed Waller se inclina por subir tasas un cuarto de punto en diciembre y no descarta medio punto",
+   "headline_en": "Fed Governor Waller leans toward quarter-point December rate hike, open to half-point move",
+   "source": "Investopedia"
   },
   {
-   "headline": "Nvidia cae 4.3% mientras su junta investiga al CEO Huang por presunto espionaje",
-   "headline_en": "Nvidia drops 4.3% as board probes CEO Huang over alleged foreign intelligence targeting",
-   "source": "Zacks"
+   "headline": "Nvidia cae 4.3% tras la investigación de su junta sobre el CEO Jensen Huang; Trump dice que el FBI indaga el caso",
+   "headline_en": "Nvidia drops 4.3% as board probes CEO Jensen Huang; Trump says FBI is looking into it",
+   "source": "TipRanks"
   },
   {
-   "headline": "El petróleo sigue cayendo tras decir Trump que nuevos ataques a Irán son altamente improbables",
-   "headline_en": "Oil extends slide as Trump says new Iran strikes highly unlikely",
+   "headline": "El petróleo sigue cayendo: el Brent baja de $92 tras descartar Trump nuevos ataques contra Irán",
+   "headline_en": "Oil extends slide as Brent falls below $92 after Trump rules out further Iran strikes",
    "source": "Reuters"
   },
   {
-   "headline": "Futuros mixtos tras el IPC; los inversores miran la IPO de Anthropic y los resultados de CoreWeave",
-   "headline_en": "Futures mixed after CPI as investors eye Anthropic IPO details and CoreWeave earnings",
+   "headline": "Anthropic revela detalles de su salida a bolsa y CoreWeave presenta resultados tras el cierre",
+   "headline_en": "Anthropic reveals fresh IPO details as CoreWeave reports earnings after the bell",
    "source": "Investopedia"
   }
  ],
