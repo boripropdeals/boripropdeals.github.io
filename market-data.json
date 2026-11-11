@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-11-11T14:02:38.540887+00:00",
+ "updated_at": "2026-11-11T14:03:24.817980+00:00",
  "nq": {
-  "price": 28353.5,
-  "change_points": 518.25,
+  "price": 28354.0,
+  "change_points": 518.75,
   "percent_change": 1.86
  },
  "gold": {
-  "price": 4042.2,
-  "change_points": 12.0,
-  "percent_change": 0.3
+  "price": 4040.1,
+  "change_points": 9.9,
+  "percent_change": 0.25
  },
  "oil": {
-  "price": 87.26,
-  "change_points": 1.22,
-  "percent_change": 1.42
+  "price": 87.3,
+  "change_points": 1.26,
+  "percent_change": 1.46
  },
  "headlines": [
   {
-   "headline": "CoreWeave supera expectativas y dispara los futuros del Nasdaq +1.6%",
-   "headline_en": "CoreWeave beats expectations and lifts Nasdaq futures +1.6%",
+   "headline": "Futuros del Nasdaq suben 1.8% y Wall Street apunta a un rebote en el Día de los Veteranos",
+   "headline_en": "Nasdaq futures jump 1.8% as Wall Street looks poised to rebound on Veterans Day",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "La inflación de octubre llega caliente y refuerza la expectativa de una subida de tasas en diciembre",
+   "headline_en": "Hot October CPI fuels expectations of a December Fed rate hike",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "Nvidia rebota en premarket tras caer 5.5% por la investigación del FBI a Jensen Huang",
+   "headline_en": "Nvidia rebounds premarket after 5.5% drop on FBI probe of CEO Jensen Huang",
    "source": "CNBC"
   },
   {
-   "headline": "La inflación de octubre (IPC +0.4%) sale más caliente de lo esperado; el mercado ya descuenta una subida de la Fed en diciembre",
-   "headline_en": "October CPI (+0.4%) comes in hotter than expected; markets now price a Fed hike in December",
+   "headline": "CoreWeave se dispara 15% tras superar resultados y elevar su guía anual",
+   "headline_en": "CoreWeave jumps 15% after earnings beat and raised full-year guidance",
+   "source": "CNBC"
+  },
+  {
+   "headline": "OpenAI alcanza 10,000 millones de dólares en ingresos trimestrales, un 50% más",
+   "headline_en": "OpenAI revenue hit $10 billion in Q3, up 50% year over year",
+   "source": "The Wall Street Journal"
+  },
+  {
+   "headline": "El petróleo rebota tras caer bajo 90 dólares mientras Trump enfría las tensiones con Irán",
+   "headline_en": "Oil rebounds after dipping below $90 as Trump eases Iran tensions",
    "source": "Reuters"
-  },
-  {
-   "headline": "Nvidia rebota +4% en preapertura tras perder ~$480,000 millones en dos sesiones",
-   "headline_en": "Nvidia rebounds +4% premarket after shedding ~$480 billion in two sessions",
-   "source": "Reuters"
-  },
-  {
-   "headline": "El petróleo sube con el Brent cerca de $93 tras el incendio de un petrolero por una mina naval en el estrecho de Ormuz",
-   "headline_en": "Oil jumps with Brent near $93 after a tanker catches fire from a naval mine in the Strait of Hormuz",
-   "source": "Investing.com"
-  },
-  {
-   "headline": "Los demócratas barren las elecciones intermedias y Trump acepta los resultados; los mercados abren al alza",
-   "headline_en": "Democrats sweep the midterms and Trump accepts the results; markets open higher",
-   "source": "Al Jazeera"
-  },
-  {
-   "headline": "El mercado de bonos de EE. UU. permanece cerrado hoy por el Día de los Veteranos",
-   "headline_en": "The U.S. bond market stays closed today for Veterans Day",
-   "source": "TipRanks"
   }
  ],
  "ultima_hora": null
