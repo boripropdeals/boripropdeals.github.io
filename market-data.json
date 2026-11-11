@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-11-11T21:32:35.689068+00:00",
+ "updated_at": "2026-11-11T21:32:42.133286+00:00",
  "nq": {
-  "price": 28465.0,
-  "change_points": 629.75,
+  "price": 28464.5,
+  "change_points": 629.25,
   "percent_change": 2.26
  },
  "gold": {
@@ -17,45 +17,35 @@
  },
  "headlines": [
   {
-   "headline": "Nasdaq lidera el rebote: CoreWeave dispara el rally de IA tras superar expectativas",
-   "headline_en": "Nasdaq leads the rebound as CoreWeave ignites the AI rally after beating estimates",
-   "source": "TipRanks"
+   "headline": "CoreWeave reporta ingresos récord y revive el rally de la IA: el Nasdaq sube ~2%",
+   "headline_en": "CoreWeave reports record revenue and revives the AI rally as Nasdaq jumps ~2%",
+   "source": "Beinsure"
   },
   {
-   "headline": "La inflación de octubre sale más caliente de lo esperado y la Fed apunta a subir tasas en diciembre",
-   "headline_en": "Hot October CPI keeps a December Fed rate hike firmly on the table",
-   "source": "Zacks"
-  },
-  {
-   "headline": "El petróleo rebota ~2% por la incertidumbre sobre Irán tras el incidente con un petrolero",
-   "headline_en": "Oil rebounds about 2% on Iran uncertainty after a tanker hits a naval mine",
-   "source": "TradingView"
-  },
-  {
-   "headline": "Día de los Veteranos: el mercado de bonos cierra y el rendimiento a 10 años queda congelado cerca del 5%",
-   "headline_en": "Veterans Day: bond market closed, 10-year yield frozen near 5%",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "El oro cae por debajo de los $4,000 tras el repunte inicial del día",
-   "headline_en": "Gold slips below $4,000 after its early-day recovery",
+   "headline": "El Nasdaq lidera el rebote de Wall Street tras la caída del martes; el S&P 500 sube ~1,5%",
+   "headline_en": "Nasdaq leads Wall Street rebound after Tuesday drop; S&P 500 up ~1.5%",
    "source": "Eurasia Business News"
   },
   {
-   "headline": "OpenAI: sus ingresos crecieron 50% en el último trimestre, según reportes",
+   "headline": "La inflación de octubre, más caliente de lo esperado, alimenta las apuestas a una subida de la Fed en diciembre",
+   "headline_en": "Hotter-than-expected October inflation fuels bets on a December Fed rate hike",
+   "source": "Zacks"
+  },
+  {
+   "headline": "Día de los Veteranos: el mercado de bonos cierra y el rendimiento a 10 años se congela cerca del 5%",
+   "headline_en": "Veterans Day: bond market closed as the 10-year yield sits near 5%",
+   "source": "eOption"
+  },
+  {
+   "headline": "El petróleo sube por la incertidumbre sobre Irán mientras el oro cae por debajo de $4,000",
+   "headline_en": "Oil rises on Iran uncertainty while gold slips below $4,000",
+   "source": "Eurasia Business News"
+  },
+  {
+   "headline": "Los ingresos de OpenAI habrían crecido 50% en el último trimestre",
    "headline_en": "OpenAI revenue reportedly grew 50% over the past quarter",
    "source": "Investopedia"
   }
  ],
- "ultima_hora": {
-  "headline": "Trump dice que la guerra con Irán terminará pronto mientras Teherán revisa la propuesta de paz de EE. UU.",
-  "headline_en": "Trump says the Iran war will be over quickly as Tehran reviews the US peace proposal",
-  "source": "Al Jazeera",
-  "image": "",
-  "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-11-trump-iran-paz-petroleo.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-11-trump-iran-paz-diplomacia.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-11-trump-iran-paz-portaaviones.webp"
-  ]
- }
+ "ultima_hora": null
 }
