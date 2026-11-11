@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-11T20:34:37.518944+00:00",
+ "updated_at": "2026-11-11T20:35:24.786488+00:00",
  "nq": {
-  "price": 28511.25,
-  "change_points": 676.0,
-  "percent_change": 2.43
+  "price": 28515.5,
+  "change_points": 680.25,
+  "percent_change": 2.44
  },
  "gold": {
-  "price": 3993.8,
-  "change_points": -36.4,
-  "percent_change": -0.9
+  "price": 3993.7,
+  "change_points": -36.5,
+  "percent_change": -0.91
  },
  "oil": {
   "price": 86.27,
@@ -17,30 +17,45 @@
  },
  "headlines": [
   {
-   "headline": "El Nasdaq rebota con fuerza: CoreWeave dispara el rally de la IA",
-   "headline_en": "Nasdaq rebounds sharply as CoreWeave ignites the AI rally",
-   "source": "Investopedia"
+   "headline": "El Nasdaq lidera el rebote: los chips impulsan una fuerte subida a mitad de semana",
+   "headline_en": "Nasdaq leads midweek rally as chip stocks drive a sharp rebound",
+   "source": "TradingView"
   },
   {
-   "headline": "CoreWeave se dispara 26% tras superar previsiones y elevar su guía",
-   "headline_en": "CoreWeave surges 26% after earnings beat and raised guidance",
-   "source": "XTB"
+   "headline": "CoreWeave se dispara tras superar expectativas y reaviva el comercio de IA",
+   "headline_en": "CoreWeave soars after earnings beat revives the AI trade",
+   "source": "TipRanks"
   },
   {
-   "headline": "Nvidia se recupera casi 5% tras caer 10% en dos días",
-   "headline_en": "Nvidia rebounds nearly 5% after a two-day 10% slide",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "El mercado de bonos cierra por el Día de los Veteranos con el rendimiento a 10 años cerca del 5%",
-   "headline_en": "Bond market closed for Veterans Day with the 10-year yield near 5%",
-   "source": "eOption"
-  },
-  {
-   "headline": "La inflación de octubre (+0.4%) eleva las apuestas de una subida de la Fed en diciembre",
-   "headline_en": "Hot October CPI (+0.4%) lifts bets on a December Fed rate hike",
+   "headline": "La inflación de octubre salió más caliente de lo esperado y eleva las apuestas de una subida de tasas de la Fed en diciembre",
+   "headline_en": "Hot October CPI raises bets on a December Fed rate hike",
    "source": "Zacks"
+  },
+  {
+   "headline": "El mercado de bonos cerró por el Día de los Veteranos con el rendimiento a 10 años cerca del 5%",
+   "headline_en": "Bond market closed for Veterans Day with the 10-year yield near 5%",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "El petróleo sube tras dos días de caída mientras el mercado sopesa el fin de la guerra con Irán",
+   "headline_en": "Oil rises after two-day slide as market weighs the end of the Iran war",
+   "source": "CNBC TV18"
+  },
+  {
+   "headline": "Los ingresos de OpenAI habrían crecido 50% en el último trimestre",
+   "headline_en": "OpenAI revenue reportedly grew 50% over the past quarter",
+   "source": "Investopedia"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Trump dice que la guerra con Irán terminará pronto mientras Teherán revisa la propuesta de paz de EE. UU.",
+  "headline_en": "Trump says the Iran war will be over quickly as Tehran reviews the US peace proposal",
+  "source": "Al Jazeera",
+  "image": "",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-11-trump-iran-paz-petroleo.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-11-trump-iran-paz-diplomacia.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-11-trump-iran-paz-portaaviones.webp"
+  ]
+ }
 }
