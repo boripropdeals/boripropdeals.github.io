@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-11T12:02:36.553307+00:00",
+ "updated_at": "2026-11-11T12:03:07.467181+00:00",
  "nq": {
-  "price": 28362.5,
-  "change_points": 527.25,
+  "price": 28360.5,
+  "change_points": 525.25,
   "percent_change": 1.89
  },
  "gold": {
-  "price": 4055.0,
-  "change_points": 24.8,
-  "percent_change": 0.62
+  "price": 4055.7,
+  "change_points": 25.5,
+  "percent_change": 0.63
  },
  "oil": {
   "price": 86.65,
@@ -17,29 +17,34 @@
  },
  "headlines": [
   {
-   "headline": "IPC de octubre sale más caliente de lo esperado: 0.4% mensual y núcleo en 0.3%, y el Nasdaq cae",
-   "headline_en": "October CPI comes in hotter than expected at 0.4% m/m, core 0.3%, pressuring Nasdaq futures",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "Waller, de la Fed, apunta a una subida de tasas en diciembre: antes, mejor que después",
-   "headline_en": "Fed Governor Waller signals a December rate hike is likely: tightening sooner, rather than later",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "Wall Street vive su mejor día desde abril: el S&P sube 2.35% impulsado por la caída del petróleo",
-   "headline_en": "Wall Street posts its best day since April as the S&P 500 jumps 2.35% on plunging oil prices",
+   "headline": "CoreWeave calma los temores por el gasto en IA y los futuros del Nasdaq rebotan",
+   "headline_en": "CoreWeave soothes AI spending fears as Nasdaq futures bounce",
    "source": "Reuters"
   },
   {
-   "headline": "El petróleo cae por debajo de $90 tras el giro de Trump sobre Irán y la esperanza de paz",
-   "headline_en": "Oil slides below $90 as Trump downplays new Iran strikes and peace hopes rise",
+   "headline": "La inflación de octubre supera lo esperado y refuerza la apuesta por una subida de la Fed en diciembre",
+   "headline_en": "Hot October CPI cements bets on a December Fed rate hike",
    "source": "Reuters"
   },
   {
-   "headline": "Anthropic avanza con su salida a bolsa y Nvidia rebota tras la caída del lunes",
-   "headline_en": "Anthropic moves forward with its IPO while Nvidia rebounds after Monday's drop",
-   "source": "Investopedia"
+   "headline": "Nvidia rebota 4% en el premarket tras perder unos $480,000 millones en dos sesiones",
+   "headline_en": "Nvidia jumps 4% premarket after shedding about $480 billion in two sessions",
+   "source": "Reuters"
+  },
+  {
+   "headline": "El petróleo rebota tras tocar mínimo de dos meses; el Brent sube a $93.25",
+   "headline_en": "Oil rebounds after hitting a two-month low; Brent rises to $93.25",
+   "source": "TipRanks"
+  },
+  {
+   "headline": "Los futuros del Nasdaq desafían la venta de la semana pasada y rondan los 28,227",
+   "headline_en": "Nasdaq futures challenge last week's selloff, hover near 28,227",
+   "source": "InvestingLive"
+  },
+  {
+   "headline": "El mercado de bonos permanece cerrado hoy por el Día de los Veteranos",
+   "headline_en": "Bond market closed Wednesday for the Veterans Day holiday",
+   "source": "Reuters"
   }
  ],
  "ultima_hora": null
