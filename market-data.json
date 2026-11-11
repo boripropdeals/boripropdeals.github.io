@@ -1,50 +1,45 @@
 {
- "updated_at": "2026-11-11T20:02:32.300785+00:00",
+ "updated_at": "2026-11-11T20:02:41.886681+00:00",
  "nq": {
   "price": 28570.25,
   "change_points": 735.0,
   "percent_change": 2.64
  },
  "gold": {
-  "price": 3994.3,
-  "change_points": -35.9,
+  "price": 3994.4,
+  "change_points": -35.8,
   "percent_change": -0.89
  },
  "oil": {
-  "price": 86.2,
-  "change_points": 0.16,
-  "percent_change": 0.19
+  "price": 86.21,
+  "change_points": 0.17,
+  "percent_change": 0.2
  },
  "headlines": [
   {
-   "headline": "CoreWeave dispara el rally de chips de IA y el Nasdaq lidera la subida",
-   "headline_en": "CoreWeave ignites AI chip rally as Nasdaq leads market higher",
-   "source": "TipRanks"
+   "headline": "El Nasdaq rebota con fuerza: CoreWeave dispara el rally de la IA",
+   "headline_en": "Nasdaq rebounds sharply as CoreWeave ignites the AI rally",
+   "source": "Investopedia"
   },
   {
-   "headline": "La inflación de octubre se mantiene alta y el mercado descuenta una subida de tipos en diciembre",
-   "headline_en": "Hot October CPI keeps December Fed rate hike firmly priced in",
+   "headline": "CoreWeave se dispara 26% tras superar previsiones y elevar su guía",
+   "headline_en": "CoreWeave surges 26% after earnings beat and raised guidance",
+   "source": "XTB"
+  },
+  {
+   "headline": "Nvidia se recupera casi 5% tras caer 10% en dos días",
+   "headline_en": "Nvidia rebounds nearly 5% after a two-day 10% slide",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "El mercado de bonos cierra por el Día de los Veteranos con el rendimiento a 10 años cerca del 5%",
+   "headline_en": "Bond market closed for Veterans Day with the 10-year yield near 5%",
+   "source": "eOption"
+  },
+  {
+   "headline": "La inflación de octubre (+0.4%) eleva las apuestas de una subida de la Fed en diciembre",
+   "headline_en": "Hot October CPI (+0.4%) lifts bets on a December Fed rate hike",
    "source": "Zacks"
-  },
-  {
-   "headline": "Nvidia rebota y Intel sube casi 10% tras la caída del martes",
-   "headline_en": "Nvidia rebounds and Intel jumps nearly 10% after Tuesday’s slide",
-   "source": "OrbitLens"
-  },
-  {
-   "headline": "El petróleo rebota tras dos días de caída, con el Brent cerca de $93",
-   "headline_en": "Oil rebounds after two-day slide, Brent back near $93",
-   "source": "TipRanks"
-  },
-  {
-   "headline": "El mercado de bonos cierra por el Día de los Veteranos con el bono a 10 años cerca del 5%",
-   "headline_en": "Bond market closed for Veterans Day, 10-year yield frozen near 5%",
-   "source": "OrbitLens"
-  },
-  {
-   "headline": "El superávit comercial de China supera el billón de dólares a ritmo récord",
-   "headline_en": "China’s trade surplus passes $1 trillion at record pace",
-   "source": "TFI Online"
   }
  ],
  "ultima_hora": null
