@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-11-11T17:02:36.193010+00:00",
+ "updated_at": "2026-11-11T17:02:51.404402+00:00",
  "nq": {
-  "price": 28583.25,
-  "change_points": 748.0,
+  "price": 28584.75,
+  "change_points": 749.5,
   "percent_change": 2.69
  },
  "gold": {
@@ -11,39 +11,39 @@
   "percent_change": -0.59
  },
  "oil": {
-  "price": 87.96,
-  "change_points": 1.92,
-  "percent_change": 2.23
+  "price": 87.93,
+  "change_points": 1.89,
+  "percent_change": 2.2
  },
  "headlines": [
   {
-   "headline": "Los futuros del Nasdaq rebotan con fuerza impulsados por las acciones de IA",
-   "headline_en": "Nasdaq futures rebound sharply as AI stocks lead the recovery",
+   "headline": "Los futuros del Nasdaq suben casi 2% y lideran el rebote tras la caída del martes",
+   "headline_en": "Nasdaq futures jump nearly 2%, leading the rebound after Tuesday’s sell-off",
    "source": "Investopedia"
   },
   {
-   "headline": "La inflación caliente de octubre alimenta las apuestas de una subida de tasas de la Fed en diciembre",
-   "headline_en": "Hot October inflation fuels bets on a December Fed rate hike",
-   "source": "Zacks"
-  },
-  {
-   "headline": "CoreWeave se dispara ~15% tras superar previsiones y elevar su guía para 2026",
-   "headline_en": "CoreWeave jumps ~15% after earnings beat and raised 2026 guidance",
+   "headline": "CoreWeave se dispara 15% tras unos resultados mejores de lo esperado y elevar su guía",
+   "headline_en": "CoreWeave surges 15% after earnings beat and raised guidance",
    "source": "CNBC"
   },
   {
-   "headline": "Nvidia rebota ~4% en preapertura tras caer 10% en dos días",
-   "headline_en": "Nvidia rebounds ~4% premarket after 10% two-day slide",
+   "headline": "Nvidia rebota cerca de 4% tras caer 10% en dos días por la noticia de la investigación del FBI",
+   "headline_en": "Nvidia rebounds nearly 4% after dropping 10% in two days on FBI probe news",
    "source": "Investopedia"
   },
   {
-   "headline": "Los ingresos de OpenAI llegan a $10,000 millones en el tercer trimestre, un 50% más",
-   "headline_en": "OpenAI revenue hit $10 billion in Q3, up 50%",
-   "source": "Investopedia"
+   "headline": "La inflación de octubre sube 0.4% y el mercado ya descuenta una subida de tipos de la Fed en diciembre",
+   "headline_en": "October CPI rises 0.4% as markets price in a Fed rate hike in December",
+   "source": "Zacks"
   },
   {
-   "headline": "El petróleo rebota tras dos sesiones de caída mientras se enfría la tensión con Irán",
-   "headline_en": "Oil rebounds after two-day slide as Iran tensions ease",
+   "headline": "OpenAI alcanza $10,000 millones de ingresos en el trimestre, un 50% más",
+   "headline_en": "OpenAI revenue hits $10 billion in the quarter, up 50%",
+   "source": "The Wall Street Journal"
+  },
+  {
+   "headline": "El petróleo rebota tras la caída por las declaraciones de Trump sobre Irán",
+   "headline_en": "Oil rebounds after slide on Trump’s Iran remarks",
    "source": "Investopedia"
   }
  ],
