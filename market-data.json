@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T22:32:32.240412+00:00",
+ "updated_at": "2026-11-11T22:32:52.448051+00:00",
  "nq": {
   "price": 28444.25,
   "change_points": 609.0,
@@ -17,34 +17,34 @@
  },
  "headlines": [
   {
-   "headline": "Wall Street rebota: el Nasdaq sube 1.6% y el S&P 500 1.3% impulsados por las acciones de IA",
-   "headline_en": "Wall Street rebounds: Nasdaq gains 1.6% and S&P 500 1.3% as AI stocks lead the recovery",
-   "source": "SMW Markets"
+   "headline": "El Nasdaq repunta 1.6% impulsado por CoreWeave y el rally de chips de IA",
+   "headline_en": "Nasdaq rallies 1.6% as CoreWeave earnings revive the AI chip trade",
+   "source": "TipRanks / CNBC"
   },
   {
-   "headline": "CoreWeave se dispara casi 25% tras superar previsiones y elevar su guía para 2026",
-   "headline_en": "CoreWeave soars nearly 25% after beating forecasts and raising its 2026 outlook",
+   "headline": "La inflación de octubre sale más caliente de lo esperado y el mercado descuenta una subida de la Fed en diciembre",
+   "headline_en": "Hot October CPI lifts Fed December hike odds to about 90%",
+   "source": "Zacks / BLS"
+  },
+  {
+   "headline": "CoreWeave se dispara ~25% tras superar previsiones y elevar su guía de ingresos",
+   "headline_en": "CoreWeave jumps about 25% after earnings beat and raised revenue outlook",
+   "source": "TipRanks"
+  },
+  {
+   "headline": "Día de los Veteranos: el mercado de bonos cierra y el rendimiento a 10 años queda congelado cerca del 4.98%",
+   "headline_en": "Veterans Day: bond market closed, 10-year yield frozen near 4.98%",
    "source": "Investopedia"
   },
   {
-   "headline": "Nvidia rebota 2.9% tras dos días de fuertes caídas",
-   "headline_en": "Nvidia rebounds 2.9% after two days of steep declines",
-   "source": "SMW Markets"
+   "headline": "El petróleo rebota: el WTI sube a ~$87 y el Brent a ~$93 tras tocar mínimos de dos meses",
+   "headline_en": "Oil rebounds: WTI climbs to about $87 and Brent to about $93 after two-month low",
+   "source": "TipRanks"
   },
   {
-   "headline": "La inflación de octubre (+0.4%) aviva las apuestas a una subida de tasas de la Fed en diciembre",
-   "headline_en": "Hot October CPI (+0.4%) fuels bets on a Fed rate hike in December",
-   "source": "Zacks"
-  },
-  {
-   "headline": "OpenAI alcanza $10,000 millones de ingresos en el tercer trimestre, un 50% más",
-   "headline_en": "OpenAI revenue hits $10 billion in Q3, up 50%",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "Microsoft cae por segundo día tras el lanzamiento de herramientas de IA de Anthropic",
-   "headline_en": "Microsoft falls for a second day after Anthropic unveiled AI workplace tools",
-   "source": "SMW Markets"
+   "headline": "Nvidia rebota ~4.7% e Intel sube 9.5% pese a la investigación sobre su CEO Jensen Huang",
+   "headline_en": "Nvidia rebounds about 4.7% and Intel jumps 9.5% despite probe of CEO Jensen Huang",
+   "source": "OrbitLens"
   }
  ],
  "ultima_hora": null
