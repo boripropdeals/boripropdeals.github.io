@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-11-11T14:32:35.323016+00:00",
+ "updated_at": "2026-11-11T14:32:42.667046+00:00",
  "nq": {
-  "price": 28365.5,
-  "change_points": 530.25,
-  "percent_change": 1.9
+  "price": 28366.75,
+  "change_points": 531.5,
+  "percent_change": 1.91
  },
  "gold": {
-  "price": 4037.7,
-  "change_points": 7.5,
+  "price": 4037.9,
+  "change_points": 7.7,
   "percent_change": 0.19
  },
  "oil": {
-  "price": 87.08,
-  "change_points": 1.04,
-  "percent_change": 1.21
+  "price": 87.07,
+  "change_points": 1.03,
+  "percent_change": 1.2
  },
  "headlines": [
   {
-   "headline": "Futuros del Nasdaq suben 1.8% y Wall Street apunta a un rebote en el Día de los Veteranos",
-   "headline_en": "Nasdaq futures jump 1.8% as Wall Street looks poised to rebound on Veterans Day",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "La inflación de octubre llega caliente y refuerza la expectativa de una subida de tasas en diciembre",
-   "headline_en": "Hot October CPI fuels expectations of a December Fed rate hike",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "Nvidia rebota en premarket tras caer 5.5% por la investigación del FBI a Jensen Huang",
-   "headline_en": "Nvidia rebounds premarket after 5.5% drop on FBI probe of CEO Jensen Huang",
-   "source": "CNBC"
-  },
-  {
-   "headline": "CoreWeave se dispara 15% tras superar resultados y elevar su guía anual",
-   "headline_en": "CoreWeave jumps 15% after earnings beat and raised full-year guidance",
-   "source": "CNBC"
-  },
-  {
-   "headline": "OpenAI alcanza 10,000 millones de dólares en ingresos trimestrales, un 50% más",
-   "headline_en": "OpenAI revenue hit $10 billion in Q3, up 50% year over year",
-   "source": "The Wall Street Journal"
-  },
-  {
-   "headline": "El petróleo rebota tras caer bajo 90 dólares mientras Trump enfría las tensiones con Irán",
-   "headline_en": "Oil rebounds after dipping below $90 as Trump eases Iran tensions",
+   "headline": "CoreWeave impulsa los futuros del Nasdaq y calma los temores sobre el gasto en IA",
+   "headline_en": "CoreWeave lifts Nasdaq futures and soothes AI spending fears",
    "source": "Reuters"
+  },
+  {
+   "headline": "La inflación de octubre supera lo esperado y el mercado ya descuenta una subida de la Fed en diciembre",
+   "headline_en": "October CPI beats expectations as markets price a December Fed hike",
+   "source": "Reuters"
+  },
+  {
+   "headline": "Nvidia rebota 4% en preapertura tras perder $480,000 millones en dos sesiones",
+   "headline_en": "Nvidia rebounds 4% premarket after shedding $480 billion in two sessions",
+   "source": "Reuters"
+  },
+  {
+   "headline": "El Nasdaq 100 protagoniza un rebote en V y mira la media de 200 sesiones cerca de 28,600",
+   "headline_en": "Nasdaq 100 stages V-shaped rebound with 200-session average near 28,600 in focus",
+   "source": "XTB"
+  },
+  {
+   "headline": "El petróleo rebota tras tocar mínimos de dos meses mientras Trump descarta nuevos ataques a Irán",
+   "headline_en": "Oil rebounds from two-month low as Trump rules out new strikes on Iran",
+   "source": "Reuters"
+  },
+  {
+   "headline": "Los ingresos de OpenAI habrían crecido 50% en el último trimestre",
+   "headline_en": "OpenAI revenue reportedly grew 50% over the past quarter",
+   "source": "Investopedia"
   }
  ],
  "ultima_hora": null
