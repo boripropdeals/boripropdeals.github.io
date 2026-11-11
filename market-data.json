@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-11T21:04:32.201656+00:00",
+ "updated_at": "2026-11-11T21:05:17.721082+00:00",
  "nq": {
-  "price": 28469.25,
-  "change_points": 634.0,
-  "percent_change": 2.28
+  "price": 28452.75,
+  "change_points": 617.5,
+  "percent_change": 2.22
  },
  "gold": {
-  "price": 3994.0,
-  "change_points": -36.2,
-  "percent_change": -0.9
+  "price": 3993.5,
+  "change_points": -36.7,
+  "percent_change": -0.91
  },
  "oil": {
   "price": 86.35,
@@ -47,5 +47,15 @@
    "source": "Investopedia"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Trump dice que la guerra con Irán terminará pronto mientras Teherán revisa la propuesta de paz de EE. UU.",
+  "headline_en": "Trump says the Iran war will be over quickly as Tehran reviews the US peace proposal",
+  "source": "Al Jazeera",
+  "image": "",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-11-trump-iran-paz-petroleo.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-11-trump-iran-paz-diplomacia.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-11-trump-iran-paz-portaaviones.webp"
+  ]
+ }
 }
