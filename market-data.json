@@ -1,44 +1,49 @@
 {
- "updated_at": "2026-11-11T13:30:33.638030+00:00",
+ "updated_at": "2026-11-11T13:32:30.823212+00:00",
  "nq": {
-  "price": 28386.0,
-  "change_points": 550.75,
-  "percent_change": 1.98
+  "price": 28391.0,
+  "change_points": 555.75,
+  "percent_change": 2.0
  },
  "gold": {
-  "price": 4050.7,
-  "change_points": 20.5,
-  "percent_change": 0.51
+  "price": 4049.0,
+  "change_points": 18.8,
+  "percent_change": 0.47
  },
  "oil": {
-  "price": 87.13,
-  "change_points": 1.09,
-  "percent_change": 1.27
+  "price": 87.22,
+  "change_points": 1.18,
+  "percent_change": 1.37
  },
  "headlines": [
   {
-   "headline": "Los futuros del Nasdaq suben casi 2% tras los resultados de CoreWeave que calman el temor por el gasto en IA",
-   "headline_en": "Nasdaq futures jump nearly 2% as CoreWeave results ease AI spending fears",
+   "headline": "CoreWeave supera expectativas y dispara los futuros del Nasdaq +1.6%",
+   "headline_en": "CoreWeave beats expectations and lifts Nasdaq futures +1.6%",
+   "source": "CNBC"
+  },
+  {
+   "headline": "La inflación de octubre (IPC +0.4%) sale más caliente de lo esperado; el mercado ya descuenta una subida de la Fed en diciembre",
+   "headline_en": "October CPI (+0.4%) comes in hotter than expected; markets now price a Fed hike in December",
    "source": "Reuters"
   },
   {
-   "headline": "La inflación de octubre sube 0.4% y eleva a ~90% la probabilidad de una subida de tasas de la Fed en diciembre",
-   "headline_en": "October CPI rises 0.4%, lifting December Fed hike odds to around 90%",
+   "headline": "Nvidia rebota +4% en preapertura tras perder ~$480,000 millones en dos sesiones",
+   "headline_en": "Nvidia rebounds +4% premarket after shedding ~$480 billion in two sessions",
    "source": "Reuters"
   },
   {
-   "headline": "Nvidia rebota 4% en el premercado tras perder unos $480,000 millones en dos sesiones",
-   "headline_en": "Nvidia rebounds 4% premarket after shedding about $480 billion in two sessions",
-   "source": "Reuters"
+   "headline": "El petróleo sube con el Brent cerca de $93 tras el incendio de un petrolero por una mina naval en el estrecho de Ormuz",
+   "headline_en": "Oil jumps with Brent near $93 after a tanker catches fire from a naval mine in the Strait of Hormuz",
+   "source": "Investing.com"
   },
   {
-   "headline": "El petróleo se desploma: el Brent cae por debajo de $90 por la distensión entre EE. UU. e Irán",
-   "headline_en": "Oil plunges as Brent falls below $90 on easing US-Iran tensions",
-   "source": "CNN"
+   "headline": "Los demócratas barren las elecciones intermedias y Trump acepta los resultados; los mercados abren al alza",
+   "headline_en": "Democrats sweep the midterms and Trump accepts the results; markets open higher",
+   "source": "Al Jazeera"
   },
   {
-   "headline": "Mercado de bonos cerrado por el Día de los Veteranos; el IPP de octubre se publica el viernes",
-   "headline_en": "Bond market closed for Veterans Day; October PPI due Friday",
+   "headline": "El mercado de bonos de EE. UU. permanece cerrado hoy por el Día de los Veteranos",
+   "headline_en": "The U.S. bond market stays closed today for Veterans Day",
    "source": "TipRanks"
   }
  ],
