@@ -1,49 +1,49 @@
 {
- "updated_at": "2026-11-11T18:32:33.317607+00:00",
+ "updated_at": "2026-11-11T18:32:57.237229+00:00",
  "nq": {
   "price": 28677.75,
   "change_points": 842.5,
   "percent_change": 3.03
  },
  "gold": {
-  "price": 3999.2,
-  "change_points": -31.0,
-  "percent_change": -0.77
+  "price": 3998.8,
+  "change_points": -31.4,
+  "percent_change": -0.78
  },
  "oil": {
-  "price": 87.01,
-  "change_points": 0.97,
-  "percent_change": 1.13
+  "price": 87.03,
+  "change_points": 0.99,
+  "percent_change": 1.15
  },
  "headlines": [
   {
-   "headline": "El Nasdaq lidera el rebote: CoreWeave se dispara 15% tras superar expectativas y calmar los temores sobre el gasto en IA",
-   "headline_en": "Nasdaq leads rebound as CoreWeave jumps 15% on earnings beat, easing AI spending fears",
-   "source": "CNBC"
+   "headline": "Los futuros del Nasdaq 100 suben 1.8% y lideran el rebote tras el golpe del CPI",
+   "headline_en": "Nasdaq 100 futures jump 1.8%, leading the rebound after the CPI sell-off",
+   "source": "Investopedia"
   },
   {
-   "headline": "La inflación de octubre supera lo esperado y afianza una subida de tasas de la Fed en diciembre",
-   "headline_en": "Hot October CPI cements bets on a December Fed rate hike",
+   "headline": "El CPI de octubre sube 0.4% y refuerza la apuesta de una subida de la Fed en diciembre",
+   "headline_en": "October CPI rises 0.4%, fueling bets on a December Fed rate hike",
    "source": "Zacks"
   },
   {
-   "headline": "Wall Street cerró a la baja el martes: el Nasdaq cayó 0.7% y Nvidia se desplomó 5.5%",
-   "headline_en": "Wall Street ended lower Tuesday as hot CPI hit stocks; Nvidia tumbled 5.5%",
-   "source": "Zacks"
+   "headline": "CoreWeave dispara 15% tras ingresos de $3,660 millones y subir su guía 2026",
+   "headline_en": "CoreWeave surges 15% after $3.66B revenue beat and raised 2026 outlook",
+   "source": "XTB"
   },
   {
-   "headline": "El petróleo rebota tras dos días de caída mientras Trump descarta nuevos ataques a Irán",
-   "headline_en": "Oil rebounds after two-day slide as Trump rules out new strikes on Iran",
-   "source": "CNBC TV18"
+   "headline": "Nvidia rebota cerca de 5% tras caer 10% en dos días",
+   "headline_en": "Nvidia rebounds nearly 5% after dropping 10% in two days",
+   "source": "Investopedia"
   },
   {
-   "headline": "Anthropic avanza hacia su salida a bolsa en el Nasdaq con una valoración de hasta $1.4 billones",
-   "headline_en": "Anthropic pushes ahead with Nasdaq IPO targeting up to $1.4 trillion valuation",
-   "source": "Seven Lights"
+   "headline": "El petróleo rebota: el Brent se acerca a $92 mientras se evalúa el fin del conflicto con Irán",
+   "headline_en": "Oil rebounds: Brent climbs toward $92 as end of US-Iran conflict is assessed",
+   "source": "CampbellStocks"
   },
   {
-   "headline": "El rendimiento del bono a 10 años roza el 5% mientras el mercado de bonos cierra por el Día de los Veteranos",
-   "headline_en": "10-year Treasury yield hovers near 5% as bond market closes for Veterans Day",
+   "headline": "Día de los Veteranos: la bolsa abre normal y el mercado de bonos cierra; el bono a 10 años cerca del 5%",
+   "headline_en": "Veterans Day: stocks open normally, bond market closed; 10-year yield near 5%",
    "source": "Investopedia"
   }
  ],
