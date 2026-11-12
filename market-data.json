@@ -1,61 +1,61 @@
 {
- "updated_at": "2026-11-12T17:04:33.758167+00:00",
+ "updated_at": "2026-11-12T17:06:00.533249+00:00",
  "nq": {
-  "price": 28521.75,
-  "change_points": 48.5,
-  "percent_change": 0.17
+  "price": 28543.25,
+  "change_points": 70.0,
+  "percent_change": 0.25
  },
  "gold": {
-  "price": 3886.1,
-  "change_points": -114.4,
-  "percent_change": -2.86
+  "price": 3888.4,
+  "change_points": -112.1,
+  "percent_change": -2.8
  },
  "oil": {
-  "price": 87.37,
-  "change_points": 0.84,
-  "percent_change": 0.97
+  "price": 87.34,
+  "change_points": 0.81,
+  "percent_change": 0.94
  },
  "headlines": [
   {
-   "headline": "La junta de Nvidia evalúa destituir a Jensen Huang; la acción cae ~7% en premercado y arrastra al Nasdaq 100",
-   "headline_en": "Nvidia board weighs ousting CEO Jensen Huang; shares drop ~7% premarket, dragging Nasdaq 100 futures",
-   "source": "Reuters"
+   "headline": "Jensen Huang renuncia como CEO de Nvidia y las acciones se desploman más de 10%",
+   "headline_en": "Nvidia CEO Jensen Huang resigns; shares plunge over 10%",
+   "source": "Barron's"
   },
   {
-   "headline": "Wall Street cerró al alza el miércoles: el Nasdaq subió 1.6% y Apple marcó un máximo histórico",
-   "headline_en": "Wall Street closed higher Wednesday: Nasdaq rose 1.6% and Apple hit a record high",
-   "source": "Zacks"
+   "headline": "Trump: EE.UU. no necesita un acuerdo con Irán y el petróleo se dispara",
+   "headline_en": "Trump says the U.S. doesn't need a deal with Iran as oil spikes",
+   "source": "MarketWatch"
   },
   {
-   "headline": "CoreWeave se dispara ~25% tras sus resultados y reaviva el entusiasmo por la IA",
-   "headline_en": "CoreWeave surges ~25% on strong results, reigniting AI enthusiasm",
-   "source": "PSG"
-  },
-  {
-   "headline": "Las solicitudes de desempleo suben a 200,000, más de lo esperado",
-   "headline_en": "Weekly jobless claims rise to 200,000, above expectations",
+   "headline": "El DAX alemán supera los 27,000 puntos por primera vez en la historia",
+   "headline_en": "Germany's DAX breaks above 27,000 points for the first time in history",
    "source": "XTB"
   },
   {
-   "headline": "El mercado espera el PPI del viernes; la subida de la Fed en diciembre se ve casi segura",
-   "headline_en": "Investors await Friday's PPI; a December Fed hike is seen as near-certain",
-   "source": "Reuters"
+   "headline": "Apple toca máximo histórico mientras Nvidia se desploma",
+   "headline_en": "Apple hits an all-time high as Nvidia sinks",
+   "source": "Investor's Business Daily"
   },
   {
-   "headline": "El bono a 10 años ronda 5.02% y el euro cae a mínimos desde mayo de 2025",
-   "headline_en": "10-year Treasury yield hovers near 5.02% as euro slides to lowest since May 2025",
-   "source": "Investopedia"
+   "headline": "El mercado descuenta un 91% de probabilidad de subida de tasas de la Fed en diciembre",
+   "headline_en": "Markets price a 91% chance of a Fed rate hike in December",
+   "source": "Barchart"
+  },
+  {
+   "headline": "CoreWeave se dispara 25% tras elevar su previsión de ingresos",
+   "headline_en": "CoreWeave jumps 25% after raising its revenue outlook",
+   "source": "Barchart"
   }
  ],
  "ultima_hora": {
-  "headline": "Trump: «No necesitamos un acuerdo con Irán»; el petróleo se dispara",
-  "headline_en": "Trump: 'We don't need a deal with Iran'; oil spikes",
+  "headline": "Trump: EE.UU. no necesita un acuerdo con Irán y el petróleo se dispara",
+  "headline_en": "Trump says the U.S. doesn't need a deal with Iran as oil spikes",
   "source": "MarketWatch",
   "image": "",
   "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-12-trump-iran-no-deal-tanquero-hormuz.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-12-trump-iran-no-deal-refineria-atardecer.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-12-trump-iran-no-deal-bolsa-petroleo.webp"
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-12-trump-iran-no-deal-tanqueros-hormuz.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-12-trump-iran-no-deal-refineria.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-12-trump-iran-no-deal-pumpjacks.webp"
   ]
  }
 }
