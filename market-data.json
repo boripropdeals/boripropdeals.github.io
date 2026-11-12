@@ -1,61 +1,61 @@
 {
- "updated_at": "2026-11-12T16:04:33.294285+00:00",
+ "updated_at": "2026-11-12T16:04:34.545181+00:00",
  "nq": {
-  "price": 28443.75,
-  "change_points": -29.5,
-  "percent_change": -0.1
+  "price": 28440.5,
+  "change_points": -32.75,
+  "percent_change": -0.12
  },
  "gold": {
-  "price": 3875.5,
-  "change_points": -125.0,
-  "percent_change": -3.12
+  "price": 3874.9,
+  "change_points": -125.6,
+  "percent_change": -3.14
  },
  "oil": {
-  "price": 86.56,
-  "change_points": 0.03,
-  "percent_change": 0.03
+  "price": 86.59,
+  "change_points": 0.06,
+  "percent_change": 0.07
  },
  "headlines": [
   {
-   "headline": "Nvidia confirma la renuncia de su CEO Jensen Huang; la acción se desploma ~12% y los futuros del Nasdaq caen",
-   "headline_en": "Nvidia confirms CEO Jensen Huang has resigned; shares plunge about 12% as Nasdaq futures fall",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "Wall Street cerró al alza el miércoles: el Nasdaq subió 1.6% y Apple marcó un nuevo récord",
-   "headline_en": "Wall Street ended higher Wednesday: Nasdaq gained 1.6% and Apple hit a record close",
-   "source": "Zacks"
-  },
-  {
-   "headline": "Las solicitudes de desempleo subieron a 200,000, más de lo esperado",
-   "headline_en": "Jobless claims jumped to 200,000, higher than expected",
+   "headline": "Renuncia el CEO de Nvidia, Jensen Huang; el Nasdaq cae más de 1% en preapertura",
+   "headline_en": "Nvidia CEO Jensen Huang resigns; Nasdaq futures fall over 1% premarket",
    "source": "Investor's Business Daily"
   },
   {
-   "headline": "El mercado da por segura una subida de tasas de la Fed en diciembre; el bono a 10 años ronda el 5.05%",
-   "headline_en": "Markets see a December Fed rate hike as a near-certainty; 10-year yield near 5.05%",
-   "source": "Reuters"
-  },
-  {
-   "headline": "El IPP llega el viernes tras un IPC más alto de lo esperado; CoreWeave subió 24.7% y reavivó la confianza en la IA",
-   "headline_en": "PPI due Friday after hotter-than-expected CPI; CoreWeave surged 24.7%, reviving AI confidence",
-   "source": "Reuters"
-  },
-  {
-   "headline": "El DAX alemán rompe el récord de 27,000 puntos por primera vez en su historia",
-   "headline_en": "Germany's DAX breaks above 27,000 points for the first time",
+   "headline": "El DAX alemán supera los 27,000 puntos por primera vez en su historia",
+   "headline_en": "Germany's DAX tops 27,000 points for the first time in history",
    "source": "XTB"
+  },
+  {
+   "headline": "CoreWeave se dispara 25% tras un pronóstico sólido y reaviva el entusiasmo por la IA",
+   "headline_en": "CoreWeave surges 25% on strong outlook, reigniting AI enthusiasm",
+   "source": "Barchart"
+  },
+  {
+   "headline": "Las solicitudes de desempleo suben más de lo esperado, a 200,000",
+   "headline_en": "Weekly jobless claims rise more than expected to 200,000",
+   "source": "Investor's Business Daily"
+  },
+  {
+   "headline": "La Fed habla hoy: el mercado descuenta 90.8% de probabilidad de subida de 25 puntos en diciembre",
+   "headline_en": "Fed officials speak today; market prices 90.8% odds of a 25bp December hike",
+   "source": "Barchart"
+  },
+  {
+   "headline": "El petróleo sube y el bono a 10 años llega a 5.07% tras los comentarios de Trump sobre Irán",
+   "headline_en": "Oil rises and the 10-year yield jumps to 5.07% after Trump's Iran remarks",
+   "source": "MarketWatch"
   }
  ],
  "ultima_hora": {
-  "headline": "Trump dice que EE.UU. no necesita un acuerdo con Irán y el petróleo se dispara; los futuros caen",
-  "headline_en": "Trump says the U.S. does not need a deal with Iran as oil jumps; futures fall",
-  "source": "Investor's Business Daily",
+  "headline": "Trump: «No necesitamos un acuerdo con Irán»; el petróleo se dispara",
+  "headline_en": "Trump: 'We don't need a deal with Iran'; oil spikes",
+  "source": "MarketWatch",
   "image": "",
   "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-12-trump-iran-oil-rig.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-12-trump-iran-oil-tanker-strait.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-12-trump-iran-market-oil-screens.webp"
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-12-trump-iran-no-deal-tanquero-hormuz.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-12-trump-iran-no-deal-refineria-atardecer.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-12-trump-iran-no-deal-bolsa-petroleo.webp"
   ]
  }
 }
