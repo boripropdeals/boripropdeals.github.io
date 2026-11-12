@@ -1,61 +1,61 @@
 {
- "updated_at": "2026-11-12T20:32:32.143669+00:00",
+ "updated_at": "2026-11-12T20:34:19.015676+00:00",
  "nq": {
-  "price": 28382.25,
-  "change_points": -91.0,
-  "percent_change": -0.32
+  "price": 28379.0,
+  "change_points": -94.25,
+  "percent_change": -0.33
  },
  "gold": {
-  "price": 3890.0,
-  "change_points": -110.5,
-  "percent_change": -2.76
+  "price": 3890.3,
+  "change_points": -110.2,
+  "percent_change": -2.75
  },
  "oil": {
-  "price": 88.9,
-  "change_points": 2.37,
-  "percent_change": 2.74
+  "price": 88.93,
+  "change_points": 2.4,
+  "percent_change": 2.77
  },
  "headlines": [
   {
-   "headline": "Renuncia el CEO de Nvidia, Jensen Huang; Colette Kress asume como interina",
-   "headline_en": "Nvidia CEO Jensen Huang resigns; CFO Colette Kress steps in as interim CEO",
+   "headline": "Renuncia el CEO de Nvidia, Jensen Huang; AMD se dispara y Wall Street sube",
+   "headline_en": "Nvidia CEO Jensen Huang resigns; AMD surges as Wall Street edges higher",
    "source": "The Motley Fool"
   },
   {
-   "headline": "Nvidia cae ~5% tras la renuncia; AMD sube ~5% con mejora de analistas",
-   "headline_en": "Nvidia drops ~5% after CEO resignation; AMD jumps ~5% on analyst upgrade",
-   "source": "The Motley Fool"
-  },
-  {
-   "headline": "El bono a 10 años supera el 5.10% y el mercado descuenta ~94% de subida de la Fed en diciembre",
-   "headline_en": "10-year yield tops 5.10% as markets price ~94% odds of a December Fed hike",
-   "source": "Investor's Business Daily"
-  },
-  {
-   "headline": "El petróleo sube tras el comentario de Trump sobre Irán; el Brent tocó $94.40",
-   "headline_en": "Oil rises after Trump's Iran comments; Brent spiked to $94.40",
-   "source": "Barron's"
-  },
-  {
-   "headline": "Apple marca máximo histórico; Cisco y Applied Materials reportan al cierre",
-   "headline_en": "Apple hits all-time high; Cisco and Applied Materials report after the close",
+   "headline": "Apple cierra en máximo histórico y lidera el rebote de Wall Street",
+   "headline_en": "Apple closes at record high, leading Wall Street rebound",
    "source": "Zacks"
   },
   {
-   "headline": "Desempleo semanal sube a 200,000; el oro cae 3% a mínimo desde septiembre",
-   "headline_en": "Jobless claims rise to 200,000; gold falls 3% to lowest since September",
+   "headline": "Inversores esperan el PPI del viernes tras un IPC más caliente de lo previsto",
+   "headline_en": "Investors await Friday's PPI after hotter-than-expected CPI",
+   "source": "Reuters"
+  },
+  {
+   "headline": "El oro cae a su mínimo desde septiembre mientras el rendimiento del bono a 10 años roza el 5%",
+   "headline_en": "Gold falls to lowest since September as 10-year yield nears 5%",
    "source": "CoinDesk"
+  },
+  {
+   "headline": "Las ventas de vivienda existente decepcionan en octubre",
+   "headline_en": "Existing home sales miss estimates in October",
+   "source": "Investor's Business Daily"
+  },
+  {
+   "headline": "El Nasdaq 100 ya está 9% por debajo de su máximo de octubre",
+   "headline_en": "Nasdaq 100 now 9% below its October peak",
+   "source": "XTB"
   }
  ],
  "ultima_hora": {
-  "headline": "Trump: «No necesitamos un acuerdo con Irán» — el petróleo se dispara y los rendimientos suben",
-  "headline_en": "Trump: 'We don't need a deal with Iran' — oil spikes and yields jump",
-  "source": "MarketWatch",
+  "headline": "Trump: «No necesitamos un acuerdo con Irán» — el petróleo se dispara",
+  "headline_en": "Trump: 'We don't need a deal with Iran' — oil jumps",
+  "source": "Barron's",
   "image": "",
   "images": [
-   "https://boripropdeals.github.io/breaking-visuals/trump-iran-oil-tanker-strait-2026-11-12.webp",
-   "https://boripropdeals.github.io/breaking-visuals/trump-iran-oil-price-surge-2026-11-12.webp",
-   "https://boripropdeals.github.io/breaking-visuals/trump-iran-oil-refinery-dusk-2026-11-12.webp"
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-12-trump-iran-oil-refinery.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-12-trump-iran-oil-tankers-hormuz.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-12-trump-iran-oil-charts-market.jpg"
   ]
  }
 }
