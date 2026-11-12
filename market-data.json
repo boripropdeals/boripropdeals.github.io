@@ -1,19 +1,19 @@
 {
- "updated_at": "2026-11-12T13:04:35.913132+00:00",
+ "updated_at": "2026-11-12T13:04:47.083874+00:00",
  "nq": {
-  "price": 28198.25,
-  "change_points": -275.0,
+  "price": 28196.25,
+  "change_points": -277.0,
   "percent_change": -0.97
  },
  "gold": {
-  "price": 3942.7,
-  "change_points": -57.8,
-  "percent_change": -1.44
+  "price": 3943.3,
+  "change_points": -57.2,
+  "percent_change": -1.43
  },
  "oil": {
-  "price": 85.77,
-  "change_points": -0.76,
-  "percent_change": -0.88
+  "price": 85.78,
+  "change_points": -0.75,
+  "percent_change": -0.87
  },
  "headlines": [
   {
@@ -47,5 +47,15 @@
    "source": "Tickmill"
   }
  ],
- "ultima_hora": null
+ "ultima_hora": {
+  "headline": "Trump amenaza con duplicar los aranceles a México si no frena las caravanas de inmigrantes; el dólar sube frente al peso",
+  "headline_en": "Trump threatens to double tariffs on Mexico if it doesn’t stop migrant caravans; dollar climbs vs. peso",
+  "source": "MarketWatch",
+  "image": "",
+  "images": [
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-12-trump-mexico-tariffs-border.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-12-trump-mexico-tariffs-currency.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-12-trump-mexico-tariffs-port.webp"
+  ]
+ }
 }
