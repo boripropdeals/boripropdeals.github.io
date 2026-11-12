@@ -1,45 +1,50 @@
 {
- "updated_at": "2026-11-12T18:32:34.821633+00:00",
+ "updated_at": "2026-11-12T18:33:21.527022+00:00",
  "nq": {
-  "price": 28481.75,
-  "change_points": 8.5,
-  "percent_change": 0.03
+  "price": 28485.25,
+  "change_points": 12.0,
+  "percent_change": 0.04
  },
  "gold": {
-  "price": 3882.8,
-  "change_points": -117.7,
-  "percent_change": -2.94
+  "price": 3883.1,
+  "change_points": -117.4,
+  "percent_change": -2.93
  },
  "oil": {
-  "price": 88.3,
-  "change_points": 1.77,
-  "percent_change": 2.05
+  "price": 88.23,
+  "change_points": 1.7,
+  "percent_change": 1.96
  },
  "headlines": [
   {
-   "headline": "El CEO de Nvidia, Jensen Huang, renuncia; el Nasdaq cae ~1%",
-   "headline_en": "Nvidia CEO Jensen Huang resigns; Nasdaq falls ~1%",
+   "headline": "Renuncia el CEO de Nvidia, Jensen Huang; Colette Kress asume como interina",
+   "headline_en": "Nvidia CEO Jensen Huang resigns; CFO Colette Kress steps in as interim CEO",
+   "source": "The Motley Fool"
+  },
+  {
+   "headline": "Nvidia cae ~5% tras la renuncia; AMD sube ~5% con mejora de analistas",
+   "headline_en": "Nvidia drops ~5% after CEO resignation; AMD jumps ~5% on analyst upgrade",
+   "source": "The Motley Fool"
+  },
+  {
+   "headline": "El bono a 10 años roza el 5% y el mercado descuenta ~94% de subida de la Fed en diciembre",
+   "headline_en": "10-year yield nears 5% as markets price ~94% odds of a December Fed hike",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "El petróleo sube tras el comentario de Trump sobre Irán; el Brent tocó $94.40",
+   "headline_en": "Oil rises after Trump's Iran comments; Brent spiked to $94.40",
    "source": "Barron's"
   },
   {
-   "headline": "El DAX alemán rompe los 27,000 puntos por primera vez en su historia",
-   "headline_en": "Germany's DAX breaks above 27,000 points for the first time",
-   "source": "XTB"
+   "headline": "Apple marca máximo histórico; Cisco y Applied Materials reportan al cierre",
+   "headline_en": "Apple hits all-time high; Cisco and Applied Materials report after the close",
+   "source": "Zacks"
   },
   {
-   "headline": "CoreWeave se dispara +24% tras resultados y guía al alza",
-   "headline_en": "CoreWeave soars 24% on strong results and raised guidance",
-   "source": "Barchart"
-  },
-  {
-   "headline": "La Fed: el mercado descuenta 91% de probabilidad de subida de 25 pb en diciembre",
-   "headline_en": "Fed: market prices 91% chance of a 25bp hike in December",
-   "source": "Barchart"
-  },
-  {
-   "headline": "Apple toca máximo histórico pese a la caída tecnológica",
-   "headline_en": "Apple hits all-time high despite tech sell-off",
-   "source": "Investor's Business Daily"
+   "headline": "Desempleo semanal sube a 200,000; el oro cae 3% a mínimo desde septiembre",
+   "headline_en": "Jobless claims rise to 200,000; gold falls 3% to lowest since September",
+   "source": "CoinDesk"
   }
  ],
  "ultima_hora": {
