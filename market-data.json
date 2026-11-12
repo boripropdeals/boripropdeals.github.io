@@ -1,61 +1,56 @@
 {
- "updated_at": "2026-11-12T14:02:34.559429+00:00",
+ "updated_at": "2026-11-12T14:04:14.506315+00:00",
  "nq": {
-  "price": 28115.75,
-  "change_points": -357.5,
-  "percent_change": -1.26
+  "price": 28138.0,
+  "change_points": -335.25,
+  "percent_change": -1.18
  },
  "gold": {
-  "price": 3894.8,
-  "change_points": -105.7,
-  "percent_change": -2.64
+  "price": 3890.9,
+  "change_points": -109.6,
+  "percent_change": -2.74
  },
  "oil": {
-  "price": 86.83,
-  "change_points": 0.3,
-  "percent_change": 0.35
+  "price": 86.94,
+  "change_points": 0.41,
+  "percent_change": 0.47
  },
  "headlines": [
   {
-   "headline": "Nvidia se desploma en premercado tras reportes de que su junta evalúa destituir a Jensen Huang",
-   "headline_en": "Nvidia plunges in premarket as board reportedly weighs ousting CEO Jensen Huang",
+   "headline": "Nvidia se desploma en premercado: su junta evalúa destituir al CEO Jensen Huang y los futuros del Nasdaq caen",
+   "headline_en": "Nvidia plunges premarket as board weighs ousting CEO Jensen Huang; Nasdaq futures fall",
    "source": "Reuters"
   },
   {
-   "headline": "Wall Street cierra al alza: Apple marca máximo histórico y el Nasdaq sube 1.6%",
-   "headline_en": "Wall Street ends higher as Apple hits record high, Nasdaq gains 1.6%",
+   "headline": "Wall Street cerró al alza el miércoles: el Nasdaq subió 1.6% y Apple marcó un nuevo récord",
+   "headline_en": "Wall Street ended higher Wednesday: Nasdaq gained 1.6% and Apple hit a record close",
    "source": "Zacks"
   },
   {
-   "headline": "Los futuros del Nasdaq 100 caen ~0.9% y las acciones de chips se hunden",
-   "headline_en": "Nasdaq 100 futures fall ~0.9% as chip stocks sink",
+   "headline": "Las solicitudes de desempleo subieron a 200,000, más de lo esperado",
+   "headline_en": "Jobless claims jumped to 200,000, higher than expected",
+   "source": "Investor's Business Daily"
+  },
+  {
+   "headline": "El mercado da por segura una subida de tasas de la Fed en diciembre; el bono a 10 años ronda el 5.05%",
+   "headline_en": "Markets see a December Fed rate hike as a near-certainty; 10-year yield near 5.05%",
    "source": "Reuters"
   },
   {
-   "headline": "El mercado espera el PPI del viernes tras un IPC más caliente de lo esperado; la Fed subiría en diciembre",
-   "headline_en": "PPI awaited Friday after hotter-than-expected CPI; December Fed hike seen as certain",
+   "headline": "El IPP llega el viernes tras un IPC más alto de lo esperado; CoreWeave subió 24.7% y reavivó la confianza en la IA",
+   "headline_en": "PPI due Friday after hotter-than-expected CPI; CoreWeave surged 24.7%, reviving AI confidence",
    "source": "Reuters"
-  },
-  {
-   "headline": "El rendimiento del bono a 10 años llega a 5.00% y el crudo ronda los $86",
-   "headline_en": "10-year Treasury yield hits 5.00% as crude hovers near $86",
-   "source": "GTA Terminal"
-  },
-  {
-   "headline": "El FTSE 100 cierra al alza 0.78% a 10,835.47 puntos",
-   "headline_en": "FTSE 100 ends 0.78% higher at 10,835.47",
-   "source": "Samuel & Co"
   }
  ],
  "ultima_hora": {
-  "headline": "Trump amenaza con duplicar los aranceles a México y el peso se desploma",
-  "headline_en": "Trump threatens to double tariffs on Mexico as peso slides",
-  "source": "MarketWatch",
+  "headline": "Trump dice que EE.UU. no necesita un acuerdo con Irán y el petróleo se dispara; los futuros caen",
+  "headline_en": "Trump says the U.S. does not need a deal with Iran as oil jumps; futures fall",
+  "source": "Investor's Business Daily",
   "image": "",
   "images": [
-   "https://raw.githubusercontent.com/boripropdeals/boripropdeals.github.io/main/breaking-visuals/trump-aranceles-mexico-frontera-2026-11-12.jpg",
-   "https://raw.githubusercontent.com/boripropdeals/boripropdeals.github.io/main/breaking-visuals/trump-aranceles-mexico-peso-dolar-2026-11-12.jpg",
-   "https://raw.githubusercontent.com/boripropdeals/boripropdeals.github.io/main/breaking-visuals/trump-aranceles-mexico-puerto-carga-2026-11-12.jpg"
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-12-trump-iran-oil-rig.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-12-trump-iran-oil-tanker-strait.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-12-trump-iran-market-oil-screens.webp"
   ]
  }
 }
