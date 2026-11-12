@@ -1,25 +1,25 @@
 {
- "updated_at": "2026-11-12T14:34:33.382237+00:00",
+ "updated_at": "2026-11-12T14:34:52.879716+00:00",
  "nq": {
-  "price": 28062.25,
-  "change_points": -411.0,
+  "price": 28063.0,
+  "change_points": -410.25,
   "percent_change": -1.44
  },
  "gold": {
-  "price": 3908.4,
-  "change_points": -92.1,
-  "percent_change": -2.3
+  "price": 3907.7,
+  "change_points": -92.8,
+  "percent_change": -2.32
  },
  "oil": {
-  "price": 86.53,
-  "change_points": 0.0,
-  "percent_change": 0.0
+  "price": 86.55,
+  "change_points": 0.02,
+  "percent_change": 0.02
  },
  "headlines": [
   {
-   "headline": "Nvidia se desploma en premercado: su junta evalúa destituir al CEO Jensen Huang y los futuros del Nasdaq caen",
-   "headline_en": "Nvidia plunges premarket as board weighs ousting CEO Jensen Huang; Nasdaq futures fall",
-   "source": "Reuters"
+   "headline": "Nvidia confirma la renuncia de su CEO Jensen Huang; la acción se desploma ~12% y los futuros del Nasdaq caen",
+   "headline_en": "Nvidia confirms CEO Jensen Huang has resigned; shares plunge about 12% as Nasdaq futures fall",
+   "source": "Investopedia"
   },
   {
    "headline": "Wall Street cerró al alza el miércoles: el Nasdaq subió 1.6% y Apple marcó un nuevo récord",
@@ -40,6 +40,11 @@
    "headline": "El IPP llega el viernes tras un IPC más alto de lo esperado; CoreWeave subió 24.7% y reavivó la confianza en la IA",
    "headline_en": "PPI due Friday after hotter-than-expected CPI; CoreWeave surged 24.7%, reviving AI confidence",
    "source": "Reuters"
+  },
+  {
+   "headline": "El DAX alemán rompe el récord de 27,000 puntos por primera vez en su historia",
+   "headline_en": "Germany's DAX breaks above 27,000 points for the first time",
+   "source": "XTB"
   }
  ],
  "ultima_hora": {
