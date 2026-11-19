@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-11-19T20:02:36.696867+00:00",
+ "updated_at": "2026-11-19T20:02:51.771173+00:00",
  "nq": {
-  "price": 26729.75,
-  "change_points": -457.0,
-  "percent_change": -1.68
+  "price": 26722.25,
+  "change_points": -464.5,
+  "percent_change": -1.71
  },
  "gold": {
   "price": 3670.2,
@@ -17,34 +17,34 @@
  },
  "headlines": [
   {
-   "headline": "Wall Street cae por sexto día seguido y el Nasdaq entra en corrección: el VIX se dispara hasta 28.3",
-   "headline_en": "Stocks edge lower for a sixth straight day with the Nasdaq in correction territory as VIX jumps to 28.3",
-   "source": "Pulsafi"
+   "headline": "Anthropic debuta hoy en Nasdaq tras fijar su IPO récord en $83 por acción",
+   "headline_en": "Anthropic debuts on Nasdaq today after pricing its record IPO at $83 a share",
+   "source": "Investor's Business Daily"
   },
   {
-   "headline": "Anthropic debuta hoy en Nasdaq con la mayor OPV de la historia: 83 dólares por acción y 81,000 millones recaudados",
-   "headline_en": "Anthropic debuts on Nasdaq today in the largest IPO on record at $83 a share, raising about $81 billion",
-   "source": "CNBC"
+   "headline": "Los futuros del Nasdaq suben 2.2% por el optimismo de la IA tras la IPO de Anthropic",
+   "headline_en": "Nasdaq futures surge 2.2% on AI optimism after Anthropic's IPO",
+   "source": "Barchart"
   },
   {
-   "headline": "Actas de la Fed: la pausa de octubre fue 10-2 y el mercado ya descuenta una subida de tipos en diciembre",
-   "headline_en": "Fed minutes: October hold passed 10-2 and markets now price a December rate hike",
-   "source": "CNBC"
+   "headline": "El mercado ya descuenta una subida de tipos de la Fed en diciembre tras las actas hawkish",
+   "headline_en": "Markets now price in a Fed rate hike in December after hawkish minutes",
+   "source": "Barchart"
   },
   {
-   "headline": "Nvidia supera previsiones pero cae 2.9%: el Nasdaq rebota y el S&P 500 suma su quinta caída seguida",
-   "headline_en": "Nvidia beats forecasts but falls 2.9% as Nasdaq rebounds and S&P 500 posts fifth straight loss",
-   "source": "Zacks"
+   "headline": "Cierre mixto el miércoles: el Dow cae 1.1% y el Nasdaq sube 0.4% con UnitedHealth en picada",
+   "headline_en": "Mixed close Wednesday: Dow falls 1.1%, Nasdaq gains 0.4% as UnitedHealth dives",
+   "source": "Investor's Business Daily"
   },
   {
-   "headline": "Walmart eleva su previsión tras crecer 5.2% y Palo Alto Networks se dispara tras sus resultados",
-   "headline_en": "Walmart raises outlook after 5.2% revenue growth; Palo Alto Networks jumps on earnings",
-   "source": "First Feed News"
+   "headline": "Nvidia cae casi 3% pese a buenos resultados; Palo Alto se dispara más de 9%",
+   "headline_en": "Nvidia slides nearly 3% despite strong results; Palo Alto jumps over 9%",
+   "source": "Barchart"
   },
   {
-   "headline": "El oro cae a mínimo de 14 meses y el petróleo se desploma 4.5% por el exceso de oferta",
-   "headline_en": "Gold falls to 14-month low and oil slides 4.5% on surplus fears",
-   "source": "Reuters"
+   "headline": "Solicitudes de desempleo y encuesta de la Fed de Filadelfia, hoy a las 8:30am ET",
+   "headline_en": "Jobless claims and Philly Fed survey due today at 8:30am ET",
+   "source": "TradingView"
   }
  ],
  "ultima_hora": {
