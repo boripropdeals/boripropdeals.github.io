@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-11-19T20:32:37.598071+00:00",
+ "updated_at": "2026-11-19T20:33:10.961289+00:00",
  "nq": {
-  "price": 26608.0,
-  "change_points": -578.75,
-  "percent_change": -2.13
+  "price": 26633.0,
+  "change_points": -553.75,
+  "percent_change": -2.04
  },
  "gold": {
-  "price": 3669.5,
-  "change_points": -72.4,
-  "percent_change": -1.93
+  "price": 3669.9,
+  "change_points": -72.0,
+  "percent_change": -1.92
  },
  "oil": {
-  "price": 82.88,
-  "change_points": -0.38,
-  "percent_change": -0.46
+  "price": 82.9,
+  "change_points": -0.36,
+  "percent_change": -0.43
  },
  "headlines": [
   {
-   "headline": "Anthropic debuta hoy en Nasdaq tras fijar su IPO récord en $83 por acción",
-   "headline_en": "Anthropic debuts on Nasdaq today after pricing its record IPO at $83 a share",
-   "source": "Investor's Business Daily"
+   "headline": "El S&P 500 cae por sexto día seguido y el Nasdaq entra en territorio de corrección",
+   "headline_en": "S&P 500 falls for a sixth straight day as Nasdaq enters correction territory",
+   "source": "Pulsafi"
   },
   {
-   "headline": "Los futuros del Nasdaq suben 2.2% por el optimismo de la IA tras la IPO de Anthropic",
-   "headline_en": "Nasdaq futures surge 2.2% on AI optimism after Anthropic's IPO",
-   "source": "Barchart"
+   "headline": "Anthropic debuta en Nasdaq con la mayor OPI de la historia a $83 por acción",
+   "headline_en": "Anthropic debuts on Nasdaq in the largest IPO on record at $83 a share",
+   "source": "Investopedia"
   },
   {
-   "headline": "El mercado ya descuenta una subida de tipos de la Fed en diciembre tras las actas hawkish",
-   "headline_en": "Markets now price in a Fed rate hike in December after hawkish minutes",
-   "source": "Barchart"
+   "headline": "Las actas de la Fed apuntan a una subida en diciembre: el mercado ya la da por segura",
+   "headline_en": "Fed minutes point to a December hike as markets price it at nearly 100%",
+   "source": "The Macro Daily"
   },
   {
-   "headline": "Cierre mixto el miércoles: el Dow cae 1.1% y el Nasdaq sube 0.4% con UnitedHealth en picada",
-   "headline_en": "Mixed close Wednesday: Dow falls 1.1%, Nasdaq gains 0.4% as UnitedHealth dives",
-   "source": "Investor's Business Daily"
+   "headline": "Walmart eleva su previsión tras crecer sus ingresos 5.2%",
+   "headline_en": "Walmart raises outlook after revenue grows 5.2%",
+   "source": "Investopedia"
   },
   {
-   "headline": "Nvidia cae casi 3% pese a buenos resultados; Palo Alto se dispara más de 9%",
-   "headline_en": "Nvidia slides nearly 3% despite strong results; Palo Alto jumps over 9%",
-   "source": "Barchart"
+   "headline": "Nvidia se desinfla tras su reporte: el mercado castiga al gigante de la IA",
+   "headline_en": "Nvidia fades after earnings beat as AI rally cools",
+   "source": "Zacks"
   },
   {
-   "headline": "Solicitudes de desempleo y encuesta de la Fed de Filadelfia, hoy a las 8:30am ET",
-   "headline_en": "Jobless claims and Philly Fed survey due today at 8:30am ET",
-   "source": "TradingView"
+   "headline": "Insmed sube 19% y Williams-Sonoma cae 14% entre los movimientos del día",
+   "headline_en": "Insmed jumps 19% and Williams-Sonoma slides 14% among today’s movers",
+   "source": "BestStocks"
   }
  ],
  "ultima_hora": {
