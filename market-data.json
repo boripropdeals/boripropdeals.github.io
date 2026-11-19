@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19T16:08:49.768209+00:00",
+ "updated_at": "2026-11-19T16:09:14.200630+00:00",
  "nq": {
   "price": 27202.25,
   "change_points": 15.5,
@@ -42,9 +42,9 @@
    "source": "Barchart"
   },
   {
-   "headline": "Solicitudes de desempleo y encuesta Philly Fed, hoy a las 8:30am ET",
-   "headline_en": "Jobless claims and Philly Fed survey due today at 8:30 a.m. ET",
-   "source": "TradingView"
+   "headline": "Solicitudes de desempleo: 203,000, por encima de las 198,000 esperadas",
+   "headline_en": "Initial jobless claims come in at 203,000, above the 198,000 expected",
+   "source": "Departamento de Trabajo"
   }
  ],
  "ultima_hora": {
