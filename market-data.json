@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-19T21:04:32.194812+00:00",
+ "updated_at": "2026-11-19T21:05:30.795399+00:00",
  "nq": {
-  "price": 26678.5,
-  "change_points": -508.25,
-  "percent_change": -1.87
+  "price": 26661.25,
+  "change_points": -525.5,
+  "percent_change": -1.93
  },
  "gold": {
-  "price": 3667.9,
-  "change_points": -74.0,
-  "percent_change": -1.98
+  "price": 3665.2,
+  "change_points": -76.7,
+  "percent_change": -2.05
  },
  "oil": {
   "price": 83.08,
@@ -32,12 +32,12 @@
    "source": "The Macro Daily"
   },
   {
-   "headline": "Walmart eleva su previsión tras crecer sus ingresos 5.2%",
-   "headline_en": "Walmart raises outlook after revenue grows 5.2%",
+   "headline": "Walmart cae tras su reporte pese a elevar su previsión",
+   "headline_en": "Walmart slips after earnings despite raising its outlook",
    "source": "Investopedia"
   },
   {
-   "headline": "Nvidia se desinfla tras su reporte: el mercado castiga al gigante de la IA",
+   "headline": "Nvidia se desinfla tras su reporte pese a superar expectativas",
    "headline_en": "Nvidia fades after earnings beat as AI rally cools",
    "source": "Zacks"
   },
