@@ -1,61 +1,61 @@
 {
- "updated_at": "2026-11-12T21:28:33.208582+00:00",
+ "updated_at": "2026-11-19T12:24:03.981901+00:00",
  "nq": {
-  "price": 28409.0,
-  "change_points": -64.25,
-  "percent_change": -0.23
+  "price": 27755.0,
+  "change_points": 568.25,
+  "percent_change": 2.09
  },
  "gold": {
-  "price": 3878.0,
-  "change_points": -122.5,
-  "percent_change": -3.06
+  "price": 3717.8,
+  "change_points": -24.1,
+  "percent_change": -0.64
  },
  "oil": {
-  "price": 88.9,
-  "change_points": 2.37,
-  "percent_change": 2.74
+  "price": 82.74,
+  "change_points": -0.52,
+  "percent_change": -0.62
  },
  "headlines": [
   {
-   "headline": "Renuncia el CEO de Nvidia, Jensen Huang; AMD se dispara y Wall Street sube",
-   "headline_en": "Nvidia CEO Jensen Huang resigns; AMD surges as Wall Street edges higher",
-   "source": "The Motley Fool"
+   "headline": "La Fed se pone dura: las actas revelan que casi todos los oficiales ven más subidas de tasas y el mercado ya descuenta un alza en diciembre",
+   "headline_en": "Fed Turns Hawkish: Minutes Show Nearly All Officials See More Rate Hikes, Market Prices December Move",
+   "source": "NordFX"
   },
   {
-   "headline": "Apple cierra en máximo histórico y lidera el rebote de Wall Street",
-   "headline_en": "Apple closes at record high, leading Wall Street rebound",
-   "source": "Zacks"
+   "headline": "El oro cae 3.58% a $3,725.90 y el petróleo se desploma 4.56% en una corrección general de materias primas",
+   "headline_en": "Gold Drops 3.58% to $3,725.90 and Oil Plunges 4.56% in Broad Commodity Correction",
+   "source": "Iboro Finance"
   },
   {
-   "headline": "Inversores esperan el PPI del viernes tras un IPC más caliente de lo previsto",
-   "headline_en": "Investors await Friday's PPI after hotter-than-expected CPI",
-   "source": "Reuters"
+   "headline": "Anthropic fija su OPI en $83 por acción: la mayor salida a bolsa de la historia debuta hoy en el Nasdaq",
+   "headline_en": "Anthropic Prices IPO at $83 a Share: The Largest IPO in History Debuts on Nasdaq Today",
+   "source": "FeedCast"
   },
   {
-   "headline": "El oro cae a su mínimo desde septiembre mientras el rendimiento del bono a 10 años roza el 5%",
-   "headline_en": "Gold falls to lowest since September as 10-year yield nears 5%",
-   "source": "CoinDesk"
+   "headline": "El Russell 2000 marca un death cross: advertencia de debilidad profunda en las small caps",
+   "headline_en": "Russell 2000 Prints a Death Cross: Stark Warning of Deep Weakness in Small Caps",
+   "source": "Iboro Finance"
   },
   {
-   "headline": "Las ventas de vivienda existente decepcionan en octubre",
-   "headline_en": "Existing home sales miss estimates in October",
-   "source": "Investor's Business Daily"
+   "headline": "Tensiones en el Golfo: un petrolero es alcanzado cerca de Ormuz y Washington evalúa nuevos ataques contra Irán",
+   "headline_en": "Gulf Tensions: Tanker Hit Near Hormuz as Washington Weighs New Strikes on Iran",
+   "source": "NordFX"
   },
   {
-   "headline": "El Nasdaq 100 ya está 9% por debajo de su máximo de octubre",
-   "headline_en": "Nasdaq 100 now 9% below its October peak",
-   "source": "XTB"
+   "headline": "Bitcoin retrocede 2.18% a $63,478 mientras se amplían las investigaciones sobre billeteras de hardware",
+   "headline_en": "Bitcoin Slips 2.18% to $63,478 as Hardware Wallet Investigations Expand",
+   "source": "Iboro Finance"
   }
  ],
  "ultima_hora": {
-  "headline": "Trump: «No necesitamos un acuerdo con Irán» — el petróleo se dispara",
-  "headline_en": "Trump: 'We don't need a deal with Iran' — oil jumps",
-  "source": "Barron's",
+  "headline": "Trump, Xi y Putin celebran la primera cumbre trilateral de la historia en Shenzhen",
+  "headline_en": "Trump, Xi and Putin Hold Historic First-Ever Trilateral Summit in Shenzhen",
+  "source": "USA Today",
   "image": "",
   "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-12-trump-iran-oil-refinery.jpg",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-12-trump-iran-oil-tankers-hormuz.jpg",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-12-trump-iran-oil-charts-market.jpg"
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-19-trump-xi-putin-cumbre-shenzhen-salon.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-19-trump-xi-putin-cumbre-shenzhen-ciudad.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-19-trump-xi-putin-cumbre-shenzhen-apreton.jpg"
   ]
  }
 }
