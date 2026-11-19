@@ -1,19 +1,19 @@
 {
- "updated_at": "2026-11-19T17:02:33.080741+00:00",
+ "updated_at": "2026-11-19T17:03:25.649450+00:00",
  "nq": {
-  "price": 27072.75,
-  "change_points": -114.0,
-  "percent_change": -0.42
+  "price": 26982.0,
+  "change_points": -204.75,
+  "percent_change": -0.75
  },
  "gold": {
-  "price": 3688.2,
-  "change_points": -53.7,
-  "percent_change": -1.44
+  "price": 3687.2,
+  "change_points": -54.7,
+  "percent_change": -1.46
  },
  "oil": {
-  "price": 83.38,
-  "change_points": 0.12,
-  "percent_change": 0.14
+  "price": 83.3,
+  "change_points": 0.04,
+  "percent_change": 0.05
  },
  "headlines": [
   {
@@ -32,9 +32,9 @@
    "source": "Zacks"
   },
   {
-   "headline": "Los futuros repuntan el jueves: el Nasdaq-100 sube más de 2% antes del debut de Anthropic",
-   "headline_en": "Futures rebound Thursday: Nasdaq-100 up over 2% ahead of Anthropic debut",
-   "source": "CNBC"
+   "headline": "Wall Street abre al alza: el Nasdaq sube 1.6% tras el debut de Anthropic en el Nasdaq",
+   "headline_en": "Wall Street opens higher: Nasdaq up 1.6% after Anthropic's Nasdaq debut",
+   "source": "BestStocks"
   },
   {
    "headline": "Walmart eleva su previsión y Palo Alto Networks se dispara tras sus resultados",
