@@ -1,44 +1,44 @@
 {
- "updated_at": "2026-11-19T13:03:32.279265+00:00",
+ "updated_at": "2026-11-19T13:33:39.955298+00:00",
  "nq": {
-  "price": 27747.0,
-  "change_points": 560.25,
-  "percent_change": 2.06
+  "price": 27741.0,
+  "change_points": 554.25,
+  "percent_change": 2.04
  },
  "gold": {
-  "price": 3719.7,
-  "change_points": -22.2,
-  "percent_change": -0.59
+  "price": 3714.7,
+  "change_points": -27.2,
+  "percent_change": -0.73
  },
  "oil": {
-  "price": 83.24,
-  "change_points": -0.02,
-  "percent_change": -0.02
+  "price": 83.17,
+  "change_points": -0.09,
+  "percent_change": -0.11
  },
  "headlines": [
   {
    "headline": "Anthropic debuta hoy en Nasdaq con la mayor IPO de la historia: $81,300 millones a $83 por acción",
    "headline_en": "Anthropic debuts on Nasdaq today in the largest IPO ever: $81.3 billion at $83 a share",
-   "source": "Forbes"
+   "source": "NordFX"
   },
   {
-   "headline": "Actas de la Fed: la pausa de octubre fue una decisión ajustada y crece la apuesta por una subida de 50 puntos en diciembre",
-   "headline_en": "Fed minutes: October hold was a close call as bets grow on a 50bp December hike",
-   "source": "CaixaBank Research"
+   "headline": "Actas de la Fed: casi todos los funcionarios ven más subidas de tasas y Waller sugiere 50 puntos en diciembre",
+   "headline_en": "Fed minutes: almost all officials see more rate hikes ahead as Waller floats a 50bp December move",
+   "source": "NordFX"
   },
   {
-   "headline": "El Dow cae 561 puntos y el S&P 500 suma su quinta caída seguida, mientras Nvidia baja pese a superar previsiones",
-   "headline_en": "Dow drops 561 points and S&P 500 posts fifth straight loss as Nvidia falls despite earnings beat",
-   "source": "IC Markets"
+   "headline": "El Dow cae 561 puntos y el S&P 500 suma su quinta caída seguida, mientras el Nasdaq sube 0.42%",
+   "headline_en": "Dow drops 561 points and S&P 500 posts fifth straight loss as Nasdaq gains 0.42%",
+   "source": "HDFC Sky"
   },
   {
-   "headline": "El oro se desploma 3.6% y el petróleo cae 4.6% en una corrección general de las materias primas",
-   "headline_en": "Gold plunges 3.6% and oil drops 4.6% in a broad commodity sell-off",
-   "source": "Iboro Finance"
+   "headline": "El oro cae 3.17% a $3,741.90 y el cobre se desploma 5.30%; el ASX cae por sexta sesión seguida",
+   "headline_en": "Gold falls 3.17% to $3,741.90 and copper plunges 5.30% as ASX drops for a sixth straight session",
+   "source": "Swingfolio"
   },
   {
-   "headline": "El sector salud se desploma tras la propuesta regulatoria CRUSH de Medicare y arrastra al Dow",
-   "headline_en": "Healthcare stocks plunge after Medicare proposed CRUSH rule, dragging the Dow lower",
+   "headline": "El sector salud se desploma tras la propuesta regulatoria CRUSH de Medicare; UnitedHealth cae 10.31%",
+   "headline_en": "Healthcare stocks plunge after Medicare proposed CRUSH rule; UnitedHealth falls 10.31%",
    "source": "HDFC Sky"
   },
   {
