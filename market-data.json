@@ -1,45 +1,50 @@
 {
- "updated_at": "2026-11-19T12:34:29.667137+00:00",
+ "updated_at": "2026-11-19T13:03:32.279265+00:00",
  "nq": {
-  "price": 27731.75,
-  "change_points": 545.0,
-  "percent_change": 2.0
+  "price": 27747.0,
+  "change_points": 560.25,
+  "percent_change": 2.06
  },
  "gold": {
-  "price": 3718.2,
-  "change_points": -23.7,
-  "percent_change": -0.63
+  "price": 3719.7,
+  "change_points": -22.2,
+  "percent_change": -0.59
  },
  "oil": {
-  "price": 82.92,
-  "change_points": -0.34,
-  "percent_change": -0.41
+  "price": 83.24,
+  "change_points": -0.02,
+  "percent_change": -0.02
  },
  "headlines": [
   {
-   "headline": "Actas de la Fed: la pausa de octubre estuvo muy reñida y casi todos esperan más subidas de tasas",
-   "headline_en": "Fed minutes: October rate hold was a close call and almost all officials expect further hikes",
+   "headline": "Anthropic debuta hoy en Nasdaq con la mayor IPO de la historia: $81,300 millones a $83 por acción",
+   "headline_en": "Anthropic debuts on Nasdaq today in the largest IPO ever: $81.3 billion at $83 a share",
+   "source": "Forbes"
+  },
+  {
+   "headline": "Actas de la Fed: la pausa de octubre fue una decisión ajustada y crece la apuesta por una subida de 50 puntos en diciembre",
+   "headline_en": "Fed minutes: October hold was a close call as bets grow on a 50bp December hike",
+   "source": "CaixaBank Research"
+  },
+  {
+   "headline": "El Dow cae 561 puntos y el S&P 500 suma su quinta caída seguida, mientras Nvidia baja pese a superar previsiones",
+   "headline_en": "Dow drops 561 points and S&P 500 posts fifth straight loss as Nvidia falls despite earnings beat",
+   "source": "IC Markets"
+  },
+  {
+   "headline": "El oro se desploma 3.6% y el petróleo cae 4.6% en una corrección general de las materias primas",
+   "headline_en": "Gold plunges 3.6% and oil drops 4.6% in a broad commodity sell-off",
    "source": "Iboro Finance"
   },
   {
-   "headline": "Anthropic debuta en bolsa con la mayor IPO de la historia: $81,000 millones a $83 por acción",
-   "headline_en": "Anthropic debuts with the biggest IPO ever: $81B raised at $83 a share",
-   "source": "Stockopedia (Bloomberg)"
+   "headline": "El sector salud se desploma tras la propuesta regulatoria CRUSH de Medicare y arrastra al Dow",
+   "headline_en": "Healthcare stocks plunge after Medicare proposed CRUSH rule, dragging the Dow lower",
+   "source": "HDFC Sky"
   },
   {
-   "headline": "Oro y petróleo se desploman: el oro cae 3.6% y el crudo 4.6% tras las actas de la Fed",
-   "headline_en": "Gold and oil tumble: gold down 3.6%, crude down 4.6% after Fed minutes",
-   "source": "Iboro Finance"
-  },
-  {
-   "headline": "El Russell 2000 marca un death cross y confirma la debilidad de las small caps",
-   "headline_en": "Russell 2000 flashes a death cross, confirming small-cap weakness",
-   "source": "Iboro Finance"
-  },
-  {
-   "headline": "Sesión mixta en Wall Street: el Nasdaq sube 0.42% mientras el Dow cae 1.11%",
-   "headline_en": "Mixed session on Wall Street: Nasdaq up 0.42% as Dow falls 1.11%",
-   "source": "Iboro Finance"
+   "headline": "Hoy: subsidios por desempleo y el índice Philly Fed, con los resultados de Walmart en la agenda",
+   "headline_en": "Today: jobless claims and Philly Fed index due, with Walmart earnings on tap",
+   "source": "NordFX"
   }
  ],
  "ultima_hora": {
