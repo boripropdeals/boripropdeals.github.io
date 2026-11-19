@@ -1,61 +1,56 @@
 {
- "updated_at": "2026-11-19T12:24:03.981901+00:00",
+ "updated_at": "2026-11-19T12:33:31.007045+00:00",
  "nq": {
-  "price": 27755.0,
-  "change_points": 568.25,
-  "percent_change": 2.09
+  "price": 27732.0,
+  "change_points": 545.25,
+  "percent_change": 2.01
  },
  "gold": {
-  "price": 3717.8,
-  "change_points": -24.1,
-  "percent_change": -0.64
+  "price": 3716.3,
+  "change_points": -25.6,
+  "percent_change": -0.68
  },
  "oil": {
-  "price": 82.74,
-  "change_points": -0.52,
-  "percent_change": -0.62
+  "price": 82.89,
+  "change_points": -0.37,
+  "percent_change": -0.44
  },
  "headlines": [
   {
-   "headline": "La Fed se pone dura: las actas revelan que casi todos los oficiales ven más subidas de tasas y el mercado ya descuenta un alza en diciembre",
-   "headline_en": "Fed Turns Hawkish: Minutes Show Nearly All Officials See More Rate Hikes, Market Prices December Move",
-   "source": "NordFX"
-  },
-  {
-   "headline": "El oro cae 3.58% a $3,725.90 y el petróleo se desploma 4.56% en una corrección general de materias primas",
-   "headline_en": "Gold Drops 3.58% to $3,725.90 and Oil Plunges 4.56% in Broad Commodity Correction",
+   "headline": "Actas de la Fed: la pausa de octubre estuvo muy reñida y casi todos esperan más subidas de tasas",
+   "headline_en": "Fed minutes: October rate hold was a close call and almost all officials expect further hikes",
    "source": "Iboro Finance"
   },
   {
-   "headline": "Anthropic fija su OPI en $83 por acción: la mayor salida a bolsa de la historia debuta hoy en el Nasdaq",
-   "headline_en": "Anthropic Prices IPO at $83 a Share: The Largest IPO in History Debuts on Nasdaq Today",
-   "source": "FeedCast"
+   "headline": "Anthropic debuta en bolsa con la mayor IPO de la historia: $81,000 millones a $83 por acción",
+   "headline_en": "Anthropic debuts with the biggest IPO ever: $81B raised at $83 a share",
+   "source": "Stockopedia (Bloomberg)"
   },
   {
-   "headline": "El Russell 2000 marca un death cross: advertencia de debilidad profunda en las small caps",
-   "headline_en": "Russell 2000 Prints a Death Cross: Stark Warning of Deep Weakness in Small Caps",
+   "headline": "Oro y petróleo se desploman: el oro cae 3.6% y el crudo 4.6% tras las actas de la Fed",
+   "headline_en": "Gold and oil tumble: gold down 3.6%, crude down 4.6% after Fed minutes",
    "source": "Iboro Finance"
   },
   {
-   "headline": "Tensiones en el Golfo: un petrolero es alcanzado cerca de Ormuz y Washington evalúa nuevos ataques contra Irán",
-   "headline_en": "Gulf Tensions: Tanker Hit Near Hormuz as Washington Weighs New Strikes on Iran",
-   "source": "NordFX"
+   "headline": "El Russell 2000 marca un death cross y confirma la debilidad de las small caps",
+   "headline_en": "Russell 2000 flashes a death cross, confirming small-cap weakness",
+   "source": "Iboro Finance"
   },
   {
-   "headline": "Bitcoin retrocede 2.18% a $63,478 mientras se amplían las investigaciones sobre billeteras de hardware",
-   "headline_en": "Bitcoin Slips 2.18% to $63,478 as Hardware Wallet Investigations Expand",
+   "headline": "Sesión mixta en Wall Street: el Nasdaq sube 0.42% mientras el Dow cae 1.11%",
+   "headline_en": "Mixed session on Wall Street: Nasdaq up 0.42% as Dow falls 1.11%",
    "source": "Iboro Finance"
   }
  ],
  "ultima_hora": {
-  "headline": "Trump, Xi y Putin celebran la primera cumbre trilateral de la historia en Shenzhen",
-  "headline_en": "Trump, Xi and Putin Hold Historic First-Ever Trilateral Summit in Shenzhen",
-  "source": "USA Today",
+  "headline": "Trump y Xi se reúnen hoy en Shenzhen para salvar la tregua comercial en plena guerra de chips de IA",
+  "headline_en": "Trump and Xi meet today in Shenzhen to save the trade truce amid the AI chip war",
+  "source": "StockMarketWatch",
   "image": "",
   "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-19-trump-xi-putin-cumbre-shenzhen-salon.jpg",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-19-trump-xi-putin-cumbre-shenzhen-ciudad.jpg",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-19-trump-xi-putin-cumbre-shenzhen-apreton.jpg"
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-19-trump-xi-shenzhen-skyline.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-19-trump-xi-handshake-summit.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-19-trump-xi-trade-chips-port.jpg"
   ]
  }
 }
