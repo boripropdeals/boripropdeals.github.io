@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-11-19T18:02:33.230671+00:00",
+ "updated_at": "2026-11-19T18:03:27.573239+00:00",
  "nq": {
-  "price": 26956.75,
-  "change_points": -230.0,
+  "price": 26955.5,
+  "change_points": -231.25,
   "percent_change": -0.85
  },
  "gold": {
-  "price": 3683.0,
-  "change_points": -58.9,
-  "percent_change": -1.57
+  "price": 3683.6,
+  "change_points": -58.3,
+  "percent_change": -1.56
  },
  "oil": {
-  "price": 83.41,
-  "change_points": 0.15,
-  "percent_change": 0.18
+  "price": 83.39,
+  "change_points": 0.13,
+  "percent_change": 0.16
  },
  "headlines": [
   {
-   "headline": "Wall Street cae por sexto día seguido y el Nasdaq entra en corrección: el VIX se dispara 15% hasta 28.3",
-   "headline_en": "Stocks slide for a sixth straight day as Nasdaq enters correction; VIX jumps 15% to 28.3",
+   "headline": "Wall Street cae por sexto día seguido y el Nasdaq entra en corrección: el VIX se dispara hasta 28.3",
+   "headline_en": "Stocks edge lower for a sixth straight day with the Nasdaq in correction territory as VIX jumps to 28.3",
    "source": "Pulsafi"
   },
   {
-   "headline": "Anthropic debuta en Nasdaq con la mayor OPV de la historia: 83 dólares por acción y 81,000 millones recaudados",
-   "headline_en": "Anthropic debuts on Nasdaq in the largest IPO ever: $83 a share, $81 billion raised",
+   "headline": "Anthropic debuta hoy en Nasdaq con la mayor OPV de la historia: 83 dólares por acción y 81,000 millones recaudados",
+   "headline_en": "Anthropic debuts on Nasdaq today in the largest IPO on record at $83 a share, raising about $81 billion",
    "source": "CNBC"
   },
   {
    "headline": "Actas de la Fed: la pausa de octubre fue 10-2 y el mercado ya descuenta una subida de tipos en diciembre",
-   "headline_en": "Fed minutes: October hold was 10-2 and markets now price a December rate hike",
-   "source": "Zacks"
+   "headline_en": "Fed minutes: October hold passed 10-2 and markets now price a December rate hike",
+   "source": "CNBC"
   },
   {
    "headline": "Nvidia supera previsiones pero cae 2.9%: el Nasdaq rebota y el S&P 500 suma su quinta caída seguida",
-   "headline_en": "Nvidia beats estimates but falls 2.9%: Nasdaq rebounds while S&P 500 notches fifth straight loss",
+   "headline_en": "Nvidia beats forecasts but falls 2.9% as Nasdaq rebounds and S&P 500 posts fifth straight loss",
    "source": "Zacks"
   },
   {
-   "headline": "Walmart eleva su previsión y Palo Alto Networks se dispara tras sus resultados",
-   "headline_en": "Walmart raises outlook and Palo Alto Networks jumps on earnings",
-   "source": "Investopedia"
+   "headline": "Walmart eleva su previsión tras crecer 5.2% y Palo Alto Networks se dispara tras sus resultados",
+   "headline_en": "Walmart raises outlook after 5.2% revenue growth; Palo Alto Networks jumps on earnings",
+   "source": "First Feed News"
   },
   {
    "headline": "El oro cae a mínimo de 14 meses y el petróleo se desploma 4.5% por el exceso de oferta",
-   "headline_en": "Gold falls to a 14-month low and oil slides 4.5% on surplus fears",
-   "source": "Iboro Finance"
+   "headline_en": "Gold falls to 14-month low and oil slides 4.5% on surplus fears",
+   "source": "Reuters"
   }
  ],
  "ultima_hora": {
