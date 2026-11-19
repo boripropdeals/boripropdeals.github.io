@@ -1,21 +1,26 @@
 {
- "updated_at": "2026-11-19T17:32:33.588405+00:00",
+ "updated_at": "2026-11-19T17:33:02.276951+00:00",
  "nq": {
-  "price": 26907.0,
-  "change_points": -279.75,
-  "percent_change": -1.03
+  "price": 26960.0,
+  "change_points": -226.75,
+  "percent_change": -0.83
  },
  "gold": {
-  "price": 3688.8,
-  "change_points": -53.1,
-  "percent_change": -1.42
+  "price": 3691.2,
+  "change_points": -50.7,
+  "percent_change": -1.35
  },
  "oil": {
-  "price": 83.04,
-  "change_points": -0.22,
-  "percent_change": -0.26
+  "price": 83.05,
+  "change_points": -0.21,
+  "percent_change": -0.25
  },
  "headlines": [
+  {
+   "headline": "Wall Street cae por sexto día seguido y el Nasdaq entra en corrección: el VIX se dispara 15% hasta 28.3",
+   "headline_en": "Stocks slide for a sixth straight day as Nasdaq enters correction; VIX jumps 15% to 28.3",
+   "source": "Pulsafi"
+  },
   {
    "headline": "Anthropic debuta en Nasdaq con la mayor OPV de la historia: 83 dólares por acción y 81,000 millones recaudados",
    "headline_en": "Anthropic debuts on Nasdaq in the largest IPO ever: $83 a share, $81 billion raised",
@@ -30,11 +35,6 @@
    "headline": "Nvidia supera previsiones pero cae 2.9%: el Nasdaq rebota y el S&P 500 suma su quinta caída seguida",
    "headline_en": "Nvidia beats estimates but falls 2.9%: Nasdaq rebounds while S&P 500 notches fifth straight loss",
    "source": "Zacks"
-  },
-  {
-   "headline": "Wall Street abre al alza: el Nasdaq sube 1.6% tras el debut de Anthropic en el Nasdaq",
-   "headline_en": "Wall Street opens higher: Nasdaq up 1.6% after Anthropic's Nasdaq debut",
-   "source": "BestStocks"
   },
   {
    "headline": "Walmart eleva su previsión y Palo Alto Networks se dispara tras sus resultados",
