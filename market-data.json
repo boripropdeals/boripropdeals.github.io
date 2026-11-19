@@ -1,19 +1,19 @@
 {
- "updated_at": "2026-11-19T21:32:33.555165+00:00",
+ "updated_at": "2026-11-19T21:33:28.787941+00:00",
  "nq": {
-  "price": 26543.0,
-  "change_points": -643.75,
-  "percent_change": -2.37
+  "price": 26538.25,
+  "change_points": -648.5,
+  "percent_change": -2.39
  },
  "gold": {
-  "price": 3653.2,
-  "change_points": -88.7,
-  "percent_change": -2.37
+  "price": 3651.8,
+  "change_points": -90.1,
+  "percent_change": -2.41
  },
  "oil": {
-  "price": 83.2,
-  "change_points": -0.06,
-  "percent_change": -0.07
+  "price": 83.21,
+  "change_points": -0.05,
+  "percent_change": -0.06
  },
  "headlines": [
   {
@@ -29,7 +29,12 @@
   {
    "headline": "Las actas de la Fed apuntan a una subida en diciembre: el mercado ya la da por segura",
    "headline_en": "Fed minutes point to a December hike as markets price it at nearly 100%",
-   "source": "The Macro Daily"
+   "source": "Zacks"
+  },
+  {
+   "headline": "Palo Alto Networks se dispara 10% tras sus resultados y AMD cae 9% tras la salida de Tepper",
+   "headline_en": "Palo Alto Networks jumps 10% on earnings while AMD slides 9% after Tepper exits",
+   "source": "Investopedia"
   },
   {
    "headline": "Walmart cae tras su reporte pese a elevar su previsión",
@@ -37,14 +42,9 @@
    "source": "Investopedia"
   },
   {
-   "headline": "Nvidia se desinfla tras su reporte pese a superar expectativas",
-   "headline_en": "Nvidia fades after earnings beat as AI rally cools",
-   "source": "Zacks"
-  },
-  {
-   "headline": "Insmed sube 19% y Williams-Sonoma cae 14% entre los movimientos del día",
-   "headline_en": "Insmed jumps 19% and Williams-Sonoma slides 14% among today’s movers",
-   "source": "BestStocks"
+   "headline": "El oro toca mínimo de 14 meses y el petróleo cae por el exceso de oferta",
+   "headline_en": "Gold hits a 14-month low and oil slides on surplus fears",
+   "source": "Iboro Finance"
   }
  ],
  "ultima_hora": {
