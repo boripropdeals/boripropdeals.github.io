@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19T22:34:35.795126+00:00",
+ "updated_at": "2026-11-19T22:35:16.212095+00:00",
  "nq": {
   "price": 26505.5,
   "change_points": -681.25,
@@ -17,14 +17,14 @@
  },
  "headlines": [
   {
-   "headline": "El S&P 500 cae por sexto día seguido y el Nasdaq entra en territorio de corrección",
-   "headline_en": "S&P 500 falls for a sixth straight day as Nasdaq enters correction territory",
-   "source": "Pulsafi"
+   "headline": "El Dow se desploma 1,100 puntos y el S&P 500 sufre su sexto día seguido de pérdidas",
+   "headline_en": "Dow plunges 1,100 points as S&P 500 suffers its sixth straight day of losses",
+   "source": "Motley Fool"
   },
   {
-   "headline": "Anthropic debuta en Nasdaq con la mayor OPI de la historia a $83 por acción",
-   "headline_en": "Anthropic debuts on Nasdaq in the largest IPO on record at $83 a share",
-   "source": "Investopedia"
+   "headline": "Anthropic debuta en Nasdaq con la mayor OPI de la historia: $83 por acción y cierre de $97",
+   "headline_en": "Anthropic debuts on Nasdaq in the largest IPO on record: $83 a share, closing at $97",
+   "source": "Reuters"
   },
   {
    "headline": "Las actas de la Fed apuntan a una subida en diciembre: el mercado ya la da por segura",
@@ -42,9 +42,9 @@
    "source": "Investopedia"
   },
   {
-   "headline": "El oro toca mínimo de 14 meses y el petróleo cae por el exceso de oferta",
-   "headline_en": "Gold hits a 14-month low and oil slides on surplus fears",
-   "source": "Iboro Finance"
+   "headline": "Nvidia cae 3.3% y ya pierde 40% desde su máximo; el oro baja a $3,662, mínimo de 14 meses",
+   "headline_en": "Nvidia drops 3.3%, now 40% off its peak; gold slides to $3,662, a 14-month low",
+   "source": "Reuters"
   }
  ],
  "ultima_hora": {
