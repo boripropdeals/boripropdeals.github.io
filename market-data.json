@@ -1,19 +1,19 @@
 {
- "updated_at": "2026-11-19T12:33:31.007045+00:00",
+ "updated_at": "2026-11-19T12:34:29.667137+00:00",
  "nq": {
-  "price": 27732.0,
-  "change_points": 545.25,
-  "percent_change": 2.01
+  "price": 27731.75,
+  "change_points": 545.0,
+  "percent_change": 2.0
  },
  "gold": {
-  "price": 3716.3,
-  "change_points": -25.6,
-  "percent_change": -0.68
+  "price": 3718.2,
+  "change_points": -23.7,
+  "percent_change": -0.63
  },
  "oil": {
-  "price": 82.89,
-  "change_points": -0.37,
-  "percent_change": -0.44
+  "price": 82.92,
+  "change_points": -0.34,
+  "percent_change": -0.41
  },
  "headlines": [
   {
@@ -43,14 +43,14 @@
   }
  ],
  "ultima_hora": {
-  "headline": "Trump y Xi se reúnen hoy en Shenzhen para salvar la tregua comercial en plena guerra de chips de IA",
-  "headline_en": "Trump and Xi meet today in Shenzhen to save the trade truce amid the AI chip war",
-  "source": "StockMarketWatch",
+  "headline": "Trump, Xi y Putin celebran en Shenzhen la primera cumbre trilateral de la historia",
+  "headline_en": "Trump, Xi and Putin hold historic first-ever trilateral summit in Shenzhen",
+  "source": "USA Today",
   "image": "",
   "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-19-trump-xi-shenzhen-skyline.jpg",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-19-trump-xi-handshake-summit.jpg",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-19-trump-xi-trade-chips-port.jpg"
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-19-trump-xi-putin-cumbre-shenzhen-salon.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-19-trump-xi-putin-cumbre-shenzhen-ciudad.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-19-trump-xi-putin-cumbre-shenzhen-apreton.jpg"
   ]
  }
 }
