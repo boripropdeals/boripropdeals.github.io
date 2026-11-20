@@ -1,49 +1,49 @@
 {
- "updated_at": "2026-11-20T19:32:35.694817+00:00",
+ "updated_at": "2026-11-20T19:32:54.222495+00:00",
  "nq": {
-  "price": 25444.0,
-  "change_points": -1156.25,
-  "percent_change": -4.35
+  "price": 25417.5,
+  "change_points": -1182.75,
+  "percent_change": -4.45
  },
  "gold": {
-  "price": 3517.5,
-  "change_points": -168.0,
-  "percent_change": -4.56
+  "price": 3516.2,
+  "change_points": -169.3,
+  "percent_change": -4.59
  },
  "oil": {
-  "price": 83.33,
-  "change_points": 0.12,
-  "percent_change": 0.14
+  "price": 83.32,
+  "change_points": 0.11,
+  "percent_change": 0.13
  },
  "headlines": [
   {
-   "headline": "El Nasdaq borra las ganancias de 2026 y el S&P 500 cae por séptimo día consecutivo",
-   "headline_en": "Nasdaq wipes out 2026 gains as S&P 500 sinks for a seventh straight day",
+   "headline": "Nasdaq borra las ganancias de 2026 y el S&P 500 cae por séptimo día consecutivo en plena liquidación de la IA",
+   "headline_en": "Nasdaq wipes out 2026 gains as S&P 500 sinks for 7th straight day in AI meltdown",
    "source": "Investopedia"
   },
   {
-   "headline": "Anthropic se desploma 13% y cae casi a su precio de salida a bolsa",
-   "headline_en": "Anthropic plunges 13% toward its IPO price after record-breaking debut",
-   "source": "Investopedia"
+   "headline": "S&P 500 y Dow entran en corrección mientras el Nasdaq se desploma más de 4%",
+   "headline_en": "S&P 500 and Dow slide into correction territory as Nasdaq plunges more than 4%",
+   "source": "The Wall Street Journal"
   },
   {
-   "headline": "AMD y Micron lideran la brutal venta de semiconductores; el VIX salta a 32",
-   "headline_en": "AMD and Micron lead a brutal semiconductor sell-off as the VIX jumps to 32",
-   "source": "Motley Fool"
-  },
-  {
-   "headline": "El S&P 500 y el Dow entran en territorio de corrección",
-   "headline_en": "S&P 500 and Dow enter correction territory",
+   "headline": "Anthropic se desploma cerca de 13% tras su histórico debut y se acerca a su precio de salida",
+   "headline_en": "Anthropic shares tumble about 13% after blockbuster IPO, nearing IPO price",
    "source": "CNN"
   },
   {
-   "headline": "Wall Street rumbo a su peor semana en más de un año",
-   "headline_en": "Wall Street heads for its worst week in over a year",
-   "source": "CNBC TV18"
+   "headline": "AMD y Micron lideran la brutal liquidación de semiconductores",
+   "headline_en": "AMD and Micron lead brutal semiconductor sell-off",
+   "source": "Motley Fool"
   },
   {
-   "headline": "Intuit se desploma tras anunciar la venta de Mailchimp por 3,680 millones de dólares",
-   "headline_en": "Intuit shares plunge after announcing plans to sell Mailchimp for $3.68 billion",
+   "headline": "El VIX salta a 32, su nivel más alto en 19 meses, por el miedo en Wall Street",
+   "headline_en": "VIX jumps to 32, highest level in 19 months, as Wall Street fear spikes",
+   "source": "CNN"
+  },
+  {
+   "headline": "Intuit se desploma cerca de 10% tras anunciar la venta de Mailchimp por 3,680 millones de dólares",
+   "headline_en": "Intuit shares plunge nearly 10% after announcing Mailchimp sale for about $3.68 billion",
    "source": "Investopedia"
   }
  ],
