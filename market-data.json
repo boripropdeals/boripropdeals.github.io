@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-11-20T12:00:33.595279+00:00",
+ "updated_at": "2026-11-20T12:02:18.800725+00:00",
  "nq": {
-  "price": 26192.5,
-  "change_points": -407.75,
-  "percent_change": -1.53
+  "price": 26198.0,
+  "change_points": -402.25,
+  "percent_change": -1.51
  },
  "gold": {
-  "price": 3585.4,
-  "change_points": -100.1,
-  "percent_change": -2.72
+  "price": 3583.7,
+  "change_points": -101.8,
+  "percent_change": -2.76
  },
  "oil": {
-  "price": 82.29,
-  "change_points": -0.92,
-  "percent_change": -1.11
+  "price": 82.27,
+  "change_points": -0.94,
+  "percent_change": -1.13
  },
  "headlines": [
   {
-   "headline": "El Dow se desploma 1,100 puntos y el S&P 500 sufre su sexto día seguido de pérdidas",
-   "headline_en": "Dow plunges 1,100 points as S&P 500 suffers its sixth straight day of losses",
-   "source": "Motley Fool"
-  },
-  {
-   "headline": "Anthropic debuta en Nasdaq con la mayor OPI de la historia: $83 por acción y cierre de $97",
-   "headline_en": "Anthropic debuts on Nasdaq in the largest IPO on record: $83 a share, closing at $97",
+   "headline": "El Nasdaq se desploma mientras se intensifica la venta masiva de acciones de IA",
+   "headline_en": "Nasdaq plunges as AI selloff intensifies",
    "source": "Reuters"
   },
   {
-   "headline": "Las actas de la Fed apuntan a una subida en diciembre: el mercado ya la da por segura",
-   "headline_en": "Fed minutes point to a December hike as markets price it at nearly 100%",
-   "source": "Zacks"
-  },
-  {
-   "headline": "Palo Alto Networks se dispara 10% tras sus resultados y AMD cae 9% tras la salida de Tepper",
-   "headline_en": "Palo Alto Networks jumps 10% on earnings while AMD slides 9% after Tepper exits",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "Walmart cae tras su reporte pese a elevar su previsión",
-   "headline_en": "Walmart slips after earnings despite raising its outlook",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "Nvidia cae 3.3% y ya pierde 40% desde su máximo; el oro baja a $3,662, mínimo de 14 meses",
-   "headline_en": "Nvidia drops 3.3%, now 40% off its peak; gold slides to $3,662, a 14-month low",
+   "headline": "Anthropic cae 6.8% en preapertura tras su debut histórico en bolsa",
+   "headline_en": "Anthropic slides 6.8% in premarket after record IPO debut",
    "source": "Reuters"
+  },
+  {
+   "headline": "El Dow cayó 1,101 puntos y el S&P 500 encadena su sexta caída consecutiva",
+   "headline_en": "Dow tumbles 1,101 points as S&P 500 posts sixth straight loss",
+   "source": "Reuters"
+  },
+  {
+   "headline": "El VIX supera 30, su nivel más alto en casi ocho meses",
+   "headline_en": "VIX breaks above 30, near eight-month high",
+   "source": "Longbridge"
+  },
+  {
+   "headline": "El oro cae a mínimo de 14 meses en $3,685",
+   "headline_en": "Gold hits 14-month low at $3,685",
+   "source": "Argus"
+  },
+  {
+   "headline": "La Fed en foco: sentimiento de Michigan y discursos de Waller y Cook",
+   "headline_en": "Fed in focus: Michigan sentiment and remarks from Waller and Cook",
+   "source": "Barchart"
   }
  ],
  "ultima_hora": {
