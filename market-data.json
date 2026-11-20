@@ -1,19 +1,19 @@
 {
- "updated_at": "2026-11-20T15:32:34.490976+00:00",
+ "updated_at": "2026-11-20T15:34:21.760249+00:00",
  "nq": {
-  "price": 26080.0,
-  "change_points": -520.25,
-  "percent_change": -1.96
+  "price": 26015.75,
+  "change_points": -584.5,
+  "percent_change": -2.2
  },
  "gold": {
-  "price": 3541.6,
-  "change_points": -143.9,
-  "percent_change": -3.9
+  "price": 3539.4,
+  "change_points": -146.1,
+  "percent_change": -3.96
  },
  "oil": {
-  "price": 81.4,
-  "change_points": -1.81,
-  "percent_change": -2.18
+  "price": 81.43,
+  "change_points": -1.78,
+  "percent_change": -2.14
  },
  "headlines": [
   {
@@ -48,7 +48,7 @@
   }
  ],
  "ultima_hora": {
-  "headline": "Trump aplaza a 2026 la decisión sobre Irán: no habrá nuevos ataques este año",
+  "headline": "Trump aplaza hasta 2027 la decisión sobre Irán: no habrá nuevos ataques este año",
   "headline_en": "Trump postpones Iran decision to next year, signaling no major new strikes this year",
   "source": "Longbridge",
   "image": "",
