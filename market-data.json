@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-20T22:04:43.808739+00:00",
+ "updated_at": "2026-11-20T22:04:54.332534+00:00",
  "nq": {
-  "price": 25319.25,
-  "change_points": -1281.0,
-  "percent_change": -4.82
+  "price": 25309.75,
+  "change_points": -1290.5,
+  "percent_change": -4.85
  },
  "gold": {
-  "price": 3534.5,
-  "change_points": -151.0,
-  "percent_change": -4.1
+  "price": 3533.5,
+  "change_points": -152.0,
+  "percent_change": -4.12
  },
  "oil": {
   "price": 83.58,
@@ -17,33 +17,33 @@
  },
  "headlines": [
   {
-   "headline": "El Nasdaq se desploma 5,3% y borra todas las ganancias de 2026 en plena liquidación del trade de IA",
-   "headline_en": "Nasdaq plunges 5.3% and wipes out all its 2026 gains in AI-trade liquidation",
-   "source": "Reuters"
-  },
-  {
-   "headline": "El S&P 500 y el Dow entran en corrección: el S&P encadena su séptima caída consecutiva",
-   "headline_en": "S&P 500 and Dow enter correction territory as the S&P posts its seventh straight loss",
+   "headline": "El Nasdaq borra todas sus ganancias de 2026 al desplomarse 5.3%; el S&P 500 cae por séptimo día consecutivo",
+   "headline_en": "Nasdaq wipes out its 2026 gains, plunging 5.3%; S&P 500 falls for a seventh straight session",
    "source": "CNN"
   },
   {
-   "headline": "Anthropic cae 9% tras su histórico debut en bolsa, el mayor IPO jamás registrado",
-   "headline_en": "Anthropic slides 9% after its record-breaking market debut, the largest IPO ever",
+   "headline": "Anthropic cae 9% tras su histórico debut bursátil y pierde el brillo de su estreno récord",
+   "headline_en": "Anthropic shares slide 9% after its blockbuster IPO debut quickly loses its shine",
    "source": "CNN"
   },
   {
-   "headline": "Nvidia se hunde 14% y lidera la caída tecnológica tras perder un tercio de su valor en dos semanas",
-   "headline_en": "Nvidia sinks 14% leading the tech rout after losing a third of its value in two weeks",
+   "headline": "Nvidia se desploma 14% y lidera la caída tecnológica tras la salida de Jensen Huang",
+   "headline_en": "Nvidia plunges 14%, leading the tech rout after Jensen Huang's departure",
    "source": "Investopedia"
   },
   {
-   "headline": "AMD y Micron lideran una brutal liquidación de semiconductores",
-   "headline_en": "AMD and Micron lead a brutal semiconductor sell-off",
+   "headline": "El S&P 500 y el Dow entran en corrección y el Dow registra su peor semana desde marzo de 2020",
+   "headline_en": "S&P 500 and Dow enter correction territory; Dow posts its worst week since March 2020",
+   "source": "NY Post"
+  },
+  {
+   "headline": "Los semiconductores se hunden: AMD cae 11% y Micron 12% en plena liquidación del sector",
+   "headline_en": "Semiconductors sink: AMD falls 11% and Micron 12% amid the chip sell-off",
    "source": "Motley Fool"
   },
   {
-   "headline": "Intuit se desploma tras anunciar la venta de Mailchimp por 3.680 millones de dólares",
-   "headline_en": "Intuit plunges after announcing the sale of Mailchimp for $3.68 billion",
+   "headline": "Intuit se desploma tras anunciar la venta de Mailchimp por $3,680 millones",
+   "headline_en": "Intuit shares plunge after announcing the sale of Mailchimp for $3.68 billion",
    "source": "Investopedia"
   }
  ],
