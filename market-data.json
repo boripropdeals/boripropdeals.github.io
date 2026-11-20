@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-20T22:32:32.411578+00:00",
+ "updated_at": "2026-11-20T22:33:54.645636+00:00",
  "nq": {
   "price": 25291.0,
   "change_points": -1309.25,
@@ -17,33 +17,33 @@
  },
  "headlines": [
   {
-   "headline": "El Nasdaq borra todas sus ganancias de 2026 al desplomarse 5.3%; el S&P 500 cae por séptimo día consecutivo",
-   "headline_en": "Nasdaq wipes out its 2026 gains, plunging 5.3%; S&P 500 falls for a seventh straight session",
+   "headline": "El Nasdaq se desploma 5.3% y borra todas las ganancias de 2026",
+   "headline_en": "Nasdaq plunges 5.3% and wipes out all its 2026 gains",
    "source": "CNN"
   },
   {
-   "headline": "Anthropic cae 9% tras su histórico debut bursátil y pierde el brillo de su estreno récord",
-   "headline_en": "Anthropic shares slide 9% after its blockbuster IPO debut quickly loses its shine",
+   "headline": "El S&P 500 y el Dow entran en corrección; el VIX salta a su máximo en 19 meses",
+   "headline_en": "S&P 500 and Dow enter correction territory as VIX jumps to a 19-month high",
    "source": "CNN"
   },
   {
-   "headline": "Nvidia se desploma 14% y lidera la caída tecnológica tras la salida de Jensen Huang",
-   "headline_en": "Nvidia plunges 14%, leading the tech rout after Jensen Huang's departure",
+   "headline": "Anthropic cae 9% tras su histórico debut y pierde casi todo el salto inicial",
+   "headline_en": "Anthropic falls 9% after historic IPO debut, giving back most of its first-day jump",
+   "source": "CNN"
+  },
+  {
+   "headline": "Nvidia se desploma 14% y lidera la caída tecnológica; pierde un tercio de su valor en dos semanas",
+   "headline_en": "Nvidia plunges 14% leading the tech rout, down a third of its value in two weeks",
    "source": "Investopedia"
   },
   {
-   "headline": "El S&P 500 y el Dow entran en corrección y el Dow registra su peor semana desde marzo de 2020",
-   "headline_en": "S&P 500 and Dow enter correction territory; Dow posts its worst week since March 2020",
-   "source": "NY Post"
-  },
-  {
-   "headline": "Los semiconductores se hunden: AMD cae 11% y Micron 12% en plena liquidación del sector",
-   "headline_en": "Semiconductors sink: AMD falls 11% and Micron 12% amid the chip sell-off",
+   "headline": "AMD y Micron lideran la venta masiva de semiconductores",
+   "headline_en": "AMD and Micron lead brutal semiconductor sell-off",
    "source": "Motley Fool"
   },
   {
-   "headline": "Intuit se desploma tras anunciar la venta de Mailchimp por $3,680 millones",
-   "headline_en": "Intuit shares plunge after announcing the sale of Mailchimp for $3.68 billion",
+   "headline": "Intuit cae 10% tras anunciar la venta de Mailchimp por $3,680 millones",
+   "headline_en": "Intuit drops 10% after announcing Mailchimp sale for $3.68 billion",
    "source": "Investopedia"
   }
  ],
