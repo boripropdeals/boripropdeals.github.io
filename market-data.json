@@ -1,56 +1,56 @@
 {
- "updated_at": "2026-11-20T14:34:36.493083+00:00",
+ "updated_at": "2026-11-20T14:36:08.743455+00:00",
  "nq": {
-  "price": 26249.25,
-  "change_points": -351.0,
-  "percent_change": -1.32
+  "price": 26276.0,
+  "change_points": -324.25,
+  "percent_change": -1.22
  },
  "gold": {
-  "price": 3577.5,
-  "change_points": -108.0,
-  "percent_change": -2.93
+  "price": 3574.2,
+  "change_points": -111.3,
+  "percent_change": -3.02
  },
  "oil": {
-  "price": 81.96,
-  "change_points": -1.25,
-  "percent_change": -1.5
+  "price": 82.03,
+  "change_points": -1.18,
+  "percent_change": -1.42
  },
  "headlines": [
   {
-   "headline": "S&P 500 suma su sexta caída consecutiva y los futuros del Nasdaq se hunden 2.2%: la peor semana en año y medio",
-   "headline_en": "S&P 500 notches sixth straight loss as Nasdaq futures sink 2.2%: worst week in about a year and a half",
+   "headline": "El Nasdaq se desploma: la venta masiva de IA se intensifica y Wall Street encara su peor semana desde abril",
+   "headline_en": "Nasdaq plunges as AI selloff intensifies; Wall Street heads for its worst week since April",
+   "source": "Morningstar"
+  },
+  {
+   "headline": "Anthropic se desploma tras su histórica salida a bolsa: el brillo del IPO no frena la caída",
+   "headline_en": "Anthropic shares slide after record-breaking IPO as debut glow fades",
    "source": "Investopedia"
   },
   {
-   "headline": "Anthropic cae 12% en preapertura tras debutar con +17% en su histórico IPO",
-   "headline_en": "Anthropic tumbles 12% in premarket after closing its historic IPO debut up 17%",
+   "headline": "Intuit se hunde casi 10% tras anunciar la venta de Mailchimp por un tercio de lo que pagó",
+   "headline_en": "Intuit stock plunges after announcing Mailchimp sale for about a third of what it paid",
    "source": "Investopedia"
   },
   {
-   "headline": "Intuit se desploma cerca de 10% tras anunciar la venta de Mailchimp por $3,680 millones",
-   "headline_en": "Intuit plunges nearly 10% after announcing Mailchimp sale for $3.68 billion",
-   "source": "Investopedia"
+   "headline": "El VIX supera 30 y el oro toca mínimo de 14 meses mientras el mercado apuesta por otra subida de la Fed",
+   "headline_en": "VIX breaks above 30 and gold hits a 14-month low as traders price in another Fed hike",
+   "source": "Longbridge"
   },
   {
-   "headline": "El oro toca mínimo de 14 meses y el VIX supera 30 mientras el mercado descuenta una subida de tasas de la Fed en diciembre",
-   "headline_en": "Gold hits 14-month low and VIX tops 30 as markets price a December Fed rate hike",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "El Nikkei se hunde 4.5% y el Kospi 4.7% en una liquidación global que arrastra a Asia y Europa",
-   "headline_en": "Nikkei plunges 4.5% and Kospi 4.7% in global liquidation sweeping Asia and Europe",
-   "source": "CNBC TV18"
+   "headline": "El S&P 500 encadena su sexta caída consecutiva y el Dow pierde los 50,000",
+   "headline_en": "S&P 500 logs a sixth straight loss and the Dow falls below 50,000",
+   "source": "Tickmill"
   }
  ],
  "ultima_hora": {
-  "headline": "Trump, Xi y Putin cierran su primera cumbre trilateral histórica en Shenzhen: diálogo sobre armas nucleares y más petróleo",
-  "headline_en": "Trump, Xi and Putin wrap up first-ever trilateral summit in Shenzhen: nuclear arms dialogue and more oil supply",
-  "source": "USA Today",
+  "headline": "Trump aplaza a 2026 la decisión sobre Irán: no habrá nuevos ataques este año",
+  "headline_en": "Trump postpones Iran decision to next year, signaling no major new strikes this year",
+  "source": "Longbridge",
   "image": "",
   "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-19-trump-xi-putin-cumbre-mesa.jpg",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-19-trump-xi-putin-cumbre-shenzhen.jpg",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-19-trump-xi-putin-cumbre-petroleo.jpg"
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-20-trump-iran-petroleo-estrecho.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-20-trump-iran-casa-blanca.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-20-trump-iran-mercado-petroleo.webp"
   ]
  }
 }
