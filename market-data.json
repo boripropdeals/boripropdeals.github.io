@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-11-20T16:32:33.419524+00:00",
+ "updated_at": "2026-11-20T16:34:10.620357+00:00",
  "nq": {
-  "price": 25847.5,
-  "change_points": -752.75,
-  "percent_change": -2.83
+  "price": 25840.75,
+  "change_points": -759.5,
+  "percent_change": -2.86
  },
  "gold": {
-  "price": 3547.0,
-  "change_points": -138.5,
-  "percent_change": -3.76
+  "price": 3544.5,
+  "change_points": -141.0,
+  "percent_change": -3.83
  },
  "oil": {
-  "price": 81.7,
-  "change_points": -1.51,
-  "percent_change": -1.81
+  "price": 81.8,
+  "change_points": -1.41,
+  "percent_change": -1.69
  },
  "headlines": [
   {
-   "headline": "Nasdaq se encamina a otra caída mientras la venta masiva de IA se intensifica",
-   "headline_en": "Nasdaq Set for Fresh Decline as AI Selloff Intensifies",
-   "source": "Morningstar"
+   "headline": "El Nasdaq cae más de 2% y el S&P 500 encadena su séptima sesión a la baja: la venta de IA se intensifica",
+   "headline_en": "Nasdaq drops over 2% and S&P 500 heads for seventh straight loss as AI selloff intensifies",
+   "source": "Investopedia"
   },
   {
-   "headline": "Anthropic cae en premercado tras un debut récord que no logra calmar a los inversores de IA",
-   "headline_en": "Anthropic Falls in Premarket After Record IPO Fails to Reassure AI Investors",
+   "headline": "Anthropic se desploma ~11% en su segundo día pese al mayor IPO de la historia",
+   "headline_en": "Anthropic plunges ~11% on day two despite the biggest IPO on record",
+   "source": "Investors.com"
+  },
+  {
+   "headline": "Nvidia cae ~6% y los chips se hunden: el ETF de semiconductores pierde casi 6%",
+   "headline_en": "Nvidia falls ~6% as chip stocks sink; semiconductor ETF tumbles nearly 6%",
+   "source": "Investors.com"
+  },
+  {
+   "headline": "Wall Street rumbo a su peor semana desde abril de 2025: el Dow pierde 6.2% en la semana",
+   "headline_en": "Wall Street heads for its worst week since April 2025 as the Dow drops 6.2% for the week",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "Intuit se desploma ~10% tras anunciar la venta de Mailchimp por $3,680 millones",
+   "headline_en": "Intuit plunges ~10% after announcing Mailchimp sale for $3.68 billion",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "El VIX supera 30 por primera vez desde marzo: el miedo se dispara en Wall Street",
+   "headline_en": "VIX breaks above 30 for the first time since March as fear spikes on Wall Street",
    "source": "Reuters"
-  },
-  {
-   "headline": "Intuit se desploma tras vender Mailchimp por una tercera parte de lo que pagó",
-   "headline_en": "Intuit Plunges After Selling Mailchimp for About a Third of What It Paid",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "El VIX supera 30, su máximo en casi 8 meses, y Wall Street encamina su peor semana en año y medio",
-   "headline_en": "VIX Breaks Above 30 to Near Eight-Month High as Wall Street Heads for Worst Week in About a Year and a Half",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "La venta global se profundiza: el Nikkei cae 5% y el oro toca mínimo de 14 meses",
-   "headline_en": "Global Selloff Deepens: Nikkei Drops 5% and Gold Hits 14-Month Low",
-   "source": "Argus"
-  },
-  {
-   "headline": "La Fed: probabilidad de subida de tasas en diciembre cerca del 99%; Waller habla hoy",
-   "headline_en": "Fed: December Rate-Hike Odds Near 99% as Waller Speaks Today",
-   "source": "Barchart"
   }
  ],
  "ultima_hora": {
