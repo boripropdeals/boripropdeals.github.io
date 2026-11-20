@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-20T17:02:33.200262+00:00",
+ "updated_at": "2026-11-20T17:03:17.829626+00:00",
  "nq": {
   "price": 25678.25,
   "change_points": -922.0,
@@ -17,9 +17,9 @@
  },
  "headlines": [
   {
-   "headline": "El Nasdaq cae más de 2% y el S&P 500 encadena su séptima sesión a la baja: la venta de IA se intensifica",
-   "headline_en": "Nasdaq drops over 2% and S&P 500 heads for seventh straight loss as AI selloff intensifies",
-   "source": "Investopedia"
+   "headline": "El Nasdaq cae ~2.9% y el S&P 500 encadena su séptima sesión a la baja: la venta de IA se intensifica",
+   "headline_en": "Nasdaq drops ~2.9% and S&P 500 heads for a seventh straight loss as the AI selloff intensifies",
+   "source": "Investors.com"
   },
   {
    "headline": "Anthropic se desploma ~11% en su segundo día pese al mayor IPO de la historia",
@@ -27,8 +27,8 @@
    "source": "Investors.com"
   },
   {
-   "headline": "Nvidia cae ~6% y los chips se hunden: el ETF de semiconductores pierde casi 6%",
-   "headline_en": "Nvidia falls ~6% as chip stocks sink; semiconductor ETF tumbles nearly 6%",
+   "headline": "Nvidia cae ~6% y los chips se hunden: el ETF de semiconductores pierde 7.5%",
+   "headline_en": "Nvidia falls ~6% as chip stocks sink; semiconductor ETF tumbles 7.5%",
    "source": "Investors.com"
   },
   {
@@ -38,7 +38,7 @@
   },
   {
    "headline": "Intuit se desploma ~10% tras anunciar la venta de Mailchimp por $3,680 millones",
-   "headline_en": "Intuit plunges ~10% after announcing Mailchimp sale for $3.68 billion",
+   "headline_en": "Intuit plunges ~10% after announcing the Mailchimp sale for $3.68 billion",
    "source": "Investopedia"
   },
   {
