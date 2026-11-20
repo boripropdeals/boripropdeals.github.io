@@ -1,45 +1,45 @@
 {
- "updated_at": "2026-11-20T18:34:34.822802+00:00",
+ "updated_at": "2026-11-20T18:36:06.263610+00:00",
  "nq": {
-  "price": 25638.5,
-  "change_points": -961.75,
-  "percent_change": -3.62
+  "price": 25602.5,
+  "change_points": -997.75,
+  "percent_change": -3.75
  },
  "gold": {
-  "price": 3524.1,
-  "change_points": -161.4,
-  "percent_change": -4.38
+  "price": 3521.6,
+  "change_points": -163.9,
+  "percent_change": -4.45
  },
  "oil": {
-  "price": 83.04,
-  "change_points": -0.17,
-  "percent_change": -0.2
+  "price": 83.02,
+  "change_points": -0.19,
+  "percent_change": -0.23
  },
  "headlines": [
   {
-   "headline": "El Nasdaq se encamina a otra caída mientras se intensifica la venta de acciones de IA",
-   "headline_en": "Nasdaq set for fresh decline as AI selloff intensifies",
-   "source": "Morningstar"
-  },
-  {
-   "headline": "Anthropic cae en premarket tras su histórico debut bursátil",
-   "headline_en": "Anthropic shares slide after record-breaking IPO debut",
-   "source": "Reuters"
-  },
-  {
-   "headline": "El Dow cayó 1.101 puntos el jueves y el S&P suma su sexta caída seguida",
-   "headline_en": "Dow sinks 1,101 points as S&P 500 falls for a sixth straight day",
-   "source": "Argus"
-  },
-  {
-   "headline": "Intuit se desploma tras anunciar la venta de Mailchimp",
-   "headline_en": "Intuit shares plunge after announcing plans to sell Mailchimp",
+   "headline": "El Nasdaq borra las ganancias de 2026 y el S&P 500 cae por séptimo día consecutivo",
+   "headline_en": "Nasdaq wipes out 2026 gains as S&P 500 sinks for a seventh straight day",
    "source": "Investopedia"
   },
   {
-   "headline": "El mercado ya da por casi seguro un alza de tasas de la Fed en diciembre",
-   "headline_en": "December Fed rate-hike odds near 95%",
-   "source": "Barchart"
+   "headline": "Anthropic se desploma 13% tras su histórico debut en bolsa",
+   "headline_en": "Anthropic plunges 13% after its record-breaking IPO debut",
+   "source": "Investor's Business Daily"
+  },
+  {
+   "headline": "AMD y Micron lideran la brutal venta de semiconductores",
+   "headline_en": "AMD and Micron lead a brutal semiconductor sell-off",
+   "source": "Motley Fool"
+  },
+  {
+   "headline": "Wall Street rumbo a su peor semana en más de un año",
+   "headline_en": "Wall Street heads for its worst week in over a year",
+   "source": "CNBC TV18"
+  },
+  {
+   "headline": "Intuit se desploma tras anunciar la venta de Mailchimp por 3,680 millones de dólares",
+   "headline_en": "Intuit shares plunge after announcing plans to sell Mailchimp",
+   "source": "Investopedia"
   },
   {
    "headline": "El oro cae a su mínimo en 14 meses",
