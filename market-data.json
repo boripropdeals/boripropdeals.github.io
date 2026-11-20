@@ -1,45 +1,50 @@
 {
- "updated_at": "2026-11-20T13:02:36.926739+00:00",
+ "updated_at": "2026-11-20T13:02:49.403275+00:00",
  "nq": {
-  "price": 26119.0,
-  "change_points": -481.25,
-  "percent_change": -1.81
+  "price": 26127.0,
+  "change_points": -473.25,
+  "percent_change": -1.78
  },
  "gold": {
-  "price": 3569.1,
-  "change_points": -116.4,
+  "price": 3569.2,
+  "change_points": -116.3,
   "percent_change": -3.16
  },
  "oil": {
-  "price": 82.48,
-  "change_points": -0.73,
-  "percent_change": -0.88
+  "price": 82.49,
+  "change_points": -0.72,
+  "percent_change": -0.87
  },
  "headlines": [
   {
-   "headline": "Los futuros del Nasdaq se desploman mientras la venta masiva de IA continúa",
-   "headline_en": "Nasdaq Futures Plunge as AI Selloff Rolls On",
-   "source": "Barchart"
+   "headline": "Wall Street se hunde por sexto día consecutivo: el Dow pierde 1,100 puntos y cae por debajo de los 50,000",
+   "headline_en": "Wall Street sinks for a sixth straight day: Dow loses 1,100 points and falls below 50,000",
+   "source": "CNBC TV18"
   },
   {
-   "headline": "Las acciones de Anthropic caen tras su debut récord y no logran calmar a los inversores de IA",
-   "headline_en": "Wall St futures slip as Anthropic debut fails to reassure AI investors",
-   "source": "Reuters"
+   "headline": "El debut récord de Anthropic en bolsa (+17%) no logra frenar la caída de las tecnológicas",
+   "headline_en": "Anthropic record IPO debut (+17%) fails to halt the tech selloff",
+   "source": "Tickmill"
   },
   {
-   "headline": "El S&P 500 rumbo a su séptima caída consecutiva, su peor semana desde abril",
-   "headline_en": "S&P 500 heads for seventh straight down day in worst week since April",
-   "source": "The Wall Street Journal"
+   "headline": "Asia se desploma: el Nikkei cae 4.5% y el Kospi 5% en la peor semana desde 2020",
+   "headline_en": "Asia plunges: Nikkei drops 4.5% and Kospi 5% in worst week since 2020",
+   "source": "CNBC TV18"
   },
   {
-   "headline": "El VIX supera 30 y marca su máximo en casi ocho meses en medio del pánico global",
-   "headline_en": "VIX breaks above 30 to hit near eight-month high as global market panic intensifies",
+   "headline": "El VIX supera 30, su nivel más alto en casi ocho meses, en plena huida del riesgo",
+   "headline_en": "VIX breaks above 30, near eight-month high, as risk appetite collapses",
    "source": "Longbridge"
   },
   {
-   "headline": "Intuit cae tras vender Mailchimp; Gap sube pero advierte sobre el consumo",
-   "headline_en": "Intuit slides on Mailchimp sale as Gap rises but warns on consumer",
-   "source": "Invezz"
+   "headline": "El oro cae a mínimo de 14 meses mientras crece la apuesta a otra subida de tipos de la Fed en diciembre",
+   "headline_en": "Gold falls to 14-month low as bets rise on another Fed rate hike in December",
+   "source": "Argus"
+  },
+  {
+   "headline": "Nvidia cae 3.3% y encadena su sexta semana consecutiva en rojo",
+   "headline_en": "Nvidia falls 3.3%, on course for a sixth straight weekly loss",
+   "source": "Argus"
   }
  ],
  "ultima_hora": {
