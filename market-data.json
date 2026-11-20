@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-11-20T21:02:52.245990+00:00",
+ "updated_at": "2026-11-20T21:03:56.831429+00:00",
  "nq": {
-  "price": 25178.25,
-  "change_points": -1422.0,
-  "percent_change": -5.35
+  "price": 25140.75,
+  "change_points": -1459.5,
+  "percent_change": -5.49
  },
  "gold": {
-  "price": 3528.8,
-  "change_points": -156.7,
-  "percent_change": -4.25
+  "price": 3524.5,
+  "change_points": -161.0,
+  "percent_change": -4.37
  },
  "oil": {
-  "price": 84.0,
-  "change_points": 0.79,
-  "percent_change": 0.95
+  "price": 84.01,
+  "change_points": 0.8,
+  "percent_change": 0.96
  },
  "headlines": [
   {
-   "headline": "El Nasdaq borra las ganancias del año mientras se intensifica la venta de acciones de IA",
-   "headline_en": "Nasdaq wipes out its 2026 gains as AI selloff deepens",
+   "headline": "El Nasdaq borra todas las ganancias de 2026 mientras se intensifica el desplome de la IA",
+   "headline_en": "Nasdaq wipes out all its 2026 gains as AI sell-off intensifies",
    "source": "CNN"
   },
   {
-   "headline": "El S&P 500 rumbo a su séptima caída consecutiva, su racha más larga desde febrero de 2020",
-   "headline_en": "S&P 500 heads for a seventh straight loss, its longest losing streak since February 2020",
+   "headline": "El S&P 500 y el Dow entran en territorio de corrección; el S&P cae por séptimo día consecutivo",
+   "headline_en": "S&P 500 and Dow enter correction territory as Nasdaq loses 2026 gains",
+   "source": "New York Post"
+  },
+  {
+   "headline": "Anthropic se desploma casi 10% tras su debut récord en bolsa",
+   "headline_en": "Anthropic shares plunge after blockbuster IPO debut",
    "source": "CNN"
   },
   {
-   "headline": "Anthropic se desploma cerca de 13% tras su debut récord en bolsa",
-   "headline_en": "Anthropic plunges about 13% after its record-breaking IPO debut",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "AMD y Micron lideran la brutal venta de semiconductores",
-   "headline_en": "AMD and Micron lead a brutal semiconductor sell-off",
+   "headline": "AMD y Micron lideran la brutal venta masiva de semiconductores",
+   "headline_en": "AMD and Micron lead brutal semiconductor sell-off",
    "source": "Motley Fool"
   },
   {
-   "headline": "El Dow cae por debajo de 50,000 y apunta a su peor semana desde abril de 2025",
-   "headline_en": "Dow falls below 50,000, on track for its worst week since April 2025",
-   "source": "CNBC"
-  },
-  {
-   "headline": "El VIX salta a 33, su nivel más alto en 19 meses",
+   "headline": "El VIX, el índice del miedo, salta a 33, su nivel más alto en 19 meses",
    "headline_en": "VIX jumps to 33, its highest level in 19 months",
    "source": "CNN"
+  },
+  {
+   "headline": "Wall Street se encamina a su peor semana en más de un año",
+   "headline_en": "Wall Street heads for worst weekly performance in over a year",
+   "source": "Investopedia"
   }
  ],
  "ultima_hora": {
