@@ -1,50 +1,45 @@
 {
- "updated_at": "2026-11-20T14:02:35.663246+00:00",
+ "updated_at": "2026-11-20T14:03:17.828413+00:00",
  "nq": {
-  "price": 26148.0,
-  "change_points": -452.25,
-  "percent_change": -1.7
+  "price": 26143.75,
+  "change_points": -456.5,
+  "percent_change": -1.72
  },
  "gold": {
-  "price": 3567.1,
-  "change_points": -118.4,
-  "percent_change": -3.21
+  "price": 3569.6,
+  "change_points": -115.9,
+  "percent_change": -3.14
  },
  "oil": {
-  "price": 82.36,
-  "change_points": -0.85,
-  "percent_change": -1.02
+  "price": 82.28,
+  "change_points": -0.93,
+  "percent_change": -1.12
  },
  "headlines": [
   {
-   "headline": "Los futuros del Nasdaq se desploman mientras continúa la venta masiva de IA",
-   "headline_en": "Nasdaq Futures Plunge as AI Selloff Rolls On",
-   "source": "Barchart"
-  },
-  {
-   "headline": "Anthropic cae en premarket tras su debut récord y no logra calmar a los inversores de IA",
-   "headline_en": "Anthropic Shares Slide After Blockbuster Debut Fails to Reassure AI Investors",
-   "source": "Reuters"
-  },
-  {
-   "headline": "El S&P 500 rumbo a su peor semana desde abril de 2025",
-   "headline_en": "S&P 500 on Track for Biggest Weekly Decline Since April 2025",
+   "headline": "S&P 500 suma su sexta caída consecutiva y los futuros del Nasdaq se hunden 2.2%: la peor semana en año y medio",
+   "headline_en": "S&P 500 notches sixth straight loss as Nasdaq futures sink 2.2%: worst week in about a year and a half",
    "source": "Investopedia"
   },
   {
-   "headline": "El VIX supera 30 y marca su máximo en casi ocho meses",
-   "headline_en": "VIX Breaks Above 30 to Hit Near Eight-Month High",
-   "source": "Longbridge"
+   "headline": "Anthropic cae 12% en preapertura tras debutar con +17% en su histórico IPO",
+   "headline_en": "Anthropic tumbles 12% in premarket after closing its historic IPO debut up 17%",
+   "source": "Investopedia"
   },
   {
-   "headline": "La Fed: probabilidad de subida de tasas en diciembre cerca del 95%",
-   "headline_en": "December Fed Rate Hike Odds Near 95%",
-   "source": "Argus"
+   "headline": "Intuit se desploma cerca de 10% tras anunciar la venta de Mailchimp por $3,680 millones",
+   "headline_en": "Intuit plunges nearly 10% after announcing Mailchimp sale for $3.68 billion",
+   "source": "Investopedia"
   },
   {
-   "headline": "El oro cae a su mínimo en 14 meses",
-   "headline_en": "Gold Hits 14-Month Low at $3,685",
-   "source": "Argus"
+   "headline": "El oro toca mínimo de 14 meses y el VIX supera 30 mientras el mercado descuenta una subida de tasas de la Fed en diciembre",
+   "headline_en": "Gold hits 14-month low and VIX tops 30 as markets price a December Fed rate hike",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "El Nikkei se hunde 4.5% y el Kospi 4.7% en una liquidación global que arrastra a Asia y Europa",
+   "headline_en": "Nikkei plunges 4.5% and Kospi 4.7% in global liquidation sweeping Asia and Europe",
+   "source": "CNBC TV18"
   }
  ],
  "ultima_hora": {
