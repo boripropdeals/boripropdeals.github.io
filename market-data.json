@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-20T19:02:32.994068+00:00",
+ "updated_at": "2026-11-20T19:02:51.604994+00:00",
  "nq": {
   "price": 25607.25,
   "change_points": -993.0,
   "percent_change": -3.73
  },
  "gold": {
-  "price": 3512.8,
-  "change_points": -172.7,
-  "percent_change": -4.69
+  "price": 3514.2,
+  "change_points": -171.3,
+  "percent_change": -4.65
  },
  "oil": {
   "price": 83.2,
@@ -22,14 +22,19 @@
    "source": "Investopedia"
   },
   {
-   "headline": "Anthropic se desploma 13% tras su histórico debut en bolsa",
-   "headline_en": "Anthropic plunges 13% after its record-breaking IPO debut",
-   "source": "Investor's Business Daily"
+   "headline": "Anthropic se desploma 13% y cae casi a su precio de salida a bolsa",
+   "headline_en": "Anthropic plunges 13% toward its IPO price after record-breaking debut",
+   "source": "Investopedia"
   },
   {
-   "headline": "AMD y Micron lideran la brutal venta de semiconductores",
-   "headline_en": "AMD and Micron lead a brutal semiconductor sell-off",
+   "headline": "AMD y Micron lideran la brutal venta de semiconductores; el VIX salta a 32",
+   "headline_en": "AMD and Micron lead a brutal semiconductor sell-off as the VIX jumps to 32",
    "source": "Motley Fool"
+  },
+  {
+   "headline": "El S&P 500 y el Dow entran en territorio de corrección",
+   "headline_en": "S&P 500 and Dow enter correction territory",
+   "source": "CNN"
   },
   {
    "headline": "Wall Street rumbo a su peor semana en más de un año",
@@ -38,13 +43,8 @@
   },
   {
    "headline": "Intuit se desploma tras anunciar la venta de Mailchimp por 3,680 millones de dólares",
-   "headline_en": "Intuit shares plunge after announcing plans to sell Mailchimp",
+   "headline_en": "Intuit shares plunge after announcing plans to sell Mailchimp for $3.68 billion",
    "source": "Investopedia"
-  },
-  {
-   "headline": "El oro cae a su mínimo en 14 meses",
-   "headline_en": "Gold hits 14-month low",
-   "source": "Argus"
   }
  ],
  "ultima_hora": {
