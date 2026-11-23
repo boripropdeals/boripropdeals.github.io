@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-23T18:04:43.109953+00:00",
+ "updated_at": "2026-11-23T18:04:55.666100+00:00",
  "nq": {
-  "price": 26822.5,
-  "change_points": 1696.0,
-  "percent_change": 6.75
+  "price": 26824.25,
+  "change_points": 1697.75,
+  "percent_change": 6.76
  },
  "gold": {
-  "price": 3650.7,
-  "change_points": 135.3,
-  "percent_change": 3.85
+  "price": 3651.4,
+  "change_points": 136.0,
+  "percent_change": 3.87
  },
  "oil": {
   "price": 81.13,
@@ -17,18 +17,18 @@
  },
  "headlines": [
   {
-   "headline": "Nvidia reincorpora a Jensen Huang como CEO y la acción se dispara 30%; el Nasdaq sube 6%",
-   "headline_en": "Nvidia reinstates Jensen Huang as CEO, shares soar 30%; Nasdaq jumps 6%",
+   "headline": "Nvidia reincorpora a Jensen Huang como CEO y la acción se dispara 33%; el Nasdaq sube 7%",
+   "headline_en": "Nvidia reinstates Jensen Huang as CEO, shares soar 33%; Nasdaq jumps 7%",
    "source": "Investopedia"
   },
   {
-   "headline": "Wall Street rebota tras la liquidación por IA; el S&P 500 y el Dow entran en corrección",
-   "headline_en": "Wall Street rebounds after AI selloff; S&P 500 and Dow enter correction",
+   "headline": "Wall Street rebota tras la peor semana del S&P 500 en más de 18 meses",
+   "headline_en": "Wall Street rebounds after the S&P 500's worst week in more than 18 months",
    "source": "Reuters"
   },
   {
    "headline": "CrowdStrike comprará Zscaler por $43,900 millones en acciones",
-   "headline_en": "CrowdStrike to acquire Zscaler in $43.9 billion all-stock deal",
+   "headline_en": "CrowdStrike to acquire Zscaler in a $43.9 billion all-stock deal",
    "source": "Investor's Business Daily"
   },
   {
@@ -43,7 +43,7 @@
   },
   {
    "headline": "Anthropic sube en su tercer día en bolsa tras su salida a $83 por acción",
-   "headline_en": "Anthropic rises on third trading day after pricing IPO at $83 a share",
+   "headline_en": "Anthropic rises on its third trading day after pricing its IPO at $83 a share",
    "source": "Investopedia"
   }
  ],
