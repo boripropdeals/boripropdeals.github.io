@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-11-23T19:02:41.734371+00:00",
+ "updated_at": "2026-11-23T19:04:14.056491+00:00",
  "nq": {
-  "price": 26760.0,
-  "change_points": 1633.5,
-  "percent_change": 6.5
+  "price": 26749.0,
+  "change_points": 1622.5,
+  "percent_change": 6.46
  },
  "gold": {
-  "price": 3652.9,
-  "change_points": 137.5,
-  "percent_change": 3.91
+  "price": 3652.0,
+  "change_points": 136.6,
+  "percent_change": 3.89
  },
  "oil": {
-  "price": 80.7,
-  "change_points": -2.71,
-  "percent_change": -3.25
+  "price": 80.57,
+  "change_points": -2.84,
+  "percent_change": -3.4
  },
  "headlines": [
   {
-   "headline": "Nvidia reincorpora a Jensen Huang como CEO y la acción se dispara 33%; el Nasdaq sube 7%",
-   "headline_en": "Nvidia reinstates Jensen Huang as CEO, shares soar 33%; Nasdaq jumps 7%",
+   "headline": "Nasdaq se dispara ~7% y el Dow sube ~1,600 puntos en el rebote tras la liquidación por IA",
+   "headline_en": "Nasdaq soars ~7% and Dow jumps ~1,600 points in rebound from AI-driven selloff",
    "source": "Investopedia"
   },
   {
-   "headline": "Wall Street rebota tras la peor semana del S&P 500 en más de 18 meses",
-   "headline_en": "Wall Street rebounds after the S&P 500's worst week in more than 18 months",
+   "headline": "Nvidia se dispara más de 30% con el regreso de Jensen Huang como CEO",
+   "headline_en": "Nvidia jumps more than 30% as Jensen Huang returns as CEO",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "CrowdStrike comprará Zscaler por unos $43,900 millones; Zscaler se dispara y CrowdStrike cae",
+   "headline_en": "CrowdStrike to acquire Zscaler in ~$43.9B all-stock deal; Zscaler soars, CrowdStrike falls",
    "source": "Reuters"
   },
   {
-   "headline": "CrowdStrike comprará Zscaler por $43,900 millones en acciones",
-   "headline_en": "CrowdStrike to acquire Zscaler in a $43.9 billion all-stock deal",
-   "source": "Investor's Business Daily"
+   "headline": "Oracle sube ~5% tras proyectar más de $30,000 millones de flujo de caja libre para 2029",
+   "headline_en": "Oracle rises ~5% after projecting over $30 billion in free cash flow by fiscal 2029",
+   "source": "TradingView"
   },
   {
-   "headline": "China recorta el margen y sus fondos estatales compran ETFs récord para sostener el mercado",
-   "headline_en": "China cuts margin requirements as state funds buy record ETFs to support markets",
-   "source": "Bloomberg"
+   "headline": "S&P 500 y Dow en corrección tras la caída del viernes; el Nasdaq, ~18% por debajo de su máximo",
+   "headline_en": "S&P 500 and Dow in correction after Friday selloff; Nasdaq ~18% below its peak",
+   "source": "Reuters"
   },
   {
-   "headline": "El oro rebota desde mínimos de 14 meses y el bitcoin vuelve sobre $61,000",
-   "headline_en": "Gold rebounds from 14-month low as bitcoin tops $61,000",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "Anthropic sube en su tercer día en bolsa tras su salida a $83 por acción",
-   "headline_en": "Anthropic rises on its third trading day after pricing its IPO at $83 a share",
-   "source": "Investopedia"
+   "headline": "Anthropic sube tras su salida a bolsa; los chips sufrieron el viernes su peor día desde 2020",
+   "headline_en": "Anthropic rises after IPO; chip stocks suffered their worst day since 2020 on Friday",
+   "source": "TradingView"
   }
  ],
  "ultima_hora": {
