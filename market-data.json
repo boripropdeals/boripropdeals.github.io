@@ -1,45 +1,50 @@
 {
- "updated_at": "2026-11-23T16:02:38.332478+00:00",
+ "updated_at": "2026-11-23T16:03:38.616000+00:00",
  "nq": {
-  "price": 26866.5,
-  "change_points": 1740.0,
-  "percent_change": 6.92
+  "price": 26850.0,
+  "change_points": 1723.5,
+  "percent_change": 6.86
  },
  "gold": {
-  "price": 3670.5,
-  "change_points": 155.1,
-  "percent_change": 4.41
+  "price": 3669.5,
+  "change_points": 154.1,
+  "percent_change": 4.38
  },
  "oil": {
-  "price": 79.97,
-  "change_points": -3.44,
-  "percent_change": -4.12
+  "price": 79.99,
+  "change_points": -3.42,
+  "percent_change": -4.1
  },
  "headlines": [
   {
-   "headline": "El Nasdaq rebota 6% y el Dow sube 1,300 puntos tras la peor semana desde 2020; Nvidia se dispara 30%",
-   "headline_en": "Nasdaq soars 6% and Dow jumps 1,300 points after worst week since 2020 as Nvidia surges 30%",
+   "headline": "Nvidia reincorpora a Jensen Huang como CEO y la acción se dispara 30%; el Nasdaq sube 6%",
+   "headline_en": "Nvidia reinstates Jensen Huang as CEO and shares soar 30%; Nasdaq jumps 6%",
    "source": "Investopedia"
   },
   {
-   "headline": "CrowdStrike comprará Zscaler por $43,900 millones en acciones; Zscaler sube 19% y CrowdStrike cae",
-   "headline_en": "CrowdStrike to acquire Zscaler in $43.9 billion all-stock deal; Zscaler soars 19% while CrowdStrike falls",
+   "headline": "Wall Street rebota tras la liquidación por IA; el S&P 500 y el Dow entran en corrección",
+   "headline_en": "Wall Street rebounds after AI selloff; S&P 500 and Dow enter correction territory",
+   "source": "Reuters"
+  },
+  {
+   "headline": "CrowdStrike comprará Zscaler por $43,900 millones en acciones",
+   "headline_en": "CrowdStrike to acquire Zscaler in $43.9 billion all-stock deal",
    "source": "Investor's Business Daily"
   },
   {
-   "headline": "El oro rebota a $3,620 y Bitcoin supera los $61,000 tras la liquidación de la semana pasada",
-   "headline_en": "Gold rebounds to $3,620 and Bitcoin tops $61,000 after last week's selloff",
-   "source": "Analytics Insight"
+   "headline": "China recorta el margen y sus fondos estatales compran ETFs récord para sostener el mercado",
+   "headline_en": "China cuts margin requirements as state funds buy record ETFs to support markets",
+   "source": "Bloomberg"
   },
   {
-   "headline": "El S&P 500 y el Dow entran en corrección tras siete sesiones seguidas a la baja; semana corta por Acción de Gracias",
-   "headline_en": "S&P 500 and Dow enter correction after seven straight down sessions; holiday-shortened Thanksgiving week",
-   "source": "Zacks"
+   "headline": "El oro rebota desde mínimos de 14 meses y el bitcoin vuelve sobre $61,000",
+   "headline_en": "Gold rebounds from 14-month low as bitcoin climbs back above $61,000",
+   "source": "Investopedia"
   },
   {
-   "headline": "Asia aplica medidas de estabilización y China recorta el margen mientras los futuros de EE. UU. repuntan",
-   "headline_en": "Asia rolls out market stabilization measures and China cuts margin requirements as U.S. futures rebound",
-   "source": "TradingView"
+   "headline": "Anthropic sube en su tercer día en bolsa tras su salida a $83 por acción",
+   "headline_en": "Anthropic edges higher on its third day of trading after IPO priced at $83",
+   "source": "Investopedia"
   }
  ],
  "ultima_hora": {
