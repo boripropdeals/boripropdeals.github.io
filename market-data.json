@@ -1,13 +1,13 @@
 {
- "updated_at": "2026-11-23T22:02:34.395916+00:00",
+ "updated_at": "2026-11-23T22:03:09.432913+00:00",
  "nq": {
-  "price": 26806.75,
-  "change_points": 1680.25,
-  "percent_change": 6.69
+  "price": 26816.75,
+  "change_points": 1690.25,
+  "percent_change": 6.73
  },
  "gold": {
-  "price": 3631.9,
-  "change_points": 116.5,
+  "price": 3631.8,
+  "change_points": 116.4,
   "percent_change": 3.31
  },
  "oil": {
@@ -17,34 +17,34 @@
  },
  "headlines": [
   {
-   "headline": "El Nasdaq se dispara 6.5% y Nvidia sube 31% tras el regreso de Jensen Huang como CEO",
-   "headline_en": "Nasdaq surges 6.5% and Nvidia jumps 31% as Jensen Huang returns as CEO",
+   "headline": "El Nasdaq sube 6.5%, su mejor día desde abril de 2025, y el Dow gana 1,450 puntos tras el regreso de Huang a Nvidia",
+   "headline_en": "Nasdaq jumps 6.5%, its best day since April 2025, and the Dow gains 1,450 points as Huang returns to Nvidia",
    "source": "Investopedia"
   },
   {
-   "headline": "El S&P 500 registra su mejor día desde abril de 2025 con un alza de 4.7% y el Dow suma 1,448 puntos",
-   "headline_en": "S&P 500 posts its best day since April 2025, up 4.7%, as the Dow gains 1,448 points",
-   "source": "CNN"
-  },
-  {
-   "headline": "CrowdStrike acuerda comprar Zscaler por $43,900 millones; Zscaler se dispara y CrowdStrike cae",
-   "headline_en": "CrowdStrike agrees to acquire Zscaler in a $43.9 billion deal; Zscaler soars while CrowdStrike falls",
-   "source": "Motley Fool"
-  },
-  {
-   "headline": "Los futuros repuntan tras la peor semana del S&P desde el 'Liberation Day' mientras Asia despliega medidas de apoyo",
-   "headline_en": "Futures rebound after the S&P's worst week since Liberation Day as Asia rolls out support measures",
-   "source": "Morningstar"
-  },
-  {
-   "headline": "El petróleo cae casi 4% a $80.17 por barril mientras el VIX se desploma desde cerca de 40",
-   "headline_en": "Oil falls nearly 4% to $80.17 a barrel as the VIX tumbles from near 40",
+   "headline": "Nvidia se dispara 31.5%, su mayor salto desde 2003; Micron sube 19.5% y CoreWeave 22% en el rebote de la IA",
+   "headline_en": "Nvidia soars 31.5%, its biggest jump since 2003; Micron rises 19.5% and CoreWeave 22% in the AI rebound",
    "source": "Investor's Business Daily"
   },
   {
-   "headline": "Bitcoin ronda los $61,000 tras caer brevemente a $55,000 el fin de semana; oro y plata rebotan más de 2%",
-   "headline_en": "Bitcoin trades around $61K after briefly sliding to $55K over the weekend; gold and silver rebound over 2%",
-   "source": "Reuters"
+   "headline": "CrowdStrike comprará Zscaler por 43,900 millones de dólares; Zscaler sube y CrowdStrike cae cerca de 9%",
+   "headline_en": "CrowdStrike to acquire Zscaler in a $43.9 billion deal; Zscaler jumps while CrowdStrike falls about 9%",
+   "source": "Motley Fool"
+  },
+  {
+   "headline": "El VIX cae desde casi 40 hacia 30 y el oro rebota por encima de 3,620 dólares tras la liquidación de la semana pasada",
+   "headline_en": "VIX tumbles from near 40 toward 30 and gold rebounds above $3,620 after last week's sell-off",
+   "source": "ZeroHedge"
+  },
+  {
+   "headline": "El S&P 500 rompe una racha de siete sesiones en rojo; el Nasdaq venía de su peor semana desde marzo de 2020",
+   "headline_en": "S&P 500 snaps a seven-session losing streak; the Nasdaq was coming off its worst week since March 2020",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "PMI preliminares de EE. UU. hoy en una semana corta por Acción de Gracias; los mercados cierran el jueves",
+   "headline_en": "U.S. flash PMIs due today in a holiday-shortened Thanksgiving week; markets closed Thursday",
+   "source": "FXStreet"
   }
  ],
  "ultima_hora": {
