@@ -1,19 +1,19 @@
 {
- "updated_at": "2026-11-23T21:02:32.386474+00:00",
+ "updated_at": "2026-11-23T21:04:11.099710+00:00",
  "nq": {
-  "price": 26887.25,
-  "change_points": 1760.75,
-  "percent_change": 7.01
+  "price": 26807.0,
+  "change_points": 1680.5,
+  "percent_change": 6.69
  },
  "gold": {
-  "price": 3636.3,
-  "change_points": 120.9,
-  "percent_change": 3.44
+  "price": 3632.9,
+  "change_points": 117.5,
+  "percent_change": 3.34
  },
  "oil": {
-  "price": 80.07,
-  "change_points": -3.34,
-  "percent_change": -4.0
+  "price": 80.06,
+  "change_points": -3.35,
+  "percent_change": -4.02
  },
  "headlines": [
   {
@@ -32,19 +32,19 @@
    "source": "Reuters"
   },
   {
-   "headline": "Oracle sube ~5% tras proyectar más de $30,000 millones de flujo de caja libre para 2029",
-   "headline_en": "Oracle rises about 5% after projecting over $30 billion in free cash flow for 2029",
-   "source": "TradingView"
+   "headline": "Oracle sube 13% tras asegurar que su contrato con OpenAI está totalmente financiado; proyecta más de $30,000 millones de flujo de caja libre para 2029",
+   "headline_en": "Oracle jumps 13% after saying its OpenAI contract is fully funded; targets over $30 billion in free cash flow for 2029",
+   "source": "Barron's"
   },
   {
    "headline": "S&P 500 y Dow en corrección tras la caída del viernes; el Nasdaq, ~18% por debajo de su máximo",
-   "headline_en": "S&P 500 and Dow in correction after Friday drop; Nasdaq about 18% below its high",
-   "source": "Reuters"
+   "headline_en": "S&P 500 and Dow in correction after Friday's drop; Nasdaq about 18% below its high",
+   "source": "Nasdaq"
   },
   {
-   "headline": "Anthropic sube tras su salida a bolsa; los chips sufrieron el viernes su peor día desde 2020",
-   "headline_en": "Anthropic rises after IPO; chips suffered their worst day since 2020 on Friday",
-   "source": "TradingView"
+   "headline": "El oro rebota más de 3% hacia $3,636 tras la liquidación de la semana pasada",
+   "headline_en": "Gold rebounds more than 3% toward $3,636 after last week's selloff",
+   "source": "InvestingLive"
   }
  ],
  "ultima_hora": {
