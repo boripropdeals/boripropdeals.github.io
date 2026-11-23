@@ -1,61 +1,61 @@
 {
- "updated_at": "2026-11-23T12:02:36.839311+00:00",
+ "updated_at": "2026-11-23T12:03:35.541656+00:00",
  "nq": {
-  "price": 26023.75,
-  "change_points": 897.25,
-  "percent_change": 3.57
+  "price": 26021.0,
+  "change_points": 894.5,
+  "percent_change": 3.56
  },
  "gold": {
-  "price": 3620.7,
-  "change_points": 105.3,
-  "percent_change": 3.0
+  "price": 3621.7,
+  "change_points": 106.3,
+  "percent_change": 3.02
  },
  "oil": {
-  "price": 82.2,
-  "change_points": -1.21,
-  "percent_change": -1.45
+  "price": 82.22,
+  "change_points": -1.19,
+  "percent_change": -1.43
  },
  "headlines": [
   {
-   "headline": "El Nasdaq se desploma 5.3% y borra todas las ganancias de 2026",
-   "headline_en": "Nasdaq plunges 5.3% and wipes out all its 2026 gains",
-   "source": "CNN"
+   "headline": "Los futuros del Nasdaq rebotan 3% tras su peor semana desde marzo de 2020",
+   "headline_en": "Nasdaq futures rebound 3% after their worst week since March 2020",
+   "source": "Morningstar"
   },
   {
-   "headline": "El S&P 500 y el Dow entran en corrección; el VIX salta a su máximo en 19 meses",
-   "headline_en": "S&P 500 and Dow enter correction territory as VIX jumps to a 19-month high",
-   "source": "CNN"
+   "headline": "El Nasdaq se desplomó 5.3% el viernes y el S&P 500 y el Dow entraron en corrección",
+   "headline_en": "Nasdaq plunged 5.3% on Friday as the S&P 500 and Dow entered correction territory",
+   "source": "Zacks"
   },
   {
-   "headline": "Anthropic cae 9% tras su histórico debut y pierde casi todo el salto inicial",
-   "headline_en": "Anthropic falls 9% after historic IPO debut, giving back most of its first-day jump",
-   "source": "CNN"
+   "headline": "Nvidia cayó 14% el viernes mientras la SEC examina posibles problemas contables",
+   "headline_en": "Nvidia fell 14% on Friday as the SEC examines potential accounting issues",
+   "source": "Reuters"
   },
   {
-   "headline": "Nvidia se desploma 14% y lidera la caída tecnológica; pierde un tercio de su valor en dos semanas",
-   "headline_en": "Nvidia plunges 14% leading the tech rout, down a third of its value in two weeks",
-   "source": "Investopedia"
+   "headline": "Asia apoya sus mercados: China recorta el margen y sus fondos estatales compran ETFs récord",
+   "headline_en": "Asia props up its markets: China cuts margin requirements and state funds buy record ETFs",
+   "source": "Bloomberg"
   },
   {
-   "headline": "AMD y Micron lideran la venta masiva de semiconductores",
-   "headline_en": "AMD and Micron lead brutal semiconductor sell-off",
-   "source": "Motley Fool"
+   "headline": "Bitcoin cae a mínimos desde septiembre de 2024",
+   "headline_en": "Bitcoin falls to its lowest since September 2024",
+   "source": "Bloomberg"
   },
   {
-   "headline": "Intuit cae 10% tras anunciar la venta de Mailchimp por $3,680 millones",
-   "headline_en": "Intuit drops 10% after announcing Mailchimp sale for $3.68 billion",
-   "source": "Investopedia"
+   "headline": "Semana corta por Acción de Gracias: inflación PCE el miércoles y reportan HPE y Zoom",
+   "headline_en": "Holiday-shortened week: PCE inflation on Wednesday, HPE and Zoom report",
+   "source": "TipRanks"
   }
  ],
  "ultima_hora": {
-  "headline": "Trump amenaza con un «impuesto tremendo» a las empresas que construyan centros de datos fuera de EE. UU.",
-  "headline_en": "Trump threatens a 'tremendous tax' on companies building data centers outside the U.S.",
-  "source": "MarketWatch",
+  "headline": "Trump culpa a los demócratas por la caída de $6 billones en la bolsa: «el Nasdaq bajó 20%»",
+  "headline_en": "Trump blames Democrats for the $6 trillion stock market slide: 'Nasdaq is down 20%'",
+  "source": "Newsmax",
   "image": "",
   "images": [
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-20-trump-datacenter-centro-datos.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-20-trump-datacenter-casa-blanca.webp",
-   "https://boripropdeals.github.io/breaking-visuals/2026-11-20-trump-datacenter-mercado-rojo.webp"
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-23-trump-mercado-casa-blanca.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-23-trump-mercado-piso-bolsa.webp",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-23-trump-mercado-capitolio.webp"
   ]
  }
 }
