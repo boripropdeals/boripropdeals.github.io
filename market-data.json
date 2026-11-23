@@ -1,49 +1,49 @@
 {
- "updated_at": "2026-11-23T20:32:32.807645+00:00",
+ "updated_at": "2026-11-23T20:33:31.745801+00:00",
  "nq": {
-  "price": 26855.75,
-  "change_points": 1729.25,
-  "percent_change": 6.88
+  "price": 26866.5,
+  "change_points": 1740.0,
+  "percent_change": 6.92
  },
  "gold": {
-  "price": 3638.6,
-  "change_points": 123.2,
-  "percent_change": 3.5
+  "price": 3638.9,
+  "change_points": 123.5,
+  "percent_change": 3.51
  },
  "oil": {
-  "price": 79.95,
-  "change_points": -3.46,
-  "percent_change": -4.15
+  "price": 79.96,
+  "change_points": -3.45,
+  "percent_change": -4.14
  },
  "headlines": [
   {
-   "headline": "Nasdaq se dispara ~7% y el Dow sube ~1,600 puntos en el rebote tras la liquidación por IA",
-   "headline_en": "Nasdaq soars ~7% and Dow jumps ~1,600 points in rebound from AI-driven selloff",
+   "headline": "Nasdaq se dispara casi 7% y el Dow sube unos 1,500 puntos en el rebote tras la liquidación por IA",
+   "headline_en": "Nasdaq surges nearly 7% and Dow jumps about 1,500 points in rebound after AI selloff",
    "source": "Investopedia"
   },
   {
    "headline": "Nvidia se dispara más de 30% con el regreso de Jensen Huang como CEO",
-   "headline_en": "Nvidia jumps more than 30% as Jensen Huang returns as CEO",
+   "headline_en": "Nvidia soars more than 30% as Jensen Huang returns as CEO",
    "source": "Investopedia"
   },
   {
    "headline": "CrowdStrike comprará Zscaler por unos $43,900 millones; Zscaler se dispara y CrowdStrike cae",
-   "headline_en": "CrowdStrike to acquire Zscaler in ~$43.9B all-stock deal; Zscaler soars, CrowdStrike falls",
+   "headline_en": "CrowdStrike to acquire Zscaler for about $43.9 billion; Zscaler jumps, CrowdStrike falls",
    "source": "Reuters"
   },
   {
    "headline": "Oracle sube ~5% tras proyectar más de $30,000 millones de flujo de caja libre para 2029",
-   "headline_en": "Oracle rises ~5% after projecting over $30 billion in free cash flow by fiscal 2029",
+   "headline_en": "Oracle rises about 5% after projecting over $30 billion in free cash flow for 2029",
    "source": "TradingView"
   },
   {
    "headline": "S&P 500 y Dow en corrección tras la caída del viernes; el Nasdaq, ~18% por debajo de su máximo",
-   "headline_en": "S&P 500 and Dow in correction after Friday selloff; Nasdaq ~18% below its peak",
+   "headline_en": "S&P 500 and Dow in correction after Friday drop; Nasdaq about 18% below its high",
    "source": "Reuters"
   },
   {
    "headline": "Anthropic sube tras su salida a bolsa; los chips sufrieron el viernes su peor día desde 2020",
-   "headline_en": "Anthropic rises after IPO; chip stocks suffered their worst day since 2020 on Friday",
+   "headline_en": "Anthropic rises after IPO; chips suffered their worst day since 2020 on Friday",
    "source": "TradingView"
   }
  ],
