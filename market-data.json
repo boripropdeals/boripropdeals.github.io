@@ -1,50 +1,45 @@
 {
- "updated_at": "2026-11-23T15:02:39.312267+00:00",
+ "updated_at": "2026-11-23T15:03:41.333449+00:00",
  "nq": {
-  "price": 26509.5,
-  "change_points": 1383.0,
-  "percent_change": 5.5
+  "price": 26565.5,
+  "change_points": 1439.0,
+  "percent_change": 5.73
  },
  "gold": {
-  "price": 3664.5,
-  "change_points": 149.1,
-  "percent_change": 4.24
+  "price": 3667.3,
+  "change_points": 151.9,
+  "percent_change": 4.32
  },
  "oil": {
-  "price": 81.91,
-  "change_points": -1.5,
-  "percent_change": -1.8
+  "price": 81.92,
+  "change_points": -1.49,
+  "percent_change": -1.79
  },
  "headlines": [
   {
-   "headline": "Los futuros del Nasdaq rebotan más de 3% tras su peor semana desde marzo de 2020",
-   "headline_en": "Nasdaq futures jump over 3% after their worst week since March 2020",
-   "source": "Morningstar"
+   "headline": "Nvidia reincorpora a Jensen Huang como CEO y se dispara 30%: el Nasdaq rebota 6% tras su peor semana desde 2020",
+   "headline_en": "Nvidia reinstates Jensen Huang as CEO and soars 30% as Nasdaq jumps 6% after its worst week since 2020",
+   "source": "Investopedia"
   },
   {
-   "headline": "Nvidia se dispara tras la restitución de Jensen Huang como CEO",
-   "headline_en": "Nvidia surges as Jensen Huang is reinstated as CEO",
+   "headline": "Wall Street rebota con fuerza tras la liquidación por la IA; el S&P 500 y el Dow entran en corrección",
+   "headline_en": "Wall Street rebounds sharply after AI selloff; S&P 500 and Dow enter correction territory",
+   "source": "Reuters"
+  },
+  {
+   "headline": "CrowdStrike comprará Zscaler por $43,900 millones en un acuerdo de ciberseguridad",
+   "headline_en": "CrowdStrike to acquire Zscaler in a $43.9 billion all-stock cybersecurity deal",
    "source": "Investor's Business Daily"
   },
   {
-   "headline": "CrowdStrike comprará Zscaler por $43,900 millones en acciones",
-   "headline_en": "CrowdStrike to acquire Zscaler in a $43.9 billion all-stock deal",
+   "headline": "China recorta los requisitos de margen y sus fondos estatales compran ETFs en récord para frenar la caída",
+   "headline_en": "China cuts margin requirements as state funds buy record ETFs to halt the slide",
+   "source": "Bloomberg"
+  },
+  {
+   "headline": "Bitcoin vuelve a superar los $61,000 y Anthropic sube en su tercer día en bolsa",
+   "headline_en": "Bitcoin back above $61,000 as Anthropic edges higher on its third day of trading",
    "source": "Investopedia"
-  },
-  {
-   "headline": "El S&P 500 y el Dow entraron en corrección tras la caída del viernes; el Nasdaq borró las ganancias del año",
-   "headline_en": "S&P 500 and Dow entered correction territory after Friday's slide; Nasdaq erased its 2026 gains",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "Oro y plata rebotan más de 2% tras la liquidación por llamadas de margen",
-   "headline_en": "Gold and silver rebound over 2% after margin-call liquidation",
-   "source": "FXStreet"
-  },
-  {
-   "headline": "China recorta el margen y sus fondos estatales compran ETFs récord para frenar la caída",
-   "headline_en": "China cuts margin requirements as state funds buy record ETFs to stem the slide",
-   "source": "FXStreet"
   }
  ],
  "ultima_hora": {
