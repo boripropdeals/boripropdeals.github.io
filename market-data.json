@@ -1,45 +1,50 @@
 {
- "updated_at": "2026-11-24T15:32:34.369721+00:00",
+ "updated_at": "2026-11-24T15:33:39.671724+00:00",
  "nq": {
-  "price": 26228.0,
-  "change_points": -580.0,
-  "percent_change": -2.16
+  "price": 26216.5,
+  "change_points": -591.5,
+  "percent_change": -2.21
  },
  "gold": {
-  "price": 3591.2,
-  "change_points": -60.2,
-  "percent_change": -1.65
+  "price": 3590.9,
+  "change_points": -60.5,
+  "percent_change": -1.66
  },
  "oil": {
-  "price": 80.82,
-  "change_points": 0.65,
-  "percent_change": 0.81
+  "price": 80.73,
+  "change_points": 0.56,
+  "percent_change": 0.7
  },
  "headlines": [
   {
-   "headline": "Futuros del Nasdaq caen 1.8% tras el rally histórico de Nvidia",
-   "headline_en": "Nasdaq futures fall 1.8% as Nvidia-fueled rally fades",
-   "source": "WSJ"
+   "headline": "Wall Street cede terreno: el Nasdaq cae 1.7% tras el rally histórico del lunes",
+   "headline_en": "Wall Street gives back gains: Nasdaq falls 1.7% after Monday's historic rally",
+   "source": "Investopedia"
   },
   {
-   "headline": "Nvidia cede 5% en premercado tras subir 31.5% y ganar casi $1 billón en un día",
-   "headline_en": "Nvidia gives back 5% premarket after 31.5% surge added nearly $1 trillion in market value",
-   "source": "Reuters"
+   "headline": "Nvidia cae 6% en la apertura tras dispararse 31% por el regreso de Jensen Huang",
+   "headline_en": "Nvidia drops 6% at the open after surging 31% on Jensen Huang's return as CEO",
+   "source": "Investopedia"
   },
   {
-   "headline": "Inversores esperan datos de inflación antes de la reunión de diciembre de la Fed",
-   "headline_en": "Investors await inflation data ahead of the Fed's December meeting",
-   "source": "Reuters"
+   "headline": "Sanofi comprará Insmed por $41,000 millones con una prima del 46%",
+   "headline_en": "Sanofi to acquire Insmed for $41 billion at a 46% premium",
+   "source": "Stock Analysis"
   },
   {
-   "headline": "Kohl's y Dick's Sporting Goods suben tras superar las expectativas de ganancias",
-   "headline_en": "Kohl's and Dick's Sporting Goods jump on earnings beats",
-   "source": "Finviz"
+   "headline": "Amazon compra la tecnología de IA de Decart en un acuerdo reportado de $7,500 millones",
+   "headline_en": "Amazon to acquire Decart's AI optimization technology in a reported $7.5B deal",
+   "source": "Stock Analysis"
   },
   {
-   "headline": "El rendimiento del bono a 10 años cae a 4.90%, por debajo del 5%",
-   "headline_en": "10-year Treasury yield falls to 4.90%, back below 5%",
-   "source": "Barchart"
+   "headline": "La contratación privada se enfría: ADP reporta 21,000 empleos por semana a principios de noviembre",
+   "headline_en": "US private-sector hiring cools: ADP shows 21,000 jobs per week in early November",
+   "source": "Stock Analysis"
+  },
+  {
+   "headline": "Confianza del consumidor y resultados de Dell, en la mira de los inversionistas hoy",
+   "headline_en": "Consumer confidence and Dell earnings in focus for investors today",
+   "source": "Investopedia"
   }
  ],
  "ultima_hora": {
