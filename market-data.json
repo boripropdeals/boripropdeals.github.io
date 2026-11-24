@@ -1,61 +1,56 @@
 {
- "updated_at": "2026-11-24T16:04:32.811933+00:00",
+ "updated_at": "2026-11-24T16:04:49.856827+00:00",
  "nq": {
-  "price": 26176.25,
-  "change_points": -631.75,
-  "percent_change": -2.36
+  "price": 26162.25,
+  "change_points": -645.75,
+  "percent_change": -2.41
  },
  "gold": {
-  "price": 3572.5,
-  "change_points": -78.9,
-  "percent_change": -2.16
+  "price": 3573.9,
+  "change_points": -77.5,
+  "percent_change": -2.12
  },
  "oil": {
-  "price": 79.65,
-  "change_points": -0.52,
-  "percent_change": -0.65
+  "price": 79.62,
+  "change_points": -0.55,
+  "percent_change": -0.69
  },
  "headlines": [
   {
-   "headline": "Wall Street cede terreno: el Nasdaq cae 1.7% tras el rally histórico del lunes",
-   "headline_en": "Wall Street gives back gains: Nasdaq falls 1.7% after Monday's historic rally",
+   "headline": "Nasdaq y S&P caen tras el rally histórico del lunes; Nvidia se desploma cerca de 7%",
+   "headline_en": "Nasdaq, S&P 500 tumble after Monday massive rally as Nvidia leads AI sell-off",
    "source": "Investopedia"
   },
   {
-   "headline": "Nvidia cae 6% en la apertura tras dispararse 31% por el regreso de Jensen Huang",
-   "headline_en": "Nvidia drops 6% at the open after surging 31% on Jensen Huang's return as CEO",
-   "source": "Investopedia"
+   "headline": "El lunes, el S&P 500 subió 4.7% y el Nasdaq 6.5% tras el regreso de Jensen Huang a Nvidia",
+   "headline_en": "S&P 500 jumped 4.7% and Nasdaq 6.5% on Monday after Nvidia reinstated Jensen Huang as CEO",
+   "source": "Zacks"
   },
   {
-   "headline": "Sanofi comprará Insmed por $41,000 millones con una prima del 46%",
+   "headline": "Sanofi compra Insmed por $41,000 millones con una prima del 46%",
    "headline_en": "Sanofi to acquire Insmed for $41 billion at a 46% premium",
-   "source": "Stock Analysis"
+   "source": "StockAnalysis"
   },
   {
-   "headline": "Amazon compra la tecnología de IA de Decart en un acuerdo reportado de $7,500 millones",
-   "headline_en": "Amazon to acquire Decart's AI optimization technology in a reported $7.5B deal",
-   "source": "Stock Analysis"
+   "headline": "Amazon adquiere la tecnología de IA de Decart en un acuerdo de $7,500 millones",
+   "headline_en": "Amazon acquires Decart AI optimization technology in a reported $7.5B deal",
+   "source": "StockAnalysis"
   },
   {
-   "headline": "La contratación privada se enfría: ADP reporta 21,000 empleos por semana a principios de noviembre",
-   "headline_en": "US private-sector hiring cools: ADP shows 21,000 jobs per week in early November",
-   "source": "Stock Analysis"
-  },
-  {
-   "headline": "Confianza del consumidor y resultados de Dell, en la mira de los inversionistas hoy",
-   "headline_en": "Consumer confidence and Dell earnings in focus for investors today",
-   "source": "Investopedia"
+   "headline": "SharkNinja entrará al S&P 500 el 2 de diciembre; la contratación privada se desacelera",
+   "headline_en": "SharkNinja to join the S&P 500 on Dec. 2; private-sector hiring slows",
+   "source": "StockAnalysis"
   }
  ],
  "ultima_hora": {
-  "headline": "Trump desafía a los republicanos y defiende el regreso de Jensen Huang a Nvidia: «El público ha hablado»",
-  "headline_en": "Trump shrugs off GOP concerns that Jensen Huang is a national security risk, hails his return as Nvidia CEO: 'The public has spoken'",
-  "source": "New York Post",
+  "headline": "Trump prepara una nueva oleada de aranceles contra China y decenas de países",
+  "headline_en": "Trump readies new tariff barrage on China and dozens of other countries",
+  "source": "The Wall Street Journal",
   "image": "",
   "images": [
-   "https://boripropdeals.github.io/breaking-visuals/trump-huang-defiende-regreso-podio-2026-11-24.jpg",
-   "https://boripropdeals.github.io/breaking-visuals/trump-huang-nvidia-chip-mercado-2026-11-24.jpg",
-   "https://boripropdeals.github.io/breaking-visuals/trump-huang-capitolio-seguridad-2026-11-24.jpg"
+   "https://boripropdeals.github.io/breaking-visuals/trump-aranceles-puerto-contenedores-2026-11-24.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/trump-aranceles-bolsa-caida-2026-11-24.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/trump-aranceles-casa-blanca-2026-11-24.jpg"
   ]
  }
 }
