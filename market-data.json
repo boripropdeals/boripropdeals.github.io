@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-24T14:02:33.619982+00:00",
+ "updated_at": "2026-11-24T14:04:03.187916+00:00",
  "nq": {
-  "price": 26271.25,
-  "change_points": -536.75,
-  "percent_change": -2.0
+  "price": 26253.0,
+  "change_points": -555.0,
+  "percent_change": -2.07
  },
  "gold": {
-  "price": 3620.8,
-  "change_points": -30.6,
-  "percent_change": -0.84
+  "price": 3617.8,
+  "change_points": -33.6,
+  "percent_change": -0.92
  },
  "oil": {
   "price": 80.73,
@@ -17,34 +17,34 @@
  },
  "headlines": [
   {
-   "headline": "Nvidia se dispara 31% con el regreso de Jensen Huang y Wall Street vive su mejor jornada en años",
-   "headline_en": "Nvidia soars 31% as Jensen Huang returns and Wall Street posts its best day in years",
+   "headline": "Los futuros del Nasdaq caen mientras se enfría el rally de Nvidia tras el regreso de Huang",
+   "headline_en": "Nasdaq futures fall as questions linger over AI trade after Huang return rally",
+   "source": "Morningstar"
+  },
+  {
+   "headline": "Nvidia se disparó 31% el lunes, el mayor aumento de valor en un día de la historia",
+   "headline_en": "Nvidia soared 31% on Monday, the largest one-day market value gain on record",
    "source": "Zacks"
   },
   {
-   "headline": "El Nasdaq sube 6.5% y el S&P 500 4.7% en un histórico rebote liderado por la IA",
-   "headline_en": "Nasdaq jumps 6.5% and S&P 500 4.7% in historic AI-led rebound",
-   "source": "Reuters"
+   "headline": "Asia repunta con fuerza: Taiwán sube 9% y Corea del Sur 6,3% tras el rally de Wall Street",
+   "headline_en": "Asia rallies overnight: Taiwan up 9%, South Korea up 6.3% after Wall Street surge",
+   "source": "The Macro Daily"
   },
   {
-   "headline": "Los futuros ceden terreno este martes tras el rally del lunes; Nvidia retrocede en premarket",
-   "headline_en": "Futures slip Tuesday after Monday's rally; Nvidia pulls back in premarket",
-   "source": "Investopedia"
+   "headline": "Hoy: confianza del consumidor a las 10am ET y resultados de Dell al cierre",
+   "headline_en": "Today: consumer confidence at 10am ET and Dell earnings after the close",
+   "source": "Barchart"
   },
   {
-   "headline": "Sanofi comprará Insmed por $41,000 millones en efectivo",
-   "headline_en": "Sanofi to buy Insmed for $41 billion in cash",
-   "source": "Investopedia"
+   "headline": "La inflación PCE de mañana, última lectura clave antes de la reunión de la Fed de diciembre",
+   "headline_en": "Tomorrow's PCE inflation is the last major reading before the December Fed meeting",
+   "source": "The Macro Daily"
   },
   {
-   "headline": "Dell reporta tras el cierre y la confianza del consumidor, en la mira hoy",
-   "headline_en": "Dell reports after the close and consumer confidence in focus today",
-   "source": "TheStreet"
-  },
-  {
-   "headline": "El oro retrocede y el petróleo se enfría mientras el dólar marca máximos de 20 meses",
-   "headline_en": "Gold slips and oil cools as dollar hits 20-month highs",
-   "source": "ATFX"
+   "headline": "El rendimiento del bono a 10 años baja a 4,90% mientras los inversores buscan refugio",
+   "headline_en": "The 10-year Treasury yield falls to 4.90% as investors seek safety",
+   "source": "Barchart"
   }
  ],
  "ultima_hora": {
