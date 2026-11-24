@@ -1,35 +1,40 @@
 {
- "updated_at": "2026-11-24T17:32:31.887328+00:00",
+ "updated_at": "2026-11-24T17:33:09.316615+00:00",
  "nq": {
-  "price": 26245.25,
-  "change_points": -562.75,
-  "percent_change": -2.1
+  "price": 26235.5,
+  "change_points": -572.5,
+  "percent_change": -2.14
  },
  "gold": {
-  "price": 3564.5,
-  "change_points": -86.9,
-  "percent_change": -2.38
+  "price": 3562.4,
+  "change_points": -89.0,
+  "percent_change": -2.44
  },
  "oil": {
-  "price": 81.24,
-  "change_points": 1.07,
-  "percent_change": 1.33
+  "price": 81.28,
+  "change_points": 1.11,
+  "percent_change": 1.38
  },
  "headlines": [
   {
-   "headline": "Los futuros del Nasdaq caen y Nvidia cede ~5% tras su subida histórica del 31%",
-   "headline_en": "Nasdaq futures fall as Nvidia gives back ~5% after historic 31% surge",
+   "headline": "El Nasdaq cae ~2.6% y Nvidia cede ~8% tras su subida histórica del 31%",
+   "headline_en": "Nasdaq drops ~2.6% as Nvidia gives back ~8% after historic 31% surge",
+   "source": "Barchart"
+  },
+  {
+   "headline": "La confianza del consumidor de EE. UU. salta a 103.3, máximo en casi dos años",
+   "headline_en": "U.S. consumer confidence jumps to 103.3, highest in nearly two years",
    "source": "Reuters"
+  },
+  {
+   "headline": "Bessent anuncia nuevas sanciones a Irán y advierte sobre el estrecho de Ormuz",
+   "headline_en": "Bessent unveils fresh Iran sanctions and Hormuz warnings",
+   "source": "TradingView"
   },
   {
    "headline": "Los mercados esperan el dato de inflación (PCE) antes de la reunión de diciembre de la Fed",
    "headline_en": "Investors await inflation data ahead of the Fed’s December meeting",
    "source": "Reuters"
-  },
-  {
-   "headline": "La confianza del consumidor de EE. UU., en el foco hoy",
-   "headline_en": "U.S. consumer confidence in focus today",
-   "source": "Barchart"
   },
   {
    "headline": "Dick’s Sporting Goods se dispara tras superar expectativas y elevar su guía",
