@@ -1,45 +1,50 @@
 {
- "updated_at": "2026-11-24T20:32:31.630439+00:00",
+ "updated_at": "2026-11-24T20:33:11.490566+00:00",
  "nq": {
-  "price": 26170.25,
-  "change_points": -637.75,
-  "percent_change": -2.38
+  "price": 26176.0,
+  "change_points": -632.0,
+  "percent_change": -2.36
  },
  "gold": {
-  "price": 3555.5,
-  "change_points": -95.9,
-  "percent_change": -2.63
+  "price": 3553.9,
+  "change_points": -97.5,
+  "percent_change": -2.67
  },
  "oil": {
-  "price": 81.6,
-  "change_points": 1.43,
-  "percent_change": 1.78
+  "price": 81.58,
+  "change_points": 1.41,
+  "percent_change": 1.76
  },
  "headlines": [
   {
-   "headline": "El Nasdaq cae tras el rally histórico: Nvidia devuelve parte de su subida del 31%",
-   "headline_en": "Nasdaq drops after historic rally as Nvidia gives back part of its 31% surge",
+   "headline": "El Nasdaq cae: Nvidia pierde casi 8% y devuelve parte de su subida histórica del 31%",
+   "headline_en": "Nasdaq slides as Nvidia sheds nearly 8%, giving back part of its historic 31% surge",
    "source": "Reuters"
   },
   {
-   "headline": "La confianza del consumidor salta a 103.3, su nivel más alto desde enero de 2025",
-   "headline_en": "Consumer confidence jumps to 103.3, its highest since January 2025",
-   "source": "The Conference Board"
+   "headline": "El Dow sube mientras el Nasdaq cae: los inversores rotan hacia sectores defensivos",
+   "headline_en": "Dow rises while Nasdaq falls as investors rotate into defensive sectors",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "Amazon acuerda adquirir la tecnología de IA de Decart en un acuerdo de $7,500 millones",
+   "headline_en": "Amazon agrees to acquire Decart's AI technology in a reported $7.5B deal",
+   "source": "CNBC"
   },
   {
    "headline": "Sanofi compra Insmed por $41,000 millones, la mayor operación farmacéutica desde 2023",
-   "headline_en": "Sanofi to buy Insmed for $41 billion, the biggest pharma deal since 2023",
+   "headline_en": "Sanofi to acquire Insmed for $41 billion in the largest pharma deal since 2023",
    "source": "CNBC"
   },
   {
-   "headline": "Los minoristas sorprenden al alza antes del Black Friday: Dick’s sube 15% y Kohl’s y Dollar Tree elevan sus pronósticos",
-   "headline_en": "Retailers beat forecasts ahead of Black Friday: Dick’s jumps 15% as Kohl’s and Dollar Tree raise outlooks",
-   "source": "CNBC"
+   "headline": "La contratación privada se desacelera: ADP registra 21,000 empleos por semana a principios de noviembre",
+   "headline_en": "Private-sector hiring slows: ADP shows employers added 21,000 jobs per week in early November",
+   "source": "ADP"
   },
   {
-   "headline": "El mercado espera el PCE del miércoles, el último dato clave antes de la reunión de diciembre de la Fed",
-   "headline_en": "Markets await Wednesday’s PCE, the last key data point before the Fed’s December meeting",
-   "source": "The Wall Street Journal"
+   "headline": "La confianza del consumidor salta a 103.3, su nivel más alto desde enero de 2025",
+   "headline_en": "Consumer confidence jumps to 103.3, its highest level since January 2025",
+   "source": "The Conference Board"
   }
  ],
  "ultima_hora": {
