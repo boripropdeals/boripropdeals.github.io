@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-11-24T13:02:39.716089+00:00",
+ "updated_at": "2026-11-24T13:03:12.573257+00:00",
  "nq": {
-  "price": 26366.0,
-  "change_points": -442.0,
-  "percent_change": -1.65
+  "price": 26380.0,
+  "change_points": -428.0,
+  "percent_change": -1.6
  },
  "gold": {
   "price": 3642.5,
@@ -17,29 +17,34 @@
  },
  "headlines": [
   {
-   "headline": "Los futuros del Nasdaq caen mientras persisten las dudas sobre el comercio de IA tras el repunte del lunes",
-   "headline_en": "Nasdaq futures fall as questions linger over AI trade after Monday's rally",
-   "source": "Wall Street Journal"
+   "headline": "Nvidia se dispara 31% con el regreso de Jensen Huang y Wall Street vive su mejor jornada en años",
+   "headline_en": "Nvidia soars 31% as Jensen Huang returns and Wall Street posts its best day in years",
+   "source": "Zacks"
   },
   {
-   "headline": "Las acciones de chips se enfrían tras el repunte liderado por Nvidia; el mercado espera los datos de inflación antes de la reunión de diciembre de la Fed",
-   "headline_en": "Chip stocks cool after Nvidia-fueled rally as investors await inflation data ahead of the Fed's December meeting",
+   "headline": "El Nasdaq sube 6.5% y el S&P 500 4.7% en un histórico rebote liderado por la IA",
+   "headline_en": "Nasdaq jumps 6.5% and S&P 500 4.7% in historic AI-led rebound",
    "source": "Reuters"
   },
   {
-   "headline": "Nvidia cede ~4% en premarket tras subir 31% el lunes, la mayor ganancia de valor de mercado en un día en la historia",
-   "headline_en": "Nvidia gives back about 4% premarket after surging 31% Monday, the largest one-day market value gain on record",
-   "source": "Wall Street Journal"
+   "headline": "Los futuros ceden terreno este martes tras el rally del lunes; Nvidia retrocede en premarket",
+   "headline_en": "Futures slip Tuesday after Monday's rally; Nvidia pulls back in premarket",
+   "source": "Investopedia"
   },
   {
-   "headline": "CrowdStrike comprará Zscaler por $43,900 millones en acciones",
-   "headline_en": "CrowdStrike to buy Zscaler in $43.9 billion all-stock deal",
-   "source": "Investor's Business Daily"
+   "headline": "Sanofi comprará Insmed por $41,000 millones en efectivo",
+   "headline_en": "Sanofi to buy Insmed for $41 billion in cash",
+   "source": "Investopedia"
   },
   {
-   "headline": "Hoy: índice Case-Shiller de precios de vivienda y confianza del consumidor de Conference Board",
-   "headline_en": "Today: Case-Shiller home price index and Conference Board consumer confidence",
-   "source": "TradingView"
+   "headline": "Dell reporta tras el cierre y la confianza del consumidor, en la mira hoy",
+   "headline_en": "Dell reports after the close and consumer confidence in focus today",
+   "source": "TheStreet"
+  },
+  {
+   "headline": "El oro retrocede y el petróleo se enfría mientras el dólar marca máximos de 20 meses",
+   "headline_en": "Gold slips and oil cools as dollar hits 20-month highs",
+   "source": "ATFX"
   }
  ],
  "ultima_hora": {
