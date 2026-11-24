@@ -1,49 +1,49 @@
 {
- "updated_at": "2026-11-24T22:02:33.378056+00:00",
+ "updated_at": "2026-11-24T22:03:42.509873+00:00",
  "nq": {
-  "price": 26255.5,
-  "change_points": -552.5,
-  "percent_change": -2.06
+  "price": 26261.75,
+  "change_points": -546.25,
+  "percent_change": -2.04
  },
  "gold": {
-  "price": 3553.1,
-  "change_points": -98.3,
+  "price": 3553.0,
+  "change_points": -98.4,
   "percent_change": -2.69
  },
  "oil": {
-  "price": 81.64,
-  "change_points": 1.47,
-  "percent_change": 1.83
+  "price": 81.66,
+  "change_points": 1.49,
+  "percent_change": 1.86
  },
  "headlines": [
   {
-   "headline": "El Nasdaq cae: Nvidia pierde casi 8% y devuelve parte de su subida histórica del 31%",
-   "headline_en": "Nasdaq slides as Nvidia sheds nearly 8%, giving back part of its historic 31% surge",
-   "source": "Reuters"
+   "headline": "El Nasdaq cae 1.5% y el S&P 500 0.5% tras el rally histórico; Nvidia pierde 6% tras subir 31% el lunes",
+   "headline_en": "Nasdaq falls 1.5% and S&P 500 drops 0.5% after historic rally; Nvidia slides 6% after Monday’s 31% surge",
+   "source": "Investopedia"
   },
   {
-   "headline": "El Dow sube mientras el Nasdaq cae: los inversores rotan hacia sectores defensivos",
-   "headline_en": "Dow rises while Nasdaq falls as investors rotate into defensive sectors",
+   "headline": "El Dow sube 0.9% con más de 400 puntos mientras los inversores rotan hacia sectores defensivos",
+   "headline_en": "Dow climbs 0.9%, adding over 400 points, as investors rotate into defensive sectors",
    "source": "Investopedia"
   },
   {
    "headline": "Analog Devices se desploma casi 17% tras decepcionar con su previsión de ganancias",
    "headline_en": "Analog Devices plunges nearly 17% after disappointing earnings outlook",
-   "source": "IBD"
+   "source": "Investopedia"
+  },
+  {
+   "headline": "Anthropic cae por debajo de su precio de salida a bolsa tras perder 6.5% en la sesión",
+   "headline_en": "Anthropic falls below its IPO price after dropping 6.5% in the session",
+   "source": "Investopedia"
   },
   {
    "headline": "Amazon acuerda adquirir la tecnología de IA de Decart en un acuerdo de $7,500 millones",
-   "headline_en": "Amazon agrees to acquire Decart's AI technology in a reported $7.5B deal",
-   "source": "CNBC"
-  },
-  {
-   "headline": "Sanofi compra Insmed por $41,000 millones, la mayor operación farmacéutica desde 2023",
-   "headline_en": "Sanofi to acquire Insmed for $41 billion in the largest pharma deal since 2023",
+   "headline_en": "Amazon agrees to acquire Decart’s AI technology in a $7.5 billion deal",
    "source": "CNBC"
   },
   {
    "headline": "La confianza del consumidor salta a 103.3, su nivel más alto desde enero de 2025",
-   "headline_en": "Consumer confidence jumps to 103.3, its highest level since January 2025",
+   "headline_en": "Consumer confidence jumps to 103.3, its highest since January 2025",
    "source": "The Conference Board"
   }
  ],
