@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-24T22:34:36.523578+00:00",
+ "updated_at": "2026-11-24T22:36:15.067683+00:00",
  "nq": {
   "price": 26266.0,
   "change_points": -542.0,
@@ -18,7 +18,7 @@
  "headlines": [
   {
    "headline": "El Nasdaq cae 1.5% y el S&P 500 0.5% tras el rally histórico; Nvidia pierde 6% tras subir 31% el lunes",
-   "headline_en": "Nasdaq falls 1.5% and S&P 500 drops 0.5% after historic rally; Nvidia slides 6% after Monday’s 31% surge",
+   "headline_en": "Nasdaq falls 1.5% and S&P 500 drops 0.5% after historic rally; Nvidia slides 6% after Monday's 31% surge",
    "source": "Investopedia"
   },
   {
@@ -38,7 +38,7 @@
   },
   {
    "headline": "Amazon acuerda adquirir la tecnología de IA de Decart en un acuerdo de $7,500 millones",
-   "headline_en": "Amazon agrees to acquire Decart’s AI technology in a $7.5 billion deal",
+   "headline_en": "Amazon agrees to acquire Decart's AI technology in a $7.5 billion deal",
    "source": "CNBC"
   },
   {
