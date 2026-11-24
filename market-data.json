@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-11-24T14:32:32.333536+00:00",
+ "updated_at": "2026-11-24T14:33:50.067803+00:00",
  "nq": {
-  "price": 26275.25,
-  "change_points": -532.75,
-  "percent_change": -1.99
+  "price": 26272.75,
+  "change_points": -535.25,
+  "percent_change": -2.0
  },
  "gold": {
-  "price": 3616.0,
-  "change_points": -35.4,
-  "percent_change": -0.97
+  "price": 3615.0,
+  "change_points": -36.4,
+  "percent_change": -1.0
  },
  "oil": {
-  "price": 81.18,
-  "change_points": 1.01,
-  "percent_change": 1.26
+  "price": 81.15,
+  "change_points": 0.98,
+  "percent_change": 1.22
  },
  "headlines": [
   {
-   "headline": "Los futuros del Nasdaq caen mientras se enfría el rally de Nvidia tras el regreso de Huang",
-   "headline_en": "Nasdaq futures fall as questions linger over AI trade after Huang return rally",
+   "headline": "Los futuros del Nasdaq caen ~2% mientras se enfría el rally de Nvidia tras el regreso de Huang",
+   "headline_en": "Nasdaq futures fall ~2% as the Nvidia rally cools after Huang’s return",
    "source": "Morningstar"
   },
   {
-   "headline": "Nvidia se disparó 31% el lunes, el mayor aumento de valor en un día de la historia",
-   "headline_en": "Nvidia soared 31% on Monday, the largest one-day market value gain on record",
+   "headline": "Nvidia se disparó 31% el lunes y sumó casi $1 billón en valor de mercado en un solo día",
+   "headline_en": "Nvidia soared 31% on Monday, adding nearly $1 trillion in market value in a single day",
    "source": "Zacks"
   },
   {
-   "headline": "Asia repunta con fuerza: Taiwán sube 9% y Corea del Sur 6,3% tras el rally de Wall Street",
-   "headline_en": "Asia rallies overnight: Taiwan up 9%, South Korea up 6.3% after Wall Street surge",
-   "source": "The Macro Daily"
+   "headline": "Sanofi comprará Insmed por $41,000 millones en efectivo",
+   "headline_en": "Sanofi to buy Insmed for $41 billion in cash",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "CrowdStrike compra Zscaler por $44,000 millones ante la escalada de ciberamenazas",
+   "headline_en": "CrowdStrike snaps up Zscaler in a $44 billion deal as cyber threats mount",
+   "source": "Reuters"
   },
   {
    "headline": "Hoy: confianza del consumidor a las 10am ET y resultados de Dell al cierre",
    "headline_en": "Today: consumer confidence at 10am ET and Dell earnings after the close",
-   "source": "Barchart"
+   "source": "Investopedia"
   },
   {
-   "headline": "La inflación PCE de mañana, última lectura clave antes de la reunión de la Fed de diciembre",
-   "headline_en": "Tomorrow's PCE inflation is the last major reading before the December Fed meeting",
-   "source": "The Macro Daily"
-  },
-  {
-   "headline": "El rendimiento del bono a 10 años baja a 4,90% mientras los inversores buscan refugio",
-   "headline_en": "The 10-year Treasury yield falls to 4.90% as investors seek safety",
-   "source": "Barchart"
+   "headline": "Semana corta por Acción de Gracias: mercados cierran el jueves y el viernes cierran temprano",
+   "headline_en": "Short Thanksgiving week: markets closed Thursday, early close Friday",
+   "source": "Investopedia"
   }
  ],
  "ultima_hora": {
