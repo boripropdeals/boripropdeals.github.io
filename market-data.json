@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-24T18:04:31.529484+00:00",
+ "updated_at": "2026-11-24T18:05:03.687110+00:00",
  "nq": {
-  "price": 26295.5,
-  "change_points": -512.5,
-  "percent_change": -1.91
+  "price": 26301.0,
+  "change_points": -507.0,
+  "percent_change": -1.89
  },
  "gold": {
-  "price": 3562.1,
-  "change_points": -89.3,
-  "percent_change": -2.45
+  "price": 3562.9,
+  "change_points": -88.5,
+  "percent_change": -2.42
  },
  "oil": {
   "price": 81.35,
@@ -17,34 +17,34 @@
  },
  "headlines": [
   {
-   "headline": "El Nasdaq cae ~2.6% y Nvidia cede ~8% tras su subida histórica del 31%",
-   "headline_en": "Nasdaq drops ~2.6% as Nvidia gives back ~8% after historic 31% surge",
-   "source": "Barchart"
+   "headline": "El Nasdaq cae ~2% y Nvidia se desploma ~8% tras el rally histórico del lunes por el regreso de Huang",
+   "headline_en": "Nasdaq drops ~2% as Nvidia slides ~8% after Monday's historic Huang-fueled rally",
+   "source": "Investopedia"
   },
   {
-   "headline": "La confianza del consumidor de EE. UU. salta a 103.3, máximo en casi dos años",
-   "headline_en": "U.S. consumer confidence jumps to 103.3, highest in nearly two years",
-   "source": "Reuters"
+   "headline": "Analog Devices se desploma ~19% tras decepcionar con su pronóstico de ganancias",
+   "headline_en": "Analog Devices plunges ~19% after disappointing earnings outlook",
+   "source": "The Motley Fool"
   },
   {
-   "headline": "Bessent anuncia nuevas sanciones a Irán y advierte sobre el estrecho de Ormuz",
-   "headline_en": "Bessent unveils fresh Iran sanctions and Hormuz warnings",
-   "source": "TradingView"
+   "headline": "Sanofi acuerda comprar Insmed por $41,000 millones con una prima del 46%",
+   "headline_en": "Sanofi agrees to buy Insmed for $41 billion at a 46% premium",
+   "source": "StockAnalysis"
   },
   {
-   "headline": "Los mercados esperan el dato de inflación (PCE) antes de la reunión de diciembre de la Fed",
-   "headline_en": "Investors await inflation data ahead of the Fed’s December meeting",
-   "source": "Reuters"
+   "headline": "Amazon amplía su apuesta por chips de IA con la tecnología de Decart en un acuerdo de $7,500 millones",
+   "headline_en": "Amazon expands AI chip bet with Decart's technology in a $7.5B deal",
+   "source": "StockAnalysis"
   },
   {
-   "headline": "Dick’s Sporting Goods se dispara tras superar expectativas y elevar su guía",
-   "headline_en": "Dick’s Sporting Goods surges on beat-and-raise results",
-   "source": "Finviz"
+   "headline": "La confianza del consumidor sube a 103.3; la atención pasa al dato de inflación PCE de mañana",
+   "headline_en": "Consumer confidence rises to 103.3; focus shifts to tomorrow's PCE inflation data",
+   "source": "Investors.com"
   },
   {
-   "headline": "Kohl’s sube tras resultados mejores de lo esperado",
-   "headline_en": "Kohl’s jumps on upbeat earnings",
-   "source": "Finviz"
+   "headline": "Semana corta por Thanksgiving: mercados cerrados el jueves y cierre temprano el viernes",
+   "headline_en": "Short Thanksgiving week: markets closed Thursday, early close Friday",
+   "source": "Investopedia"
   }
  ],
  "ultima_hora": {
