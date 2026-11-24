@@ -1,19 +1,19 @@
 {
- "updated_at": "2026-11-24T21:02:35.880777+00:00",
+ "updated_at": "2026-11-24T21:03:54.377267+00:00",
  "nq": {
-  "price": 26299.25,
-  "change_points": -508.75,
-  "percent_change": -1.9
+  "price": 26330.5,
+  "change_points": -477.5,
+  "percent_change": -1.78
  },
  "gold": {
-  "price": 3553.6,
-  "change_points": -97.8,
-  "percent_change": -2.68
+  "price": 3554.4,
+  "change_points": -97.0,
+  "percent_change": -2.66
  },
  "oil": {
-  "price": 81.43,
-  "change_points": 1.26,
-  "percent_change": 1.57
+  "price": 81.46,
+  "change_points": 1.29,
+  "percent_change": 1.61
  },
  "headlines": [
   {
@@ -27,6 +27,11 @@
    "source": "Investopedia"
   },
   {
+   "headline": "Analog Devices se desploma casi 17% tras decepcionar con su previsión de ganancias",
+   "headline_en": "Analog Devices plunges nearly 17% after disappointing earnings outlook",
+   "source": "IBD"
+  },
+  {
    "headline": "Amazon acuerda adquirir la tecnología de IA de Decart en un acuerdo de $7,500 millones",
    "headline_en": "Amazon agrees to acquire Decart's AI technology in a reported $7.5B deal",
    "source": "CNBC"
@@ -35,11 +40,6 @@
    "headline": "Sanofi compra Insmed por $41,000 millones, la mayor operación farmacéutica desde 2023",
    "headline_en": "Sanofi to acquire Insmed for $41 billion in the largest pharma deal since 2023",
    "source": "CNBC"
-  },
-  {
-   "headline": "La contratación privada se desacelera: ADP registra 21,000 empleos por semana a principios de noviembre",
-   "headline_en": "Private-sector hiring slows: ADP shows employers added 21,000 jobs per week in early November",
-   "source": "ADP"
   },
   {
    "headline": "La confianza del consumidor salta a 103.3, su nivel más alto desde enero de 2025",
