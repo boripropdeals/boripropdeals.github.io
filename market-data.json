@@ -1,61 +1,56 @@
 {
- "updated_at": "2026-11-24T12:32:31.579101+00:00",
+ "updated_at": "2026-11-24T12:34:19.675228+00:00",
  "nq": {
-  "price": 26301.75,
-  "change_points": -506.25,
-  "percent_change": -1.89
+  "price": 26319.5,
+  "change_points": -488.5,
+  "percent_change": -1.82
  },
  "gold": {
-  "price": 3624.4,
-  "change_points": -27.0,
-  "percent_change": -0.74
+  "price": 3625.4,
+  "change_points": -26.0,
+  "percent_change": -0.71
  },
  "oil": {
-  "price": 79.95,
-  "change_points": -0.22,
-  "percent_change": -0.27
+  "price": 80.01,
+  "change_points": -0.16,
+  "percent_change": -0.2
  },
  "headlines": [
   {
-   "headline": "Nvidia se dispara 31% y el Nasdaq sube 6.5% tras el regreso de Jensen Huang como CEO",
-   "headline_en": "Nvidia surges 31% and Nasdaq jumps 6.5% as Jensen Huang returns as CEO",
+   "headline": "Los futuros del Nasdaq caen mientras persisten las dudas sobre el comercio de IA tras el repunte del lunes",
+   "headline_en": "Nasdaq futures fall as questions linger over AI trade after Monday's rally",
+   "source": "Wall Street Journal"
+  },
+  {
+   "headline": "Las acciones de chips se enfrían tras el repunte liderado por Nvidia; el mercado espera los datos de inflación antes de la reunión de diciembre de la Fed",
+   "headline_en": "Chip stocks cool after Nvidia-fueled rally as investors await inflation data ahead of the Fed's December meeting",
+   "source": "Reuters"
+  },
+  {
+   "headline": "Nvidia cede ~4% en premarket tras subir 31% el lunes, la mayor ganancia de valor de mercado en un día en la historia",
+   "headline_en": "Nvidia gives back about 4% premarket after surging 31% Monday, the largest one-day market value gain on record",
+   "source": "Wall Street Journal"
+  },
+  {
+   "headline": "CrowdStrike comprará Zscaler por $43,900 millones en acciones",
+   "headline_en": "CrowdStrike to buy Zscaler in $43.9 billion all-stock deal",
    "source": "Investor's Business Daily"
   },
   {
-   "headline": "El S&P 500 sube 4.7% y recupera los 7,000 puntos en su mejor jornada desde 2022",
-   "headline_en": "S&P 500 climbs 4.7% and reclaims 7,000 in its best day since 2022",
-   "source": "Zacks"
-  },
-  {
-   "headline": "Los futuros del Nasdaq caen 0.9% y Nvidia cede 3.8% antes de la apertura",
-   "headline_en": "Nasdaq futures fall 0.9% and Nvidia slips 3.8% premarket",
-   "source": "Morningstar"
-  },
-  {
-   "headline": "HPE supera su guía y eleva su pronóstico para 2027; Dell reporta esta noche",
-   "headline_en": "HPE tops guidance and raises its 2027 outlook; Dell reports tonight",
-   "source": "The MidPoint News"
-  },
-  {
-   "headline": "Hoy: confianza del consumidor y precios de vivienda antes del dato de inflación PCE",
-   "headline_en": "Today: consumer confidence and home prices ahead of PCE inflation data",
+   "headline": "Hoy: índice Case-Shiller de precios de vivienda y confianza del consumidor de Conference Board",
+   "headline_en": "Today: Case-Shiller home price index and Conference Board consumer confidence",
    "source": "TradingView"
-  },
-  {
-   "headline": "El VIX cae 26% y el crudo sigue bajando mientras Wall Street digiere el rebote",
-   "headline_en": "VIX drops 26% and crude keeps sliding as Wall Street digests the rebound",
-   "source": "The MidPoint News"
   }
  ],
  "ultima_hora": {
-  "headline": "Trump celebra el regreso de Jensen Huang a Nvidia: la decisión correcta; la acción se dispara 30%",
-  "headline_en": "Trump hails Jensen Huang's return to Nvidia as the correct and proper decision as shares soar 30%",
-  "source": "USA Today",
+  "headline": "Trump desafía a los republicanos y defiende el regreso de Jensen Huang a Nvidia: «El público ha hablado»",
+  "headline_en": "Trump shrugs off GOP concerns that Jensen Huang is a national security risk, hails his return as Nvidia CEO: 'The public has spoken'",
+  "source": "New York Post",
   "image": "",
   "images": [
-   "https://boripropdeals.github.io/breaking-visuals/trump-huang-nvidia-chip-2026-11-23.jpg",
-   "https://boripropdeals.github.io/breaking-visuals/trump-huang-nvidia-market-rally-2026-11-23.jpg",
-   "https://boripropdeals.github.io/breaking-visuals/trump-huang-nvidia-datacenter-2026-11-23.jpg"
+   "https://boripropdeals.github.io/breaking-visuals/trump-huang-defiende-regreso-podio-2026-11-24.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/trump-huang-nvidia-chip-mercado-2026-11-24.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/trump-huang-capitolio-seguridad-2026-11-24.jpg"
   ]
  }
 }
