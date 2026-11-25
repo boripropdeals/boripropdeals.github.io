@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-11-25T16:32:35.336328+00:00",
+ "updated_at": "2026-11-25T16:33:27.891506+00:00",
  "nq": {
-  "price": 25170.5,
-  "change_points": -1105.25,
-  "percent_change": -4.21
+  "price": 25176.25,
+  "change_points": -1099.5,
+  "percent_change": -4.18
  },
  "gold": {
-  "price": 3483.8,
-  "change_points": -78.1,
-  "percent_change": -2.19
+  "price": 3485.0,
+  "change_points": -76.9,
+  "percent_change": -2.16
  },
  "oil": {
-  "price": 83.27,
-  "change_points": 1.22,
-  "percent_change": 1.49
+  "price": 83.34,
+  "change_points": 1.29,
+  "percent_change": 1.57
  },
  "headlines": [
   {
-   "headline": "Los futuros del Nasdaq caen ~3% por la propuesta de aranceles de Trump y el desplome de la IA; el PCE subyacente sale más caliente de lo esperado",
-   "headline_en": "Nasdaq futures fall about 3% on Trump tariff proposal and AI selloff; core PCE inflation comes in hotter than expected",
-   "source": "Reuters"
-  },
-  {
-   "headline": "La inflación PCE subyacente sube a 3.3% interanual, por encima del 3.2% esperado; el PIB del tercer trimestre se revisa al alza a 4.3% y las solicitudes de desempleo caen a 189,000",
-   "headline_en": "Core PCE inflation rises to 3.3% year over year, above the 3.2% forecast; third-quarter GDP revised sharply higher to 4.3% and jobless claims fall to 189,000",
-   "source": "WSJ"
-  },
-  {
-   "headline": "Nvidia cae ~5% por segundo día consecutivo y arrastra a los fabricantes de chips; Micron, AMD y Marvell pierden más de 5%",
-   "headline_en": "Nvidia drops about 5% for a second straight day and drags chipmakers lower; Micron, AMD and Marvell fall more than 5%",
-   "source": "Reuters"
-  },
-  {
-   "headline": "EE.UU. propone aranceles a 14 socios comerciales por exceso de capacidad industrial; China enfrentaría un 20% adicional y entrarían en vigor en enero",
-   "headline_en": "U.S. proposes tariffs on 14 trading partners over excess industrial capacity; China faces an extra 20%, with duties possibly in effect in January",
-   "source": "Reuters"
-  },
-  {
-   "headline": "Dell cae ~5% pese a superar estimaciones y elevar su pronóstico",
-   "headline_en": "Dell falls about 5% despite beating estimates and lifting its outlook",
+   "headline": "La venta de acciones de IA se profundiza: futuros del Nasdaq caen 2.8% y Nvidia pierde más de 5% antes de la apertura",
+   "headline_en": "AI selloff deepens: Nasdaq futures fall 2.8% and Nvidia drops over 5% before the open",
    "source": "Investopedia"
   },
   {
-   "headline": "El Dow cerró el martes sobre 50,000 por primera vez; los mercados cierran mañana por Acción de Gracias",
-   "headline_en": "The Dow closed above 50,000 for the first time on Tuesday; markets are closed tomorrow for Thanksgiving",
+   "headline": "La inflación PCE de octubre llega en línea con lo esperado: 3.8% interanual, antes de la reunión de la Fed en diciembre",
+   "headline_en": "October PCE inflation lands in line with expectations: 3.8% year over year, ahead of the Fed’s December meeting",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "Dell cae pese a superar expectativas y elevar su pronóstico, arrastrada por la venta tecnológica",
+   "headline_en": "Dell falls despite beating estimates and lifting its outlook, dragged by the tech selloff",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "La confianza del consumidor sube a 103.3 en noviembre, muy por encima de lo esperado",
+   "headline_en": "Consumer confidence jumps to 103.3 in November, well above expectations",
    "source": "Zacks"
+  },
+  {
+   "headline": "Trump dice que “no es demasiado tarde” para que EE. UU. tome una participación en Nvidia",
+   "headline_en": "Trump says it’s “not too late” for the U.S. to take a stake in Nvidia",
+   "source": "Investor’s Business Daily"
+  },
+  {
+   "headline": "Las bolsas asiáticas se desploman por las amenazas arancelarias: el Nikkei cae 2.9% y Corea del Sur hasta 5.3%",
+   "headline_en": "Asian stocks tumble on tariff threats: Nikkei falls 2.9% and South Korea drops as much as 5.3%",
+   "source": "Reuters"
   }
  ],
  "ultima_hora": {
