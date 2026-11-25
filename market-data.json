@@ -1,40 +1,35 @@
 {
- "updated_at": "2026-11-25T15:06:36.462561+00:00",
+ "updated_at": "2026-11-25T15:07:59.636759+00:00",
  "nq": {
-  "price": 25319.75,
-  "change_points": -956.0,
-  "percent_change": -3.64
+  "price": 25420.5,
+  "change_points": -855.25,
+  "percent_change": -3.25
  },
  "gold": {
-  "price": 3489.6,
-  "change_points": -72.3,
-  "percent_change": -2.03
+  "price": 3491.1,
+  "change_points": -70.8,
+  "percent_change": -1.99
  },
  "oil": {
-  "price": 83.32,
-  "change_points": 1.27,
-  "percent_change": 1.55
+  "price": 83.42,
+  "change_points": 1.37,
+  "percent_change": 1.67
  },
  "headlines": [
   {
-   "headline": "Los futuros del Nasdaq se desploman ~3% por la propuesta de aranceles de Trump y el desplome de la IA; el PCE salió más caliente de lo esperado",
-   "headline_en": "Nasdaq futures plunge ~3% on Trump's tariff proposal and AI selloff; PCE inflation comes in hotter than expected",
+   "headline": "Los futuros del Nasdaq caen ~4% por la propuesta de aranceles de Trump y el desplome de la IA; el PCE sale más caliente de lo esperado",
+   "headline_en": "Nasdaq futures fall about 4% on Trump tariff proposal and AI selloff; PCE inflation comes in hotter than expected",
    "source": "Reuters"
   },
   {
    "headline": "La inflación PCE subyacente sube a 3.3% interanual, por encima del 3.2% esperado; el PIB del tercer trimestre se revisa al alza a 4.3% y las solicitudes de desempleo caen a 189,000",
    "headline_en": "Core PCE inflation rises to 3.3% year over year, above the 3.2% forecast; third-quarter GDP revised sharply higher to 4.3% and jobless claims fall to 189,000",
-   "source": "Investor's Business Daily"
+   "source": "WSJ"
   },
   {
-   "headline": "Nvidia cae ~5% por segundo día consecutivo; Trump dice que 'no es demasiado tarde' para que EE.UU. tome una participación en la empresa",
-   "headline_en": "Nvidia drops ~5% for a second straight day; Trump says it's 'not too late' for the U.S. to take a stake in the company",
-   "source": "Investor's Business Daily"
-  },
-  {
-   "headline": "Dell bate expectativas con ingresos de $54,900 millones y una cartera de servidores de IA de $132,300 millones, pero la acción cae tras el reporte",
-   "headline_en": "Dell beats expectations with $54.9 billion in revenue and a $132.3 billion AI server backlog, but shares fall after the report",
-   "source": "Investor's Business Daily"
+   "headline": "Nvidia cae ~5% por segundo día consecutivo y arrastra a los fabricantes de chips; Micron, AMD y Sandisk pierden más de 5%",
+   "headline_en": "Nvidia drops about 5% for a second straight day and drags chipmakers lower; Micron, AMD and Sandisk fall more than 5%",
+   "source": "Reuters"
   },
   {
    "headline": "EE.UU. propone aranceles a 14 socios comerciales por exceso de capacidad industrial; China enfrentaría un 20% adicional y entrarían en vigor en enero",
@@ -42,9 +37,14 @@
    "source": "Reuters"
   },
   {
-   "headline": "Los mercados cierran el jueves por Acción de Gracias y el viernes habrá sesión corta; la liquidez reducida amplificará los movimientos",
-   "headline_en": "Markets close Thursday for Thanksgiving with an early close Friday; thin holiday liquidity will amplify moves",
-   "source": "Investopedia"
+   "headline": "Dell duplica sus ingresos hasta 54,900 millones de dólares pero la acción cae tras el reporte; Ambarella se desploma 37% por resultados débiles",
+   "headline_en": "Dell more than doubles revenue to 54.9 billion dollars but shares fall after the report; Ambarella plunges 37% on weak results",
+   "source": "TradingView"
+  },
+  {
+   "headline": "Los mercados cierran el jueves por Acción de Gracias; la semana corta y la liquidez reducida amplifican los movimientos",
+   "headline_en": "Markets close Thursday for Thanksgiving; the short holiday week and thin liquidity will amplify moves",
+   "source": "Barchart"
   }
  ],
  "ultima_hora": {
