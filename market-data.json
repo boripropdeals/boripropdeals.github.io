@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-11-25T14:04:38.402947+00:00",
+ "updated_at": "2026-11-25T14:06:02.833941+00:00",
  "nq": {
-  "price": 25450.5,
-  "change_points": -825.25,
-  "percent_change": -3.14
+  "price": 25444.0,
+  "change_points": -831.75,
+  "percent_change": -3.17
  },
  "gold": {
-  "price": 3503.2,
-  "change_points": -58.7,
+  "price": 3503.3,
+  "change_points": -58.6,
   "percent_change": -1.65
  },
  "oil": {
-  "price": 82.59,
-  "change_points": 0.54,
-  "percent_change": 0.66
+  "price": 82.5,
+  "change_points": 0.45,
+  "percent_change": 0.55
  },
  "headlines": [
   {
-   "headline": "Los futuros del Nasdaq caen más de 2% por los nuevos aranceles de Trump contra China y decenas de países",
-   "headline_en": "Nasdaq futures slide over 2% on fresh US tariff plans against China and dozens of countries",
+   "headline": "Los futuros del Nasdaq se desploman ~3% por los aranceles de Trump y el desplome de la IA; la inflación PCE salió más caliente de lo esperado",
+   "headline_en": "Nasdaq futures plunge ~3% on Trump tariffs and AI selloff; PCE inflation comes in hotter than expected",
    "source": "Reuters"
   },
   {
-   "headline": "Nvidia cae más de 4% en premercado y el desplome de la IA se profundiza tras desvanecerse el repunte por el regreso de Huang",
-   "headline_en": "Nvidia slides over 4% in premarket as AI selloff deepens after Huang-rally fades",
-   "source": "Barchart"
+   "headline": "La inflación PCE subyacente sube a 3.3% interanual, por encima del 3.2% esperado; el PIB del tercer trimestre se revisa al alza a 4.3%",
+   "headline_en": "Core PCE inflation rises to 3.3% year over year, above the 3.2% forecast; third-quarter GDP revised sharply higher to 4.3%",
+   "source": "Investor's Business Daily"
   },
   {
-   "headline": "La inflación PCE, el PIB del tercer trimestre y las solicitudes de desempleo llegan hoy a las 7:30am CT, antes de la reunión de diciembre de la Fed",
-   "headline_en": "PCE inflation, Q3 GDP and jobless claims due at 7:30am CT ahead of the Fed's December meeting",
+   "headline": "Nvidia cae ~5% por segundo día consecutivo; Trump dice que 'no es demasiado tarde' para que EE.UU. tome una participación en la empresa",
+   "headline_en": "Nvidia drops ~5% for a second straight day; Trump says it's 'not too late' for the U.S. to take a stake in the company",
+   "source": "Investor's Business Daily"
+  },
+  {
+   "headline": "Dell bate expectativas con ingresos de $54,900 millones y una cartera de servidores de IA de $132,300 millones, pero la acción cae tras el reporte",
+   "headline_en": "Dell beats expectations with $54.9 billion in revenue and a $132.3 billion AI server backlog, but shares fall after the report",
+   "source": "Investor's Business Daily"
+  },
+  {
+   "headline": "EE.UU. propone aranceles a 14 socios comerciales por exceso de capacidad industrial; China enfrentaría un 20% adicional y entrarían en vigor en enero",
+   "headline_en": "U.S. proposes tariffs on 14 trading partners over excess industrial capacity; China faces an extra 20%, with duties possibly in effect in January",
    "source": "Reuters"
   },
   {
-   "headline": "El Dow subió 0.9% el martes a 50,018 mientras el Nasdaq cayó 1.5% y entró en corrección",
-   "headline_en": "Dow rose 0.9% Tuesday to 50,018 while Nasdaq fell 1.5% into correction territory",
-   "source": "Zacks"
-  },
-  {
-   "headline": "Dell dispara sus ingresos 103% interanual a $54,900 millones, pero la acción no logra subir tras el reporte",
-   "headline_en": "Dell revenue jumps 103% year over year to $54.9 billion, but shares fail to rally after earnings",
-   "source": "XTB"
-  },
-  {
-   "headline": "Los mercados cierran el jueves por Acción de Gracias; el bono del Tesoro a 10 años rinde 4.85%",
-   "headline_en": "Markets close Thursday for Thanksgiving; 10-year Treasury yields 4.85%",
-   "source": "Barchart"
+   "headline": "Los mercados cierran el jueves por Acción de Gracias y el viernes habrá sesión corta; la liquidez reducida amplificará los movimientos",
+   "headline_en": "Markets close Thursday for Thanksgiving with an early close Friday; thin holiday liquidity will amplify moves",
+   "source": "Investopedia"
   }
  ],
  "ultima_hora": {
