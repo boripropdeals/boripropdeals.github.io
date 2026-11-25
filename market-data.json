@@ -1,24 +1,24 @@
 {
- "updated_at": "2026-11-25T16:03:09.497267+00:00",
+ "updated_at": "2026-11-25T16:04:33.601731+00:00",
  "nq": {
-  "price": 25153.0,
-  "change_points": -1122.75,
-  "percent_change": -4.27
+  "price": 25180.0,
+  "change_points": -1095.75,
+  "percent_change": -4.17
  },
  "gold": {
-  "price": 3469.3,
-  "change_points": -92.6,
-  "percent_change": -2.6
+  "price": 3472.8,
+  "change_points": -89.1,
+  "percent_change": -2.5
  },
  "oil": {
-  "price": 83.19,
-  "change_points": 1.14,
-  "percent_change": 1.39
+  "price": 83.35,
+  "change_points": 1.3,
+  "percent_change": 1.58
  },
  "headlines": [
   {
-   "headline": "Los futuros del Nasdaq caen más de 3% por la propuesta de aranceles de Trump y el desplome de la IA; el PCE sale más caliente de lo esperado",
-   "headline_en": "Nasdaq futures fall more than 3% on Trump tariff proposal and AI selloff; PCE inflation comes in hotter than expected",
+   "headline": "Los futuros del Nasdaq caen ~3% por la propuesta de aranceles de Trump y el desplome de la IA; el PCE subyacente sale más caliente de lo esperado",
+   "headline_en": "Nasdaq futures fall about 3% on Trump tariff proposal and AI selloff; core PCE inflation comes in hotter than expected",
    "source": "Reuters"
   },
   {
@@ -27,8 +27,8 @@
    "source": "WSJ"
   },
   {
-   "headline": "Nvidia cae ~5% por segundo día consecutivo y arrastra a los fabricantes de chips; Micron, AMD y Sandisk pierden más de 5%",
-   "headline_en": "Nvidia drops about 5% for a second straight day and drags chipmakers lower; Micron, AMD and Sandisk fall more than 5%",
+   "headline": "Nvidia cae ~5% por segundo día consecutivo y arrastra a los fabricantes de chips; Micron, AMD y Marvell pierden más de 5%",
+   "headline_en": "Nvidia drops about 5% for a second straight day and drags chipmakers lower; Micron, AMD and Marvell fall more than 5%",
    "source": "Reuters"
   },
   {
@@ -37,14 +37,14 @@
    "source": "Reuters"
   },
   {
-   "headline": "Dell duplica sus ingresos hasta 54,900 millones de dólares pero la acción cae tras el reporte; Ambarella se desploma 37% por resultados débiles",
-   "headline_en": "Dell more than doubles revenue to 54.9 billion dollars but shares fall after the report; Ambarella plunges 37% on weak results",
-   "source": "TradingView"
+   "headline": "Dell cae ~5% pese a superar estimaciones y elevar su pronóstico",
+   "headline_en": "Dell falls about 5% despite beating estimates and lifting its outlook",
+   "source": "Investopedia"
   },
   {
-   "headline": "Los mercados cierran el jueves por Acción de Gracias; la semana corta y la liquidez reducida amplifican los movimientos",
-   "headline_en": "Markets close Thursday for Thanksgiving; the short holiday week and thin liquidity will amplify moves",
-   "source": "Barchart"
+   "headline": "El Dow cerró el martes sobre 50,000 por primera vez; los mercados cierran mañana por Acción de Gracias",
+   "headline_en": "The Dow closed above 50,000 for the first time on Tuesday; markets are closed tomorrow for Thanksgiving",
+   "source": "Zacks"
   }
  ],
  "ultima_hora": {
