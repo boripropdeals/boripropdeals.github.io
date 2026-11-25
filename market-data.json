@@ -1,40 +1,40 @@
 {
- "updated_at": "2026-11-25T20:02:32.297186+00:00",
+ "updated_at": "2026-11-25T20:04:28.170071+00:00",
  "nq": {
-  "price": 26063.0,
-  "change_points": -212.75,
-  "percent_change": -0.81
+  "price": 26099.5,
+  "change_points": -176.25,
+  "percent_change": -0.67
  },
  "gold": {
-  "price": 3574.1,
-  "change_points": 12.2,
-  "percent_change": 0.34
+  "price": 3577.0,
+  "change_points": 15.1,
+  "percent_change": 0.42
  },
  "oil": {
-  "price": 83.64,
-  "change_points": 1.59,
-  "percent_change": 1.94
+  "price": 83.69,
+  "change_points": 1.64,
+  "percent_change": 2.0
  },
  "headlines": [
   {
-   "headline": "El Nasdaq se desploma casi 4% mientras se profundiza la venta de acciones de IA y la inflación se mantiene terca",
-   "headline_en": "Nasdaq plunges nearly 4% as AI sell-off deepens and inflation stays stubborn",
-   "source": "The Motley Fool"
+   "headline": "El Nasdaq recorta pérdidas tras desplomarse casi 4% en la mañana; las acciones de IA rebotan desde sus mínimos",
+   "headline_en": "Nasdaq pares losses after plunging nearly 4% in the morning as AI stocks bounce off session lows",
+   "source": "Investopedia"
   },
   {
    "headline": "El PCE subyacente salió más caliente de lo esperado y refuerza los temores de más alzas de la Fed",
    "headline_en": "Core PCE came in hotter than expected, reinforcing fears of more Fed rate hikes",
-   "source": "Reuters"
+   "source": "TradingView"
   },
   {
-   "headline": "Nvidia cae cerca de 7% y arrastra a los chips: Micron, AMD y Broadcom se hunden en la venta de IA",
-   "headline_en": "Nvidia drops about 7% and drags chips lower: Micron, AMD and Broadcom tumble in the AI sell-off",
+   "headline": "Nvidia cae cerca de 5% y sigue arrastrando a los chips tras perder hasta 8.7% en la sesión",
+   "headline_en": "Nvidia down about 5% and still dragging chips lower after falling as much as 8.7% in the session",
    "source": "Investopedia"
   },
   {
-   "headline": "El VIX se dispara por encima de 30 y anota uno de sus mayores saltos mensuales desde el COVID",
-   "headline_en": "VIX jumps above 30, on track for one of its biggest monthly jumps since COVID",
-   "source": "Reuters"
+   "headline": "El VIX saltó por encima de 30, hasta 35 en la mañana, y ahora ronda 28",
+   "headline_en": "VIX surged above 30, as high as 35 in the morning, and now sits around 28",
+   "source": "Investopedia"
   },
   {
    "headline": "El Nasdaq 100 ya está cerca de 16% por debajo de su récord, en corrección y coqueteando con territorio bajista",
@@ -42,9 +42,9 @@
    "source": "Zacks"
   },
   {
-   "headline": "HP se dispara 11% tras superar expectativas y dar un pronóstico optimista para el año fiscal 2027",
-   "headline_en": "HP jumps 11% after beating expectations and issuing an upbeat fiscal 2027 outlook",
-   "source": "The Motley Fool"
+   "headline": "Los mercados cierran mañana jueves por Thanksgiving; el viernes habrá sesión corta",
+   "headline_en": "U.S. markets closed Thursday for Thanksgiving; shortened session on Friday",
+   "source": "Investopedia"
   }
  ],
  "ultima_hora": {
