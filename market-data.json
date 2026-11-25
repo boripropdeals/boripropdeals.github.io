@@ -1,56 +1,51 @@
 {
- "updated_at": "2026-11-25T12:02:33.590762+00:00",
+ "updated_at": "2026-11-25T12:02:53.344521+00:00",
  "nq": {
-  "price": 25575.25,
-  "change_points": -700.5,
-  "percent_change": -2.67
+  "price": 25568.0,
+  "change_points": -707.75,
+  "percent_change": -2.69
  },
  "gold": {
-  "price": 3540.4,
-  "change_points": -21.5,
+  "price": 3540.7,
+  "change_points": -21.2,
   "percent_change": -0.6
  },
  "oil": {
-  "price": 81.52,
-  "change_points": -0.53,
-  "percent_change": -0.65
+  "price": 81.49,
+  "change_points": -0.56,
+  "percent_change": -0.68
  },
  "headlines": [
   {
-   "headline": "El Nasdaq cae 1.5% y el S&P 500 0.5% tras el rally histórico; Nvidia pierde 6% tras subir 31% el lunes",
-   "headline_en": "Nasdaq falls 1.5% and S&P 500 drops 0.5% after historic rally; Nvidia slides 6% after Monday's 31% surge",
-   "source": "Investopedia"
+   "headline": "Los futuros del Nasdaq se desploman más de 2% por los nuevos planes de aranceles de EE. UU.; la inflación PCE en el foco",
+   "headline_en": "Nasdaq futures slide over 2% on fresh US tariff plans; inflation data in focus",
+   "source": "Reuters"
   },
   {
-   "headline": "El Dow sube 0.9% con más de 400 puntos mientras los inversores rotan hacia sectores defensivos",
-   "headline_en": "Dow climbs 0.9%, adding over 400 points, as investors rotate into defensive sectors",
-   "source": "Investopedia"
+   "headline": "Nvidia cae casi 5% y el rally de la IA se desinfla; Dell se desploma 12% y Ambarella 37% tras resultados",
+   "headline_en": "Nvidia slides as AI rally fades; Dell slumps 12% and Ambarella plunges 37% after earnings",
+   "source": "TradingView"
   },
   {
-   "headline": "Analog Devices se desploma casi 17% tras decepcionar con su previsión de ganancias",
-   "headline_en": "Analog Devices plunges nearly 17% after disappointing earnings outlook",
-   "source": "Investopedia"
+   "headline": "Hoy 7:30am CT: PCE de octubre y PIB del tercer trimestre, la última gran data antes de la reunión de diciembre de la Fed",
+   "headline_en": "PCE inflation and Q3 GDP due today at 7:30am CT, final major data before the Fed’s December meeting",
+   "source": "Reuters"
   },
   {
-   "headline": "Anthropic cae por debajo de su precio de salida a bolsa tras perder 6.5% en la sesión",
-   "headline_en": "Anthropic falls below its IPO price after dropping 6.5% in the session",
-   "source": "Investopedia"
+   "headline": "El Dow subió 0.85% el martes mientras el Nasdaq cayó 1.48%: sesión mixta con rotación fuera de la tecnología",
+   "headline_en": "Dow rose 0.85% Tuesday as Nasdaq fell 1.48% in a mixed session with rotation out of tech",
+   "source": "TradingView"
   },
   {
-   "headline": "Amazon acuerda adquirir la tecnología de IA de Decart en un acuerdo de $7,500 millones",
-   "headline_en": "Amazon agrees to acquire Decart's AI technology in a $7.5 billion deal",
-   "source": "CNBC"
-  },
-  {
-   "headline": "La confianza del consumidor salta a 103.3, su nivel más alto desde enero de 2025",
-   "headline_en": "Consumer confidence jumps to 103.3, its highest since January 2025",
-   "source": "The Conference Board"
+   "headline": "Los mercados de EE. UU. cierran el jueves por el Día de Acción de Gracias",
+   "headline_en": "US stock and bond markets closed Thursday for Thanksgiving",
+   "source": "Barchart"
   }
  ],
  "ultima_hora": {
-  "headline": "Trump prepara una nueva oleada de aranceles contra China y decenas de países",
-  "headline_en": "Trump readies new tariff barrage on China and dozens of other countries",
-  "source": "The Wall Street Journal",
+  "headline": "Trump prepara nuevos aranceles contra China y decenas de países; los futuros del Nasdaq se desploman más de 2%",
+  "headline_en": "Trump readies new tariffs on China and dozens of countries; Nasdaq futures plunge over 2%",
+  "source": "Reuters / The Wall Street Journal",
   "image": "",
   "images": [
    "https://boripropdeals.github.io/breaking-visuals/trump-aranceles-puerto-contenedores-2026-11-24.jpg",
