@@ -1,39 +1,39 @@
 {
- "updated_at": "2026-11-25T17:32:33.028465+00:00",
+ "updated_at": "2026-11-25T17:33:21.568040+00:00",
  "nq": {
-  "price": 25622.75,
-  "change_points": -653.0,
-  "percent_change": -2.49
+  "price": 25563.75,
+  "change_points": -712.0,
+  "percent_change": -2.71
  },
  "gold": {
-  "price": 3540.3,
-  "change_points": -21.6,
-  "percent_change": -0.61
+  "price": 3531.2,
+  "change_points": -30.7,
+  "percent_change": -0.86
  },
  "oil": {
-  "price": 83.55,
-  "change_points": 1.5,
-  "percent_change": 1.83
+  "price": 83.53,
+  "change_points": 1.48,
+  "percent_change": 1.8
  },
  "headlines": [
   {
-   "headline": "Los futuros del Nasdaq caen 2.8% antes de la apertura: la venta de IA se profundiza en la última sesión antes de Thanksgiving",
-   "headline_en": "Nasdaq futures fall 2.8% before the open as the AI selloff deepens in the last session before Thanksgiving",
+   "headline": "El Nasdaq se desploma y el VIX supera 30 mientras la venta de IA se intensifica en la última sesión antes de Thanksgiving",
+   "headline_en": "Nasdaq tumbles and the VIX jumps above 30 as the AI selloff intensifies in the last session before Thanksgiving",
    "source": "Investopedia"
   },
   {
-   "headline": "Nvidia cae más de 5% y Anthropic sigue bajo su precio de salida a bolsa mientras continúa la venta de acciones de IA",
-   "headline_en": "Nvidia drops over 5% and Anthropic stays below its IPO price as the AI selloff continues",
+   "headline": "Nvidia cae 7% y Anthropic sigue por debajo de su precio de salida a bolsa en plena venta de acciones de IA",
+   "headline_en": "Nvidia drops 7% and Anthropic stays below its IPO price amid the AI stock selloff",
    "source": "Investopedia"
   },
   {
-   "headline": "La inflación PCE de octubre llega en línea con lo esperado: 3.8% interanual, último dato antes de la reunión de la Fed en diciembre",
-   "headline_en": "October PCE inflation lands in line with expectations at 3.8% year over year, the last reading before the Fed’s December meeting",
+   "headline": "La inflación PCE de octubre llega en línea con lo esperado, último dato importante antes de la reunión de la Fed en diciembre",
+   "headline_en": "October PCE inflation lands in line with expectations, the last major reading before the December Fed meeting",
    "source": "Investopedia"
   },
   {
-   "headline": "Dell cae cerca de 5% pese a superar estimaciones y elevar su pronóstico",
-   "headline_en": "Dell falls nearly 5% despite beating estimates and lifting its outlook",
+   "headline": "Dell cae pese a superar estimaciones y elevar su pronóstico anual",
+   "headline_en": "Dell falls despite beating estimates and lifting its annual outlook",
    "source": "Investopedia"
   },
   {
