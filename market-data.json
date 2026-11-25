@@ -1,29 +1,29 @@
 {
- "updated_at": "2026-11-25T14:32:31.844144+00:00",
+ "updated_at": "2026-11-25T14:33:38.358175+00:00",
  "nq": {
-  "price": 25423.75,
-  "change_points": -852.0,
-  "percent_change": -3.24
+  "price": 25430.0,
+  "change_points": -845.75,
+  "percent_change": -3.22
  },
  "gold": {
-  "price": 3506.3,
-  "change_points": -55.6,
-  "percent_change": -1.56
+  "price": 3508.1,
+  "change_points": -53.8,
+  "percent_change": -1.51
  },
  "oil": {
-  "price": 82.88,
-  "change_points": 0.83,
-  "percent_change": 1.01
+  "price": 82.92,
+  "change_points": 0.87,
+  "percent_change": 1.06
  },
  "headlines": [
   {
-   "headline": "Los futuros del Nasdaq se desploman ~3% por los aranceles de Trump y el desplome de la IA; la inflación PCE salió más caliente de lo esperado",
-   "headline_en": "Nasdaq futures plunge ~3% on Trump tariffs and AI selloff; PCE inflation comes in hotter than expected",
+   "headline": "Los futuros del Nasdaq se desploman ~3% por la propuesta de aranceles de Trump y el desplome de la IA; el PCE salió más caliente de lo esperado",
+   "headline_en": "Nasdaq futures plunge ~3% on Trump's tariff proposal and AI selloff; PCE inflation comes in hotter than expected",
    "source": "Reuters"
   },
   {
-   "headline": "La inflación PCE subyacente sube a 3.3% interanual, por encima del 3.2% esperado; el PIB del tercer trimestre se revisa al alza a 4.3%",
-   "headline_en": "Core PCE inflation rises to 3.3% year over year, above the 3.2% forecast; third-quarter GDP revised sharply higher to 4.3%",
+   "headline": "La inflación PCE subyacente sube a 3.3% interanual, por encima del 3.2% esperado; el PIB del tercer trimestre se revisa al alza a 4.3% y las solicitudes de desempleo caen a 189,000",
+   "headline_en": "Core PCE inflation rises to 3.3% year over year, above the 3.2% forecast; third-quarter GDP revised sharply higher to 4.3% and jobless claims fall to 189,000",
    "source": "Investor's Business Daily"
   },
   {
@@ -48,8 +48,8 @@
   }
  ],
  "ultima_hora": {
-  "headline": "EE.UU. propone formalmente nuevos aranceles: China pagaría 20% (hasta 40%) y otros 13 socios en la lista; entrarían en vigor en enero",
-  "headline_en": "U.S. formally proposes new tariffs: China faces 20% (up to 40%) as 13 other partners are targeted; duties could take effect in January",
+  "headline": "EE.UU. propone formalmente nuevos aranceles a 14 socios: China pagaría 20% adicional sobre el ~25% vigente; entrarían en vigor en enero tras audiencia pública",
+  "headline_en": "U.S. formally proposes new tariffs on 14 partners: China faces an extra 20% on top of the ~25% already in place; duties could take effect in January after a public hearing",
   "source": "Reuters",
   "image": "",
   "images": [
