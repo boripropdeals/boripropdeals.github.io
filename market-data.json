@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-11-25T21:32:32.317875+00:00",
+ "updated_at": "2026-11-25T21:34:15.850206+00:00",
  "nq": {
-  "price": 26086.5,
-  "change_points": -189.25,
-  "percent_change": -0.72
+  "price": 26090.5,
+  "change_points": -185.25,
+  "percent_change": -0.71
  },
  "gold": {
-  "price": 3598.2,
-  "change_points": 36.3,
-  "percent_change": 1.02
+  "price": 3597.8,
+  "change_points": 35.9,
+  "percent_change": 1.01
  },
  "oil": {
-  "price": 84.15,
-  "change_points": 2.1,
-  "percent_change": 2.56
+  "price": 84.18,
+  "change_points": 2.13,
+  "percent_change": 2.6
  },
  "headlines": [
   {
-   "headline": "El Nasdaq se desploma ~4% mientras se profundiza la venta masiva de acciones de IA",
-   "headline_en": "Nasdaq plunges ~4% as AI sell-off deepens",
-   "source": "The Motley Fool"
-  },
-  {
-   "headline": "La inflación PCE subyacente sube 3.3% interanual, por encima de lo esperado",
-   "headline_en": "Core PCE inflation rises 3.3% year over year, hotter than expected",
-   "source": "TradingView"
-  },
-  {
-   "headline": "Nvidia cae ~8% y los fabricantes de chips lideran las pérdidas del día",
-   "headline_en": "Nvidia falls ~8% as chipmakers lead the day’s losses",
-   "source": "Reuters"
-  },
-  {
-   "headline": "El VIX salta por encima de 30 mientras crece el miedo en Wall Street",
-   "headline_en": "VIX jumps above 30 as fear surges on Wall Street",
+   "headline": "El Nasdaq cierra con una caída de 0.6% tras desplomarse hasta 4.6% en la sesión por la venta masiva de IA y los aranceles de Trump",
+   "headline_en": "Nasdaq closes down 0.6% after plunging as much as 4.6% as AI sell-off and Trump tariffs spook Wall Street",
    "source": "Investopedia"
   },
   {
-   "headline": "HP se dispara ~11% tras superar expectativas y mejorar su panorama para 2027",
-   "headline_en": "HP surges ~11% after beating expectations and raising its fiscal 2027 outlook",
-   "source": "The Motley Fool"
+   "headline": "El Nasdaq 100 roza el mercado bajista: cayó 20% desde su máximo de octubre antes de recuperar terreno",
+   "headline_en": "Nasdaq 100 briefly falls 20% from peak, flirting with bear market territory before paring losses",
+   "source": "Reuters"
   },
   {
-   "headline": "Wall Street cierra el jueves por Acción de Gracias; sesión corta el viernes",
-   "headline_en": "U.S. markets close Thursday for Thanksgiving; shortened session Friday",
+   "headline": "Nvidia cierra con una caída de 3.9% tras perder casi 9% en la sesión; los chips lideran las pérdidas del día",
+   "headline_en": "Nvidia falls 4% at the close after losing almost 9% intraday as chipmakers lead the sell-off",
+   "source": "CNN"
+  },
+  {
+   "headline": "El VIX se dispara hasta 35, su mayor nivel de miedo en meses, y cierra cerca de 28",
+   "headline_en": "VIX surges as high as 35, its highest fear level in months, before easing to around 28",
+   "source": "Investopedia"
+  },
+  {
+   "headline": "La inflación PCE subyacente sube 3.3% interanual y el PIB del tercer trimestre se revisa al alza a 4.3%",
+   "headline_en": "Core PCE inflation rises 3.3% year over year as third-quarter GDP is revised up to 4.3%",
    "source": "Reuters"
+  },
+  {
+   "headline": "HP se dispara 11% tras superar expectativas; Wall Street cierra mañana por Acción de Gracias",
+   "headline_en": "HP surges 11% on strong earnings as Wall Street closes Thursday for Thanksgiving",
+   "source": "The Motley Fool"
   }
  ],
  "ultima_hora": {
