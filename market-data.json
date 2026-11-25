@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-25T20:34:35.920221+00:00",
+ "updated_at": "2026-11-25T20:34:44.433385+00:00",
  "nq": {
-  "price": 26038.0,
-  "change_points": -237.75,
+  "price": 26040.0,
+  "change_points": -235.75,
   "percent_change": -0.9
  },
  "gold": {
-  "price": 3604.5,
-  "change_points": 42.6,
-  "percent_change": 1.2
+  "price": 3603.8,
+  "change_points": 41.9,
+  "percent_change": 1.18
  },
  "oil": {
   "price": 84.01,
@@ -22,8 +22,8 @@
    "source": "Investopedia"
   },
   {
-   "headline": "El PCE subyacente salió más caliente de lo esperado y refuerza los temores de más alzas de la Fed",
-   "headline_en": "Core PCE came in hotter than expected, reinforcing fears of more Fed rate hikes",
+   "headline": "El PCE subyacente subió a 3.3% interanual, por encima del 3.2% esperado, y refuerza los temores de más alzas de la Fed",
+   "headline_en": "Core PCE rose to 3.3% year over year, above the 3.2% expected, reinforcing fears of more Fed rate hikes",
    "source": "TradingView"
   },
   {
@@ -32,14 +32,14 @@
    "source": "Investopedia"
   },
   {
-   "headline": "El VIX saltó por encima de 30, hasta 35 en la mañana, y ahora ronda 28",
-   "headline_en": "VIX surged above 30, as high as 35 in the morning, and now sits around 28",
+   "headline": "Dell cae pese a resultados sólidos y una guía al alza",
+   "headline_en": "Dell falls despite strong results and a lifted outlook",
    "source": "Investopedia"
   },
   {
-   "headline": "El Nasdaq 100 ya está cerca de 16% por debajo de su récord, en corrección y coqueteando con territorio bajista",
-   "headline_en": "Nasdaq 100 now about 16% below its record high, in correction territory and flirting with bear market",
-   "source": "Zacks"
+   "headline": "Anthropic cae por debajo de su precio de salida a bolsa y ahonda la venta masiva de acciones de IA",
+   "headline_en": "Anthropic falls below its IPO price, deepening the AI stock selloff",
+   "source": "Investors.com"
   },
   {
    "headline": "Los mercados cierran mañana jueves por Thanksgiving; el viernes habrá sesión corta",
