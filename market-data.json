@@ -1,44 +1,49 @@
 {
- "updated_at": "2026-11-25T12:32:30.987334+00:00",
+ "updated_at": "2026-11-25T12:33:19.893099+00:00",
  "nq": {
-  "price": 25492.5,
-  "change_points": -783.25,
-  "percent_change": -2.98
+  "price": 25524.5,
+  "change_points": -751.25,
+  "percent_change": -2.86
  },
  "gold": {
-  "price": 3548.0,
-  "change_points": -13.9,
-  "percent_change": -0.39
+  "price": 3549.1,
+  "change_points": -12.8,
+  "percent_change": -0.36
  },
  "oil": {
-  "price": 82.48,
-  "change_points": 0.43,
-  "percent_change": 0.52
+  "price": 82.5,
+  "change_points": 0.45,
+  "percent_change": 0.55
  },
  "headlines": [
   {
-   "headline": "Los futuros del Nasdaq se desploman más de 2% por los nuevos planes de aranceles de EE. UU.; la inflación PCE en el foco",
-   "headline_en": "Nasdaq futures slide over 2% on fresh US tariff plans; inflation data in focus",
+   "headline": "Los futuros del Nasdaq caen más de 2% por los nuevos planes de aranceles de EE. UU. contra China y decenas de países",
+   "headline_en": "Nasdaq futures slide over 2% on fresh US tariff plans against China and dozens of countries",
    "source": "Reuters"
   },
   {
-   "headline": "Nvidia cae casi 5% y el rally de la IA se desinfla; Dell se desploma 12% y Ambarella 37% tras resultados",
-   "headline_en": "Nvidia slides as AI rally fades; Dell slumps 12% and Ambarella plunges 37% after earnings",
-   "source": "TradingView"
-  },
-  {
-   "headline": "Hoy 7:30am CT: PCE de octubre y PIB del tercer trimestre, la última gran data antes de la reunión de diciembre de la Fed",
-   "headline_en": "PCE inflation and Q3 GDP due today at 7:30am CT, final major data before the Fed’s December meeting",
+   "headline": "La inflación PCE, el PIB del tercer trimestre y las solicitudes de desempleo llegan hoy a las 7:30am, antes de la reunión de diciembre de la Fed",
+   "headline_en": "PCE inflation, Q3 GDP and jobless claims due at 8:30am ET ahead of the Fed’s December meeting",
    "source": "Reuters"
   },
   {
-   "headline": "El Dow subió 0.85% el martes mientras el Nasdaq cayó 1.48%: sesión mixta con rotación fuera de la tecnología",
-   "headline_en": "Dow rose 0.85% Tuesday as Nasdaq fell 1.48% in a mixed session with rotation out of tech",
-   "source": "TradingView"
+   "headline": "Nvidia cae 5% en premercado y el desplome de la IA continúa tras desvanecerse el repunte por el regreso de Huang",
+   "headline_en": "Nvidia slides 5% pre-market as AI selloff resumes after Huang rally fades",
+   "source": "Barchart"
   },
   {
-   "headline": "Los mercados de EE. UU. cierran el jueves por el Día de Acción de Gracias",
-   "headline_en": "US stock and bond markets closed Thursday for Thanksgiving",
+   "headline": "Dell dispara sus ingresos 103% interanual a $54,900 millones, pero la acción no logra subir tras el reporte",
+   "headline_en": "Dell revenue jumps 103% year over year to $54.9 billion, but shares fail to rally",
+   "source": "XTB"
+  },
+  {
+   "headline": "El Dow subió 0.85% el martes mientras el Nasdaq cayó 1.5%: el dinero rota fuera de la tecnología",
+   "headline_en": "Dow rose 0.85% Tuesday as Nasdaq sank 1.5% in rotation out of tech",
+   "source": "Investor’s Business Daily"
+  },
+  {
+   "headline": "Los mercados cierran el jueves por Acción de Gracias; el bono del Tesoro a 10 años rinde 4.85%",
+   "headline_en": "US markets closed Thursday for Thanksgiving; 10-year Treasury yield at 4.85%",
    "source": "Barchart"
   }
  ],
