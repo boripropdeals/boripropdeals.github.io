@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-25T21:02:34.642499+00:00",
+ "updated_at": "2026-11-25T21:03:22.670445+00:00",
  "nq": {
-  "price": 26067.0,
-  "change_points": -208.75,
-  "percent_change": -0.79
+  "price": 26058.5,
+  "change_points": -217.25,
+  "percent_change": -0.83
  },
  "gold": {
-  "price": 3604.0,
-  "change_points": 42.1,
-  "percent_change": 1.18
+  "price": 3602.5,
+  "change_points": 40.6,
+  "percent_change": 1.14
  },
  "oil": {
   "price": 84.09,
@@ -17,34 +17,34 @@
  },
  "headlines": [
   {
-   "headline": "El Nasdaq recorta pérdidas tras desplomarse casi 4% en la mañana; las acciones de IA rebotan desde sus mínimos",
-   "headline_en": "Nasdaq pares losses after plunging nearly 4% in the morning as AI stocks bounce off session lows",
-   "source": "Investopedia"
+   "headline": "El Nasdaq se desploma ~4% mientras se profundiza la venta masiva de acciones de IA",
+   "headline_en": "Nasdaq plunges ~4% as AI sell-off deepens",
+   "source": "The Motley Fool"
   },
   {
-   "headline": "El PCE subyacente subió a 3.3% interanual, por encima del 3.2% esperado, y refuerza los temores de más alzas de la Fed",
-   "headline_en": "Core PCE rose to 3.3% year over year, above the 3.2% expected, reinforcing fears of more Fed rate hikes",
+   "headline": "La inflación PCE subyacente sube 3.3% interanual, por encima de lo esperado",
+   "headline_en": "Core PCE inflation rises 3.3% year over year, hotter than expected",
    "source": "TradingView"
   },
   {
-   "headline": "Nvidia cae cerca de 5% y sigue arrastrando a los chips tras perder hasta 8.7% en la sesión",
-   "headline_en": "Nvidia down about 5% and still dragging chips lower after falling as much as 8.7% in the session",
+   "headline": "Nvidia cae ~8% y los fabricantes de chips lideran las pérdidas del día",
+   "headline_en": "Nvidia falls ~8% as chipmakers lead the day’s losses",
+   "source": "Reuters"
+  },
+  {
+   "headline": "El VIX salta por encima de 30 mientras crece el miedo en Wall Street",
+   "headline_en": "VIX jumps above 30 as fear surges on Wall Street",
    "source": "Investopedia"
   },
   {
-   "headline": "Dell cae pese a resultados sólidos y una guía al alza",
-   "headline_en": "Dell falls despite strong results and a lifted outlook",
-   "source": "Investopedia"
+   "headline": "HP se dispara ~11% tras superar expectativas y mejorar su panorama para 2027",
+   "headline_en": "HP surges ~11% after beating expectations and raising its fiscal 2027 outlook",
+   "source": "The Motley Fool"
   },
   {
-   "headline": "Anthropic cae por debajo de su precio de salida a bolsa y ahonda la venta masiva de acciones de IA",
-   "headline_en": "Anthropic falls below its IPO price, deepening the AI stock selloff",
-   "source": "Investors.com"
-  },
-  {
-   "headline": "Los mercados cierran mañana jueves por Thanksgiving; el viernes habrá sesión corta",
-   "headline_en": "U.S. markets closed Thursday for Thanksgiving; shortened session on Friday",
-   "source": "Investopedia"
+   "headline": "Wall Street cierra el jueves por Acción de Gracias; sesión corta el viernes",
+   "headline_en": "U.S. markets close Thursday for Thanksgiving; shortened session Friday",
+   "source": "Reuters"
   }
  ],
  "ultima_hora": {
