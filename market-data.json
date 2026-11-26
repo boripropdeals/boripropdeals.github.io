@@ -1,50 +1,45 @@
 {
- "updated_at": "2026-11-26T13:02:32.764280+00:00",
+ "updated_at": "2026-11-26T13:02:48.362066+00:00",
  "nq": {
-  "price": 26300.0,
-  "change_points": 24.25,
-  "percent_change": 0.09
+  "price": 26303.0,
+  "change_points": 27.25,
+  "percent_change": 0.1
  },
  "gold": {
-  "price": 3593.0,
-  "change_points": 31.1,
-  "percent_change": 0.87
+  "price": 3593.2,
+  "change_points": 31.3,
+  "percent_change": 0.88
  },
  "oil": {
-  "price": 84.71,
-  "change_points": 2.66,
-  "percent_change": 3.24
+  "price": 84.7,
+  "change_points": 2.65,
+  "percent_change": 3.23
  },
  "headlines": [
   {
-   "headline": "Wall Street remonta en V: el S&P 500 cierra casi plano tras caer 3.2% en el día",
-   "headline_en": "Wall Street stages deep-V comeback: S&P 500 closes nearly flat after falling 3.2% intraday",
-   "source": "Dow Jones Newswires"
+   "headline": "El Nasdaq 100 rozó el mercado bajista y rebotó con compras de oportunidad",
+   "headline_en": "Nasdaq 100 briefly entered bear-market territory before dip buyers stepped in",
+   "source": "CNBC TV18"
   },
   {
-   "headline": "Mercados de EE. UU. cerrados hoy por Acción de Gracias; los futuros apuntan al alza",
-   "headline_en": "U.S. markets closed for Thanksgiving; futures point higher",
-   "source": "Morningstar"
+   "headline": "La inflación PCE subyacente sube a 3.3% y el mercado ya da por segura una subida de la Fed en diciembre",
+   "headline_en": "Core PCE rises to 3.3% as markets price a near-certain Fed rate hike in December",
+   "source": "CNBC TV18"
   },
   {
-   "headline": "La inflación PCE se calienta: núcleo 3.3% interanual, máximo desde noviembre de 2023",
-   "headline_en": "PCE inflation heats up: core 3.3% year-on-year, highest since November 2023",
-   "source": "Equiti"
+   "headline": "Asia y Europa rebotan tras la recuperación de Wall Street; mercados de EE. UU. cerrados por Acción de Gracias",
+   "headline_en": "Asia and Europe rebound after Wall Street recovery; US markets closed for Thanksgiving",
+   "source": "Newsquawk"
   },
   {
-   "headline": "El PIB de EE. UU. del tercer trimestre se revisa al alza hasta 4.3% anual",
-   "headline_en": "U.S. third-quarter GDP revised up to 4.3% annualized",
-   "source": "Equiti"
+   "headline": "El petróleo Brent supera los $94 tras ataques hutíes a puertos de Arabia Saudita",
+   "headline_en": "Brent crude tops $94 after Houthi strikes on Saudi ports",
+   "source": "Reuters"
   },
   {
-   "headline": "El oro rebota 163 dólares hasta 3,589 y el bitcóin vuelve sobre 60,000",
-   "headline_en": "Gold rebounds $163 to $3,589 and bitcoin climbs back above $60,000",
-   "source": "Get Leveraged"
-  },
-  {
-   "headline": "El petróleo se mantiene alto: Brent cerca de 94.60 dólares por tensiones en el mar Rojo",
-   "headline_en": "Oil stays elevated: Brent near $94.60 on Red Sea tensions",
-   "source": "Morningstar"
+   "headline": "El Banco de Corea sube tasas a 3.25% y el Banco de Japón abre la puerta a un alza de 50 puntos",
+   "headline_en": "Bank of Korea hikes rates to 3.25% as Bank of Japan signals a possible 50bp move",
+   "source": "Newsquawk"
   }
  ],
  "ultima_hora": {
