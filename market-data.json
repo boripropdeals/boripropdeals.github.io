@@ -1,50 +1,45 @@
 {
- "updated_at": "2026-11-26T19:32:37.459437+00:00",
+ "updated_at": "2026-11-26T19:34:18.981073+00:00",
  "nq": {
   "price": 26221.25,
   "change_points": -54.5,
   "percent_change": -0.21
  },
  "gold": {
-  "price": 3593.5,
-  "change_points": 31.6,
-  "percent_change": 0.89
+  "price": 3592.8,
+  "change_points": 30.9,
+  "percent_change": 0.87
  },
  "oil": {
-  "price": 84.89,
-  "change_points": 2.84,
-  "percent_change": 3.46
+  "price": 84.86,
+  "change_points": 2.81,
+  "percent_change": 3.42
  },
  "headlines": [
   {
-   "headline": "Futuros de EE.UU. suben en Acción de Gracias tras la remontada histórica del Nasdaq",
-   "headline_en": "U.S. stock futures rise on Thanksgiving after Nasdaq's historic comeback",
+   "headline": "Futuros de EE. UU. suben mientras el comercio de IA se estabiliza en el receso de Acción de Gracias",
+   "headline_en": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
    "source": "Morningstar"
   },
   {
-   "headline": "El Nasdaq 100 rozó el mercado bajista y cerró con su mayor remontada desde abril de 2025",
-   "headline_en": "Nasdaq 100 briefly touched bear-market territory before staging its biggest comeback since April 2025",
-   "source": "ZeroHedge"
+   "headline": "Wall Street cerrada hoy por Acción de Gracias; el viernes cierra temprano a la 1 p.m. ET",
+   "headline_en": "Is the Stock Market Open Today? Here Are the Trading Hours for Thanksgiving",
+   "source": "Barron's"
   },
   {
-   "headline": "S&P pone la calificación AA de Nvidia en revisión negativa por dudas de gobierno corporativo",
-   "headline_en": "S&P places Nvidia's AA rating on CreditWatch negative over governance concerns",
+   "headline": "El Nasdaq esquiva el mercado bajista tras la remontada del miércoles; el petróleo sube por los ataques hutíes",
+   "headline_en": "Futures Extend Thanksgiving Turnaround As Nasdaq Dodges Bear Market, Oil Climbs On Houthi Strikes",
+   "source": "DailyFoxNews"
+  },
+  {
+   "headline": "El PIB de EE. UU. del tercer trimestre se revisa al alza, de 3.4% a 4.3%",
+   "headline_en": "Third-quarter U.S. GDP revised up to 4.3% from 3.4%",
    "source": "Reuters"
   },
   {
-   "headline": "El petróleo sube tras los ataques hutíes a puertos saudíes en el Mar Rojo",
-   "headline_en": "Oil climbs after Houthi strikes on Saudi Red Sea ports",
-   "source": "ZeroHedge"
-  },
-  {
-   "headline": "El PIB del tercer trimestre se revisó al alza a 4.3%, el crecimiento más rápido en tres años",
-   "headline_en": "Q3 GDP revised up to 4.3%, the fastest growth in three years",
-   "source": "New York Post"
-  },
-  {
-   "headline": "Mercados cerrados por Acción de Gracias; el rebote global anticipa un Black Friday fuerte",
-   "headline_en": "Markets closed for Thanksgiving as global rebound sets up a strong Black Friday",
-   "source": "Barron's"
+   "headline": "Nvidia: caída de 9.1% se convierte en ganancia de 1.3% tras el regreso de Jensen Huang como CEO",
+   "headline_en": "Nvidia's 9.1% slide turns into a 1.3% gain as Jensen Huang returns as CEO",
+   "source": "Morningstar"
   }
  ],
  "ultima_hora": {
