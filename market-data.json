@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T20:02:33.086338+00:00",
+ "updated_at": "2026-11-26T20:03:51.295140+00:00",
  "nq": {
   "price": 26221.25,
   "change_points": -54.5,
@@ -17,29 +17,34 @@
  },
  "headlines": [
   {
-   "headline": "Futuros de EE. UU. suben mientras el comercio de IA se estabiliza en el receso de Acción de Gracias",
-   "headline_en": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
+   "headline": "Futuros de EE. UU. suben en Acción de Gracias mientras el comercio de IA se estabiliza",
+   "headline_en": "U.S. stock futures rise on Thanksgiving as the AI trade steadies",
    "source": "Morningstar"
   },
   {
-   "headline": "Wall Street cerrada hoy por Acción de Gracias; el viernes cierra temprano a la 1 p.m. ET",
-   "headline_en": "Is the Stock Market Open Today? Here Are the Trading Hours for Thanksgiving",
-   "source": "Barron's"
+   "headline": "El Nasdaq 100 rozó el mercado bajista el miércoles y cerró con su mayor remontada desde abril de 2025",
+   "headline_en": "Nasdaq 100 briefly touched bear-market territory Wednesday, then staged its sharpest comeback since April 2025",
+   "source": "ZeroHedge"
   },
   {
-   "headline": "El Nasdaq esquiva el mercado bajista tras la remontada del miércoles; el petróleo sube por los ataques hutíes",
-   "headline_en": "Futures Extend Thanksgiving Turnaround As Nasdaq Dodges Bear Market, Oil Climbs On Houthi Strikes",
-   "source": "DailyFoxNews"
+   "headline": "S&P pone en revisión negativa la calificación AA de Nvidia tras el regreso de Jensen Huang como CEO",
+   "headline_en": "S&P puts Nvidia’s AA rating on CreditWatch negative after Jensen Huang’s return as CEO",
+   "source": "ZeroHedge"
   },
   {
-   "headline": "El PIB de EE. UU. del tercer trimestre se revisa al alza, de 3.4% a 4.3%",
-   "headline_en": "Third-quarter U.S. GDP revised up to 4.3% from 3.4%",
+   "headline": "El petróleo sube: los hutíes atacan puertos saudíes del Mar Rojo y el Brent llega a $94.61",
+   "headline_en": "Oil climbs as Houthis strike Saudi Red Sea ports and Brent reaches $94.61",
    "source": "Reuters"
   },
   {
-   "headline": "Nvidia: caída de 9.1% se convierte en ganancia de 1.3% tras el regreso de Jensen Huang como CEO",
-   "headline_en": "Nvidia's 9.1% slide turns into a 1.3% gain as Jensen Huang returns as CEO",
-   "source": "Morningstar"
+   "headline": "El PIB de EE. UU. del tercer trimestre se revisa al alza, de 3.4% a 4.3%",
+   "headline_en": "U.S. third-quarter GDP revised up to 4.3% from 3.4%",
+   "source": "Reuters"
+  },
+  {
+   "headline": "Mercados de EE. UU. cerrados hoy por Acción de Gracias; el viernes la sesión termina a la 1 p.m. ET",
+   "headline_en": "U.S. markets closed today for Thanksgiving; Friday is a short session ending at 1 p.m. ET",
+   "source": "Barron’s"
   }
  ],
  "ultima_hora": {
