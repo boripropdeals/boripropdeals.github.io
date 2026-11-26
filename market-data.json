@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-26T19:02:34.196371+00:00",
+ "updated_at": "2026-11-26T19:03:09.552362+00:00",
  "nq": {
   "price": 26221.25,
   "change_points": -54.5,
   "percent_change": -0.21
  },
  "gold": {
-  "price": 3595.2,
-  "change_points": 33.3,
-  "percent_change": 0.93
+  "price": 3595.6,
+  "change_points": 33.7,
+  "percent_change": 0.95
  },
  "oil": {
   "price": 84.92,
@@ -17,34 +17,34 @@
  },
  "headlines": [
   {
-   "headline": "Futuros de EE.UU. suben mientras el comercio de IA se estabiliza por Acción de Gracias",
-   "headline_en": "U.S. stock futures rise as AI trade steadies for Thanksgiving break",
-   "source": "Wall Street Journal"
+   "headline": "Futuros de EE.UU. suben en Acción de Gracias tras la remontada histórica del Nasdaq",
+   "headline_en": "U.S. stock futures rise on Thanksgiving after Nasdaq's historic comeback",
+   "source": "Morningstar"
   },
   {
-   "headline": "El Nasdaq casi entra en mercado bajista: cayó 4.6% intradiario el miércoles antes de recuperar casi todo",
-   "headline_en": "Nasdaq nearly entered bear market Wednesday, plunging 4.6% intraday before rebounding",
-   "source": "Investor's Business Daily"
+   "headline": "El Nasdaq 100 rozó el mercado bajista y cerró con su mayor remontada desde abril de 2025",
+   "headline_en": "Nasdaq 100 briefly touched bear-market territory before staging its biggest comeback since April 2025",
+   "source": "ZeroHedge"
   },
   {
-   "headline": "La inflación PCE sube a 3.8% anual, su nivel más alto en cinco meses",
-   "headline_en": "PCE inflation rises to 3.8% annually, hottest in five months",
+   "headline": "S&P pone la calificación AA de Nvidia en revisión negativa por dudas de gobierno corporativo",
+   "headline_en": "S&P places Nvidia's AA rating on CreditWatch negative over governance concerns",
+   "source": "Reuters"
+  },
+  {
+   "headline": "El petróleo sube tras los ataques hutíes a puertos saudíes en el Mar Rojo",
+   "headline_en": "Oil climbs after Houthi strikes on Saudi Red Sea ports",
+   "source": "ZeroHedge"
+  },
+  {
+   "headline": "El PIB del tercer trimestre se revisó al alza a 4.3%, el crecimiento más rápido en tres años",
+   "headline_en": "Q3 GDP revised up to 4.3%, the fastest growth in three years",
+   "source": "New York Post"
+  },
+  {
+   "headline": "Mercados cerrados por Acción de Gracias; el rebote global anticipa un Black Friday fuerte",
+   "headline_en": "Markets closed for Thanksgiving as global rebound sets up a strong Black Friday",
    "source": "Barron's"
-  },
-  {
-   "headline": "El PIB del tercer trimestre se revisa al alza a 4.3% anualizado",
-   "headline_en": "Q3 GDP revised sharply higher to 4.3% annualized",
-   "source": "Equiti"
-  },
-  {
-   "headline": "Los aranceles de Trump a 14 socios comerciales sacuden los mercados globales",
-   "headline_en": "Trump tariffs on 14 trading partners rattle global markets",
-   "source": "Reuters"
-  },
-  {
-   "headline": "El petróleo Brent sube 3.5% a $94.61 tras el ataque hutí a la mayor refinería de Arabia Saudita",
-   "headline_en": "Brent crude jumps 3.5% to $94.61 after Houthi attack on Saudi Arabia's largest refinery",
-   "source": "Reuters"
   }
  ],
  "ultima_hora": {
