@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T20:36:32.331329+00:00",
+ "updated_at": "2026-11-26T20:38:29.587504+00:00",
  "nq": {
   "price": 26221.25,
   "change_points": -54.5,
@@ -17,45 +17,45 @@
  },
  "headlines": [
   {
-   "headline": "Futuros de EE. UU. suben en Acción de Gracias mientras el comercio de IA se estabiliza",
-   "headline_en": "U.S. stock futures rise on Thanksgiving as the AI trade steadies",
+   "headline": "Los futuros apuntan a ganancias el Black Friday mientras los mercados globales celebran la resiliencia de EE. UU.",
+   "headline_en": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience",
    "source": "Morningstar"
-  },
-  {
-   "headline": "El Nasdaq 100 rozó el mercado bajista el miércoles y cerró con su mayor remontada desde abril de 2025",
-   "headline_en": "Nasdaq 100 briefly touched bear-market territory Wednesday, then staged its sharpest comeback since April 2025",
-   "source": "ZeroHedge"
-  },
-  {
-   "headline": "S&P pone en revisión negativa la calificación AA de Nvidia tras el regreso de Jensen Huang como CEO",
-   "headline_en": "S&P puts Nvidia’s AA rating on CreditWatch negative after Jensen Huang’s return as CEO",
-   "source": "ZeroHedge"
-  },
-  {
-   "headline": "El petróleo sube: los hutíes atacan puertos saudíes del Mar Rojo y el Brent llega a $94.61",
-   "headline_en": "Oil climbs as Houthis strike Saudi Red Sea ports and Brent reaches $94.61",
-   "source": "Reuters"
-  },
-  {
-   "headline": "El PIB de EE. UU. del tercer trimestre se revisa al alza, de 3.4% a 4.3%",
-   "headline_en": "U.S. third-quarter GDP revised up to 4.3% from 3.4%",
-   "source": "Reuters"
   },
   {
    "headline": "Mercados de EE. UU. cerrados hoy por Acción de Gracias; el viernes la sesión termina a la 1 p.m. ET",
    "headline_en": "U.S. markets closed today for Thanksgiving; Friday is a short session ending at 1 p.m. ET",
-   "source": "Barron’s"
+   "source": "Free Press"
+  },
+  {
+   "headline": "El S&P 500 cae 5.2% en noviembre y necesitaría subir 5.5% para cerrar el mes plano",
+   "headline_en": "S&P 500 down 5.2% in November, needs a 5.5% rally to finish the month flat",
+   "source": "CoinCentral"
+  },
+  {
+   "headline": "El Dow cerró en alza el miércoles y Nvidia remontó de -9.1% a +1.3% en la sesión",
+   "headline_en": "Dow closed higher Wednesday as Nvidia swung from a 9.1% slide to a 1.3% gain",
+   "source": "Morningstar"
+  },
+  {
+   "headline": "El petróleo sube: los hutíes atacan la mayor refinería saudí y el Brent roza los $95",
+   "headline_en": "Oil climbs as Houthis strike Saudi Arabia's largest refinery and Brent nears $95",
+   "source": "Reuters"
+  },
+  {
+   "headline": "El PIB de EE. UU. del tercer trimestre se revisa al alza, de 3.4% a 4.3%, su ritmo más rápido en tres años",
+   "headline_en": "U.S. third-quarter GDP revised up to 4.3% from 3.4%, the fastest pace in three years",
+   "source": "Reuters"
   }
  ],
  "ultima_hora": {
-  "headline": "EE.UU. propone formalmente nuevos aranceles a 14 socios: China pagaría 20% adicional sobre el ~25% vigente; entrarían en vigor en enero tras audiencia pública",
-  "headline_en": "U.S. formally proposes new tariffs on 14 partners: China faces an extra 20% on top of the ~25% already in place; duties could take effect in January after a public hearing",
+  "headline": "Trump exige investigar el PIB: dice que las cifras previas a las elecciones eran 'FALSAS' y el error fue 'masivo y deliberado'",
+  "headline_en": "Trump demands probe of GDP data, calling pre-election figures 'FAKE' and the error 'massive and purposeful'",
   "source": "Reuters",
   "image": "",
   "images": [
-   "https://boripropdeals.github.io/breaking-visuals/trump-aranceles-puerto-contenedores-2026-11-24.jpg",
-   "https://boripropdeals.github.io/breaking-visuals/trump-aranceles-bolsa-caida-2026-11-24.jpg",
-   "https://boripropdeals.github.io/breaking-visuals/trump-aranceles-casa-blanca-2026-11-24.jpg"
+   "https://boripropdeals.github.io/breaking-visuals/trump-pib-investigacion-casa-blanca-2026-11-26.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/trump-pib-investigacion-capitolio-2026-11-26.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/trump-pib-investigacion-mercados-2026-11-26.jpg"
   ]
  }
 }
