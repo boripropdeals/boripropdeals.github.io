@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T19:08:32.041047+00:00",
+ "updated_at": "2026-11-26T19:10:33.262118+00:00",
  "nq": {
   "price": 26221.25,
   "change_points": -54.5,
@@ -11,9 +11,9 @@
   "percent_change": 0.94
  },
  "oil": {
-  "price": 84.96,
-  "change_points": 2.91,
-  "percent_change": 3.55
+  "price": 84.98,
+  "change_points": 2.93,
+  "percent_change": 3.57
  },
  "headlines": [
   {
