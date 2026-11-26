@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-11-26T12:30:32.435150+00:00",
+ "updated_at": "2026-11-26T12:32:24.725083+00:00",
  "nq": {
-  "price": 26303.25,
-  "change_points": 27.5,
-  "percent_change": 0.1
+  "price": 26294.25,
+  "change_points": 18.5,
+  "percent_change": 0.07
  },
  "gold": {
-  "price": 3595.1,
-  "change_points": 33.2,
-  "percent_change": 0.93
+  "price": 3592.9,
+  "change_points": 31.0,
+  "percent_change": 0.87
  },
  "oil": {
-  "price": 84.62,
-  "change_points": 2.57,
-  "percent_change": 3.13
+  "price": 84.56,
+  "change_points": 2.51,
+  "percent_change": 3.06
  },
  "headlines": [
   {
-   "headline": "Wall Street protagoniza una remontada histórica: el Nasdaq roza el mercado bajista y se recupera; el Dow cierra en verde",
-   "headline_en": "Wall Street stages a historic comeback: Nasdaq flirts with bear market then recovers; Dow closes higher",
-   "source": "Newsquawk"
+   "headline": "Wall Street remonta en V: el S&P 500 cierra casi plano tras caer 3.2% en el día",
+   "headline_en": "Wall Street stages deep-V comeback: S&P 500 closes nearly flat after falling 3.2% intraday",
+   "source": "Dow Jones Newswires"
   },
   {
-   "headline": "Mercados de EE.UU. cerrados hoy por Acción de Gracias; los futuros suben y Asia repunta con fuerza",
-   "headline_en": "U.S. markets closed today for Thanksgiving; futures rise and Asia rallies strongly",
-   "source": "Newsquawk"
+   "headline": "Mercados de EE. UU. cerrados hoy por Acción de Gracias; los futuros apuntan al alza",
+   "headline_en": "U.S. markets closed for Thanksgiving; futures point higher",
+   "source": "Morningstar"
   },
   {
-   "headline": "La inflación PCE se calienta: el núcleo sube a 3.3% anual y el mercado ya da por segura una subida de la Fed en diciembre",
-   "headline_en": "PCE inflation heats up: core rises to 3.3% year-on-year and markets now price a December Fed hike as near-certain",
-   "source": "CNBC TV18"
+   "headline": "La inflación PCE se calienta: núcleo 3.3% interanual, máximo desde noviembre de 2023",
+   "headline_en": "PCE inflation heats up: core 3.3% year-on-year, highest since November 2023",
+   "source": "Equiti"
   },
   {
-   "headline": "Trump propone nuevos aranceles a 14 socios comerciales: China pagaría 20% adicional y la UE 15%",
-   "headline_en": "Trump proposes new tariffs on 14 trading partners: China would pay an extra 20% and the EU 15%",
-   "source": "Reuters"
+   "headline": "El PIB de EE. UU. del tercer trimestre se revisa al alza hasta 4.3% anual",
+   "headline_en": "U.S. third-quarter GDP revised up to 4.3% annualized",
+   "source": "Equiti"
   },
   {
-   "headline": "El petróleo sube por tercer día: el Brent roza los $95 tras ataques hutíes a puertos saudíes",
-   "headline_en": "Oil rises for a third straight day: Brent nears $95 after Houthi strikes on Saudi ports",
-   "source": "Newsquawk"
+   "headline": "El oro rebota 163 dólares hasta 3,589 y el bitcóin vuelve sobre 60,000",
+   "headline_en": "Gold rebounds $163 to $3,589 and bitcoin climbs back above $60,000",
+   "source": "Get Leveraged"
   },
   {
-   "headline": "El Banco de Corea sube tasas a 3.25% y el Banco de Japón apunta a una posible alza de 50 puntos en diciembre",
-   "headline_en": "Bank of Korea hikes rates to 3.25% and Bank of Japan signals a possible 50bp hike in December",
-   "source": "Newsquawk"
+   "headline": "El petróleo se mantiene alto: Brent cerca de 94.60 dólares por tensiones en el mar Rojo",
+   "headline_en": "Oil stays elevated: Brent near $94.60 on Red Sea tensions",
+   "source": "Morningstar"
   }
  ],
  "ultima_hora": {
