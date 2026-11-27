@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-11-27T13:02:33.056817+00:00",
+ "updated_at": "2026-11-27T13:03:16.836530+00:00",
  "nq": {
-  "price": 26690.25,
-  "change_points": 414.5,
+  "price": 26689.75,
+  "change_points": 414.0,
   "percent_change": 1.58
  },
  "gold": {
-  "price": 3693.5,
-  "change_points": 131.6,
-  "percent_change": 3.69
+  "price": 3692.9,
+  "change_points": 131.0,
+  "percent_change": 3.68
  },
  "oil": {
-  "price": 84.98,
-  "change_points": 2.93,
-  "percent_change": 3.57
+  "price": 85.0,
+  "change_points": 2.95,
+  "percent_change": 3.6
  },
  "headlines": [
   {
-   "headline": "Los futuros del Nasdaq suben 2.5% tras Acción de Gracias y el S&P 500 supera los 7,300",
-   "headline_en": "Nasdaq futures jump 2.5% after Thanksgiving break as S&P 500 tops 7,300",
-   "source": "TradingView"
+   "headline": "Los futuros suben con fuerza en el Black Friday: el Nasdaq avanza 2.5% y el S&P 500 1.8% tras el feriado",
+   "headline_en": "Futures surge on Black Friday: Nasdaq up 2.5%, S&P 500 up 1.8% after the holiday",
+   "source": "Reuters"
   },
   {
-   "headline": "China promete apoyo al mercado y las acciones chinas se disparan hasta 13.8%",
-   "headline_en": "China pledges market support as Chinese stocks surge up to 13.8%",
-   "source": "Bloomberg"
+   "headline": "Nvidia sube 4.7% en premarket y AMD 7%: las acciones de IA lideran el rebote tras la caída del miércoles",
+   "headline_en": "Nvidia jumps 4.7% premarket, AMD up 7% as AI stocks lead the rebound after the Wednesday drop",
+   "source": "Reuters"
   },
   {
-   "headline": "El oro supera los $3,640 y la plata se dispara en medio del repunte global",
-   "headline_en": "Gold tops $3,640 and silver surges amid global market rebound",
-   "source": "TradingView"
-  },
-  {
-   "headline": "El petróleo apunta a su primera ganancia semanal del mes tras ataque a refinería saudí",
-   "headline_en": "Oil heads for first weekly gain this month after attack on Saudi refinery",
-   "source": "XTB"
-  },
-  {
-   "headline": "El Dow cierra en récord de 50,183 pese a la caída del Nasdaq; el PIB creció 4.3%",
-   "headline_en": "Dow closes at record 50,183 despite Nasdaq drop; GDP grew 4.3%",
+   "headline": "Miércoles salvaje: el Nasdaq cayó más de 4% intradía y recuperó para cerrar con solo -0.6%",
+   "headline_en": "Wild Wednesday: Nasdaq fell over 4% intraday, then recovered to close down just 0.6%",
    "source": "Zacks"
   },
   {
-   "headline": "Nvidia cae 27% en noviembre por las nuevas reglas de exportación de chips",
-   "headline_en": "Nvidia down 27% in November on new chip export rules",
-   "source": "XTB"
+   "headline": "El oro rebota desde su mínimo de 14 meses y la plata sube 7% por encima de $44",
+   "headline_en": "Gold rebounds from a 14-month low; silver jumps 7% above $44",
+   "source": "Investing.com"
+  },
+  {
+   "headline": "El petróleo sube cerca de 3% (WTI ~$86) antes de la reunión de la OPEP+ del domingo",
+   "headline_en": "Oil climbs nearly 3% (WTI near $86) ahead of Sunday's OPEC+ meeting",
+   "source": "TipRanks"
+  },
+  {
+   "headline": "Black Friday: Adobe prevé $12,900 millones en ventas en línea en EE. UU., un 9.2% más",
+   "headline_en": "Black Friday: Adobe forecasts $12.9 billion in U.S. online sales, up 9.2%",
+   "source": "Adobe"
   }
  ],
  "ultima_hora": {
