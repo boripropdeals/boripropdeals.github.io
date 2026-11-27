@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-11-27T15:32:35.862057+00:00",
+ "updated_at": "2026-11-27T15:33:49.284914+00:00",
  "nq": {
-  "price": 26405.0,
-  "change_points": 304.75,
-  "percent_change": 1.17
+  "price": 26422.75,
+  "change_points": 322.5,
+  "percent_change": 1.24
  },
  "gold": {
-  "price": 3652.8,
-  "change_points": 117.0,
-  "percent_change": 3.31
+  "price": 3653.5,
+  "change_points": 117.7,
+  "percent_change": 3.33
  },
  "oil": {
-  "price": 83.76,
-  "change_points": 0.08,
-  "percent_change": 0.1
+  "price": 83.78,
+  "change_points": 0.1,
+  "percent_change": 0.12
  },
  "headlines": [
   {
-   "headline": "Futuros del Nasdaq suben casi 3% en el Black Friday tras el rebote de la IA",
-   "headline_en": "Nasdaq futures jump nearly 3% on Black Friday as AI stocks rebound",
+   "headline": "Los futuros del Nasdaq suben ~2.5% mientras el comercio de IA rebota tras Acción de Gracias",
+   "headline_en": "Nasdaq futures surge as AI trade rebounds after Thanksgiving",
    "source": "Reuters"
   },
   {
-   "headline": "Wall Street abre media sesión hoy: cierre a la 1pm ET tras Thanksgiving",
-   "headline_en": "Wall Street trades a half session today, closing at 1pm ET after Thanksgiving",
-   "source": "CNBC"
+   "headline": "Nvidia sube ~4% en preapertura; AMD y Broadcom también rebotan",
+   "headline_en": "Nvidia gains ~4% in premarket; AMD and Broadcom rebound too",
+   "source": "Reuters"
   },
   {
-   "headline": "Pekín despliega al equipo nacional y las acciones chinas de chips se disparan",
-   "headline_en": "Beijing unleashes the national team as Chinese chip stocks surge",
-   "source": "ZeroHedge"
+   "headline": "Sesión corta de Black Friday: Wall Street cierra a la 1 p.m. ET",
+   "headline_en": "Shortened Black Friday session: Wall Street closes at 1 p.m. ET",
+   "source": "TipRanks"
   },
   {
-   "headline": "El oro rebota con fuerza desde su mínimo de 14 meses",
-   "headline_en": "Gold rebounds sharply from a 14-month low",
-   "source": "Investing.com"
+   "headline": "Bitcoin sube 2.5% cerca de $62,000 mientras vencen $6,700 millones en opciones",
+   "headline_en": "Bitcoin rises 2.5% near $62,000 as $6.7B in options expire",
+   "source": "TradingView"
   },
   {
-   "headline": "El petróleo sube hacia 98 dólares por las tensiones geopolíticas y los ataques con drones",
-   "headline_en": "Oil climbs toward $98 on geopolitical tensions and drone attacks",
-   "source": "Investing.com"
+   "headline": "Nvidia frena los envíos de servidores con sus chips al sudeste asiático",
+   "headline_en": "Nvidia halts server shipments with its chips to Southeast Asia",
+   "source": "TradingView"
   },
   {
-   "headline": "El mercado descuenta casi 100% una subida de la Fed de 25 puntos en diciembre",
-   "headline_en": "Market prices a near-100% chance of a 25bp Fed hike in December",
-   "source": "CNBC"
+   "headline": "Black Friday: Adobe prevé $12,900 millones en ventas online en EE. UU., +9.2%",
+   "headline_en": "Black Friday: Adobe forecasts $12.9B in US online sales, up 9.2%",
+   "source": "Adobe"
   }
  ],
  "ultima_hora": {
