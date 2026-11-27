@@ -1,61 +1,61 @@
 {
- "updated_at": "2026-11-27T14:04:54.548695+00:00",
+ "updated_at": "2026-11-27T14:05:46.917803+00:00",
  "nq": {
-  "price": 26708.0,
-  "change_points": 432.25,
-  "percent_change": 1.65
+  "price": 26700.25,
+  "change_points": 424.5,
+  "percent_change": 1.62
  },
  "gold": {
-  "price": 3673.7,
-  "change_points": 111.8,
-  "percent_change": 3.14
+  "price": 3676.0,
+  "change_points": 114.1,
+  "percent_change": 3.2
  },
  "oil": {
-  "price": 84.33,
-  "change_points": 2.28,
-  "percent_change": 2.78
+  "price": 84.37,
+  "change_points": 2.32,
+  "percent_change": 2.83
  },
  "headlines": [
   {
-   "headline": "Los futuros de EE. UU. suben fuerte en el Black Friday y el Nasdaq lidera el rebote tras el feriado",
-   "headline_en": "U.S. futures surge on Black Friday as Nasdaq leads the rebound after Thanksgiving",
+   "headline": "Futuros del Nasdaq suben casi 3% en el Black Friday tras el rebote de la IA",
+   "headline_en": "Nasdaq futures jump nearly 3% on Black Friday as AI stocks rebound",
    "source": "Reuters"
   },
   {
-   "headline": "Las acciones de IA y chips rebotan: Nvidia sube 4.7% en preapertura y AMD 7%",
-   "headline_en": "AI and chip stocks rebound: Nvidia up 4.7% premarket, AMD up 7%",
-   "source": "Reuters"
+   "headline": "Wall Street abre media sesión hoy: cierre a la 1pm ET tras Thanksgiving",
+   "headline_en": "Wall Street trades a half session today, closing at 1pm ET after Thanksgiving",
+   "source": "CNBC"
   },
   {
-   "headline": "Wall Street reabre hoy en sesión corta y cierra a la 1:00 p.m. ET",
-   "headline_en": "Wall Street reopens today for a shortened session, closing at 1:00 p.m. ET",
-   "source": "NYSE"
+   "headline": "Pekín despliega al equipo nacional y las acciones chinas de chips se disparan",
+   "headline_en": "Beijing unleashes the national team as Chinese chip stocks surge",
+   "source": "ZeroHedge"
   },
   {
-   "headline": "Las bolsas de Asia suben con fuerza: Shanghái +3.7% y KOSPI +4.3%",
-   "headline_en": "Asian markets rally: Shanghai up 3.7% and KOSPI up 4.3%",
-   "source": "AP"
-  },
-  {
-   "headline": "El petróleo sube hacia $98 por tensiones geopolíticas; el oro rebota casi 5% desde su mínimo de 14 meses",
-   "headline_en": "Oil climbs toward $98 on geopolitical tensions; gold rebounds nearly 5% from 14-month low",
+   "headline": "El oro rebota con fuerza desde su mínimo de 14 meses",
+   "headline_en": "Gold rebounds sharply from a 14-month low",
    "source": "Investing.com"
   },
   {
-   "headline": "Black Friday: se esperan $12,900 millones en ventas en línea en EE. UU., un 9.2% más",
-   "headline_en": "Black Friday: $12.9 billion in U.S. online spending expected, up 9.2%",
-   "source": "Adobe"
+   "headline": "El petróleo sube hacia 98 dólares por las tensiones geopolíticas y los ataques con drones",
+   "headline_en": "Oil climbs toward $98 on geopolitical tensions and drone attacks",
+   "source": "Investing.com"
+  },
+  {
+   "headline": "El mercado descuenta casi 100% una subida de la Fed de 25 puntos en diciembre",
+   "headline_en": "Market prices a near-100% chance of a 25bp Fed hike in December",
+   "source": "CNBC"
   }
  ],
  "ultima_hora": {
-  "headline": "Trump exige investigar el PIB: dice que las cifras previas a las elecciones eran 'FALSAS' y el error fue 'masivo y deliberado'",
-  "headline_en": "Trump demands probe of GDP data, calling pre-election figures 'FAKE' and the error 'massive and purposeful'",
-  "source": "Reuters",
+  "headline": "Trump exige investigar la revisión del PIB: la llama un error récord",
+  "headline_en": "Trump demands probe into GDP revision, calling it a record-setting error",
+  "source": "CNBC",
   "image": "",
   "images": [
-   "https://boripropdeals.github.io/breaking-visuals/trump-pib-investigacion-casa-blanca-2026-11-26.jpg",
-   "https://boripropdeals.github.io/breaking-visuals/trump-pib-investigacion-capitolio-2026-11-26.jpg",
-   "https://boripropdeals.github.io/breaking-visuals/trump-pib-investigacion-mercados-2026-11-26.jpg"
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-27-trump-gdp-probe-capitol.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-27-trump-gdp-probe-charts.jpg",
+   "https://boripropdeals.github.io/breaking-visuals/2026-11-27-trump-gdp-probe-whitehouse.jpg"
   ]
  }
 }
