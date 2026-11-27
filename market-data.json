@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T20:02:35.602711+00:00",
+ "updated_at": "2026-11-27T20:03:35.227188+00:00",
  "nq": {
   "price": 26765.0,
   "change_points": 664.75,
@@ -17,34 +17,34 @@
  },
  "headlines": [
   {
-   "headline": "El Nasdaq cierra con +2.3% y el Dow firma su mejor semana desde 2022 tras el desplome por los aranceles",
-   "headline_en": "Nasdaq closes up 2.3% and Dow posts best week since 2022 after tariff-driven sell-off",
+   "headline": "Wall Street rebota con fuerza: el Nasdaq sube 2.31% y el Dow marca su mejor semana desde 2022",
+   "headline_en": "Wall Street rebounds sharply: Nasdaq jumps 2.31% and Dow posts best week since 2022",
    "source": "Investopedia"
   },
   {
-   "headline": "Amazon sube casi 4% impulsada por la fuerte demanda del Black Friday",
-   "headline_en": "Amazon climbs nearly 4% on strong Black Friday demand",
+   "headline": "Amazon sube casi 4% por la fuerte demanda del Black Friday",
+   "headline_en": "Amazon jumps nearly 4% on strong Black Friday demand",
    "source": "The Motley Fool"
   },
   {
-   "headline": "Micron y Marvell saltan más de 7% y lideran el rebote de las acciones de IA",
-   "headline_en": "Micron and Marvell jump over 7% to lead the AI stock rebound",
+   "headline": "Las acciones de chips se disparan: Micron y Marvell suben más de 7%; AMD e Intel cerca de 5%",
+   "headline_en": "Chip stocks surge: Micron and Marvell jump over 7%; AMD and Intel up nearly 5%",
    "source": "Investopedia"
   },
   {
-   "headline": "Bitcoin repunta 2.5% y ronda los $62,000 tras la pausa de Thanksgiving",
-   "headline_en": "Bitcoin rebounds 2.5% to near $62,000 after the Thanksgiving break",
-   "source": "TradingView"
+   "headline": "El Nasdaq gana 6.7% en la semana y recupera gran parte de las pérdidas por la IA",
+   "headline_en": "Nasdaq gains 6.7% on the week, recouping much of the AI-driven losses",
+   "source": "Investopedia"
   },
   {
-   "headline": "El mercado descuenta casi seguro un alza de 25 puntos base de la Fed en diciembre",
-   "headline_en": "Traders price a near-certain 25-basis-point Fed rate hike in December",
+   "headline": "Los operadores descuentan casi al 100% una subida de tipos de la Fed en diciembre",
+   "headline_en": "Traders price in a near-100% chance of a Fed rate hike in December",
    "source": "CNBC"
   },
   {
-   "headline": "Vertex cae 7.5% después de que la FDA extendiera la revisión de su fármaco renal",
-   "headline_en": "Vertex falls 7.5% after FDA extends review of its kidney-disease drug",
-   "source": "Reuters"
+   "headline": "Bitcoin rebota 2.5% y ronda los $62,000 tras el vencimiento de opciones por $6,700 millones",
+   "headline_en": "Bitcoin rebounds 2.5% to near $62,000 as $6.7B in options expire",
+   "source": "TradingView"
   }
  ],
  "ultima_hora": {
