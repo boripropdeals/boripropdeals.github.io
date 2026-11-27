@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-11-27T17:02:34.462136+00:00",
+ "updated_at": "2026-11-27T17:02:50.908606+00:00",
  "nq": {
-  "price": 26668.5,
-  "change_points": 568.25,
-  "percent_change": 2.18
+  "price": 26663.0,
+  "change_points": 562.75,
+  "percent_change": 2.16
  },
  "gold": {
-  "price": 3658.9,
-  "change_points": 123.1,
-  "percent_change": 3.48
+  "price": 3658.4,
+  "change_points": 122.6,
+  "percent_change": 3.47
  },
  "oil": {
-  "price": 82.8,
-  "change_points": -0.88,
-  "percent_change": -1.05
+  "price": 82.81,
+  "change_points": -0.87,
+  "percent_change": -1.04
  },
  "headlines": [
   {
-   "headline": "El Nasdaq rebota con fuerza en el Black Friday: los futuros suben casi 3% tras el desplome del miércoles",
-   "headline_en": "Nasdaq futures jump nearly 3% in Black Friday tech rebound after Wednesday’s plunge",
-   "source": "CNBC"
+   "headline": "Futuros del Nasdaq suben casi 3% en la sesión corta de Black Friday",
+   "headline_en": "Nasdaq futures jump nearly 3% into shortened Black Friday session",
+   "source": "TipRanks"
   },
   {
-   "headline": "El oro recupera los $3,600 y la plata sube más de 5% tras la caída de la semana",
-   "headline_en": "Gold rebounds above $3,600 and silver jumps over 5% after this week’s slide",
-   "source": "ATFX"
-  },
-  {
-   "headline": "El mercado descuenta casi al 100% una subida de tipos de la Fed en diciembre",
-   "headline_en": "Traders price a near-certain Fed rate hike in December as 10-year yield hits 4.918%",
-   "source": "CNBC"
-  },
-  {
-   "headline": "El gasto online del Black Friday podría llegar a $12,900 millones, un 9.2% más que en 2025",
-   "headline_en": "Black Friday online spending projected at $12.9 billion, up 9.2% year over year",
+   "headline": "El gasto de Black Friday se proyecta en $12,900 millones, un 9.2% más que el año pasado",
+   "headline_en": "Black Friday spending projected at $12.9 billion, up 9.2% year over year",
    "source": "Adobe Analytics"
   },
   {
-   "headline": "Las acciones chinas de chips se disparan con el respaldo del ‘equipo nacional’ de Pekín",
-   "headline_en": "Chinese chip stocks surge as Beijing unleashes the ‘National Team’",
-   "source": "ZeroHedge"
+   "headline": "El déficit comercial de bienes de EE.UU. se amplía a $149,500 millones en octubre",
+   "headline_en": "U.S. goods trade deficit widens to $149.5 billion in October",
+   "source": "Zacks"
   },
   {
-   "headline": "Nvidia frena los envíos de servidores con sus chips a Malasia, Singapur, Tailandia e Indonesia",
-   "headline_en": "Nvidia halts server shipments with its chips to Malaysia, Singapore, Thailand and Indonesia",
-   "source": "Financial Times"
+   "headline": "El oro rebota por encima de $3,600 mientras el Nasdaq 100 se recupera",
+   "headline_en": "Gold rebounds above $3,600 as Nasdaq 100 recovers",
+   "source": "ATFX"
+  },
+  {
+   "headline": "La Fed casi seguro subirá las tasas 25 puntos base en diciembre, con 99.4% de probabilidad",
+   "headline_en": "Fed almost certain to hike rates 25 basis points in December, at 99.4% odds",
+   "source": "CME FedWatch"
+  },
+  {
+   "headline": "El Nasdaq cerró el miércoles con una remontada histórica tras caer 4.6% intradía",
+   "headline_en": "Nasdaq staged a historic Wednesday reversal after a 4.6% intraday plunge",
+   "source": "ZeroHedge"
   }
  ],
  "ultima_hora": {
