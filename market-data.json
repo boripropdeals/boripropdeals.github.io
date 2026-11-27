@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T21:34:31.766549+00:00",
+ "updated_at": "2026-11-27T21:35:57.700238+00:00",
  "nq": {
   "price": 26765.0,
   "change_points": 664.75,
@@ -17,34 +17,34 @@
  },
  "headlines": [
   {
-   "headline": "El Nasdaq rebota casi 2% en la sesión corta de Black Friday",
-   "headline_en": "Nasdaq rebounds nearly 2% in Black Friday half session",
+   "headline": "Las acciones tecnológicas rebotan y el Nasdaq sube casi 2% en la sesión corta del Black Friday",
+   "headline_en": "Tech stocks rebound as Nasdaq jumps nearly 2% in shortened Black Friday session",
    "source": "Motley Fool"
   },
   {
-   "headline": "Amazon sube por la fuerte demanda del Black Friday",
-   "headline_en": "Amazon climbs on strong Black Friday demand",
-   "source": "Motley Fool"
+   "headline": "El gasto en línea del Black Friday alcanzaría $12,900 millones, un 9.2% más que el año pasado",
+   "headline_en": "Black Friday online spending forecast at $12.9 billion, up 9.2% year over year",
+   "source": "Zacks"
   },
   {
-   "headline": "El PIB del tercer trimestre se revisa al alza hasta el 4,3%",
-   "headline_en": "Q3 GDP revised up to 4.3%",
-   "source": "Reuters"
+   "headline": "El PIB del tercer trimestre se revisa al alza a 4.3%, desde el 3.4% inicial",
+   "headline_en": "Q3 GDP revised higher to 4.3% from initial 3.4%",
+   "source": "TalkMarkets"
   },
   {
-   "headline": "SanDisk y Dell lideran el rebote de las acciones de IA",
-   "headline_en": "SanDisk and Dell lead the AI stock rebound",
-   "source": "Motley Fool"
+   "headline": "El déficit comercial de bienes de EE.UU. se amplía a -$149,500 millones en octubre",
+   "headline_en": "U.S. goods trade deficit widens to -$149.5 billion in October",
+   "source": "Zacks"
   },
   {
-   "headline": "El oro rebota por encima de los $3.600",
-   "headline_en": "Gold rebounds above $3,600",
-   "source": "ATFX"
-  },
-  {
-   "headline": "Los futuros del Nasdaq suben casi 3% antes de la apertura",
-   "headline_en": "Nasdaq futures jump nearly 3% premarket",
+   "headline": "El petróleo cerca de máximos mensuales por ataques a infraestructura saudí y tensión en Ormuz",
+   "headline_en": "Oil nears monthly highs on Saudi energy attacks and Hormuz tensions",
    "source": "TipRanks"
+  },
+  {
+   "headline": "Nvidia pausa envíos de chips al sudeste asiático en pleno rebote de la IA",
+   "headline_en": "Nvidia pauses chip shipments to Southeast Asia amid AI rebound",
+   "source": "Motley Fool"
   }
  ],
  "ultima_hora": {
