@@ -1,50 +1,50 @@
 {
- "updated_at": "2026-11-27T16:32:35.855471+00:00",
+ "updated_at": "2026-11-27T16:33:30.314621+00:00",
  "nq": {
-  "price": 26542.5,
-  "change_points": 442.25,
-  "percent_change": 1.69
+  "price": 26549.25,
+  "change_points": 449.0,
+  "percent_change": 1.72
  },
  "gold": {
-  "price": 3647.8,
-  "change_points": 112.0,
-  "percent_change": 3.17
+  "price": 3650.7,
+  "change_points": 114.9,
+  "percent_change": 3.25
  },
  "oil": {
-  "price": 83.45,
-  "change_points": -0.23,
-  "percent_change": -0.27
+  "price": 83.25,
+  "change_points": -0.43,
+  "percent_change": -0.51
  },
  "headlines": [
   {
-   "headline": "Los futuros del Nasdaq suben casi 3% por el rebote de la IA tras Acción de Gracias",
-   "headline_en": "Nasdaq futures surge nearly 3% as AI trade rebounds after Thanksgiving",
-   "source": "Reuters"
+   "headline": "El Nasdaq rebota con fuerza en el Black Friday: los futuros suben casi 3% tras el desplome del miércoles",
+   "headline_en": "Nasdaq futures jump nearly 3% in Black Friday tech rebound after Wednesday’s plunge",
+   "source": "CNBC"
   },
   {
-   "headline": "Nvidia lidera el rebote con +4,7% en preapertura; AMD y Broadcom también suben",
-   "headline_en": "Nvidia leads the rebound, up 4.7% premarket; AMD and Broadcom climb too",
-   "source": "Reuters"
+   "headline": "El oro recupera los $3,600 y la plata sube más de 5% tras la caída de la semana",
+   "headline_en": "Gold rebounds above $3,600 and silver jumps over 5% after this week’s slide",
+   "source": "ATFX"
   },
   {
-   "headline": "Sesión corta de Black Friday: Wall Street cierra a la 1:00 p.m. ET",
-   "headline_en": "Shortened Black Friday session: Wall Street closes at 1:00 p.m. ET",
-   "source": "TipRanks"
+   "headline": "El mercado descuenta casi al 100% una subida de tipos de la Fed en diciembre",
+   "headline_en": "Traders price a near-certain Fed rate hike in December as 10-year yield hits 4.918%",
+   "source": "CNBC"
   },
   {
-   "headline": "La Fed: el mercado descuenta casi seguro una subida de 25 puntos en diciembre; el bono a 10 años en 4,918%",
-   "headline_en": "Fed: markets price a near-certain 25bp hike in December; 10-year yield at 4.918%",
-   "source": "FinanceFeeds"
+   "headline": "El gasto online del Black Friday podría llegar a $12,900 millones, un 9.2% más que en 2025",
+   "headline_en": "Black Friday online spending projected at $12.9 billion, up 9.2% year over year",
+   "source": "Adobe Analytics"
   },
   {
-   "headline": "Nvidia ordena frenar envíos de servidores con sus chips a Malasia, Singapur, Tailandia e Indonesia",
-   "headline_en": "Nvidia instructs partners to halt shipments of chip servers to Malaysia, Singapore, Thailand and Indonesia",
-   "source": "TradingView"
+   "headline": "Las acciones chinas de chips se disparan con el respaldo del ‘equipo nacional’ de Pekín",
+   "headline_en": "Chinese chip stocks surge as Beijing unleashes the ‘National Team’",
+   "source": "ZeroHedge"
   },
   {
-   "headline": "Bitcoin rebota 2,5% hasta cerca de $62.000 al expirar $6.700 millones en opciones",
-   "headline_en": "Bitcoin rebounds 2.5% to near $62,000 as $6.7 billion in options expire",
-   "source": "TradingView"
+   "headline": "El petróleo rebota hasta $98 por las tensiones en Asia Occidental y los ataques con drones",
+   "headline_en": "Crude oil rebounds to $98 on West Asia tensions and drone attacks",
+   "source": "Upstox"
   }
  ],
  "ultima_hora": {
