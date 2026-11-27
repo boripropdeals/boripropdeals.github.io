@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T20:32:32.404162+00:00",
+ "updated_at": "2026-11-27T20:32:47.833710+00:00",
  "nq": {
   "price": 26765.0,
   "change_points": 664.75,
@@ -17,34 +17,34 @@
  },
  "headlines": [
   {
-   "headline": "Wall Street rebota con fuerza: el Nasdaq sube 2.31% y el Dow marca su mejor semana desde 2022",
-   "headline_en": "Wall Street rebounds sharply: Nasdaq jumps 2.31% and Dow posts best week since 2022",
-   "source": "Investopedia"
-  },
-  {
-   "headline": "Amazon sube casi 4% por la fuerte demanda del Black Friday",
-   "headline_en": "Amazon jumps nearly 4% on strong Black Friday demand",
+   "headline": "Wall Street rebota en la sesión corta de Black Friday: el Nasdaq sube más de 2% y el S&P 500 gana 1.6%",
+   "headline_en": "Wall Street rebounds in shortened Black Friday session: Nasdaq up over 2%, S&P 500 gains 1.6%",
    "source": "The Motley Fool"
   },
   {
-   "headline": "Las acciones de chips se disparan: Micron y Marvell suben más de 7%; AMD e Intel cerca de 5%",
-   "headline_en": "Chip stocks surge: Micron and Marvell jump over 7%; AMD and Intel up nearly 5%",
-   "source": "Investopedia"
+   "headline": "Black Friday: se prevén $12,900 millones en ventas en línea, un 9.2% más que el año pasado",
+   "headline_en": "Black Friday online spending projected at $12.9 billion, up 9.2% year over year",
+   "source": "Adobe Analytics"
   },
   {
-   "headline": "El Nasdaq gana 6.7% en la semana y recupera gran parte de las pérdidas por la IA",
-   "headline_en": "Nasdaq gains 6.7% on the week, recouping much of the AI-driven losses",
-   "source": "Investopedia"
+   "headline": "El PIB de EE.UU. del tercer trimestre se revisa al alza a 4.3%",
+   "headline_en": "U.S. third-quarter GDP revised higher to 4.3%",
+   "source": "The Motley Fool"
   },
   {
-   "headline": "Los operadores descuentan casi al 100% una subida de tipos de la Fed en diciembre",
-   "headline_en": "Traders price in a near-100% chance of a Fed rate hike in December",
-   "source": "CNBC"
+   "headline": "SanDisk se dispara 16% y Dell sube 6.7% en el rebote de las acciones de IA",
+   "headline_en": "SanDisk jumps 16% and Dell climbs 6.7% in AI stock rebound",
+   "source": "The Motley Fool"
   },
   {
-   "headline": "Bitcoin rebota 2.5% y ronda los $62,000 tras el vencimiento de opciones por $6,700 millones",
-   "headline_en": "Bitcoin rebounds 2.5% to near $62,000 as $6.7B in options expire",
-   "source": "TradingView"
+   "headline": "El petróleo Brent roza los $97 por las tensiones en el estrecho de Ormuz",
+   "headline_en": "Brent crude nears $97 on Strait of Hormuz tensions",
+   "source": "TalkMarkets"
+  },
+  {
+   "headline": "El déficit comercial de bienes de EE.UU. se amplía a $149,500 millones en octubre",
+   "headline_en": "U.S. goods trade deficit widens to $149.5 billion in October",
+   "source": "Zacks"
   }
  ],
  "ultima_hora": {
