@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T22:30:32.826230+00:00",
+ "updated_at": "2026-11-27T22:32:23.617431+00:00",
  "nq": {
   "price": 26765.0,
   "change_points": 664.75,
@@ -17,29 +17,34 @@
  },
  "headlines": [
   {
-   "headline": "Wall Street cierra con fuerte alza: el Nasdaq sube 2.3% y el Dow registra su mejor semana desde 2022",
-   "headline_en": "Wall Street ends higher: Nasdaq jumps 2.3% as Dow posts best week since 2022",
+   "headline": "Nasdaq sube 2.31% y cierra su mejor semana desde agosto: las acciones de IA se recuperan tras la caída",
+   "headline_en": "Nasdaq jumps 2.31% and posts its best week since August as AI stocks rebound after the sell-off",
    "source": "Investopedia"
   },
   {
-   "headline": "Las acciones de chips se disparan: Micron y Marvell suben mas del 7%, Intel y AMD cerca del 5%",
-   "headline_en": "Chip stocks surge: Micron and Marvell jump over 7%, Intel and AMD gain nearly 5%",
-   "source": "The Motley Fool"
+   "headline": "Dow sube casi 600 puntos y logra su mejor semana desde 2022",
+   "headline_en": "Dow climbs nearly 600 points and posts its best week since 2022",
+   "source": "Investopedia"
   },
   {
-   "headline": "Amazon sube casi 4% por la fuerte demanda del Black Friday",
+   "headline": "Amazon gana casi 4% impulsada por las fuertes ventas del Black Friday",
    "headline_en": "Amazon climbs nearly 4% on strong Black Friday demand",
-   "source": "The Motley Fool"
+   "source": "Motley Fool"
   },
   {
-   "headline": "Sesion corta tras Accion de Gracias: oro, plata y Bitcoin tambien suben en el rebote",
-   "headline_en": "Short post-Thanksgiving session: gold, silver and Bitcoin also rise in the rebound",
+   "headline": "Nvidia cierra en verde pese a reportes de que frenaría pedidos de chips a países del sudeste asiático",
+   "headline_en": "Nvidia finishes higher despite reports it would halt chip orders to some Southeast Asian countries",
+   "source": "Motley Fool"
+  },
+  {
+   "headline": "Bitcoin sube 2.5% y ronda los $62,000 mientras oro y plata también repuntan",
+   "headline_en": "Bitcoin rises 2.5% to near $62,000 as gold and silver also surge",
    "source": "TradingView"
   },
   {
-   "headline": "La Fed sigue en el centro: el mercado descuenta casi un 100% de probabilidad de subida de tasas en diciembre",
-   "headline_en": "Fed stays in focus: traders price in a near-100% chance of a December rate hike",
-   "source": "CNBC"
+   "headline": "Vertex cae 7.5% tras la FDA ampliar la revisión de su fármaco para enfermedad renal",
+   "headline_en": "Vertex falls 7.5% after FDA extends review of its kidney-disease drug",
+   "source": "Reuters"
   }
  ],
  "ultima_hora": {
