@@ -1,49 +1,49 @@
 {
- "updated_at": "2026-11-27T13:32:35.432847+00:00",
+ "updated_at": "2026-11-27T13:33:34.726662+00:00",
  "nq": {
-  "price": 26710.25,
-  "change_points": 434.5,
-  "percent_change": 1.65
+  "price": 26704.5,
+  "change_points": 428.75,
+  "percent_change": 1.63
  },
  "gold": {
-  "price": 3674.4,
-  "change_points": 112.5,
-  "percent_change": 3.16
+  "price": 3672.5,
+  "change_points": 110.6,
+  "percent_change": 3.11
  },
  "oil": {
-  "price": 84.84,
-  "change_points": 2.79,
-  "percent_change": 3.4
+  "price": 84.78,
+  "change_points": 2.73,
+  "percent_change": 3.33
  },
  "headlines": [
   {
-   "headline": "Los futuros suben con fuerza en el Black Friday: el Nasdaq avanza 2.5% y el S&P 500 1.8% tras el feriado",
-   "headline_en": "Futures surge on Black Friday: Nasdaq up 2.5%, S&P 500 up 1.8% after the holiday",
+   "headline": "Los futuros de EE. UU. suben fuerte en el Black Friday y el Nasdaq lidera el rebote tras el feriado",
+   "headline_en": "U.S. futures surge on Black Friday as Nasdaq leads the rebound after Thanksgiving",
    "source": "Reuters"
   },
   {
-   "headline": "Nvidia sube 4.7% en premarket y AMD 7%: las acciones de IA lideran el rebote tras la caída del miércoles",
-   "headline_en": "Nvidia jumps 4.7% premarket, AMD up 7% as AI stocks lead the rebound after the Wednesday drop",
+   "headline": "Las acciones de IA y chips rebotan: Nvidia sube 4.7% en preapertura y AMD 7%",
+   "headline_en": "AI and chip stocks rebound: Nvidia up 4.7% premarket, AMD up 7%",
    "source": "Reuters"
   },
   {
-   "headline": "Miércoles salvaje: el Nasdaq cayó más de 4% intradía y recuperó para cerrar con solo -0.6%",
-   "headline_en": "Wild Wednesday: Nasdaq fell over 4% intraday, then recovered to close down just 0.6%",
-   "source": "Zacks"
+   "headline": "Wall Street reabre hoy en sesión corta y cierra a la 1:00 p.m. ET",
+   "headline_en": "Wall Street reopens today for a shortened session, closing at 1:00 p.m. ET",
+   "source": "NYSE"
   },
   {
-   "headline": "El oro rebota desde su mínimo de 14 meses y la plata sube 7% por encima de $44",
-   "headline_en": "Gold rebounds from a 14-month low; silver jumps 7% above $44",
+   "headline": "Las bolsas de Asia suben con fuerza: Shanghái +3.7% y KOSPI +4.3%",
+   "headline_en": "Asian markets rally: Shanghai up 3.7% and KOSPI up 4.3%",
+   "source": "AP"
+  },
+  {
+   "headline": "El petróleo sube hacia $98 por tensiones geopolíticas; el oro rebota casi 5% desde su mínimo de 14 meses",
+   "headline_en": "Oil climbs toward $98 on geopolitical tensions; gold rebounds nearly 5% from 14-month low",
    "source": "Investing.com"
   },
   {
-   "headline": "El petróleo sube cerca de 3% (WTI ~$86) antes de la reunión de la OPEP+ del domingo",
-   "headline_en": "Oil climbs nearly 3% (WTI near $86) ahead of Sunday's OPEC+ meeting",
-   "source": "TipRanks"
-  },
-  {
-   "headline": "Black Friday: Adobe prevé $12,900 millones en ventas en línea en EE. UU., un 9.2% más",
-   "headline_en": "Black Friday: Adobe forecasts $12.9 billion in U.S. online sales, up 9.2%",
+   "headline": "Black Friday: se esperan $12,900 millones en ventas en línea en EE. UU., un 9.2% más",
+   "headline_en": "Black Friday: $12.9 billion in U.S. online spending expected, up 9.2%",
    "source": "Adobe"
   }
  ],
