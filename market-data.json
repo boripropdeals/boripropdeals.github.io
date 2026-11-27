@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-27T12:02:36.966149+00:00",
+ "updated_at": "2026-11-27T12:02:50.397996+00:00",
  "nq": {
-  "price": 26598.5,
-  "change_points": 322.75,
-  "percent_change": 1.23
+  "price": 26610.0,
+  "change_points": 334.25,
+  "percent_change": 1.27
  },
  "gold": {
-  "price": 3696.2,
-  "change_points": 134.3,
-  "percent_change": 3.77
+  "price": 3696.8,
+  "change_points": 134.9,
+  "percent_change": 3.79
  },
  "oil": {
   "price": 85.26,
@@ -17,34 +17,34 @@
  },
  "headlines": [
   {
-   "headline": "Mercados de EE.UU. cerrados por Acción de Gracias; los futuros apuntan al alza",
-   "headline_en": "U.S. markets closed for Thanksgiving; futures point higher into Black Friday",
-   "source": "Morningstar"
-  },
-  {
-   "headline": "Remontada histórica del Nasdaq: cayó hasta 4.6% intradía y cerró solo 0.6% abajo",
-   "headline_en": "Historic Nasdaq comeback: fell as much as 4.6% intraday, closed just 0.6% lower",
-   "source": "Morningstar"
-  },
-  {
-   "headline": "Trump propone nuevos aranceles a China y la UE entre 14 socios; no se suman a los vigentes",
-   "headline_en": "Trump administration proposes new tariffs on China, EU and 12 other partners; duties replace rather than add to existing ones",
+   "headline": "Futuros de Wall Street se disparan antes del Black Friday: el Nasdaq sube cerca de 2.5% y el S&P 500, 1.8%",
+   "headline_en": "Wall Street futures surge before the Black Friday open: Nasdaq up about 2.5%, S&P 500 up 1.8%",
    "source": "Reuters"
   },
   {
-   "headline": "El petróleo se mantiene elevado por los ataques hutíes a puertos saudíes del Mar Rojo",
-   "headline_en": "Oil holds near highs as Houthi strikes on Saudi Red Sea ports lift supply fears",
-   "source": "Morningstar"
+   "headline": "Miércoles salvaje en Wall Street: el Nasdaq cayó más de 4% intradía y recuperó casi todo; el Dow cerró al alza",
+   "headline_en": "Wild Wednesday on Wall Street: Nasdaq fell more than 4% intraday, then recovered nearly all losses; Dow closed higher",
+   "source": "Investor's Business Daily"
   },
   {
-   "headline": "S&P pone en vigilancia negativa la calificación AA de Nvidia por la crisis de gobierno",
-   "headline_en": "S&P puts Nvidia's AA rating on CreditWatch negative over governance concerns",
-   "source": "Reuters"
+   "headline": "Sesión corta hoy: la Bolsa de Nueva York cierra a la 1 p.m. ET; se esperan 12,900 millones de dólares en ventas online de Black Friday",
+   "headline_en": "Short session today: NYSE closes at 1 p.m. ET; $12.9 billion in online Black Friday sales expected",
+   "source": "Barron's"
   },
   {
-   "headline": "Las bolsas globales suben: el Stoxx 600 gana 1.7% y el Nikkei 0.9%",
-   "headline_en": "Global stocks rally: Stoxx 600 up 1.7%, Nikkei up 0.9%",
-   "source": "Morningstar"
+   "headline": "El oro rebota con fuerza desde su mínimo de 14 meses; el petróleo sube cerca de 2% antes de la reunión de la OPEP+ del domingo",
+   "headline_en": "Gold rebounds sharply from a 14-month low; oil rises about 2% ahead of the OPEC+ meeting on Sunday",
+   "source": "Investing.com"
+  },
+  {
+   "headline": "Nvidia pasó de caer 9.1% a cerrar con ganancia de 1.3% el miércoles tras el regreso de Jensen Huang como CEO",
+   "headline_en": "Nvidia swung from a 9.1% slide to a 1.3% gain on Wednesday after Jensen Huang returned as CEO",
+   "source": "MarketWatch"
+  },
+  {
+   "headline": "Rally global: el Stoxx 600 sube 1.8%, el DAX 2.2% y el Nikkei 0.9% tras la remontada de Wall Street",
+   "headline_en": "Global rally: Stoxx 600 up 1.8%, DAX up 2.2% and Nikkei up 0.9% after Wall Street's comeback",
+   "source": "Barron's"
   }
  ],
  "ultima_hora": {
