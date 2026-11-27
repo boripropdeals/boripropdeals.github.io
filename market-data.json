@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T19:34:34.399474+00:00",
+ "updated_at": "2026-11-27T19:36:01.987413+00:00",
  "nq": {
   "price": 26765.0,
   "change_points": 664.75,
@@ -11,35 +11,40 @@
   "percent_change": 3.75
  },
  "oil": {
-  "price": 83.01,
-  "change_points": -0.67,
-  "percent_change": -0.8
+  "price": 82.95,
+  "change_points": -0.73,
+  "percent_change": -0.87
  },
  "headlines": [
   {
-   "headline": "El Nasdaq rebota casi 2% en el Black Friday: la IA lidera la recuperación",
-   "headline_en": "Nasdaq rebounds nearly 2% on Black Friday as AI leads the recovery",
-   "source": "The Motley Fool"
+   "headline": "El Nasdaq cierra con +2.3% y el Dow firma su mejor semana desde 2022 tras el desplome por los aranceles",
+   "headline_en": "Nasdaq closes up 2.3% and Dow posts best week since 2022 after tariff-driven sell-off",
+   "source": "Investopedia"
   },
   {
-   "headline": "El PIB del tercer trimestre se revisa al alza a 4.3%, señal de resiliencia económica",
-   "headline_en": "Q3 GDP revised up to 4.3%, underscoring economic resilience",
-   "source": "The Motley Fool"
-  },
-  {
-   "headline": "Amazon sube casi 4% por la fuerte demanda del Black Friday",
+   "headline": "Amazon sube casi 4% impulsada por la fuerte demanda del Black Friday",
    "headline_en": "Amazon climbs nearly 4% on strong Black Friday demand",
    "source": "The Motley Fool"
   },
   {
-   "headline": "Sandisk se dispara 16% y Dell 7%: el rally de la IA y la memoria lidera el día",
-   "headline_en": "Sandisk jumps 16% and Dell 7% as AI and memory stocks lead the rally",
-   "source": "The Motley Fool"
+   "headline": "Micron y Marvell saltan más de 7% y lideran el rebote de las acciones de IA",
+   "headline_en": "Micron and Marvell jump over 7% to lead the AI stock rebound",
+   "source": "Investopedia"
   },
   {
-   "headline": "La Fed casi seguro subirá tasas 25 puntos en diciembre; el bono a 10 años cerca de 4.9%",
-   "headline_en": "Fed almost certain to hike 25 bps in December; 10-year yield near 4.9%",
-   "source": "FinanceFeeds"
+   "headline": "Bitcoin repunta 2.5% y ronda los $62,000 tras la pausa de Thanksgiving",
+   "headline_en": "Bitcoin rebounds 2.5% to near $62,000 after the Thanksgiving break",
+   "source": "TradingView"
+  },
+  {
+   "headline": "El mercado descuenta casi seguro un alza de 25 puntos base de la Fed en diciembre",
+   "headline_en": "Traders price a near-certain 25-basis-point Fed rate hike in December",
+   "source": "CNBC"
+  },
+  {
+   "headline": "Vertex cae 7.5% después de que la FDA extendiera la revisión de su fármaco renal",
+   "headline_en": "Vertex falls 7.5% after FDA extends review of its kidney-disease drug",
+   "source": "Reuters"
   }
  ],
  "ultima_hora": {
