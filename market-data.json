@@ -1,19 +1,19 @@
 {
- "updated_at": "2026-11-27T16:34:38.346950+00:00",
+ "updated_at": "2026-11-27T16:36:02.930884+00:00",
  "nq": {
-  "price": 26554.5,
-  "change_points": 454.25,
-  "percent_change": 1.74
+  "price": 26569.25,
+  "change_points": 469.0,
+  "percent_change": 1.8
  },
  "gold": {
-  "price": 3649.1,
-  "change_points": 113.3,
-  "percent_change": 3.2
+  "price": 3650.5,
+  "change_points": 114.7,
+  "percent_change": 3.24
  },
  "oil": {
-  "price": 83.34,
-  "change_points": -0.34,
-  "percent_change": -0.41
+  "price": 83.3,
+  "change_points": -0.38,
+  "percent_change": -0.45
  },
  "headlines": [
   {
@@ -42,9 +42,9 @@
    "source": "ZeroHedge"
   },
   {
-   "headline": "El petróleo rebota hasta $98 por las tensiones en Asia Occidental y los ataques con drones",
-   "headline_en": "Crude oil rebounds to $98 on West Asia tensions and drone attacks",
-   "source": "Upstox"
+   "headline": "Nvidia frena los envíos de servidores con sus chips a Malasia, Singapur, Tailandia e Indonesia",
+   "headline_en": "Nvidia halts server shipments with its chips to Malaysia, Singapore, Thailand and Indonesia",
+   "source": "Financial Times"
   }
  ],
  "ultima_hora": {
