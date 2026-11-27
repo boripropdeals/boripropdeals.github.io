@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T19:02:32.230123+00:00",
+ "updated_at": "2026-11-27T19:02:54.162511+00:00",
  "nq": {
   "price": 26765.0,
   "change_points": 664.75,
@@ -11,40 +11,35 @@
   "percent_change": 3.75
  },
  "oil": {
-  "price": 82.89,
-  "change_points": -0.79,
-  "percent_change": -0.94
+  "price": 82.88,
+  "change_points": -0.8,
+  "percent_change": -0.96
  },
  "headlines": [
   {
-   "headline": "Wall Street sube en la sesión corta de Black Friday tras el feriado de Acción de Gracias",
-   "headline_en": "Wall Street rallies in shortened Black Friday session after Thanksgiving break",
-   "source": "Coinpaper"
+   "headline": "El Nasdaq rebota casi 2% en el Black Friday: la IA lidera la recuperación",
+   "headline_en": "Nasdaq rebounds nearly 2% on Black Friday as AI leads the recovery",
+   "source": "The Motley Fool"
   },
   {
-   "headline": "Nvidia, Micron y SanDisk lideran el rebote de los chips de IA",
-   "headline_en": "Nvidia, Micron and SanDisk lead the AI chip rebound",
-   "source": "StockMarketWatch"
+   "headline": "El PIB del tercer trimestre se revisa al alza a 4.3%, señal de resiliencia económica",
+   "headline_en": "Q3 GDP revised up to 4.3%, underscoring economic resilience",
+   "source": "The Motley Fool"
   },
   {
-   "headline": "La plata se dispara 6% y el oro vuelve por encima de los $3,600",
-   "headline_en": "Silver surges 6% as gold climbs back above $3,600",
-   "source": "StockMarketWatch"
+   "headline": "Amazon sube casi 4% por la fuerte demanda del Black Friday",
+   "headline_en": "Amazon climbs nearly 4% on strong Black Friday demand",
+   "source": "The Motley Fool"
   },
   {
-   "headline": "El gasto online de Black Friday se proyecta en $12,900 millones, un 9.2% más que en 2025",
-   "headline_en": "Black Friday online spending projected at $12.9 billion, up 9.2% from last year",
-   "source": "Adobe Analytics"
+   "headline": "Sandisk se dispara 16% y Dell 7%: el rally de la IA y la memoria lidera el día",
+   "headline_en": "Sandisk jumps 16% and Dell 7% as AI and memory stocks lead the rally",
+   "source": "The Motley Fool"
   },
   {
-   "headline": "El déficit comercial de EE.UU. se amplía a $149,500 millones en octubre",
-   "headline_en": "U.S. goods trade deficit widens to $149.5 billion in October",
-   "source": "Zacks"
-  },
-  {
-   "headline": "La próxima semana llega la semana de empleo: JOLTS, ADP y el reporte oficial",
-   "headline_en": "Next week brings Jobs Week: JOLTS, ADP payrolls and the Employment Situation report",
-   "source": "TradingView"
+   "headline": "La Fed casi seguro subirá tasas 25 puntos en diciembre; el bono a 10 años cerca de 4.9%",
+   "headline_en": "Fed almost certain to hike 25 bps in December; 10-year yield near 4.9%",
+   "source": "FinanceFeeds"
   }
  ],
  "ultima_hora": {
